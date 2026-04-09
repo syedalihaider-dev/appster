@@ -1,0 +1,116 @@
+.newTestiSec{
+    padding: 100px 0px;
+    background: #f7f7f7;
+    font-family: "Poppins", sans-serif;
+
+    .newTestiSecText{
+        text-align: center;
+        margin: 0px 0px 60px 0px;
+
+        h2{
+            color: #010101;
+        }
+        
+        p{
+            width: 78%;
+            margin: 0 auto;
+            font-size: 18px;
+            color: #010101;
+        }
+    }
+    .newTestiSecBox{
+        background-color: #010101;
+        box-shadow: 20.62px 23.57px 74.63px 0 rgba(0, 0, 0, .1215686275);
+        border: 0;
+        border-radius: 30px;
+        margin: 0 100px;
+        padding: 50px 50px 50px 70px;
+
+        .newTestiSliderAuthor{
+            img{
+                margin: 0px 0px 20px 0px;
+            }
+            h3{
+                font-size: 22px;
+                font-weight: 500;
+                line-height: 25px;
+                margin: 0;
+                color: #ffffff;
+
+                span{
+                    display: block;
+                    color: #f7f7f7;
+                    margin-top: 10px;
+                }
+            }
+        }
+        .newTestiSliderText{
+            p{
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 32px;
+                color: #eeeeee;
+                margin-bottom: 10px;
+            }
+        }
+    }
+}
+
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+    
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1399px) {
+    
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1299px) {
+    
+}
+
+@media only screen and (min-width: 900px) and (max-width:1099px) {
+    
+}
+
+@media only screen and (min-width: 600px) and (max-width:899px) {
+   
+}
+
+@media only screen and (min-width: 0px) and (max-width: 599px) {
+    .newTestiSec{
+    padding: 50px 0px;
+
+    .newTestiSecText{
+        margin: 0px 0px 40px 0px;
+
+        h2{
+            color: #010101;
+        }
+        
+        p{
+            width: 100%;
+            font-size: 16px;
+        }
+    }
+    .newTestiSecBox{
+        margin: 0 0px;
+        padding: 40px 30px 40px 30px;
+
+        .newTestiSliderAuthor{
+            img{
+                margin: 0px 0px 20px 0px;
+            }
+            h3{
+                font-size: 20px;
+
+            }
+        }
+        .newTestiSliderText{
+            p{
+                font-size: 16px;
+            }
+        }
+    }
+}
+}

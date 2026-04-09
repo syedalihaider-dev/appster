@@ -1,0 +1,118 @@
+.newServiceSection{
+    background: #f7f7f7;
+    font-family: "Poppins", sans-serif;
+    padding: 100px 0px;
+
+    .newServiceSecText{
+        margin: 0px 0px 40px 0px;
+        h2{
+            color: #010101;
+            margin: 0px 0px 10px 0px;
+        }
+    }
+    .newServiceBox{
+        background-color: #010101;
+        padding: 75px 60px 70px 40px;
+        position: relative;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: .25s ease;
+        height: 520px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        &:hover{
+            padding: 0px 60px 70px 40px;
+        }
+
+        &::before{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url(/home/newService1.webp);
+            background-position: center;
+            background-size: cover;
+            z-index: -2;
+            transform: scale(1);
+            transition: .25s ease;
+            border-radius: 11px;
+        }
+        &:hover::before{
+            transform: scale(1.01);
+        }
+        &::after{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #010101;
+            z-index: -1;
+            transition: .25s ease;
+            border-radius: 11px;
+        }
+        &:hover::after{
+            opacity: 0;
+        }
+
+        .newServiceBoxIcon{
+            margin: 0px 0px 20px 0px;
+        }
+        &:hover .newServiceBoxIcon{
+            opacity: 0;
+        }
+        .newServiceBoxText{
+            h3{
+                line-height: 1.1;
+                transition: 0.25s ease;
+                height: 88px;
+                font-size: 35px;
+                color: #ffffff;
+                font-weight: 600;
+            }
+            p{
+                transition: .25s ease;
+                color: #ffffff;
+            }
+        }
+        &:hover .newServiceBoxText{
+            h3{
+                color: #ffffff;
+            }
+            p{
+                color: #ffffff;
+            }
+        }
+        .newServiceBoxBtn{
+            a{
+                i{
+                    position: absolute;
+                    bottom: 28px;
+                    right: 38px;
+                    color: #585858;
+                    font-size: 25px;
+                    z-index: 2;
+                    transition: .25s ease;
+                }
+            }
+        }
+        &:hover .newServiceBoxBtn{
+            a{
+                i{
+                    color: #ffffff;
+                    transform: rotate(35deg);
+                }
+            }
+        }
+    }
+    .newServiceSecBtn{
+        display: flex;
+        justify-content: center;
+        margin: 50px 0px 0px 0px;
+    }
+}

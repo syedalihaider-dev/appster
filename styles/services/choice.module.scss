@@ -1,0 +1,102 @@
+.choiceSection{
+    padding: 100px 0px 100px 0px;
+
+    .choiceSecText{
+        text-align: center;
+
+        h2{
+            width: 70%;
+            margin: 0 auto 20px auto;
+        }
+        p{
+            width: 65%;
+            margin: 0 auto;
+        }
+    }
+    .choiceSecBox{
+        display: flex;
+        padding: 20px 0px 20px 18px;
+        align-items: center;
+        position: relative;
+        border-radius: 10px;
+        max-width: 90%;
+        height: 90%;
+        background-color: #010101;
+        margin: 0px 0px 20px 0px;
+
+        .choiceSecBoxIcon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 90px;
+            height: 90px;
+            background-color: #e1f81c;
+            box-shadow: 0px 4px 20px 0px rgba(192, 192, 192, 0.27);
+            border-radius: 10px;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            right: -9%;
+            transition: .25s ease;
+
+            path{
+                transition: .25s ease;
+            }
+        }
+        p{
+            flex: 0 0 52%;
+            font-size: 16px;
+            text-align: right;
+            color: #ffffff;
+            margin: 0;
+        }
+        h3{
+            font-size: 18px;
+            line-height: 22px;
+            color: #e1f81c;
+            text-align: right;
+            flex: 0 0 30%;
+            padding-left: 30px;
+            margin: 0;
+        }
+        &:hover{
+            .choiceSecBoxIcon{
+                background-color: #010101;
+
+                path{
+                    fill: #e1f81c;
+                }
+            }
+        }
+    }
+    .choiceSecBoxes {
+        margin: 40px 0px 0px 0px;
+
+        :global(.row) {
+            :global(.col-lg-6:nth-child(even)) {
+                .choiceSecBox {
+                    padding: 42px 18px 42px 0;
+                    margin-left: auto;
+                    p{
+                        order: 2;
+                        text-align: left;
+                    }
+                    h3{
+                        order: 1;
+                        padding: 0;
+                        margin-left: auto;
+                        margin-right: 0;
+                        text-align: left;
+                        padding-right: 10px;
+                    }
+
+                    .choiceSecBoxIcon{
+                        left: -9%;
+                        right: unset;
+                    }
+                }
+            }
+        }
+    }
+
+}

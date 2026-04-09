@@ -1,0 +1,28 @@
+.ctaSection{
+    padding: 280px 0px 100px 0px;
+    
+    .ctaSectionMain{
+        background-color: #010101;
+        aspect-ratio: 2.614379085;
+        border-radius: 30px;
+        padding: 0 50px;
+        position: relative;
+        
+        .ctaSectionMainText{
+            
+            h2{
+                font-size: 52px;
+                color: #ffffff;
+            }
+            p{
+                font-size: 18px;
+                color: #ffffff;
+            }
+        }
+        .ctaSectionMainImg{
+            position: absolute;
+            bottom: 0;
+            right: 100px;
+        }
+    }
+}

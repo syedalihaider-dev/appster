@@ -1,0 +1,96 @@
+.costSec{
+    padding: 100px 0px;
+    background-color: #010101;
+
+    .costSecText{
+        text-align: center;
+
+        h2{
+            color: #ffffff;
+            margin: 0px 0px 10px 0px;
+        }
+        p{
+            color: #ffffff;
+            max-width: 900px;
+            margin: 0 auto 30px auto;
+        }
+        h4{
+            color: #ffffff;
+            margin: 0px 0px 50px 0px;
+        }
+    }
+    .card{
+        position: relative;
+        padding: 20px;
+        border: 0;
+        border-radius: 10px;
+        background-color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        word-wrap: break-word;
+        height: 100%;
+
+        .topLabel{
+            position: absolute;
+            top: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #e1f81c;
+            width: 80%;
+            border-radius: 10px;
+            font-size: 18px;
+            line-height: 46px;
+        }
+        .textCont{
+            margin: 30px 0px 0px 0px;
+
+            h3{
+                font-size: 28px;
+                font-weight: 600;
+                line-height: 48px;
+                color: #010101;
+                margin: 0px 0px 20px 0px;
+            }
+            p{
+                font-size: 16px;
+                font-weight: 400;
+                color: #7c7c7c;
+                line-height: 24px;
+            }
+        }
+    }
+    .box{
+        border-radius: 10px;
+        height: 100%;
+        background-color: #e1f81c;
+        padding: 16px;
+
+        .textContent{
+            margin: 15px 0px 0px;
+
+            p{
+                font-size: 18px;
+                font-weight: 500;
+                line-height: 24px;
+                color: #010101;
+            }
+            a{
+                color: #fff;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: .28px;
+                border-radius: 16px;
+                background: #010101;
+                padding: 12px 0;
+                text-decoration: none;
+                display: block;
+                text-align: center;
+            }
+        }
+    }
+}

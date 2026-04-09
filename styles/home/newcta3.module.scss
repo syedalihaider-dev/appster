@@ -1,0 +1,23 @@
+.NewCta3Section{
+    padding: 250px 0px 150px 0px;
+    position: relative;
+
+    .NewCta3SecMainText{
+        h2{
+            font-size: 50px;
+            line-height: 1.1;
+            margin: 0px 0px 20px 0px;
+            color: #010101;
+        }
+        p{
+            font-size: 18px;
+            line-height: 1.3;
+            color: #696969;
+        }
+    }
+    .NewCta3SecMainImg{
+        position: absolute;
+        right: 0px;
+        top: 0px;
+    }
+}
