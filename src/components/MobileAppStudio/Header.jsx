@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from './Header.module.css'
@@ -7,11 +7,25 @@ import { PHONE_NUMBER } from '@/src/app/app-constants'
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const [isSticky, setIsSticky] = useState(false)
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen)
 
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setIsSticky(true)
+      } else {
+        setIsSticky(false)
+      }
+    }
+
+    window.addEventListener('scroll', handleScroll)
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [])
+
   return (
-    <header className={styles.header}>
+    <header className={`${styles.header} ${isSticky ? styles.sticky : ''}`}>
       <div className='container'>
         <div className={styles.headerInner}>
           {/* Logo Column */}
@@ -73,12 +87,12 @@ const Header = () => {
           </div>
 
           <div className={styles.mobileContent}>
-            <Link href="#" onClick={toggleMenu}>Home</Link>
-            <Link href="#" onClick={toggleMenu}>About us</Link>
-            <Link href="#" onClick={toggleMenu}>Services</Link>
-            <Link href="#" onClick={toggleMenu}>Industries</Link>
-            <Link href="#" onClick={toggleMenu}>Portfolio</Link>
-            <Link href="#" onClick={toggleMenu}>Blog</Link>
+            <Link href="#banner" onClick={toggleMenu}>Home</Link>
+            <Link href="#leadingPartner" onClick={toggleMenu}>About us</Link>
+            <Link href="#services" onClick={toggleMenu}>Services</Link>
+            <Link href="#industries" onClick={toggleMenu}>Industries</Link>
+            <Link href="#portfolio" onClick={toggleMenu}>Portfolio</Link>
+            <Link href="#testimonials" onClick={toggleMenu}>Testimonials</Link>
             <div className={styles.mobFooter}>
               <a href="#contact" className={styles.workBtnMob} onClick={toggleMenu}>WORK WITH US</a>
             </div>

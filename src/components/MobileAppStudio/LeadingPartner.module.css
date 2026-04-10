@@ -44,21 +44,21 @@
 }
 
 .discoverBtn {
-    background: #EBEBEB;
+    background: #000;
     border: none;
     padding: 15px 40px;
     border-radius: 60px;
     font-family: var(--font-montserrat);
     font-weight: 600;
     font-size: 16px;
-    color: #111;
+    color: #fff;
     text-transform: uppercase;
     transition: 0.3s;
 }
 
 .discoverBtn:hover {
-    background: #150E60;
-    color: #fff;
+    background: #E1F81C;
+    color: #000;
 }
 
 .statsRow {

@@ -8,6 +8,7 @@ import { useRouter } from 'next/navigation'
 const Banner = () => {
     const router = useRouter();
     const [isSubmitting, setIsSubmitting] = useState(false);
+    const [selectedBudget, setSelectedBudget] = useState("");
     const [ipData, setIpData] = useState({
         ip: "Loading...",
         city: "",
@@ -16,17 +17,41 @@ const Banner = () => {
     });
 
     useEffect(() => {
-        fetch("https://ipapi.co/json/")
-            .then(res => res.json())
-            .then(data => {
+        const fetchIpData = async () => {
+            try {
+                // Try First Provider
+                const response = await fetch("https://ipapi.co/json/");
+                if (!response.ok) throw new Error("Primary IP API failed");
+                const data = await response.json();
                 setIpData({
-                    ip: data.ip,
-                    city: data.city,
-                    region: data.region,
-                    country: data.country_name
+                    ip: data.ip || "Unknown",
+                    city: data.city || "",
+                    region: data.region || "",
+                    country: data.country_name || ""
                 });
-            })
-            .catch(() => setIpData({ ip: "Unknown", city: "", region: "", country: "" }));
+            } catch (error) {
+                console.error("Primary IP API failed, trying fallback...", error);
+                try {
+                    // Try Second Provider (Fallback)
+                    const response = await fetch("https://ipwho.is/");
+                    const data = await response.json();
+                    if (data.success) {
+                        setIpData({
+                            ip: data.ip || "Unknown",
+                            city: data.city || "",
+                            region: data.region || "",
+                            country: data.country || ""
+                        });
+                    } else {
+                        throw new Error("Fallback IP API failed");
+                    }
+                } catch (fallbackError) {
+                    console.error("All IP APIs failed:", fallbackError);
+                    setIpData({ ip: "Unknown", city: "", region: "", country: "" });
+                }
+            }
+        };
+        fetchIpData();
     }, []);
 
     const handleSubmit = async (e) => {
@@ -38,6 +63,7 @@ const Banner = () => {
             name: formData.get("name"),
             email: formData.get("email"),
             phone: formData.get("phone"),
+            budget: selectedBudget,
             message: formData.get("message"),
             IP: ipData.ip,
             city: ipData.city,
@@ -86,10 +112,10 @@ const Banner = () => {
                                 Appsters builds the mobile apps and digital ecosystems that dominate today’s
                                 market and define tomorrow’s.
                             </p>
-                            <a href="#contact" className={styles.ctaBtn}>Let’s Build Your App</a>
+                            <a href="#contact" className={styles.ctaBtn}>Get Started</a>
 
                             <div className={styles.awards}>
-                                <Image src="/mobile-app-studio/clutch-award.png" alt="clutch" width={128} height={123} />
+                                <Image src="/mobile-app-studio/clutch-awards.png" alt="clutch" width={100} height={109} />
                                 <Image src="/mobile-app-studio/appfutura-award.png" alt="appfutura" width={123} height={105} />
                                 <Image src="/mobile-app-studio/goodfirms-award.png" alt="goodfirms" width={119} height={103} />
                             </div>
@@ -111,6 +137,21 @@ const Banner = () => {
                                 </div>
                                 <div className={styles.inputGroup}>
                                     <input type="tel" name="phone" placeholder="Phone Number*" required />
+                                </div>
+                                <div className={styles.inputGroup}>
+                                    <select 
+                                        name="budget" 
+                                        className={styles.selectInput} 
+                                        required 
+                                        value={selectedBudget}
+                                        onChange={(e) => setSelectedBudget(e.target.value)}
+                                    >
+                                        <option value="" disabled>Estimated Budget / Scope</option>
+                                        <option value="$3,000 to $5,000">$3,000 to $5,000</option>
+                                        <option value="$5,000 to $10,000">$5,000 to $10,000</option>
+                                        <option value="$10,000 to $25,000">$10,000 to $25,000</option>
+                                        <option value="$25,000 to $50,000">$25,000 to $50,000</option>
+                                    </select>
                                 </div>
                                 <div className={styles.inputGroup}>
                                     <textarea name="message" placeholder="Tell us about your Requirements*" rows="4" required></textarea>

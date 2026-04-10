@@ -57,6 +57,7 @@ const FormContent = () => {
     const router = useRouter();
     const [selectedService, setSelectedService] = useState("");
     const [selectedBudget, setSelectedBudget] = useState("");
+    const [customQuote, setCustomQuote] = useState("");
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [ipData, setIpData] = useState({
         ip: "Loading...",
@@ -66,21 +67,54 @@ const FormContent = () => {
     });
 
     useEffect(() => {
-        fetch("https://ipapi.co/json/")
-            .then(res => res.json())
-            .then(data => {
+        const fetchIpData = async () => {
+            try {
+                // Try First Provider
+                const response = await fetch("https://ipapi.co/json/");
+                if (!response.ok) throw new Error("Primary IP API failed");
+                const data = await response.json();
                 setIpData({
-                    ip: data.ip,
-                    city: data.city,
-                    region: data.region,
-                    country: data.country_name
+                    ip: data.ip || "Unknown",
+                    city: data.city || "",
+                    region: data.region || "",
+                    country: data.country_name || ""
                 });
-            })
-            .catch(() => setIpData({ ip: "Unknown", city: "", region: "", country: "" }));
+            } catch (error) {
+                console.error("Primary IP API failed, trying fallback...", error);
+                try {
+                    // Try Second Provider (Fallback)
+                    const response = await fetch("https://ipwho.is/");
+                    const data = await response.json();
+                    if (data.success) {
+                        setIpData({
+                            ip: data.ip || "Unknown",
+                            city: data.city || "",
+                            region: data.region || "",
+                            country: data.country || ""
+                        });
+                    } else {
+                        throw new Error("Fallback IP API failed");
+                    }
+                } catch (fallbackError) {
+                    console.error("All IP APIs failed:", fallbackError);
+                    setIpData({ ip: "Unknown", city: "", region: "", country: "" });
+                }
+            }
+        };
+        fetchIpData();
     }, []);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+
+        // Custom Quote Validation
+        if (selectedBudget.toLowerCase().includes("custom quote")) {
+            if (!customQuote || parseInt(customQuote) < 30000) {
+                alert("The minimum custom quote is $30,000. Please enter a valid amount.");
+                return;
+            }
+        }
+
         setIsSubmitting(true);
 
         const formData = new FormData(e.target);
@@ -90,6 +124,7 @@ const FormContent = () => {
             phone: formData.get("phone"),
             service: selectedService,
             budget: selectedBudget,
+            customQuote: selectedBudget.toLowerCase().includes("custom quote") ? customQuote : "",
             message: formData.get("message"),
             IP: ipData.ip,
             city: ipData.city,
@@ -169,7 +204,7 @@ const FormContent = () => {
                             value={selectedService}
                             onChange={(e) => {
                                 setSelectedService(e.target.value);
-                                setSelectedBudget(""); 
+                                setSelectedBudget("");
                             }}
                         >
                             <option value="" disabled>Select Services</option>
@@ -178,6 +213,8 @@ const FormContent = () => {
                             ))}
                         </select>
                     </div>
+                </div>
+                <div className="col-lg-6 mb">
                     <div className={styles.inputGroup}>
                         <label>Estimated Budget / Scope</label>
                         <select
@@ -192,15 +229,27 @@ const FormContent = () => {
                             ))}
                         </select>
                     </div>
-                </div>
-                <div className="col-lg-6">
+                    {selectedBudget.toLowerCase().includes("custom quote") && (
+                        <div className={styles.inputGroup}>
+                            <label>Custom Quote ($)</label>
+                            <input
+                                type="number"
+                                name="customQuote"
+                                required
+                                value={customQuote}
+                                onChange={(e) => setCustomQuote(e.target.value)}
+                                placeholder="Enter Custom Quote (Min $30,000)"
+                                min="30000"
+                            />
+                        </div>
+                    )}
                     <div className={`${styles.inputGroup} ${styles.textareaGroup}`}>
                         <label>Your Message</label>
                         <textarea name="message" placeholder="Type your query"></textarea>
                     </div>
                     <div className={styles.btnWrapper}>
-                        <button 
-                            type="submit" 
+                        <button
+                            type="submit"
                             className={styles.submitBtn}
                             disabled={isSubmitting}
                         >

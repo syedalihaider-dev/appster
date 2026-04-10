@@ -121,9 +121,9 @@
 }
 
 .learnBtn {
-    background: transparent;
-    border: 1px solid #4A78EF;
-    color: #fff;
+    background: #E1F81C;
+    border: 1px solid #E1F81C;
+    color: #000;
     padding: 15px 40px;
     border-radius: 60px;
     font-family: var(--font-montserrat);
@@ -131,11 +131,13 @@
     font-size: 16px;
     margin-left: 60px;
     transition: 0.3s;
-    background: rgba(66, 89, 239, 0.1);
+    /* background: rgba(66, 89, 239, 0.1); */
 }
 
 .learnBtn:hover {
-    background: #4A78EF;
+    background: #fff;
+    border: 1px solid #fff;
+    color: #000;
 }
 
 .imgPart {

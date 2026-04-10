@@ -56,11 +56,10 @@
 }
 
 .ctaBtn {
-    background: transparent;
-    color: #fff;
+    background: #E1F81C;
+    color: #000;
     border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 15px 40px;
-    color: #FFF;
     text-align: center;
     font-family: var(--font-montserrat);
     font-size: 18px;
@@ -69,7 +68,6 @@
     text-transform: uppercase;
     transition: 0.3s;
     border-radius: 60px;
-    background: rgba(204, 255, 0, 0.08);
 }
 
 .ctaBtn:hover {
@@ -81,6 +79,10 @@
     margin-top: 50px;
     display: flex;
     gap: 20px;
+}
+
+.awards img {
+    object-fit: contain;
 }
 
 .formCard {
@@ -133,7 +135,8 @@
 }
 
 .inputGroup input,
-.inputGroup textarea {
+.inputGroup textarea,
+.selectInput {
     width: 100%;
     height: 52px;
     padding: 15px 20px;
@@ -146,13 +149,23 @@
     color: #000;
 }
 
+.selectInput {
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+    background-size: 18px;
+}
+
 .inputGroup input::placeholder,
-.inputGroup textarea::placeholder {
+.inputGroup textarea::placeholder,
+.inputGroup .selectInput::placeholder {
     color: #111;
 }
 
 .inputGroup textarea {
-    height: 160px;
+    height: 80px;
     resize: none;
     border-radius: 20px;
 }
@@ -162,9 +175,18 @@
     outline: 2px solid #4A78EF;
 }
 
+.inputGroup input:-webkit-autofill,
+.inputGroup input:-webkit-autofill:hover,
+.inputGroup input:-webkit-autofill:focus,
+.inputGroup textarea:-webkit-autofill {
+    -webkit-text-fill-color: #000 !important;
+    -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
 .submitBtn {
     width: 264px;
-    background: #101FC4;
+    background: #000;
     color: #fff;
     border: none;
     padding: 15px;
@@ -177,7 +199,7 @@
 }
 
 .submitBtn:hover {
-    background: #4A78EF;
+    background: #101FC4;
     transform: translateY(-2px);
 }
 
@@ -301,7 +323,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 16px;
     }
 
@@ -372,7 +395,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 16px;
     }
 
@@ -426,7 +450,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 14px;
         height: 40px;
         padding: 10px 15px;
@@ -481,7 +506,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         border-radius: 4px;
     }
 

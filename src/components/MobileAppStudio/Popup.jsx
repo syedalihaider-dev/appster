@@ -24,17 +24,41 @@ const Popup = () => {
         }, 5000);
 
         // Fetch IP data
-        fetch("https://ipapi.co/json/")
-            .then(res => res.json())
-            .then(data => {
+        const fetchIpData = async () => {
+            try {
+                // Try First Provider
+                const response = await fetch("https://ipapi.co/json/");
+                if (!response.ok) throw new Error("Primary IP API failed");
+                const data = await response.json();
                 setIpData({
-                    ip: data.ip,
-                    city: data.city,
-                    region: data.region,
-                    country: data.country_name
+                    ip: data.ip || "Unknown",
+                    city: data.city || "",
+                    region: data.region || "",
+                    country: data.country_name || ""
                 });
-            })
-            .catch(() => setIpData({ ip: "Unknown", city: "", region: "", country: "" }));
+            } catch (error) {
+                console.error("Primary IP API failed, trying fallback...", error);
+                try {
+                    // Try Second Provider (Fallback)
+                    const response = await fetch("https://ipwho.is/");
+                    const data = await response.json();
+                    if (data.success) {
+                        setIpData({
+                            ip: data.ip || "Unknown",
+                            city: data.city || "",
+                            region: data.region || "",
+                            country: data.country || ""
+                        });
+                    } else {
+                        throw new Error("Fallback IP API failed");
+                    }
+                } catch (fallbackError) {
+                    console.error("All IP APIs failed:", fallbackError);
+                    setIpData({ ip: "Unknown", city: "", region: "", country: "" });
+                }
+            }
+        };
+        fetchIpData();
 
         // Listen for internal clicks on any element with .popupBtn
         const handlePopupTrigger = (e) => {

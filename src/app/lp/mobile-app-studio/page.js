@@ -46,6 +46,9 @@ const Page = () => {
         section {
             position: relative;
         }
+        .lp-mobile-app-studio {
+            overflow-x: hidden;
+        }
       `}</style>
       
       <main className="lp-mobile-app-studio">

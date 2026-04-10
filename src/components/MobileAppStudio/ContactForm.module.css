@@ -104,7 +104,7 @@
 
 .textareaGroup {
     border-radius: 30px;
-    height: calc(100% - 100px);
+    height: 278px;
     padding: 30px 40px;
 }
 
@@ -116,30 +116,36 @@
 }
 
 .inputGroup input,
-.inputGroup textarea {
-    border: none;
-    outline: none;
-    font-size: 20px;
-    color: #000;
-    font-weight: 700;
-    background: transparent;
-    width: 100%;
-}
-
-.inputGroup input::placeholder,
-.inputGroup textarea::placeholder {
-    color: #111;
-    font-weight: 500;
-}
-
+.inputGroup textarea,
 .selectInput {
     border: none;
     outline: none;
     font-size: 20px;
     color: #000;
     font-weight: 700;
-    background: transparent;
+    background: #fff;
     width: 100%;
+    overflow: hidden;
+}
+
+.inputGroup input::placeholder,
+.inputGroup textarea::placeholder,
+.selectInput::placeholder {
+    color: #111;
+    font-weight: 500;
+}
+
+.inputGroup input:-webkit-autofill,
+.inputGroup input:-webkit-autofill:hover,
+.inputGroup input:-webkit-autofill:focus,
+.inputGroup textarea:-webkit-autofill {
+    -webkit-text-fill-color: #111 !important;
+    -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.selectInput {
+    font-weight: 500;
     cursor: pointer;
     appearance: none;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
@@ -150,7 +156,7 @@
 .inputGroup textarea {
     resize: none;
     height: 100%;
-    min-height: 200px;
+    height: 200px;
 }
 
 .btnWrapper {
@@ -233,7 +239,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 18px;
     }
 
@@ -279,7 +286,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 16px;
     }
 
@@ -294,7 +302,7 @@
     }
 
     .inputGroup textarea {
-        min-height: 100%;
+        height: 100%;
     }
 
     .btnWrapper {
@@ -339,7 +347,8 @@
     }
 
     .inputGroup input,
-    .inputGroup textarea {
+    .inputGroup textarea,
+    .selectInput {
         font-size: 14px;
     }
 

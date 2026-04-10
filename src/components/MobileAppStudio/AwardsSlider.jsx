@@ -7,12 +7,12 @@ const AwardsSlider = () => {
         "/mobile-app-studio/awards-img-01.png",
         "/mobile-app-studio/awards-img-02.png",
         "/mobile-app-studio/awards-img-03.png",
-        "/mobile-app-studio/awards-img-04.png",
+        "/mobile-app-studio/awards-img-004.png",
         "/mobile-app-studio/awards-img-05.png",
         "/mobile-app-studio/awards-img-01.png",
         "/mobile-app-studio/awards-img-02.png",
         "/mobile-app-studio/awards-img-03.png",
-        "/mobile-app-studio/awards-img-04.png",
+        "/mobile-app-studio/awards-img-004.png",
         "/mobile-app-studio/awards-img-05.png",
     ]
 

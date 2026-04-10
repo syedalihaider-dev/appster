@@ -10,6 +10,7 @@ export async function POST(req) {
             phone, 
             service, 
             budget, 
+            customQuote,
             message, 
             IP, 
             city, 
@@ -18,15 +19,24 @@ export async function POST(req) {
             pageUrl 
         } = body;
 
+        // Server-side IP fallback
+        const forwarded = req.headers.get("x-forwarded-for");
+        const serverIp = forwarded ? forwarded.split(/, /)[0] : "Unknown";
+        let finalIP = (IP && IP !== "Loading..." && IP !== "Unknown") ? IP : serverIp;
+        
+        if (finalIP === "::1" || finalIP === "127.0.0.1") {
+            finalIP = `Localhost (${finalIP})`;
+        }
+
         const brandname = 'Appsters - Mobile App Studio LP';
 
         const transporter = nodemailer.createTransport({
-            host: "mail.appsters.io",
+            host: "maltaserver.stagingtestserver.com",
             port: 465,
             secure: true,
             auth: {
                 user: 'no-reply@appsters.io', 
-                pass: "N;v-Om+OIZJ8?tdD" 
+                pass: "lG;nI8Y333TUIpfg" 
             },
             tls: {
                 rejectUnauthorized: false
@@ -35,7 +45,7 @@ export async function POST(req) {
 
         const mailOptions = {
             from: '"Appsters" <no-reply@appsters.io>',
-            to: 'testing@mailinator.com,ali.haider@canvasdigital.org, osama.azeem@iceanimations.com, zain@iceanimations.com, no-reply@appsters.io',
+            to: 'zain@iceanimations.com, ppc@iceanimations.com, hassan.ali@iceanimations.com, ali.haider@canvasdigital.org',
             subject: `Appsters LP Lead: ${name}`,
             html: `
                 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
@@ -63,7 +73,7 @@ export async function POST(req) {
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Budget Range</b></td>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${budget || 'N/A'}</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${budget || 'N/A'} ${customQuote ? `(Custom: $${customQuote})` : ''}</td>
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Message</b></td>
@@ -71,11 +81,15 @@ export async function POST(req) {
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>IP Address</b></td>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${IP || 'Unknown'}</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${finalIP}</td>
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Location</b></td>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${city || 'N/A'}, ${region || 'N/A'}, ${country || 'N/A'}</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                City: ${city || 'N/A'}<br>
+                                State/Region: ${region || 'N/A'}<br>
+                                Country: ${country || 'N/A'}
+                            </td>
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Page URL</b></td>

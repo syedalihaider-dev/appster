@@ -69,6 +69,10 @@
     transition-timing-function: linear !important;
 }
 
+.sliderWrapper:hover :global(.swiper-wrapper) {
+    transition-duration: 1ms !important;
+}
+
 .industryCard {
     position: relative;
     height: 500px;

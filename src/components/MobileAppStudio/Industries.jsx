@@ -99,7 +99,13 @@ const Industries = () => {
                         disableOnInteraction: false,
                         pauseOnMouseEnter: true,
                     }}
-                    allowTouchMove={false} // Prevents manual drag jerks
+                    onMouseEnter={(swiper) => {
+                        swiper.autoplay.stop();
+                    }}
+                    onMouseLeave={(swiper) => {
+                        swiper.autoplay.start();
+                    }}
+                    allowTouchMove={true} 
                     breakpoints={{
                         320: { slidesPerView: 1.2 },
                         640: { slidesPerView: 2.5 },
