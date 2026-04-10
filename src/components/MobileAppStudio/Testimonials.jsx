@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Navigation, Autoplay } from 'swiper/modules'
@@ -9,6 +9,18 @@ import styles from './Testimonials.module.css'
 const Testimonials = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [activeVideo, setActiveVideo] = useState("");
+
+    // Prevent body scroll when modal is open
+    useEffect(() => {
+        if (isModalOpen) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = 'unset';
+        }
+        return () => {
+            document.body.style.overflow = 'unset';
+        };
+    }, [isModalOpen]);
 
     const testimonials = [
         { id: 1, name: "Sophia ", role: "Entrepreneur", img: "/mobile-app-studio/testi-01.png", video: "https://vimeo.com/1181610679?share=copy&fl=sv&fe=ci" },
