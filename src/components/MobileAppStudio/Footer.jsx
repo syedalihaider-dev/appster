@@ -28,10 +28,10 @@ const Footer = () => {
 
                     {/* Social Links */}
                     <div className={styles.socialWrapper}>
-                        <a href="https://www.facebook.com/officialappsters/" target="_blank" className={styles.socialIcon}><FaFacebookF /></a>
-                        <a href="https://www.linkedin.com/company/officialAppsters?_l=en_US" target="_blank" className={styles.socialIcon}><FaLinkedinIn /></a>
-                        <a href="https://x.com/Appsters_/" target="_blank" className={styles.socialIcon}><FaXTwitter /></a>
-                        <a href="https://www.instagram.com/officialAppsters/" target="_blank" className={styles.socialIcon}><FaInstagram /></a>
+                        <a href="https://www.facebook.com/appsters1" target="_blank" className={styles.socialIcon}><FaFacebookF /></a>
+                        <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQH0y7bUyDIsQAAAAZ15YfC4gyQdQhs2TT8SNnPMUi6qBtZCIAFY6la_SrmRx7mBd4x879nFc_tlRM9ov7--eVXLf-3TT1LpMbg6YOn_CQXL7jETLuMAeiQX7XVNlLGFDXaK4D8=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fapp-sters%2F" target="_blank" className={styles.socialIcon}><FaLinkedinIn /></a>
+                        {/* <a href="https://x.com/Appsters_/" target="_blank" className={styles.socialIcon}><FaXTwitter /></a> */}
+                        <a href="https://www.instagram.com/app.sters" target="_blank" className={styles.socialIcon}><FaInstagram /></a>
                     </div>
 
                     {/* Right Info Section */}
