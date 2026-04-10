@@ -1,10 +1,12 @@
-import React from 'react'
 import Link from 'next/link'
-// import Image from 'next/image'
+import Script from 'next/script'
 import styles from './ThankYou.module.css'
 
 export const metadata = {
     robots: {
+        title: "Thank You - Appsters",
+        description:
+            "Thank you for contacting Appsters. Your inquiry has been received and our team will get back to you shortly.",
         index: false,
         follow: false,
         nocache: true,
@@ -14,6 +16,16 @@ export const metadata = {
 export default function ThankYou() {
     return (
         <main className={styles.thankYouPage}>
+            {/* Event snippet for conversion */}
+            <Script id="google-conversion" strategy="afterInteractive">
+                {`
+                if (typeof gtag !== "undefined") {
+                    gtag('event', 'conversion', {
+                    'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'
+                    });
+                }
+                `}
+            </Script>
             <div className="container">
                 <div className={styles.content}>
                     {/* <div className={styles.iconBox}>

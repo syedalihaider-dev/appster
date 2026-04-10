@@ -1,4 +1,5 @@
 import { Montserrat, DM_Sans } from "next/font/google";
+import Script from "next/script";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -50,6 +51,70 @@ export default function RootLayout({ children }) {
   return (
     <div className={`${montserrat.variable} ${dmSans.variable}`}>
        {children}
+       {/* Google Tag (gtag.js) */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-16476280714"
+        />
+
+        <Script id="google-ads-tag" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'AW-16476280714');
+          `}
+        </Script>
+
+       {/* Zendesk Chat Snippet */}
+       <Script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=239dfa05-01f6-4362-bfb9-4f75a7455e10" strategy="afterInteractive" />
+       <Script id="zendesk-chat" strategy="afterInteractive">
+         {`
+           window.$zopim || function (a, d) {
+               var b = $zopim = function (a) {
+                       b._.push(a)
+                   },
+                   c = b.s = a.createElement(d);
+               a = a.getElementsByTagName(d)[0];
+               b.set = function (a) {
+                   b.set._.push(a)
+               };
+               b._ = [];
+               b.set._ = [];
+               c.async = !0;
+               c.setAttribute("charset", "utf-8");
+               c.src = "";
+               b.t = +new Date;
+               c.type = "text/javascript";
+               a.parentNode.insertBefore(c, a)
+           }(document, "script");
+
+           $zopim(function () {
+               function a(a) {
+                   1 <= a && $zopim.livechat.window.show()
+               }
+               $zopim.livechat.setOnUnreadMsgs(a)
+           });
+
+           function setButtonURL() {
+               $zopim.livechat.window.show();
+           }
+
+           function toggleChat() {
+               $zopim.livechat.window.toggle();
+           }
+
+           document.addEventListener('click', function(e) {
+               if (e.target.closest('.chat') || e.target.closest('.chat-btn')) {
+                   e.preventDefault();
+                   if (window.$zopim && window.$zopim.livechat && window.$zopim.livechat.window) {
+                       window.$zopim.livechat.window.toggle();
+                   }
+               }
+           });
+         `}
+       </Script>
     </div>
   );
 }
