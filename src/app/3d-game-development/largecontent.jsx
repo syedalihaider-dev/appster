@@ -21,7 +21,7 @@ const ContentSecLG = ({ data }) => {
                         </div>
                     </Col>
                     <Col xl={5} lg={5} md={6} className='m-auto text-center' >
-                        <Image src={data?.BGIMG} alt="Bitswits Services" width={989} height={1100} />
+                        <Image src={data?.BGIMG} alt="Appsters Services" width={989} height={1100} />
                     </Col>
                 </Row>
             </Container>

@@ -150,7 +150,7 @@ const SmartTech = (props) => {
                                         <Col lg={4}>
 
                                             <div className={styles.deve} key={index}>
-                                                <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                                <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                                 <div>
                                                     <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                     <p className="font_13 white fontsfregular linehight_2">{item.para4}</p>
@@ -171,7 +171,7 @@ const SmartTech = (props) => {
                                         <Col lg={4}>
 
                                             <div className={styles.deve} key={index}>
-                                                <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                                <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                                 <div>
                                                     <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                     <p className="font_13 white fontsfregular linehight_2 mb-0">{item.para4}</p>
@@ -191,7 +191,7 @@ const SmartTech = (props) => {
                                     <Col lg={4}>
 
                                         <div className={styles.deve} key={index}>
-                                            <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                             <div>
                                                 <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2 mb-0">{item.para4}</p>
@@ -207,7 +207,7 @@ const SmartTech = (props) => {
                                     <Col lg={4}>
 
                                         <div className={styles.deve} key={index}>
-                                            <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                             <div>
                                                 <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2 mb-0">{item.para4}</p>

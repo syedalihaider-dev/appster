@@ -15,7 +15,7 @@ export const metadata = {
     description:
       "As a digital tech company we offer innovative mobile app solutions to every type of business & industry. Give your business the tech overhaul it deserves today!",
     url: "/",
-    siteName: "BitsWits",
+    siteName: "Appsters",
     locale: "en_US",
     type: "website",
     images: "/public/images/icons/footerlogo.png",

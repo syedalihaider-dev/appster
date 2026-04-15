@@ -6,7 +6,7 @@ import PopUp from "../services/popup"
 import { EcommercePortfolioIcon01, EcommercePortfolioIcon02, EcommercePortfolioIcon03, EcommercePortfolioIcon04 } from "../app-constants"
 
 const data = {
-    subtitle: "BitsWits Advantage",
+    subtitle: "Appsters Advantage",
     title: "Ready to Grow Your Business? Our eCommerce Web Development Company Can Develop Interactive Online Stores",
 }
 

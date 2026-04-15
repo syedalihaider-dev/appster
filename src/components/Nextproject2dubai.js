@@ -65,7 +65,7 @@ const Nextproject2dubai = () => {
                     <Row className={`gy-5 ${styles.quit}`}>
                         <Col lg={8}>
                             <h2 className='fontf font-bold white font55'>Awards And Recognitions</h2>
-                            <p className='font16 font-normal white'>BitsWits, renowned for its high-quality Android applications, has been awarded numerous times, demonstrating its dedication to delivering exceptional solutions that consistently surpass industry standards. These accolades symbolize their commitment to delivering top-notch solutions that consistently meet and exceed industry standards.</p>
+                            <p className='font16 font-normal white'>Appsters, renowned for its high-quality Android applications, has been awarded numerous times, demonstrating its dedication to delivering exceptional solutions that consistently surpass industry standards. These accolades symbolize their commitment to delivering top-notch solutions that consistently meet and exceed industry standards.</p>
                             <Link className={styles.project} href="#newtown">Check Reviews</Link>
                         </Col>
                         <Col lg={3}>
@@ -74,35 +74,35 @@ const Nextproject2dubai = () => {
                     </Row>
                     <div className={styles.nextalign}>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon1} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon1} className="img-fluid" /> </div>
                             <h3>Horizon Award</h3>
                             <p>Gold Awards Winner <br></br>
                                 2020</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon2} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon2} className="img-fluid" /> </div>
                             <h3>Dot Comm</h3>
                             <p>Excellence in Web Creativity & <br></br> Digital Communication</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon3} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon3} className="img-fluid" /> </div>
                             <h3>INC. 5000</h3>
                             <p>America's Fastest Growing <br></br> Companies</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon4} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon4} className="img-fluid" /> </div>
                             <h3>Rank Watch</h3>
                             <p>Top Web Development <br></br>
                                 Agencies 2023</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon5} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon5} className="img-fluid" /> </div>
                             <h3>Horizon Award</h3>
                             <p>Silver Awards Winner <br></br>
                                 2020</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon6} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon6} className="img-fluid" /> </div>
                             <h3>Clutch</h3>
                             <p>Top 1000 <br></br>
                                 Companies</p>
@@ -115,35 +115,35 @@ const Nextproject2dubai = () => {
                     <Slider {...awardslogo} className={` ${styles.nextalign1} proclass `}>
 
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>       <Image alt="BitsWits" src={icon1} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>       <Image alt="Appsters" src={icon1} className="img-fluid" /> </div>
                             <h3>Horizon Award</h3>
                             <p>Gold Awards Winner <br></br>
                                 2020</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon2} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon2} className="img-fluid" /> </div>
                             <h3>Dot Comm</h3>
                             <p>Excellence in Web Creativity & <br></br> Digital Communication</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon3} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon3} className="img-fluid" /> </div>
                             <h3>INC. 5000</h3>
                             <p>America's Fastest Growing <br></br> Companies</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon4} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon4} className="img-fluid" /> </div>
                             <h3>Rank Watch</h3>
                             <p>Top Web Development <br></br>
                                 Agencies 2023</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon5} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon5} className="img-fluid" /> </div>
                             <h3>Horizon Award</h3>
                             <p>Silver Awards Winner <br></br>
                                 2020</p>
                         </div>
                         <div className={styles.mobile}>
-                            <div className={styles.newfol}>   <Image alt="BitsWits" src={icon6} className="img-fluid" /> </div>
+                            <div className={styles.newfol}>   <Image alt="Appsters" src={icon6} className="img-fluid" /> </div>
                             <h3>Clutch</h3>
                             <p>Top 1000 <br></br>
                                 Companies</p>

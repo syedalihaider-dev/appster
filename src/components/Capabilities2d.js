@@ -43,7 +43,7 @@ const Capabilities2d = () => {
                 <div>
                   <h2>
                     Join the Revolution - Play on <br></br> Any Platform with
-                    BitsWits' 2D<br></br> Game Development
+                    Appsters' 2D<br></br> Game Development
                   </h2>
                   <p className="white">
                     We provide an optimal gaming experience across multiple
@@ -52,7 +52,7 @@ const Capabilities2d = () => {
                     reaches the broadest possible audience of gamers. We also
                     provide extensive testing and optimization services to
                     ensure seamless performance and compatibility on the target
-                    platforms. BitsWits uses high-quality tools such as Unity 2D
+                    platforms. Appsters uses high-quality tools such as Unity 2D
                     and HTML5 to develop custom games to ensure maximum device
                     performance. So, get in touch with us today, and let us help
                     you take your gaming venture to the next level!
@@ -116,7 +116,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon1}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -133,7 +133,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon2}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -150,7 +150,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon3}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -167,7 +167,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon4}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -184,7 +184,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon5}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -201,7 +201,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon6}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -218,7 +218,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon7}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -235,7 +235,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon8}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}
@@ -252,7 +252,7 @@ const Capabilities2d = () => {
                       <Image
                         quality={75}
                         src={icon9}
-                        alt="BitsWits"
+                        alt="Appsters"
                         className="img-fluid"
                         width={1000}
                         height={1000}

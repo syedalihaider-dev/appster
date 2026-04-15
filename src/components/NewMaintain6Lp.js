@@ -135,7 +135,7 @@ const NewMaintain6Lp = () => {
                             <Col lg={12}>
                                 <p className={` f-20 font-bold text-white text-center mb-0`}>Delivering Excellence Daily</p>
                                 <h1 className='text-white f-55 font-bold text-center'>Trusted Development Company For Tech Solutions</h1>
-                                <p className='m-0 text-white text-center'>We, at BitsWits, are dedicated to being innovative and making our clients happy.</p>
+                                <p className='m-0 text-white text-center'>We, at Appsters, are dedicated to being innovative and making our clients happy.</p>
                                 <p className='text-white text-center pb-3'>We specialize in customizing services for digital business evolution and bring the following services to the table.</p>
                             </Col>
                         </Row>
@@ -168,7 +168,7 @@ const NewMaintain6Lp = () => {
                                 <div className={styles.cardContent}>
                                     <h3 className='text-white font25 font-bold '>Artificial Intelligence (Ai)</h3>
                                     <p className={styles.para1}>
-                                        Hire BitsWits as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.
+                                        Hire Appsters as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.
                                     </p>
                                 </div>
                             </div>
@@ -192,7 +192,7 @@ const NewMaintain6Lp = () => {
                                 <div className={styles.cardContent}>
                                     <h3 className='text-white font25 font-bold'>AR/VR</h3>
                                     <p className={`text-white f-16 ${styles.para}`}>
-                                        BitsWits serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.
+                                        Appsters serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.
                                     </p>
                                 </div>
                             </div>

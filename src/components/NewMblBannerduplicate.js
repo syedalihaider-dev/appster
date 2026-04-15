@@ -27,7 +27,7 @@ const NewHomeBanner = () => {
                                 <a className={styles.about} href="tel:8335006007">LET'S CONNECT</a>
                             </div>
                             <div className={styles.secImage}>
-                                <Image quality={75} alt='BitsWits' src={BannerImage} className={`img-fluid`} />
+                                <Image quality={75} alt='Appsters' src={BannerImage} className={`img-fluid`} />
                             </div>
                         </Col>
                     </Row>

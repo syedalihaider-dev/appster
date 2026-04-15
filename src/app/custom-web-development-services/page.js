@@ -78,7 +78,7 @@ export default function customwebdevelopmentservices() {
       <HomeBannerSliderlp />
       <LpForm
         addresClass="iosclass"
-        heading={`Bitswits pioneers web development innovation, crafting cutting-edge solutions that redefine the digital landscape. Our dedicated team turns your vision into a global powerhouse, prioritizing your success in the online realm. Join us for a transformative journey where technology meets excellence, and your digital presence reaches new heights. `}
+        heading={`Appsters pioneers web development innovation, crafting cutting-edge solutions that redefine the digital landscape. Our dedicated team turns your vision into a global powerhouse, prioritizing your success in the online realm. Join us for a transformative journey where technology meets excellence, and your digital presence reaches new heights. `}
         data={[
           {
             img2: user1,
@@ -160,7 +160,7 @@ export default function customwebdevelopmentservices() {
               "Our expert web design and development team provides ongoing maintenance, monitoring, and support to ensure that your custom websites and apps are working at optimal performances. Our Web Development Support and Maintenance Services include testing and debugging, updates and maintenance on security protocols, database maintenance, and so much more.",
           },
         ]}
-        video={<Image src={peo} className="img-fluid" alt="bitswits" />}
+        video={<Image src={peo} className="img-fluid" alt="Appsters" />}
       />
       <SmartContract
         assignClass="providecustom"
@@ -279,7 +279,7 @@ export default function customwebdevelopmentservices() {
               "Our website engineers integrate machine learning algorithms to provide users with personalized content and product recommendations based on browsing behavior and preferences. Predictive analytics involves using machine learning algorithms to analyze data and make predictions about user behavior, website performance, and other relevant metrics. ",
           },
         ]}
-        video={<Image src={web} className="img-fluid" alt="bitswits" />}
+        video={<Image src={web} className="img-fluid" alt="Appsters" />}
       />
       <ProjectProcess
         processclass="processLp6"
@@ -290,7 +290,7 @@ export default function customwebdevelopmentservices() {
           <>
             <Image
               src={banImg1}
-              alt="BitsWits"
+              alt="Appsters"
               className="img-fluid mt-4 mt-lg-5"
             />
           </>
@@ -413,7 +413,7 @@ export default function customwebdevelopmentservices() {
           },
           {
             question:
-              "Does Bitswits Offers Hybrid and Native Application Development?",
+              "Does Appsters Offers Hybrid and Native Application Development?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -426,7 +426,7 @@ export default function customwebdevelopmentservices() {
           },
           {
             question:
-              "Why Choose Bitswits as a Mobile Application Development Company?",
+              "Why Choose Appsters as a Mobile Application Development Company?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -462,7 +462,7 @@ export default function customwebdevelopmentservices() {
             ),
           },
           {
-            question: "What industries does BitsWits cater do?",
+            question: "What industries does Appsters cater do?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -483,7 +483,7 @@ export default function customwebdevelopmentservices() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Custom Web Development Services",
-            "url": "https://www.bitswits.co/custom-web-development-services",
+            "url": "https://www.Appsters.co/custom-web-development-services",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -497,15 +497,15 @@ export default function customwebdevelopmentservices() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/custom-web-development-services",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/custom-web-development-services",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ] 
            }                                                                       
         `}
@@ -516,8 +516,8 @@ export default function customwebdevelopmentservices() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Custom Web Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.bee2e981.png&w=750&q=75",
-            "url": "https://www.bitswits.co/custom-web-development-services",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.bee2e981.png&w=750&q=75",
+            "url": "https://www.Appsters.co/custom-web-development-services",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -545,11 +545,11 @@ export default function customwebdevelopmentservices() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
           }                                                       
         `}
@@ -560,11 +560,11 @@ export default function customwebdevelopmentservices() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Custom Web Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.bee2e981.png&w=750&q=75",
-            "description": "Bitswits pioneers web development innovation, crafting cutting-edge solutions that redefine the digital landscape. Our dedicated team turns your vision into a global powerhouse, prioritizing your success in the online realm. Join us for a transformative journey where technology meets excellence, and your digital presence reaches new heights.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.bee2e981.png&w=750&q=75",
+            "description": "Appsters pioneers web development innovation, crafting cutting-edge solutions that redefine the digital landscape. Our dedicated team turns your vision into a global powerhouse, prioritizing your success in the online realm. Join us for a transformative journey where technology meets excellence, and your digital presence reaches new heights.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

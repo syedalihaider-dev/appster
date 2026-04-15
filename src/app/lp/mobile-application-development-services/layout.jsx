@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Top Mobile App Development Services | BitsWits",
-  description: "BitsWits delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
+  title: "Top Mobile App Development Services | Appsters",
+  description: "Appsters delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
   //===== OG Tags =====
   openGraph: {
-    title: "Top Mobile App Development Services | BitsWits",
-    description: "BitsWits delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
+    title: "Top Mobile App Development Services | Appsters",
+    description: "Appsters delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
     url: '/lp/mobile-application-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

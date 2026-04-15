@@ -100,8 +100,8 @@ const DubaiFooter = () => {
                                 </ul>
                                 <ul className={`${styles.contacts} ${styles.myLinks} p-0`}>
                                     <li className="mb-2">
-                                        <a href="mailto:info@BitsWits.co">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="mailto:info@Appsters.co">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={mail}
 
                                                 loading="lazy"
@@ -111,7 +111,7 @@ const DubaiFooter = () => {
                                     </li>
                                     <li className="fw-bold">
                                         <a href="tel:3123795987">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={call}
 
                                                 loading="lazy"
@@ -121,7 +121,7 @@ const DubaiFooter = () => {
                                     </li>
                                     <li className="fw-bold">
                                         <a href="tel:8335006007">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={call}
 
                                                 loading="lazy"
@@ -140,8 +140,8 @@ const DubaiFooter = () => {
                             <Col md={4} lg={3} className="mt-md-0 mt-4">
                                 <ul className={`${styles.socials} mb-0 p-0`}>
                                     <li>
-                                        <a href="https://www.facebook.com/officialBitsWits" target="_blank" rel="noopener noreferrer">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="https://www.facebook.com/officialAppsters" target="_blank" rel="noopener noreferrer">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={fb}
 
                                                 loading="lazy"
@@ -149,8 +149,8 @@ const DubaiFooter = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/officialBitsWits/" target="_blank" rel="noopener noreferrer">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="https://www.instagram.com/officialAppsters/" target="_blank" rel="noopener noreferrer">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={inta}
 
                                                 loading="lazy"
@@ -158,8 +158,8 @@ const DubaiFooter = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com/BitsWits_/" target="_blank" rel="noopener noreferrer">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="https://twitter.com/Appsters_/" target="_blank" rel="noopener noreferrer">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={tweet}
 
                                                 loading="lazy"
@@ -167,8 +167,8 @@ const DubaiFooter = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com/company/officialBitsWits" target="_blank" rel="noopener noreferrer">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="https://www.linkedin.com/company/officialAppsters" target="_blank" rel="noopener noreferrer">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={linkedin}
 
                                                 loading="lazy"
@@ -176,8 +176,8 @@ const DubaiFooter = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.youtube.com/@officialBitsWits" target="_blank" rel="noopener noreferrer">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                        <a href="https://www.youtube.com/@officialAppsters" target="_blank" rel="noopener noreferrer">
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={youtube}
 
                                                 loading="lazy"
@@ -188,7 +188,7 @@ const DubaiFooter = () => {
                             </Col>
                             <Col md={4} lg={6}>
                                 <p className={`${styles.trmCon} f-montserrat f-12 white f-500 mb-0`}>
-                                    Copyright © 2026 BitsWits.
+                                    Copyright © 2026 Appsters.
                                 </p>
                             </Col>
                             <Col md={4} lg={3}>

@@ -365,8 +365,8 @@ export const TestimonialSLIDES = [
 ]
 
 export const RisksContent = {
-    title: (<>Give Players All <Image src={RisksIMG01} alt="Bitswits Services" width={228} height={85} /> The Control They Crave With Our <Image src={RisksIMG02} alt="Bitswits Services" width={228} height={85} /> In-Game NFT Assets!</>),
-    text: "Enable NFT purchases and monetize gaming with BitsWits!"
+    title: (<>Give Players All <Image src={RisksIMG01} alt="Appsters Services" width={228} height={85} /> The Control They Crave With Our <Image src={RisksIMG02} alt="Appsters Services" width={228} height={85} /> In-Game NFT Assets!</>),
+    text: "Enable NFT purchases and monetize gaming with Appsters!"
 }
 
 export const OffersContent = {
@@ -421,7 +421,7 @@ export const OffersTabs = [
 
 export const FuelingContent = {
     title: "Our Expertise in NFT Game Development Genres",
-    text: "BitsWits is one of the best NFT game development companies that leverage blockchain technology to build NFT games for a wild variety of genres. ",
+    text: "Appsters is one of the best NFT game development companies that leverage blockchain technology to build NFT games for a wild variety of genres. ",
     subtitle: "Build Next-Gen NFT Games that Drive Player Engagement!",
     subtext: "Create engaging, player-driven experiences with unique digital ownership rewards.",
     FuelingImg: FuelingImg
@@ -708,14 +708,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02.src,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -723,7 +723,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03.src,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

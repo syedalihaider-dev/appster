@@ -29,9 +29,9 @@ const Banner = ({ data }) => {
                         </Col>
                         <Col lg={6} md={7} className="m-auto">
                             <div className={styles.bannerImg}>
-                                <Image src={bannerImg} alt="bitswits" />
+                                <Image src={bannerImg} alt="Appsters" />
                                 <div className={styles.Box1}>
-                                    <Image src={Box1Img.src} width={20} height={20} alt="bitswits" />
+                                    <Image src={Box1Img.src} width={20} height={20} alt="Appsters" />
                                     <div className={styles.text}>
                                         10K
                                     </div>
@@ -40,7 +40,7 @@ const Banner = ({ data }) => {
                                     </div>
                                 </div>
                                 <div className={styles.Box2}>
-                                    <Image src={Box2Img.src} width={20} height={20} alt="bitswits" />
+                                    <Image src={Box2Img.src} width={20} height={20} alt="Appsters" />
                                     <div className={styles.text}>
                                         10K
                                     </div>

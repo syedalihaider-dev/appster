@@ -55,7 +55,7 @@ const Process = (props) => {
                     <Row>
                         <Col xl={12}>
                             <h2 className="white font50 f-700 center mb-3">Our Dynamic Mobile App Development Process</h2>
-                            <p className="font16 font-normal white text-center mb-3">BitsWits simplifies UAE mobile app development by providing transparency and comprehensible processes, adapting to changing technology and user preferences, and ensuring clients have a clear understanding of project timelines and methodologies.</p>
+                            <p className="font16 font-normal white text-center mb-3">Appsters simplifies UAE mobile app development by providing transparency and comprehensible processes, adapting to changing technology and user preferences, and ensuring clients have a clear understanding of project timelines and methodologies.</p>
                             <p className="font16 font-normal white text-center mb-5">
                                 Our process comprises several key stages, ensuring a seamless journey from project scoping to launch and deployment:</p>
                         </Col>

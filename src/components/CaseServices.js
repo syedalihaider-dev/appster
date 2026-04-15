@@ -48,15 +48,15 @@ const CaseServices = (props) => {
                             <div className={styles.content}>
                                 <h3 className='newchoose'>{props.title}</h3>
                                 <p>
-                                    <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                    <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                     <span>{props.point1}</span>
                                 </p>
                                 <p>
-                                    <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                    <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                     <span>{props.point2}</span>
                                 </p>
                                 <p>
-                                    <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                    <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                     <span>{props.point3}</span>
                                 </p>
                             </div>
@@ -64,29 +64,29 @@ const CaseServices = (props) => {
                         {isMobile ? (
                             <Slider {...awardslogo} className={` ${styles.nextalign1}`}>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service1} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service1} alt="Appsters" className={`img-fluid`} />
                                 </div>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service2} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service2} alt="Appsters" className={`img-fluid`} />
                                 </div>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service3} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service3} alt="Appsters" className={`img-fluid`} />
                                 </div>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service4} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service4} alt="Appsters" className={`img-fluid`} />
                                 </div>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service5} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service5} alt="Appsters" className={`img-fluid`} />
                                 </div>
                             </Slider>
                         ) : (
                             <Col lg={12}>
                                 <div className={styles.servImg}>
-                                    <Image quality={90} src={props.service1} alt="BitsWits" className={`img-fluid`} />
-                                    <Image quality={90} src={props.service2} alt="BitsWits" className={`img-fluid`} />
-                                    <Image quality={90} src={props.service3} alt="BitsWits" className={`${styles.serImg3} img-fluid`} />
-                                    <Image quality={90} src={props.service4} alt="BitsWits" className={`img-fluid`} />
-                                    <Image quality={90} src={props.service5} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service1} alt="Appsters" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service2} alt="Appsters" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service3} alt="Appsters" className={`${styles.serImg3} img-fluid`} />
+                                    <Image quality={90} src={props.service4} alt="Appsters" className={`img-fluid`} />
+                                    <Image quality={90} src={props.service5} alt="Appsters" className={`img-fluid`} />
                                 </div>
                             </Col>
                         )}

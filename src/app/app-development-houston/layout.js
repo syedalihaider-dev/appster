@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Mobile App Development Company in Houston - BitsWits",
-  description: "BitsWits is a leading app development company in Houston helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
+  title: "Mobile App Development Company in Houston - Appsters",
+  description: "Appsters is a leading app development company in Houston helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
   //===== OG Tags =====
   openGraph: {
-    title: 'Mobile App Development Company in Houston - BitsWits',
-    description: 'BitsWits is a leading app development company in Houston helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.',
+    title: 'Mobile App Development Company in Houston - Appsters',
+    description: 'Appsters is a leading app development company in Houston helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.',
     url: '/app-development-houston',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },

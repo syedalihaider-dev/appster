@@ -205,7 +205,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                         <Col lg={12}>
                             <div className={styles}>
                                 <h2>Our <span>Apps</span> that Left an <span>Indelible</span> Mark!</h2>
-                                <p>BitsWits has launched some of the leading mobile applications on Google Play Store and Apple App Store. Our iOS app development services and Android app development services have geared businesses to take the market by storm. Our work is a testimony to the quality of our full-cycle development processes. </p>
+                                <p>Appsters has launched some of the leading mobile applications on Google Play Store and Apple App Store. Our iOS app development services and Android app development services have geared businesses to take the market by storm. Our work is a testimony to the quality of our full-cycle development processes. </p>
                             </div>
                         </Col>
                         <Col lg={5} className='px-1'>
@@ -222,7 +222,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                     <div className={styles.blackBtn}>
                                         <a href="tel:1 833 500 6007" className='d-flex align-items-center gap-4 blackPulse'>
                                             Free Consultation
-                                            <Image src={rightArrow} alt='Bitswits' width={24} height={12} />
+                                            <Image src={rightArrow} alt='Appsters' width={24} height={12} />
                                         </a>
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                         <div className={styles.counterMain}>
                                             {contentData[activeSlide].map((data, index) => (
                                                 <div className="downloads" key={index}>
-                                                    <img src={data.icon} alt='Bitswits' />
+                                                    <img src={data.icon} alt='Appsters' />
                                                     <h4>{data.title}</h4>
                                                     <h5>
                                                         <span className='mb-0 d-inline'>
@@ -243,7 +243,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                         </div>
                                     )}
                                     <div className="clutch d-none d-xl-block">
-                                        <Image src={clutch} alt='Bitswits' width={127} height={60} />
+                                        <Image src={clutch} alt='Appsters' width={127} height={60} />
                                     </div>
                                 </div>
                             </div>
@@ -254,7 +254,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                     <div className='' key={index}>
                                         <div className={styles.slider}>
                                             <div className={styles.sliderImage}>
-                                                <Image src={content.image} alt='Bitswits' className='img-fluid' />
+                                                <Image src={content.image} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <div className="txt">
@@ -264,7 +264,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                                 <div className={styles.sliderBtn}>
                                                     <a href={content.href} onClick={onAnchorClick} className='d-flex align-items-center gap-4 black'>
                                                         View Case Study
-                                                        <Image src={rightArrow} alt='Bitswits' width={24} height={12} />
+                                                        <Image src={rightArrow} alt='Appsters' width={24} height={12} />
                                                     </a>
                                                 </div>
                                             </div>

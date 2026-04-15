@@ -52,7 +52,7 @@ export default function augmentedrealityappsdevelopment() {
         newclass: "iosclass",
       },
       heading: {
-        subtitle: "BitsWits Sets New Standards",
+        subtitle: "Appsters Sets New Standards",
         title1: "Expert",
         title2: "Augmented Reality Development",
         title3: "at Your Service!",
@@ -125,7 +125,7 @@ export default function augmentedrealityappsdevelopment() {
         text={
           <>
             {" "}
-            BitsWits is your ultimate destination for Augmented Reality app
+            Appsters is your ultimate destination for Augmented Reality app
             development. Our developers deliver dynamic AR experiences that set
             your business apart from the rest.{" "}
           </>
@@ -139,7 +139,7 @@ export default function augmentedrealityappsdevelopment() {
       {isSliderActive ? (
         <ServicesMaintain
           assignClass="augmented"
-          subtitle={<> BitsWits Sets New Standards </>}
+          subtitle={<> Appsters Sets New Standards </>}
           title0={<> Expert </>}
           title={<> Augmented Reality Development </>}
           title1={<> at Your Service! </>}
@@ -291,7 +291,7 @@ export default function augmentedrealityappsdevelopment() {
         faqsData={[
           {
             question:
-              "What's the typical timeline for an AR project with BitsWits?",
+              "What's the typical timeline for an AR project with Appsters?",
             answer: (
               <>
                 {" "}
@@ -313,7 +313,7 @@ export default function augmentedrealityappsdevelopment() {
           },
           {
             question:
-              "What hardware or devices are required for end-users to access AR experiences developed by BitsWits?",
+              "What hardware or devices are required for end-users to access AR experiences developed by Appsters?",
             answer: (
               <>
                 {" "}
@@ -324,7 +324,7 @@ export default function augmentedrealityappsdevelopment() {
           },
           {
             question:
-              "Are there any hidden or additional costs that we should be aware of in the AR development process with BitsWits?",
+              "Are there any hidden or additional costs that we should be aware of in the AR development process with Appsters?",
             answer: (
               <>
                 {" "}
@@ -336,7 +336,7 @@ export default function augmentedrealityappsdevelopment() {
           },
           {
             question:
-              "Does BitsWits provide 24/7 technical support for critical AR applications?",
+              "Does Appsters provide 24/7 technical support for critical AR applications?",
             answer: (
               <>
                 {" "}
@@ -365,7 +365,7 @@ export default function augmentedrealityappsdevelopment() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Augmented Reality Apps Development Company",
-            "url": "https://www.bitswits.co/augmented-reality-apps-development-company",
+            "url": "https://www.Appsters.co/augmented-reality-apps-development-company",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -379,15 +379,15 @@ export default function augmentedrealityappsdevelopment() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/augmented-reality-apps-development-company",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/augmented-reality-apps-development-company",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]  
           }                              
         `}
@@ -398,8 +398,8 @@ export default function augmentedrealityappsdevelopment() {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Augmented Reality Apps Development Company",
-          "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
-          "url": "https://www.bitswits.co/augmented-reality-apps-development-company",
+          "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
+          "url": "https://www.Appsters.co/augmented-reality-apps-development-company",
           "telephone": "+1 713 565 7656",
           "address": {
             "@type": "PostalAddress",
@@ -427,11 +427,11 @@ export default function augmentedrealityappsdevelopment() {
             "closes": "06:00"
           },
           "sameAs": [
-            "https://www.facebook.com/officialBitsWits",
-            "https://www.instagram.com/officialBitsWits/",
-            "https://twitter.com/BitsWits_/",
-            "https://www.linkedin.com/company/officialBitsWits",
-            "https://www.youtube.com/@officialBitsWits"
+            "https://www.facebook.com/officialAppsters",
+            "https://www.instagram.com/officialAppsters/",
+            "https://twitter.com/Appsters_/",
+            "https://www.linkedin.com/company/officialAppsters",
+            "https://www.youtube.com/@officialAppsters"
           ] 
          }                    
         `}
@@ -442,11 +442,11 @@ export default function augmentedrealityappsdevelopment() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Augmented Reality Apps Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
-            "description": "BitsWits is your ultimate destination for Augmented Reality app development. Our developers deliver dynamic AR experiences that set your business apart from the rest.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
+            "description": "Appsters is your ultimate destination for Augmented Reality app development. Our developers deliver dynamic AR experiences that set your business apart from the rest.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

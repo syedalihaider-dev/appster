@@ -19,7 +19,7 @@ const EcommerceShoppingApp = () => {
                         <Col lg={6}>
                             <p className='text-white font18 font-bold mb-0 mt-4 mt-lg-0'>Swipe, Shop, Smile with Our</p>
                             <h2 className='font50 grdiant font-bold mb-2 line45'>Custom Shopping App Development</h2>
-                            <p className='font15 text-white'>Discover the power of BitsWits’ shopping app expertise! Our skilled eCommerce app developers focus on creating smooth user experience, personalized features, and secured payments to satisfy clients and provide extraordinary app experiences.</p>
+                            <p className='font15 text-white'>Discover the power of Appsters’ shopping app expertise! Our skilled eCommerce app developers focus on creating smooth user experience, personalized features, and secured payments to satisfy clients and provide extraordinary app experiences.</p>
 
                             <p className='font15 text-white'>Say goodbye to the genie in a lamp – our eCommerce app solutions grant all your wishes with just a tap!</p>
 

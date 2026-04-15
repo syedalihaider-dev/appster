@@ -83,7 +83,7 @@ const Transformative = (props) => {
                     <Row className={styles.super}>
                         <Col xl={12}>
                             <h2 className="white font50 f-700  mb-3">Industry Transformation: Your Premier <br></br> Mobile Application Development Agency in Dubai</h2>
-                            <p className="font16 font-normal white  mb-4">BitsWits is a leading mobile application development agency in Dubai, focusing on delivering innovative solutions to help businesses overcome complex challenges. </p>
+                            <p className="font16 font-normal white  mb-4">Appsters is a leading mobile application development agency in Dubai, focusing on delivering innovative solutions to help businesses overcome complex challenges. </p>
                             <p className="font16 font-normal white  mb-5">As a tech expert in the post-pandemic era, we are dedicated to enhancing customer engagement, streamlining operations, and creating new revenue streams. With a team of skilled professionals, they tailor their services to meet the unique needs of each industry, ensuring transformation, innovation, and a brighter future for businesses in Dubai.</p>
                         </Col>
                     </Row>

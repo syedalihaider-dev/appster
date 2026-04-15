@@ -103,7 +103,7 @@ export default function UiUxDesign() {
               "Our UI/UX designers are experts in graphic libraries, including OpenGL and WebGL. We collaborate with your stakeholders and IT team to develop a style (including color palettes, logo designs and layouts) that harmonizes with your company culture.",
           },
         ]}
-        video={<Image src={poe} className="img-fluid" alt="bitswits" />}
+        video={<Image src={poe} className="img-fluid" alt="Appsters" />}
       />
       <Provideuiux
         assignClass="provideuiux"
@@ -129,7 +129,7 @@ export default function UiUxDesign() {
               "We use well-known UI guidelines like Human Interface Guidelines (HIG) and Material Design to develop intuitive solutions with goal-driven, usable designs that influence positive user responses and facilitate simple communication between a user and the interface.",
           },
         ]}
-        video={<Image src={poe2} className="img-fluid" alt="bitswits" />}
+        video={<Image src={poe2} className="img-fluid" alt="Appsters" />}
       />
       <ProjectProcess
         processclass="processLp6"
@@ -141,7 +141,7 @@ export default function UiUxDesign() {
             {" "}
             <Image
               src={banImg1}
-              alt="BitsWits"
+              alt="Appsters"
               className="img-fluid mt-4 mt-lg-5"
             />{" "}
           </>
@@ -168,7 +168,7 @@ export default function UiUxDesign() {
           },
           {
             question:
-              "Does Bitswits Offers Hybrid and Native Application Development?",
+              "Does Appsters Offers Hybrid and Native Application Development?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -181,7 +181,7 @@ export default function UiUxDesign() {
           },
           {
             question:
-              "Why Choose Bitswits as a Mobile Application Development Company?",
+              "Why Choose Appsters as a Mobile Application Development Company?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -217,7 +217,7 @@ export default function UiUxDesign() {
             ),
           },
           {
-            question: "What industries does BitsWits cater do?",
+            question: "What industries does Appsters cater do?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -238,7 +238,7 @@ export default function UiUxDesign() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "UI & UX Design And Development Services",
-            "url": "https://www.bitswits.co/ui-&-ux-design-and-development-services",
+            "url": "https://www.Appsters.co/ui-&-ux-design-and-development-services",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -252,15 +252,15 @@ export default function UiUxDesign() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/ui-&-ux-design-and-development-services",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/ui-&-ux-design-and-development-services",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ] 
            }                     
         `}
@@ -271,8 +271,8 @@ export default function UiUxDesign() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "UI & UX Design And Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner-img.bdfaeb91.png&w=640&q=75",
-            "url": "https://www.bitswits.co/ui-&-ux-design-and-development-services",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner-img.bdfaeb91.png&w=640&q=75",
+            "url": "https://www.Appsters.co/ui-&-ux-design-and-development-services",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -300,11 +300,11 @@ export default function UiUxDesign() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
            }                                                                                                               
         `}
@@ -315,11 +315,11 @@ export default function UiUxDesign() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "UI & UX Design And Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner-img.bdfaeb91.png&w=640&q=75",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner-img.bdfaeb91.png&w=640&q=75",
             "description": "The key to developing a successful app is marrying the functionality your users demand with an intuitive design and experience that make it as simple as possible to use. Chetu’s UI/UX experts will design the perfect web, desktop, or mobile app to meet your specific business requirements, industry needs, and product development goals. We design and develop innovative digital user experiences that solve complex business problems.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

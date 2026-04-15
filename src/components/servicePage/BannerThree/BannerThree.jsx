@@ -107,11 +107,11 @@ const BannerThree = () => {
                             </div>
                         </div>
                         <div className="logos pt-5">
-                            <Image src={logos} alt='Bitswits' className='img-fluid' />
+                            <Image src={logos} alt='Appsters' className='img-fluid' />
                         </div>
                     </Col>
                     <Col lg={5} xl={6}>
-                        <Image src={BannerImg} alt='Bitswits' className='img-fluid d-lg-block d-none' />
+                        <Image src={BannerImg} alt='Appsters' className='img-fluid d-lg-block d-none' />
                     </Col>
                 </Row>
             </Container>

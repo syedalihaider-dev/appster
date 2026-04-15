@@ -21,9 +21,9 @@ const Testimonial = ({ data, list }) => {
                     </Col>
                     <Col lg={6} md={6} className="my-auto">
                         <div className={styles.reviewsBox}>
-                            <Image src={data?.TestiImg1} alt="Bitswits Reviews" width={145} height={65} />
-                            <Image src={data?.TestiImg2} alt="Bitswits Reviews" width={145} height={65} />
-                            <Image src={data?.TestiImg3} alt="Bitswits Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg1} alt="Appsters Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg2} alt="Appsters Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg3} alt="Appsters Reviews" width={145} height={65} />
                         </div>
                     </Col>
                 </Row>
@@ -40,7 +40,7 @@ const Testimonial = ({ data, list }) => {
                                         >
                                             <div className={styles.testProfile}>
                                                 <div className={styles.ImgBox}>
-                                                    <Image src={tab.img} alt="Bitswits Reviews" width={80} height={80} />
+                                                    <Image src={tab.img} alt="Appsters Reviews" width={80} height={80} />
                                                 </div>
                                                 <div className={styles.ImgTitle}>
                                                     {tab.name}
@@ -49,7 +49,7 @@ const Testimonial = ({ data, list }) => {
 
                                             </div>
                                             <div className={styles.svgIcon}>
-                                                <Image src={activeTab === index ? tab.content.iconActive : tab.content.icon} alt="Bitswits Reviews" width={40} height={40} />
+                                                <Image src={activeTab === index ? tab.content.iconActive : tab.content.icon} alt="Appsters Reviews" width={40} height={40} />
                                                 <span>4.9</span>
                                             </div>
                                         </li>

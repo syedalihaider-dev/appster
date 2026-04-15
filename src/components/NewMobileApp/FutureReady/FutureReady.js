@@ -28,7 +28,7 @@ const FutureReady = () => {
                         <Col lg={12}>
                             <div className="txt">
                                 <h2>ROI-Driven Results - <span>Flawless Execution!</span></h2>
-                                <p>Our mobile application development services specialize in creating strong, scalable mobile solutions, including iPhone app development services and Android app development services, tailored to enhance business operations and user engagement. BitsWits ensures seamless experiences across the board, with results that are guaranteed to surpass expectations.</p>
+                                <p>Our mobile application development services specialize in creating strong, scalable mobile solutions, including iPhone app development services and Android app development services, tailored to enhance business operations and user engagement. Appsters ensures seamless experiences across the board, with results that are guaranteed to surpass expectations.</p>
                             </div>
                         </Col>
                     </Row>
@@ -38,7 +38,7 @@ const FutureReady = () => {
                                 <div className={`${styles.iosCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>IOS Application Development</h3>
-                                        <Image src={ios} width={25} height={30} alt='Bitswits' />
+                                        <Image src={ios} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -54,7 +54,7 @@ const FutureReady = () => {
                                 <div className={`${styles.andriodCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Android Application Development</h3>
-                                        <Image src={andriod} width={25} height={30} alt='Bitswits' />
+                                        <Image src={andriod} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -70,7 +70,7 @@ const FutureReady = () => {
                                 <div className={`${styles.nativeCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>React Native App Development</h3>
-                                        <Image src={native} width={32} height={30} alt='Bitswits' />
+                                        <Image src={native} width={32} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -86,7 +86,7 @@ const FutureReady = () => {
                                 <div className={`${styles.flutterCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Flutter App Development</h3>
-                                        <Image src={flutter} width={25} height={30} alt='Bitswits' />
+                                        <Image src={flutter} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -102,7 +102,7 @@ const FutureReady = () => {
                                 <div className={`${styles.crossCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Cross Platform App Development</h3>
-                                        <Image src={cross} width={36} height={30} alt='Bitswits' />
+                                        <Image src={cross} width={36} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -118,7 +118,7 @@ const FutureReady = () => {
                                 <div className={`${styles.webdevelopmentCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Web App Development</h3>
-                                        <Image src={webdevelopment} width={31} height={30} alt='Bitswits' />
+                                        <Image src={webdevelopment} width={31} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -138,7 +138,7 @@ const FutureReady = () => {
                                 <div className={`${styles.iosCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>IOS Application Development</h3>
-                                        <Image src={ios} width={25} height={30} alt='Bitswits' />
+                                        <Image src={ios} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -154,7 +154,7 @@ const FutureReady = () => {
                                 <div className={`${styles.andriodCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Android Application Development</h3>
-                                        <Image src={andriod} width={25} height={30} alt='Bitswits' />
+                                        <Image src={andriod} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -170,7 +170,7 @@ const FutureReady = () => {
                                 <div className={`${styles.nativeCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>React Native App Development</h3>
-                                        <Image src={native} width={32} height={30} alt='Bitswits' />
+                                        <Image src={native} width={32} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -186,7 +186,7 @@ const FutureReady = () => {
                                 <div className={`${styles.flutterCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Flutter App Development</h3>
-                                        <Image src={flutter} width={25} height={30} alt='Bitswits' />
+                                        <Image src={flutter} width={25} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -202,7 +202,7 @@ const FutureReady = () => {
                                 <div className={`${styles.crossCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Cross Platform App Development</h3>
-                                        <Image src={cross} width={36} height={30} alt='Bitswits' />
+                                        <Image src={cross} width={36} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>
@@ -218,7 +218,7 @@ const FutureReady = () => {
                                 <div className={`${styles.webdevelopmentCard} ${styles.card}`}>
                                     <div className={styles.cardTop}>
                                         <h3>Web App Development</h3>
-                                        <Image src={webdevelopment} width={31} height={30} alt='Bitswits' />
+                                        <Image src={webdevelopment} width={31} height={30} alt='Appsters' />
                                     </div>
                                     <div className="cardContent">
                                         <p>

@@ -61,22 +61,22 @@ const Partnerships = () => {
                         <Col lg={12} className={styles.trstCol}>
                             <Slider {...awardslogo} className={` ${styles.startup1}  startposition mt-2 mt-sm-4`}>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon1} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon1} className="img-fluid" />
                                 </div>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon2} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon2} className="img-fluid" />
                                 </div>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon3} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon3} className="img-fluid" />
                                 </div>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon4} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon4} className="img-fluid" />
                                 </div>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon5} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon5} className="img-fluid" />
                                 </div>
                                 <div className={styles.strpImg}>
-                                    <Image alt="BitsWits" src={icon6} className="img-fluid" />
+                                    <Image alt="Appsters" src={icon6} className="img-fluid" />
                                 </div>
                             </Slider>
                         </Col>

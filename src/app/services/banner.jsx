@@ -22,7 +22,7 @@ const Banner = ({ data }) => {
                         </Col>
                         <Col lg={5} md={5} className="my-auto">
                             <div className={styles.img}>
-                                <Image src={MobileAppIco} width={500} height={500} alt="BitsWits" />
+                                <Image src={MobileAppIco} width={500} height={500} alt="Appsters" />
                             </div>
                         </Col>
                     </Row>

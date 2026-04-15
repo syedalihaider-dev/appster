@@ -356,7 +356,7 @@ export default function gamedevelopmentcompany() {
                       No matter what type of iOS development you choose, a
                       well-designed and optimized app can help your business stand out
                       from the competition. With the right iOS and android app
-                      developer such as BitsWits, you can create an amazing user
+                      developer such as Appsters, you can create an amazing user
                       experience that will keep customers coming back for more.
                     </>
                   ),
@@ -644,7 +644,7 @@ export default function gamedevelopmentcompany() {
                       No matter what type of iOS development you choose, a
                       well-designed and optimized app can help your business stand out
                       from the competition. With the right iOS and android app
-                      developer such as BitsWits, you can create an amazing user
+                      developer such as Appsters, you can create an amazing user
                       experience that will keep customers coming back for more.
                     </>
                   ),
@@ -760,7 +760,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "iOS App Development Company",
-            "url": "https://www.bitswits.co/ios-app-development",
+            "url": "https://www.Appsters.co/ios-app-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -774,15 +774,15 @@ export default function gamedevelopmentcompany() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/ios-app-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/ios-app-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }                                                                                                
         `}
@@ -793,8 +793,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "iOS App Development Company",
-            "image": " https://www.bitswits.co/_next/static/media/1.60dbe266.png",
-            "url": " https://www.bitswits.co/ios-app-development",
+            "image": " https://www.Appsters.co/_next/static/media/1.60dbe266.png",
+            "url": " https://www.Appsters.co/ios-app-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -822,11 +822,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
           }                                                                             
         `}
@@ -837,11 +837,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "iOS App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/1.60dbe266.png",
+            "image": "https://www.Appsters.co/_next/static/media/1.60dbe266.png",
             "description": "Our iOS development team works with you to determine the ideal features, design, and user experience that will make your app a success. We also take care of all the technical details, including testing and security measures.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

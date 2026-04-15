@@ -54,7 +54,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingOne} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingOne} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -81,7 +81,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingTwo} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingTwo} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -108,7 +108,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingThree} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingThree} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -135,7 +135,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingFour} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingFour} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -162,7 +162,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingFive} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingFive} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -189,7 +189,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingSix} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingSix} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             {/* <div className={`${styles.servicesItem}`}>
@@ -216,7 +216,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingSeven} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingSeven} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -243,7 +243,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingEight} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingEight} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -270,7 +270,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingNine} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingNine} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -297,7 +297,7 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingTen} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingTen} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={`${styles.servicesItem}`}>
@@ -324,14 +324,14 @@ const CuttingEdge = () => {
                                     </div>
                                 </div>
                                 <div className={styles.serviceImage}>
-                                    <Image src={cuttingEleven} alt='Bitswits' className='img-fluid' />
+                                    <Image src={cuttingEleven} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div> */}
                         </div>
                     </Col>
                     <Col lg={3}>
                         <div className={styles.etimate}>
-                            <Image src={estimate} alt='Bitswits' className='img-fluid d-lg-block d-none' />
+                            <Image src={estimate} alt='Appsters' className='img-fluid d-lg-block d-none' />
                             <div className={styles.estimateContent}>
                                 <h3 className='font-bold manrope text-center text-white'>Estimate Your App <br /> Project's Cost Now!</h3>
                                 <div className={`${styles.etimateBtn}`}>

@@ -45,7 +45,7 @@ const Static = () => {
                                 </Row>
                             </div>
                             <div className={styles.secPartical}>
-                                <Image src={staticPartical} alt='Bitswits' />
+                                <Image src={staticPartical} alt='Appsters' />
                             </div>
                         </Col>
                     </Row>

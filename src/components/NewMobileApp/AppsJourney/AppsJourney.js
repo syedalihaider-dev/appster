@@ -88,7 +88,7 @@ const AppsJourney = ({ content, onAnchorClick }) => {
                             </Col>
                             <Col lg={7}>
                                 <div className={`d-none d-lg-block ${styles.secImage}`}>
-                                    <Image src={BannerImage} alt='Bitswits' className='img-fluid' />
+                                    <Image src={BannerImage} alt='Appsters' className='img-fluid' />
                                 </div>
                             </Col>
                         </Row>

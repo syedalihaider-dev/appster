@@ -265,7 +265,7 @@ export const ExpertiseList2 = [
 export const TechnologiesContent = {
     title: "Hire Top Developers for Your Social Media Apps",
     text: (<>
-        <p>Developers at BitsWits are skilled in creating social media apps using technologies like <Link href='/react-native-app-development'>React Native</Link>, Swift, Kotlin, and <Link href='/flutter-app-development'>Flutter</Link>.</p>
+        <p>Developers at Appsters are skilled in creating social media apps using technologies like <Link href='/react-native-app-development'>React Native</Link>, Swift, Kotlin, and <Link href='/flutter-app-development'>Flutter</Link>.</p>
         <p>They develop solutions for content sharing, messaging, real-time notifications, and user engagement features.</p>
         <p>With a focus on interactive and scalable designs, our team builds apps that enhance community interaction and maintain high levels of user engagement.</p>
         <p>Contact us to get a detailed estimate of your mobile app development project.</p>
@@ -374,8 +374,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: " BitsWits, with extensive experience, delivers social media app development services that align with your business objectives and boost customer retention."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: " Appsters, with extensive experience, delivers social media app development services that align with your business objectives and boost customer retention."
 }
 
 export const WhyChooseList1 = [
@@ -491,26 +491,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -741,7 +741,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -829,7 +829,7 @@ export const FaqsList = [
         txt: "Yes, we can integrate a variety of third-party services into your social media app, including payment gateways, analytics tools, social media sharing features, and more. This allows your app to offer enhanced functionality and a seamless user experience across different platforms."
     },
     {
-        title: "Why should I choose BitsWits as my social media app development company?",
+        title: "Why should I choose Appsters as my social media app development company?",
         txt: "As a leading social media app development company, we bring extensive experience, cutting-edge technology, and a client-focused approach to every project. We prioritize understanding your unique needs and delivering custom solutions that align with your business goals and enhance user engagement."
     },
     {
@@ -856,14 +856,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -871,7 +871,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

@@ -20,8 +20,8 @@ export default function Testimonailslider() {
         slidesToScroll: 1,
         centerMode: false,
         variableWidth: false,
-        nextArrow: <Image src={right} alt='BitsWits' className='img-fluid' />,
-        prevArrow: <Image src={left} alt='BitsWits' className='img-fluid' />,
+        nextArrow: <Image src={right} alt='Appsters' className='img-fluid' />,
+        prevArrow: <Image src={left} alt='Appsters' className='img-fluid' />,
         responsive: [
             {
                 breakpoint: 1024,
@@ -46,21 +46,21 @@ export default function Testimonailslider() {
                     </Row>
                     <Slider {...clientsthink} className={`${styles.clintSlider} clintSlider1`}>
                         <div>
-                            <Image alt="BitsWits" className='img-fluid'
+                            <Image alt="Appsters" className='img-fluid'
                                 src={slideImg1}
                             />
                             <h3>Bryce Carlos</h3>
                             <h5>Soul Sound</h5>
                             <h4>Co-Founder</h4>
                             <p>
-                                BitsWits was a lifesaver for our business. We needed to create an app that could be used
+                                Appsters was a lifesaver for our business. We needed to create an app that could be used
                                 on multiple platforms, but we didn’t have a lot of technical know-how or additional
                                 development resources. Their team made it easy for us and delivered exactly what we
                                 needed. They stayed on top of our project and kept us informed throughout the process.
                             </p>
                         </div>
                         <div>
-                            <Image alt="BitsWits" className='img-fluid'
+                            <Image alt="Appsters" className='img-fluid'
                                 src={slideImg2}
                             />
                             <h3>Aden Ward</h3>
@@ -68,19 +68,19 @@ export default function Testimonailslider() {
                             <h4>CEO</h4>
                             <p>
                                 We hired mobile app developers to create a completely new mobile app for our company.
-                                The team at BitsWits was really professional, efficient, and knowledgeable in the latest
+                                The team at Appsters was really professional, efficient, and knowledgeable in the latest
                                 technologies and trends. We couldn't be happier with the results and will definitely be recommending them to anyone looking for top-notch mobile app development company.
                             </p>
                         </div>
                         <div>
-                            <Image alt="BitsWits" className='img-fluid'
+                            <Image alt="Appsters" className='img-fluid'
                                 src={slideImg3}
                             />
                             <h3>Winnie Brooks</h3>
                             <h5>Mark Place</h5>
                             <h4>Founder and CEO</h4>
                             <p>
-                                Hiring Flutter app developers from BitsWits was one of the best decisions I have ever
+                                Hiring Flutter app developers from Appsters was one of the best decisions I have ever
                                 made. They are highly skilled and knowledgeable professionals who understand customer needs and deliver well-crafted solutions to us. Overall, we are extremely satisfied with their service and highly recommend them to anyone looking for reliable and cost-effective Flutter solutions.
                             </p>
                         </div>

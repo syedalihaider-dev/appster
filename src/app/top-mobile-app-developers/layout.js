@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Top Mobile Application Developers | Top mobile app developers',
     description: 'From ideation to launch, our top mobile app developers provides end-to-end services that ensure your app is a success.',
     url: '/mobile-application-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

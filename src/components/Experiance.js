@@ -80,9 +80,9 @@ const Experiance = (props) => {
           <Row className={styles.super}>
             <Col xl={12}>
               <h2 className="white font50 f-700  mb-3 center">From Vision to Reality: Leading Mobile Application Development Company in Dubai</h2>
-              <p className="font16 font-normal white center">At BitsWits, we excel in creating digital products that help big companies stand out and empower startups to make a quick and meaningful difference. Our secret to success lies in the passion and dedication of our handpicked team of app developers and designers in Dubai. We do not just execute tasks; we share our clients' visions and collaborate to refine, test, and cultivate ideas that drive success.</p>
+              <p className="font16 font-normal white center">At Appsters, we excel in creating digital products that help big companies stand out and empower startups to make a quick and meaningful difference. Our secret to success lies in the passion and dedication of our handpicked team of app developers and designers in Dubai. We do not just execute tasks; we share our clients' visions and collaborate to refine, test, and cultivate ideas that drive success.</p>
               <p className="font16 font-normal white  mb-5 center">Our team is driven by a shared passion to help clients discover unique pathways to triumph in the competitive market. We have carefully curated a group of in-house developers, designers, and other professionals who are not just skilled but also deeply committed to every project they undertake.</p>
-              <p className="font16 font-normal white  mb-5 center">With a collaborative approach at the core of our work, we ensure that every aspect of app development is a shared journey toward achieving your goals. At BitsWits, we are more than just a mobile application development company in Dubai; we are your partners in innovation and success.</p>
+              <p className="font16 font-normal white  mb-5 center">With a collaborative approach at the core of our work, we ensure that every aspect of app development is a shared journey toward achieving your goals. At Appsters, we are more than just a mobile application development company in Dubai; we are your partners in innovation and success.</p>
             </Col>
           </Row>
           {isSliderActive ?

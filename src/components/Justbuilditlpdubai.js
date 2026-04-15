@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { Container, Row, Col, Modal } from "react-bootstrap";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 import styles from "@/styles/Justbuilditlpdubai.module.css";
 //
@@ -133,7 +133,7 @@ const Justbuilditlpdubai = (props) => {
       {/* Modal Start*/}
       <Modal show={show} onHide={closemodal} className={styles.modalnew}>
         <Modal.Body>
-          <Bitswitspopup formsaspire='popquote' />
+          <Appsterspopup formsaspire='popquote' />
           <span onClick={closemodal} className={styles.cross}>
             <RxCross2 />
           </span>

@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "App Development Company | Professional App Developers",
-  description: "BitsWits is a leading app development company with a team of expert app developers that specialize in creating innovative and customized mobile applications.",
+  description: "Appsters is a leading app development company with a team of expert app developers that specialize in creating innovative and customized mobile applications.",
   //===== OG Tags =====
   openGraph: {
     title: 'App Development Company | Professional App Developers',
-    description: 'BitsWits is a leading app development company with a team of expert app developers that specialize in creating innovative and customized mobile applications.',
+    description: 'Appsters is a leading app development company with a team of expert app developers that specialize in creating innovative and customized mobile applications.',
     url: '/portfolio',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

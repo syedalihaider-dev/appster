@@ -24,8 +24,8 @@ export default function ThankYou() {
       {pageLoaded &&
         <>
           {/* <!-- Event snippet for Website lead conversion page --> */}
-          <Script>
-            {`gtag('event', 'conversion', {'send_to': 'AW-11114809734/O9snCOO5m5EYEIaT-rMp'});`}
+          <Script id="gtag-conversion-new">
+            {`gtag('event', 'conversion', {'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'});`}
           </Script>
         </>
       }

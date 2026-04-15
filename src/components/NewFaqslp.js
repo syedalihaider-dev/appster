@@ -86,7 +86,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -96,7 +96,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -112,7 +112,7 @@ const NewFaqslp = () => {
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>
@@ -121,13 +121,13 @@ const NewFaqslp = () => {
               <div className={`${faq2show ? "touchFaq" : ""} mb-4 mb-lg-0`}>
                 <div onClick={faq2} className={styles.heading}>
                   <h3>
-                    Does BitsWits offer hybrid and native app development?{" "}
+                    Does Appsters offer hybrid and native app development?{" "}
                     {faq2show ? (
                       <span className={styles.plus}>
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -137,7 +137,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -148,12 +148,12 @@ const NewFaqslp = () => {
 
                 <div className={faq2show ? "d-block" : "d-none"}>
                   <p>
-                    BitsWits has a team of the best mobile app developers expert in providing customized development solutions, whether Hybrid or Native mobile application development is required. Our developers always come up with creative and innovative app ideas that are best in your interest.
+                    Appsters has a team of the best mobile app developers expert in providing customized development solutions, whether Hybrid or Native mobile application development is required. Our developers always come up with creative and innovative app ideas that are best in your interest.
                   </p>
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>
@@ -162,13 +162,13 @@ const NewFaqslp = () => {
               <div className={`${faq3show ? "touchFaq" : ""} mb-4 mb-lg-0`}>
                 <div onClick={faq3} className={styles.heading}>
                   <h3>
-                    Why choose BitsWits as a mobile app development company?{" "}
+                    Why choose Appsters as a mobile app development company?{" "}
                     {faq3show ? (
                       <span className={styles.plus}>
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -178,7 +178,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -189,12 +189,12 @@ const NewFaqslp = () => {
 
                 <div className={faq3show ? "d-block" : "d-none"}>
                   <p>
-                    BitsWits is a top mobile app development company due to its decent clientele, commitment to excellence, and innovative mobile app development solutions. We enjoy the top spot in the application development industry with affordable packages and professional services.
+                    Appsters is a top mobile app development company due to its decent clientele, commitment to excellence, and innovative mobile app development solutions. We enjoy the top spot in the application development industry with affordable packages and professional services.
                   </p>
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>
@@ -209,7 +209,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -219,7 +219,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -230,12 +230,12 @@ const NewFaqslp = () => {
 
                 <div className={faq4show ? "d-block" : "d-none"}>
                   <p>
-                    Yes, BitsWits offers 24/7 incredible customer support, even post-mobile apps development USA. We do not let our customers hang in the middle with any query that may bring trouble to them.
+                    Yes, Appsters offers 24/7 incredible customer support, even post-mobile apps development USA. We do not let our customers hang in the middle with any query that may bring trouble to them.
                   </p>
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>
@@ -250,7 +250,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -260,7 +260,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -271,12 +271,12 @@ const NewFaqslp = () => {
 
                 <div className={faq5show ? "d-block" : "d-none"}>
                   <p>
-                    Checking client portfolios, communicating your requirements clearly, and considering the development cost will help you choose the best mobile app development agency. BitsWits practices open communication so that the solution to your query is answered adequately to provide you with the utmost satisfaction.
+                    Checking client portfolios, communicating your requirements clearly, and considering the development cost will help you choose the best mobile app development agency. Appsters practices open communication so that the solution to your query is answered adequately to provide you with the utmost satisfaction.
                   </p>
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>
@@ -285,13 +285,13 @@ const NewFaqslp = () => {
               <div className={faq6show ? "touchFaq" : ""}>
                 <div onClick={faq6} className={styles.heading}>
                   <h3>
-                    What industries does BitsWits cater to?{" "}
+                    What industries does Appsters cater to?{" "}
                     {faq6show ? (
                       <span className={styles.plus}>
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={open}
                           className="img-fluid"
                         />{" "}
@@ -301,7 +301,7 @@ const NewFaqslp = () => {
                         {" "}
                         <Image
                           quality={75}
-                          alt='BitsWits'
+                          alt='Appsters'
                           src={close}
                           className="img-fluid"
                         />{" "}
@@ -312,12 +312,12 @@ const NewFaqslp = () => {
 
                 <div className={faq6show ? "d-block" : "d-none"}>
                   <p>
-                    At BitsWits, we specialize in developing innovative and efficient mobile applications for various industries across the United States. We offer customized mobile solutions from e-commerce to healthcare and gaming to meet each client's specific requirements and business. We are a mobile application development company dedicated to creating apps that cater to each client's unique needs.
+                    At Appsters, we specialize in developing innovative and efficient mobile applications for various industries across the United States. We offer customized mobile solutions from e-commerce to healthcare and gaming to meet each client's specific requirements and business. We are a mobile application development company dedicated to creating apps that cater to each client's unique needs.
                   </p>
                   <div className="mt-2">
                     <a href='javascript:window.replaceChat();'>
                       Let's Start
-                      <Image alt="BitsWits" className="img-fluid" src={arrow} />
+                      <Image alt="Appsters" className="img-fluid" src={arrow} />
                     </a>
                   </div>
                 </div>

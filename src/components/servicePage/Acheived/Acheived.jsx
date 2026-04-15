@@ -59,7 +59,7 @@ const Acheived = () => {
                     <Col lg={12}>
                         <div className="txt">
                             <h2 className='text-center manrope font-bold mb-xl-3'>We Architect the <span className='newfycolr'>Future of Gaming!</span></h2>
-                            <p className='font16 text-black font-medium text-center manrope mb-5 pb-3'>At BitsWits, our passion for innovation to excellence sets us apart in 3D game development. We create <br className='d-lg-block d-none' /> engaging experiences that redefine gaming, ensuring our clients stay ahead in the industry.</p>
+                            <p className='font16 text-black font-medium text-center manrope mb-5 pb-3'>At Appsters, our passion for innovation to excellence sets us apart in 3D game development. We create <br className='d-lg-block d-none' /> engaging experiences that redefine gaming, ensuring our clients stay ahead in the industry.</p>
                         </div>
                     </Col>
                 </Row>
@@ -68,64 +68,64 @@ const Acheived = () => {
                 <Col lg={12}>
                     <Slider {...acheivedSlider} className={`acheivedSlider ${styles.acheivedSlider}`}>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider2} alt="Bitswits" className='mx-auto' />
+                            <Image src={Slider2} alt="Appsters" className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider3} alt="Bitswits" className='mx-auto' />
+                            <Image src={Slider3} alt="Appsters" className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider1} alt="Bitswits" className='mx-auto' />
+                            <Image src={Slider1} alt="Appsters" className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider5} alt="Bitswits" width={120} height={100} className='mx-auto' />
+                            <Image src={Slider5} alt="Appsters" width={120} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider6} alt="Bitswits" width={123} height={100} className='mx-auto' />
+                            <Image src={Slider6} alt="Appsters" width={123} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider7} alt="Bitswits" width={90} height={100} className='mx-auto' />
+                            <Image src={Slider7} alt="Appsters" width={90} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider12} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                            <Image src={Slider12} alt="Appsters" width={100} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider13} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                            <Image src={Slider13} alt="Appsters" width={100} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider8} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                            <Image src={Slider8} alt="Appsters" width={102} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider9} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                            <Image src={Slider9} alt="Appsters" width={102} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider10} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                            <Image src={Slider10} alt="Appsters" width={100} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider1} alt="Bitswits" className='mx-auto' />
+                            <Image src={Slider1} alt="Appsters" className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider2} alt="Bitswits" className='mx-auto' />
+                            <Image src={Slider2} alt="Appsters" className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider3} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                            <Image src={Slider3} alt="Appsters" width={100} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider5} alt="Bitswits" width={120} height={100} className='mx-auto' />
+                            <Image src={Slider5} alt="Appsters" width={120} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider6} alt="Bitswits" width={123} height={100} className='mx-auto' />
+                            <Image src={Slider6} alt="Appsters" width={123} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider7} alt="Bitswits" width={90} height={100} className='mx-auto' />
+                            <Image src={Slider7} alt="Appsters" width={90} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider8} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                            <Image src={Slider8} alt="Appsters" width={102} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider9} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                            <Image src={Slider9} alt="Appsters" width={102} height={100} className='mx-auto' />
                         </div>
                         <div className='px-2 px-lg-1'>
-                            <Image src={Slider10} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                            <Image src={Slider10} alt="Appsters" width={100} height={100} className='mx-auto' />
                         </div>
                     </Slider>
                 </Col>

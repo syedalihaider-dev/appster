@@ -393,7 +393,7 @@ const CalculatorScreen = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -483,49 +483,49 @@ const CalculatorScreen = () => {
                                     <div className={styles.progressBar}>
                                         <div className={`${styles.bar} ${currentStep > 0 ? styles.done : currentStep === 0 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>START</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 1 ? styles.done : currentStep === 1 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>FEATURES</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 2 ? styles.done : currentStep === 2 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>USERS</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 3 ? styles.done : currentStep === 3 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>INTEGRATIONS</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 4 ? styles.done : currentStep === 4 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>MONETIZATION</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 5 ? styles.done : currentStep === 5 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>MAINTENANCE <br /> & HOSTING</p>
                                         </div>
                                         <div className={`${styles.bar} ${currentStep > 6 ? styles.done : currentStep === 6 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>BUILDFIRE <br /> SERVICES</p>
                                         </div>
                                         <div className={`${styles.bar} ${styles.barLast} ${currentStep > 7 ? styles.done : currentStep === 7 ? styles.active : ''}`}>
                                             <span>
-                                                <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                                <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                             </span>
                                             <p>ESTIMATION</p>
                                         </div>
@@ -1192,7 +1192,7 @@ const CalculatorScreen = () => {
                                                         />
                                                         <label htmlFor="enterprise" className={styles.checkboxLabel}>
                                                             <div className={styles.imgBox}>
-                                                                <Image src={box1} alt='BitsWits' className={`img-fluid`} />
+                                                                <Image src={box1} alt='Appsters' className={`img-fluid`} />
                                                             </div>
                                                             <h4>Enterprise</h4>
                                                             <p>Premium support and functionality to maximize the business value of your app.</p>
@@ -1215,7 +1215,7 @@ const CalculatorScreen = () => {
                                                         />
                                                         <label htmlFor="business" className={styles.checkboxLabel}>
                                                             <div className={styles.imgBox}>
-                                                                <Image src={box2} alt='BitsWits' className={`img-fluid`} />
+                                                                <Image src={box2} alt='Appsters' className={`img-fluid`} />
                                                             </div>
                                                             <h4>Business</h4>
                                                             <p>Additional capabilities to get more out of your app.</p>
@@ -1238,7 +1238,7 @@ const CalculatorScreen = () => {
                                                         />
                                                         <label htmlFor="growth" className={styles.checkboxLabel}>
                                                             <div className={`${styles.imgBox} ${styles.imgBox3}`}>
-                                                                <Image src={box3} alt='BitsWits' className={`img-fluid`} />
+                                                                <Image src={box3} alt='Appsters' className={`img-fluid`} />
                                                             </div>
                                                             <h4>Growth</h4>
                                                             <p>The basics needed to get you started with a business app.</p>
@@ -1411,7 +1411,7 @@ const CalculatorScreen = () => {
                                                         />
                                                         <label htmlFor="premium" className={styles.checkboxLabel}>
                                                             <div className={styles.imgBox}>
-                                                                <Image src={setup1} alt='BitsWits' className={`img-fluid`} />
+                                                                <Image src={setup1} alt='Appsters' className={`img-fluid`} />
                                                             </div>
                                                             <div className={styles.costBox2}>
                                                                 <p className={styles.cost}>
@@ -1421,12 +1421,12 @@ const CalculatorScreen = () => {
                                                                 <p>starting at</p>
                                                             </div>
                                                             <h4>Premium Setup</h4>
-                                                            <p>BitsWits’s signature package covers every small detail you need to get a high-quality app published to the world.</p>
+                                                            <p>Appsters’s signature package covers every small detail you need to get a high-quality app published to the world.</p>
                                                             <div className={styles.costBox3}>
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg1} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg1} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>App Design Mockups</h5>
                                                                         </div>
                                                                         <ul>
@@ -1438,7 +1438,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg2} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg2} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>App Size / Setup</h5>
                                                                         </div>
                                                                         <ul>
@@ -1451,7 +1451,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg3} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg3} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Expert Assistance</h5>
                                                                         </div>
                                                                         <ul>
@@ -1462,7 +1462,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg4} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg4} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Marketing Materials</h5>
                                                                         </div>
                                                                         <ul>
@@ -1476,7 +1476,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg5} alt='BitsWits' className={`${styles.imgMock} img-fluid`} />
+                                                                            <Image src={mockImg5} alt='Appsters' className={`${styles.imgMock} img-fluid`} />
                                                                             <h5>Integrations</h5>
                                                                         </div>
                                                                         <ul>
@@ -1489,7 +1489,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg6} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg6} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Advanced Functionality</h5>
                                                                         </div>
                                                                         <ul>
@@ -1510,7 +1510,7 @@ const CalculatorScreen = () => {
                                                         />
                                                         <label htmlFor="signature" className={styles.checkboxLabel}>
                                                             <div className={styles.imgBox}>
-                                                                <Image src={setup2} alt='BitsWits' className={`img-fluid`} />
+                                                                <Image src={setup2} alt='Appsters' className={`img-fluid`} />
                                                             </div>
                                                             <div className={styles.costBox2}>
                                                                 <p className={styles.cost}>
@@ -1520,12 +1520,12 @@ const CalculatorScreen = () => {
                                                                 <p>starting at</p>
                                                             </div>
                                                             <h4>Signature Setup</h4>
-                                                            <p>BitsWits’s signature package covers every small detail you need to get a high-quality app published to the world.</p>
+                                                            <p>Appsters’s signature package covers every small detail you need to get a high-quality app published to the world.</p>
                                                             <div className={styles.costBox3}>
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg1} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg1} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>App Design Mockups</h5>
                                                                         </div>
                                                                         <ul>
@@ -1537,7 +1537,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg2} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg2} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>App Size / Setup</h5>
                                                                         </div>
                                                                         <ul>
@@ -1550,7 +1550,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg3} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg3} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Expert Assistance</h5>
                                                                         </div>
                                                                         <ul>
@@ -1561,7 +1561,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg4} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg4} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Marketing Materials</h5>
                                                                         </div>
                                                                         <ul>
@@ -1575,7 +1575,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg5} alt='BitsWits' className={`${styles.imgMock} img-fluid`} />
+                                                                            <Image src={mockImg5} alt='Appsters' className={`${styles.imgMock} img-fluid`} />
                                                                             <h5>Integrations</h5>
                                                                         </div>
                                                                         <ul>
@@ -1588,7 +1588,7 @@ const CalculatorScreen = () => {
                                                                 <div className={styles.costBox4}>
                                                                     <div className={styles.listBox}>
                                                                         <div className={styles.headBox}>
-                                                                            <Image src={mockImg6} alt='BitsWits' className={`img-fluid`} />
+                                                                            <Image src={mockImg6} alt='Appsters' className={`img-fluid`} />
                                                                             <h5>Advanced Functionality</h5>
                                                                         </div>
                                                                         <ul>

@@ -81,7 +81,7 @@ const Formnewlpdubai = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -164,14 +164,14 @@ const Formnewlpdubai = () => {
                             <h2 className='newchoose fontf fw700 white mb-3 text-center'>
                                 Start Your Mobile App Development <br /> Journey with Us?
                             </h2>
-                            <p className='font16 font-normal white text-center mb-0'>Excited to turn your app concept into reality? Get in touch for a detailed consultation. We're keen to explore your project <br /> and demonstrate how our assistance can make a difference. Choosing Bitswits means partnering with a team <br /> dedicated to your app's success</p>
+                            <p className='font16 font-normal white text-center mb-0'>Excited to turn your app concept into reality? Get in touch for a detailed consultation. We're keen to explore your project <br /> and demonstrate how our assistance can make a difference. Choosing Appsters means partnering with a team <br /> dedicated to your app's success</p>
                         </Col>
                     </Row>
                     <Row className={`gy-5 ${styles.patt}`}>
                         <Col xl={6} className='mt-3 mt-md-4 mt-lg-5'>
                             <div className={styles.star}>
                                 <h2 className='font60 white fw600'> Let’s Talk About Your Project</h2>
-                                <p className='white'>Ready to turn your app idea into a reality? <span>Bitswits</span> is here to make it happen! Whether you're in the  <span>USA, Canada, GCC,</span> or the <span>UK,</span> our team is geared up to bring your vision to life. Our straightforward <span>approach</span> starts with a conversation about your project. No jargon, no <span>complicated terms</span>  – just a friendly chat to understand what you need. We're all ears, <span>ready to discuss your goals</span> . All you need to do is give that <span>“Get in Touch”</span> button a cheeky little click!.</p>
+                                <p className='white'>Ready to turn your app idea into a reality? <span>Appsters</span> is here to make it happen! Whether you're in the  <span>USA, Canada, GCC,</span> or the <span>UK,</span> our team is geared up to bring your vision to life. Our straightforward <span>approach</span> starts with a conversation about your project. No jargon, no <span>complicated terms</span>  – just a friendly chat to understand what you need. We're all ears, <span>ready to discuss your goals</span> . All you need to do is give that <span>“Get in Touch”</span> button a cheeky little click!.</p>
                             </div>
 
                         </Col>

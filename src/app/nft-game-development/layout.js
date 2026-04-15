@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "NFT Game Development Company | NFT Game Developers",
-  description: "Looking for a top-tier NFT game development company? Our NFT game developers at BitsWits, have the expertise to create games that engage players on every level.",
+  description: "Looking for a top-tier NFT game development company? Our NFT game developers at Appsters, have the expertise to create games that engage players on every level.",
   //===== OG Tags =====
   openGraph: {
     title: 'NFT Game Development Company | NFT Game Developers',
-    description: 'Looking for a top-tier NFT game development company? Our NFT game developers at BitsWits, have the expertise to create games that engage players on every level.',
+    description: 'Looking for a top-tier NFT game development company? Our NFT game developers at Appsters, have the expertise to create games that engage players on every level.',
     url: '/nft-game-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

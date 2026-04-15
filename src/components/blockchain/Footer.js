@@ -27,7 +27,7 @@ const Footer = () => {
                             <ul>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={email} alt="Blockchain" className="img-fluid" />
-                                    <span><a className="d-block mb-1" href="mailto:info@BitsWits.co"> CONTACT EMAIL</a> </span>
+                                    <span><a className="d-block mb-1" href="mailto:info@Appsters.co"> CONTACT EMAIL</a> </span>
                                 </li>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={usa} alt="Blockchain" className="img-fluid" />

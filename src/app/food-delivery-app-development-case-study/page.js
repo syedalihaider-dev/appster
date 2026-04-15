@@ -74,7 +74,7 @@ export default function FoodDelivery() {
             title: <>Food Delivery <span>Solution</span></>,
             text: [
               <>
-                <i>Crave Courier</i>, a BitsWits creation, is a food delivery app. It streamlines the process: select from local eateries, place your order, and savor restaurant-quality dishes brought straight to you. A convenient, fuss-free solution for your dining desires.
+                <i>Crave Courier</i>, a Appsters creation, is a food delivery app. It streamlines the process: select from local eateries, place your order, and savor restaurant-quality dishes brought straight to you. A convenient, fuss-free solution for your dining desires.
               </>,
               <>
                 With a user-friendly interface and the ability to save preferred meal choices, we've created an efficient platform for a superior eating experience.
@@ -97,7 +97,7 @@ export default function FoodDelivery() {
             title: <>The <span>Starting</span> Point</>,
             text: [
               <>Crave Courier began when a group of food lovers saw how busy life can be in a big city. They wanted to make it easy for people to enjoy delicious food from local restaurants without the hassle. So, they came up with the idea of an app that lets you pick what you want to eat, place your order, and have it delivered right to your door.</>,
-              <>To create a user-friendly and highly convenient app for an average person, the founders of Crave Courier recognized the need for professional expertise and they wisely brought BitsWits into the fold, for design, development, and the integration of AI technology.</>,
+              <>To create a user-friendly and highly convenient app for an average person, the founders of Crave Courier recognized the need for professional expertise and they wisely brought Appsters into the fold, for design, development, and the integration of AI technology.</>,
             ],
           },
         ]}
@@ -146,11 +146,11 @@ export default function FoodDelivery() {
           },
         ]}
         wantImg3={tackling}
-        lastPara={<> BitsWits' proactive approach to problem solving and constant commitment to technology refinement played an important role in ensuring the efficiency and user satisfaction. Through our vigilant problem-solving mindset, we promptly sought solutions and made sure Crave Courier stands as a leading app in the food delivery industry. </>}
+        lastPara={<> Appsters' proactive approach to problem solving and constant commitment to technology refinement played an important role in ensuring the efficiency and user satisfaction. Through our vigilant problem-solving mindset, we promptly sought solutions and made sure Crave Courier stands as a leading app in the food delivery industry. </>}
       />
       <CaseGoal
         golImg={goalImg}
-        title={<> Start Your App Development Journey <br /> Effortlessly; Let <span>Bitswits Be Your <br /> Savior</span> With A Quick Tap! </>}
+        title={<> Start Your App Development Journey <br /> Effortlessly; Let <span>Appsters Be Your <br /> Savior</span> With A Quick Tap! </>}
         goalClass='cravecourier'
       />
       <CaseOvercoming
@@ -165,7 +165,7 @@ export default function FoodDelivery() {
           },
           {
             title: (<> On-Time Delivery - <br /> Every Time </>),
-            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.',
+            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.',
           },
           {
             title: (<> Erasing <br /> Time-zone Barriers </>),
@@ -173,11 +173,11 @@ export default function FoodDelivery() {
           },
           {
             title: (<> Efficient <br /> Communication </>),
-            description: 'BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
+            description: 'Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
           },
           {
             title: (<> Addressing <br /> Payment Disputes </>),
-            description: (<> At BitsWits, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
+            description: (<> At Appsters, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
           },
         ]}
       />
@@ -198,7 +198,7 @@ export default function FoodDelivery() {
         service5={service5}
       />
       <CaseChoose
-        title={<> <span>Why Trust <br /> BitsWits</span> with App <br /> Development? </>}
+        title={<> <span>Why Trust <br /> Appsters</span> with App <br /> Development? </>}
         text1={<> We stand as the primary choice for mobile app development, exemplifying excellence in a dynamic field. Our team combines creativity and the most suitable tech stack to develop customized app solutions. </>}
         text2={<> Our track record of delivering on time and within budget, coupled with a commitment to staying ahead of industry trends, sets us apart as the best partner for mobile app development. </>}
         items={[

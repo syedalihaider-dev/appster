@@ -82,7 +82,7 @@ const NewAddress = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -169,7 +169,7 @@ const NewAddress = () => {
                                     <div className={styles.menu}>
                                         <a className={`${styles.book} ${styles.book2}`} href='javascript:window.replaceChat();'>
                                             Avail My Free Session.
-                                            <Image alt="BitsWits" src={arrow} className='img-fluid ms-2' />
+                                            <Image alt="Appsters" src={arrow} className='img-fluid ms-2' />
                                         </a>
                                     </div>
                                 </div>
@@ -207,7 +207,7 @@ const NewAddress = () => {
                                             </div>
                                             <div className={styles.locInner}>
                                                 <div className={styles.locImg}>
-                                                    <Image alt="BitsWits" src={icon11} className='img-fluid' />
+                                                    <Image alt="Appsters" src={icon11} className='img-fluid' />
                                                 </div>
                                                 <div className={styles.subInner}>
                                                     <p className='font12 font-bold fontf mb-0'>USA</p>
@@ -218,7 +218,7 @@ const NewAddress = () => {
                                             </div>
                                             <div className={` ${styles.locInner} mt-2 mb-2 `}>
                                                 <div className={styles.locImg}>
-                                                    <Image alt="BitsWits" src={icon12} className='img-fluid' />
+                                                    <Image alt="Appsters" src={icon12} className='img-fluid' />
                                                 </div>
                                                 <div className={styles.subInner}>
                                                     <p className='font12 font-bold fontf mb-0'>Middle East</p>
@@ -229,7 +229,7 @@ const NewAddress = () => {
                                             </div>
                                             <div className={styles.locInner}>
                                                 <div className={styles.locImg}>
-                                                    <Image alt="BitsWits" src={icon14} className='img-fluid' />
+                                                    <Image alt="Appsters" src={icon14} className='img-fluid' />
                                                 </div>
                                                 <div className={styles.subInner}>
                                                     <p className='font12 font-bold fontf mb-0'>Asia</p>

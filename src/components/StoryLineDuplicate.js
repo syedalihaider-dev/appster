@@ -63,11 +63,11 @@ const StoryLineDuplicate = ({ content }) => {
                                             <span>
                                                 {activeIndex === index ?
                                                     <div className={styles.nonActiveArrow}>
-                                                        <Image src={arrow} priority width={10} height={10} className="w-[40%]" alt="bitswits" />
+                                                        <Image src={arrow} priority width={10} height={10} className="w-[40%]" alt="Appsters" />
                                                     </div>
                                                     :
                                                     <div className={styles.isActiveArrow}>
-                                                        <Image src={arrow} priority width={10} height={10} className="w-[40%] rotate-180 invert" alt="bitswits" />
+                                                        <Image src={arrow} priority width={10} height={10} className="w-[40%] rotate-180 invert" alt="Appsters" />
                                                     </div>
                                                 }
                                             </span>
@@ -89,7 +89,7 @@ const StoryLineDuplicate = ({ content }) => {
                         <div>
                             {activeIndex !== null && (
                                 <figure className="relative">
-                                    <Image priority className={`img-fluid mt-sm-0 mt-5 ${styles.storyLineImages}`} src={accordionData[activeIndex].StoryLineImg} alt="bitswits" />
+                                    <Image priority className={`img-fluid mt-sm-0 mt-5 ${styles.storyLineImages}`} src={accordionData[activeIndex].StoryLineImg} alt="Appsters" />
                                 </figure>
                             )}
                         </div>

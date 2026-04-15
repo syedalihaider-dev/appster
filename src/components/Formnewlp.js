@@ -110,7 +110,7 @@ const Formnewlp = () => {
       };
       let bodyContent = JSON.stringify({
         IP: `${ip.ip} - ${ip.city} - ${ip.country}`,
-        Brand: "BitsWits",
+        Brand: "Appsters",
         Page: `${currentRoute}`,
         Date: currentdate,
         Time: currentdate,
@@ -186,7 +186,7 @@ const Formnewlp = () => {
                 Excited to turn your app concept into reality? Get in touch for
                 a detailed consultation. We're keen to explore your project{" "}
                 <br /> and demonstrate how our assistance can make a difference.
-                Choosing Bitswits means partnering with a team <br /> dedicated
+                Choosing Appsters means partnering with a team <br /> dedicated
                 to your app's success
               </p>
             </Col>

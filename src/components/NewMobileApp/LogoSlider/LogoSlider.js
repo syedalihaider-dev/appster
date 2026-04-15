@@ -132,7 +132,7 @@ const LogoSlider = (props) => {
                             <Slider {...leftSlider} className='mb-3'>
                                 {tabLeft.map((item, index) => (
                                     <div className={`${styles.sliderImage} d-flex justify-content-center `}>
-                                        <Image alt="BitsWits" src={item.image} className="img-fluid" />
+                                        <Image alt="Appsters" src={item.image} className="img-fluid" />
                                     </div>
                                 ))}
                             </Slider>
@@ -141,7 +141,7 @@ const LogoSlider = (props) => {
                             <Slider {...rightSlider} className='mt-5'>
                                 {tabRight.map((item, index) => (
                                     <div className={`${styles.sliderImage} d-flex justify-content-center `}>
-                                        <Image alt="BitsWits" src={item.image} className="img-fluid" />
+                                        <Image alt="Appsters" src={item.image} className="img-fluid" />
                                     </div>
                                 ))}
                             </Slider>
@@ -150,7 +150,7 @@ const LogoSlider = (props) => {
                             <div className={styles.btn}>
                                 <Link href="#form" className='d-flex align-items-center gap-3 pink'>
                                     Free Consultation
-                                    <Image src={btnArrow} alt='Bitswits' width={24} height={12} />
+                                    <Image src={btnArrow} alt='Appsters' width={24} height={12} />
                                 </Link>
                             </div>
                         </Col>

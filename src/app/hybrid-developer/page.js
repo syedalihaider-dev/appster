@@ -176,7 +176,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 
@@ -196,7 +196,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 
@@ -216,7 +216,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 
@@ -236,7 +236,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 
@@ -256,7 +256,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 
@@ -276,7 +276,7 @@ export default function HybridDeveloper() {
               text: [
                 "Hiring our extravagant Hybrid app developer will bring an extra edge to your business by designing exceptionally remarkable apps. Once you choose our services, all your burden is ours and we assure you the best iPad and Hybrid app solutions suitable to your business.",
 
-                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer BitsWits team to keep you buoyant whole app development cycle.",
+                "We are liable to your queries and will provide you with the most decent Hybrid app development services yet classy for the users. Hire Hybrid developer Appsters team to keep you buoyant whole app development cycle.",
 
                 "Our Hybrid app development cycle includes a diverse range of meticulously design strategies that brings 100% client satisfaction. We include our clients in the development process to reduce the error rate by up to 95%. Yet we make sure that our post-development services always leave clients with happy faces.",
 

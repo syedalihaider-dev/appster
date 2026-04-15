@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Col, Modal, Row } from 'react-bootstrap'
 import styles from "@/styles/futureReadyDubai.module.css"
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 
 const FutureReady = ({ content }) => {
@@ -68,7 +68,7 @@ const FutureReady = ({ content }) => {
             {/* Modal Start*/}
             <Modal show={show} onHide={closemodal} className={styles.modalnew}>
                 <Modal.Body>
-                    <Bitswitspopup formsaspire="popquote" />
+                    <Appsterspopup formsaspire="popquote" />
                     <span onClick={closemodal} className={styles.cross}>
                         <RxCross2 />
                     </span>

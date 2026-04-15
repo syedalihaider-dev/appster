@@ -37,7 +37,7 @@ const Globalmap = ({ content }) => {
               <a href={link} target="_blank">
                 <Image
                   src={image}
-                  alt="Bitswits"
+                  alt="Appsters"
                   loading="lazy"
                   sizes="100vw"
                   width={700}

@@ -151,7 +151,7 @@ export default function gamedevelopmentcompany() {
         title={<> Android App Development Company </>}
         text={
           <>
-            At BitsWits, we specialize in creating custom-crafted Android
+            At Appsters, we specialize in creating custom-crafted Android
             applications that meet our customer's needs. Our android app
             development team firmly believes that no two businesses are the
             same, and neither should their apps be.
@@ -323,7 +323,7 @@ export default function gamedevelopmentcompany() {
                       Android, developers can create powerful apps that have the
                       potential to revolutionize the way we use mobile devices today.
                       So, get ready to take full advantage of this amazing platform
-                      and join the world of Android development now with BitsWits! We
+                      and join the world of Android development now with Appsters! We
                       are experts in serving you in android and iOS app development.
                     </>
                   ),
@@ -362,7 +362,7 @@ export default function gamedevelopmentcompany() {
                       the skills to make it happen. Whatever your needs are, the
                       Google Android app developer is here to help you get started and
                       guide you every step of the way. Don't just dream it; code it!
-                      Make your app dreams a reality today with BitsWits.
+                      Make your app dreams a reality today with Appsters.
                     </>
                   ),
                 },
@@ -408,7 +408,7 @@ export default function gamedevelopmentcompany() {
                       built efficiently and effectively while saving you time and
                       money in the long run. So, if you're looking to create a great
                       user experience with an app, you'll need to hire dedicated
-                      android app developer like BitsWits.
+                      android app developer like Appsters.
                     </>
                   ),
                 },
@@ -573,7 +573,7 @@ export default function gamedevelopmentcompany() {
                       Android, developers can create powerful apps that have the
                       potential to revolutionize the way we use mobile devices today.
                       So, get ready to take full advantage of this amazing platform
-                      and join the world of Android development now with BitsWits! We
+                      and join the world of Android development now with Appsters! We
                       are experts in serving you in android and iOS app development.
                     </>
                   ),
@@ -612,7 +612,7 @@ export default function gamedevelopmentcompany() {
                       the skills to make it happen. Whatever your needs are, the
                       Google Android app developer is here to help you get started and
                       guide you every step of the way. Don't just dream it; code it!
-                      Make your app dreams a reality today with BitsWits.
+                      Make your app dreams a reality today with Appsters.
                     </>
                   ),
                 },
@@ -658,7 +658,7 @@ export default function gamedevelopmentcompany() {
                       built efficiently and effectively while saving you time and
                       money in the long run. So, if you're looking to create a great
                       user experience with an app, you'll need to hire dedicated
-                      android app developer like BitsWits.
+                      android app developer like Appsters.
                     </>
                   ),
                 },
@@ -674,7 +674,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Android App Development Company",
-            "url": "https://www.bitswits.co/android-application-development",
+            "url": "https://www.Appsters.co/android-application-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -688,15 +688,15 @@ export default function gamedevelopmentcompany() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/android-application-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/android-application-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ] 
           }               
         `}
@@ -707,8 +707,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Android App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/1.aafec8b2.png",
-            "url": "https://www.bitswits.co/android-application-development",
+            "image": "https://www.Appsters.co/_next/static/media/1.aafec8b2.png",
+            "url": "https://www.Appsters.co/android-application-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -736,11 +736,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]  
           }     
         `}
@@ -752,11 +752,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Android App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/1.aafec8b2.png",
-            "description": "At BitsWits, we specialize in creating custom-crafted Android applications that meet our customer's needs. Our android app development team firmly believes that no two businesses are the same, and neither should their apps be.",
+            "image": "https://www.Appsters.co/_next/static/media/1.aafec8b2.png",
+            "description": "At Appsters, we specialize in creating custom-crafted Android applications that meet our customer's needs. Our android app development team firmly believes that no two businesses are the same, and neither should their apps be.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

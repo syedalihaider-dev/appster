@@ -105,7 +105,7 @@ export default function HybridMobile() {
         title={<> Hybrid Mobile App Development Company In USA </>}
         text={
           <>
-            BitsWits is the go-to hub for all your hybrid mobile app development
+            Appsters is the go-to hub for all your hybrid mobile app development
             needs in the USA. We are a leading technology company that excels in
             creating cost-effective and efficient hybrid mobile applications for
             businesses.

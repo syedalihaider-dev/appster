@@ -11,7 +11,7 @@ const WhyChoose = () => {
                 <Row className="h-100">
                     <Col lg={5} md={12} className="my-auto">
                         <h2>App Development Company Of Choice</h2>
-                        <p>BitsWits provides exceptional mobile application development services, combining quality, expertise, and efficiency. As a leading mobile app development agency, we create scalable, user-centric apps designed to drive business growth and deliver successful results. Here’s why you should partner with us.</p>
+                        <p>Appsters provides exceptional mobile application development services, combining quality, expertise, and efficiency. As a leading mobile app development agency, we create scalable, user-centric apps designed to drive business growth and deliver successful results. Here’s why you should partner with us.</p>
                         <CtaCommon
                             txt="Free Consultation"
                             href='javascript:window.replaceChat();'

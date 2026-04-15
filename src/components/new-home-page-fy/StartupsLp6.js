@@ -22,7 +22,7 @@ export default function StartupsLp6(props) {
                             <p className='white font16 f-400'>When it comes to startups we offer a complete range of services to help entrepreneurs succeed. From ground-zero to a booming IPO. Here’s how we do it:</p>
                         </Col>
                         <Col lg={12}>
-                            <Image src={startups} alt='BitsWits' className='img-fluid pb-1' />
+                            <Image src={startups} alt='Appsters' className='img-fluid pb-1' />
                            
                         </Col>
                     </Row>

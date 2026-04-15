@@ -17,7 +17,7 @@ const CaseGoal = (props) => {
                         </Col>
                         <Col lg={5}>
                             <div className={`${styles.secImg}`}>
-                                <Image quality={90} src={props.golImg} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.golImg} alt="Appsters" className={`img-fluid`} />
                             </div>
                         </Col>
                     </Row>

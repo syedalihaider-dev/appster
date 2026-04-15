@@ -44,7 +44,7 @@ const HireBenifits = (props) => {
                                             className={activeTab === tab.id ? `active ${styles.beniftIcon} ${styles.active}` : `${styles.beniftIcon} ${index === props.tabsData.length - 1 ? styles.last : ''}`}
                                             onClick={() => handleTabClick(tab.id)}
                                         >
-                                            <Image src={tab.content.imageSrc} alt='BitsWits' className='img-fluid' />
+                                            <Image src={tab.content.imageSrc} alt='Appsters' className='img-fluid' />
                                             <h5>{tab.title}</h5>
                                         </div>
                                     ))}

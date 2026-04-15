@@ -186,7 +186,7 @@ export default function dubaidevelopmentcompany() {
   // delivered content
   const DeliveredContent = {
     title: (
-      <>Mobile Apps Built by BitsWits Have 1 Million+ Downloads Combined!</>
+      <>Mobile Apps Built by Appsters Have 1 Million+ Downloads Combined!</>
     ),
     desc: "Wanna Take Your App Idea to Market Fast?",
     btntext: "Book Your Free Discovery Call!",
@@ -518,7 +518,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -604,7 +604,7 @@ export default function dubaidevelopmentcompany() {
               {
                 title: "Big Data",
                 description:
-                  "Got a growing app with loads of user data? Let's make the most of it! With BitsWits' big data solutions, we'll help you analyze all that data to understand user behavior, market trends, and new business opportunities.",
+                  "Got a growing app with loads of user data? Let's make the most of it! With Appsters' big data solutions, we'll help you analyze all that data to understand user behavior, market trends, and new business opportunities.",
                 imageSrc: banImg2,
               },
               {
@@ -616,25 +616,25 @@ export default function dubaidevelopmentcompany() {
               {
                 title: "Blockchain",
                 description:
-                  "Want to make your app's transactions more secure and transparent? With BitsWits' blockchain solutions, we will help you build decentralized apps, streamline supply chains, and create new business models. Let's build something awesome, something safer together!",
+                  "Want to make your app's transactions more secure and transparent? With Appsters' blockchain solutions, we will help you build decentralized apps, streamline supply chains, and create new business models. Let's build something awesome, something safer together!",
                 imageSrc: banImg1,
               },
               {
                 title: "AR/VR",
                 description:
-                  "Want to create immersive, real-like unreal experiences for your app users? BitsWits' AR/VR app development services, we will help you develop mind-boggling apps and experiences that keep the end users crave for more. Let's create something amazing together!",
+                  "Want to create immersive, real-like unreal experiences for your app users? Appsters' AR/VR app development services, we will help you develop mind-boggling apps and experiences that keep the end users crave for more. Let's create something amazing together!",
                 imageSrc: banImg6,
               },
               {
                 title: "AI/ML",
                 description:
-                  "Want to integrate self-learning capabilities and make your app respond to user queries real-time with AI-powered chatbots? BitsWits’ AI/ML solutions can help you integrate self-learning components and smart chatbots to deliver real user experience for your audience.",
+                  "Want to integrate self-learning capabilities and make your app respond to user queries real-time with AI-powered chatbots? Appsters’ AI/ML solutions can help you integrate self-learning components and smart chatbots to deliver real user experience for your audience.",
                 imageSrc: banImg4,
               },
               {
                 title: "Cloud Computing",
                 description:
-                  "Looking for scalable cloud solutions without breaking the bank? BitsWits' cloud computing services offer flexibility in terms of pricing, scalability to grow as needed, and impregnable security so you can focus on growing your business.",
+                  "Looking for scalable cloud solutions without breaking the bank? Appsters' cloud computing services offer flexibility in terms of pricing, scalability to grow as needed, and impregnable security so you can focus on growing your business.",
                 imageSrc: banImg5,
               },
             ]}
@@ -642,7 +642,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -662,9 +662,9 @@ export default function dubaidevelopmentcompany() {
                     building native apps for both iOS and Android, and your LOE
                     is somewhere around 1200 - 1500 for a single version, the
                     cost of app development could easily go above $100,000. And
-                    that’s where BitsWits come to help!
+                    that’s where Appsters come to help!
                     <br />
-                    BitsWits has offices in around 7 countries with production
+                    Appsters has offices in around 7 countries with production
                     houses across Pakistan, UAE, and the USA. The hourly rates
                     are cheaper here with slightly better development quality.
                     Thus, if you work with us, you can easily get the same app
@@ -712,7 +712,7 @@ export default function dubaidevelopmentcompany() {
                       payment options, including milestone-based payments.
                     </p>
                     <p>
-                      For instance, BitsWits offers you the flexibility to
+                      For instance, Appsters offers you the flexibility to
                       divide your project into several stages and get started
                       with the alpha development fee.
                     </p>
@@ -736,7 +736,7 @@ export default function dubaidevelopmentcompany() {
                     little cost effective and monitorable, the overall cost and
                     results are not guaranteed and the only person who's
                     accountable for any mishap is you. At the same time, hiring
-                    an app development company in NYC like BitsWits gives you
+                    an app development company in NYC like Appsters gives you
                     freedom to be as flexible and customizable as you want.
                     Plus, you can check the portfolio of an app development
                     company and see if they’re capable of building something
@@ -778,11 +778,11 @@ export default function dubaidevelopmentcompany() {
               },
               {
                 question:
-                  "Why Choose BitsWits for mobile app development in New York City?",
+                  "Why Choose Appsters for mobile app development in New York City?",
                 answer: (
                   <>
                     <p>
-                      BitsWits is consistently ranked among the top app
+                      Appsters is consistently ranked among the top app
                       development companies in New York on the top review
                       platforms like Clutch, Goodfirms, The Manifest, etc. We
                       have a 100+ app strong portfolio with over 1 Million+
@@ -798,11 +798,11 @@ export default function dubaidevelopmentcompany() {
                 ),
               },
               {
-                question: "What app development services does BitsWits offer?",
+                question: "What app development services does Appsters offer?",
                 answer: (
                   <>
                     <p>
-                      BitsWits offers a wide range of app development services,
+                      Appsters offers a wide range of app development services,
                       including native Android and iOS app development,
                       cross-platform app development, progressive web app
                       development, game development, and enterprise mobility
@@ -816,11 +816,11 @@ export default function dubaidevelopmentcompany() {
               },
               {
                 question:
-                  "What industries does BitsWits offer app development services for?",
+                  "What industries does Appsters offer app development services for?",
                 answer: (
                   <>
                     <p>
-                      BitsWits provides app development services for various
+                      Appsters provides app development services for various
                       industries, including ecommerce, healthcare, automotive,
                       logistics, manufacturing, food & beverage, e-learning,
                       agriculture, real estate, sports, and enterprise mobility.
@@ -841,8 +841,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Website",
-            name: "Mobile App Development Company in New York - BitsWits",
-            url: "https://www.bitswits.co/app-development-company-new-york",
+            name: "Mobile App Development Company in New York - Appsters",
+            url: "https://www.Appsters.co/app-development-company-new-york",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -858,9 +858,9 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Corporation",
-            name: "Mobile App Development Company in New York - BitsWits",
-            url: "https://www.bitswits.co/app-development-company-new-york",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            name: "Mobile App Development Company in New York - Appsters",
+            url: "https://www.Appsters.co/app-development-company-new-york",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
           }),
         }}
       />
@@ -871,11 +871,11 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "BitsWits",
+            name: "Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnewyork.4988cafe.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnewyork.4988cafe.webp&w=1920&q=75",
             "@id": "",
-            url: "https://www.bitswits.co/app-development-company-new-york",
+            url: "https://www.Appsters.co/app-development-company-new-york",
             telephone: "+18335006007",
             priceRange: "$10000",
             address: {
@@ -905,11 +905,11 @@ export default function dubaidevelopmentcompany() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -921,14 +921,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            name: "Mobile App Development Company in New York - BitsWits",
+            name: "Mobile App Development Company in New York - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnewyork.4988cafe.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnewyork.4988cafe.webp&w=1920&q=75",
             description:
-              "BitsWits is a top-tier app development company in NYC helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
+              "Appsters is a top-tier app development company in NYC helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

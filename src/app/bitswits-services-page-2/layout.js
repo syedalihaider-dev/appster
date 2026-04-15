@@ -1,19 +1,19 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Service Page | Bitswits",
-  description: "Bitswits",
+  title: "Service Page | Appsters",
+  description: "Appsters",
   //===== OG Tags =====
   openGraph: {
-    title: 'Service Page | Bitswits',
-    description: 'Bitswits',
-    url: '/bitswits-services-page-1',
-    siteName: 'BitsWits',
+    title: 'Service Page | Appsters',
+    description: 'Appsters',
+    url: '/Appsters-services-page-1',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },
   //===== Canonical =====
-  alternates: { canonical: '/bitswits-services-page-1' },
+  alternates: { canonical: '/Appsters-services-page-1' },
   //===== No-Index =====
   robots: {
     index: false,

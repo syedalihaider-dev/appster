@@ -66,7 +66,7 @@ const customCards = (props) => {
                           {item.text}
                         </p>
                       </div>
-                      <Image src={item.img2} className="img-fluid" alt="bitswits" />
+                      <Image src={item.img2} className="img-fluid" alt="Appsters" />
                     </div>
                   </div>
                 ))}
@@ -94,7 +94,7 @@ const customCards = (props) => {
                         {item.text}
                       </p>
                     </div>
-                    <Image src={item.img2} className="img-fluid" alt="bitswits" />
+                    <Image src={item.img2} className="img-fluid" alt="Appsters" />
                   </div>
                 </Col>
               ))}

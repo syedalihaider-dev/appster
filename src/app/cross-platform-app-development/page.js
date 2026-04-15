@@ -105,7 +105,7 @@ export default function gamedevelopmentcompany() {
       serdata: [
         {
           title: "Custom Cross-Platform Development",
-          text: "Premier provider of custom multi-platform app development services, BitsWits employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
+          text: "Premier provider of custom multi-platform app development services, Appsters employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
           appclass: "app",
           imgservice: customios,
         },
@@ -144,7 +144,7 @@ export default function gamedevelopmentcompany() {
           text: (
             <>
               {" "}
-              BitsWits specializes in creating custom applications that utilize
+              Appsters specializes in creating custom applications that utilize
               the power of artificial intelligence. Our AI-integrated
               cross-platform application development services offer innovative
               and intuitive solutions that leverage the latest AI technologies
@@ -200,7 +200,7 @@ export default function gamedevelopmentcompany() {
                 appContent1={[
                   {
                     title: "Custom Cross-Platform Development",
-                    text: "Premier provider of custom multi-platform app development services, BitsWits employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
+                    text: "Premier provider of custom multi-platform app development services, Appsters employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
                     appclass: "app",
                   },
                   {
@@ -240,7 +240,7 @@ export default function gamedevelopmentcompany() {
                     text: (
                       <>
                         {" "}
-                        BitsWits specializes in creating custom applications that
+                        Appsters specializes in creating custom applications that
                         utilize the power of artificial intelligence. Our
                         AI-integrated cross-platform application development services
                         offer innovative and intuitive solutions that leverage the
@@ -368,7 +368,7 @@ export default function gamedevelopmentcompany() {
                       languages like Dart are designed with the intent to create
                       cross-platform apps. Ultimately, the language used for
                       cross-platform apps depends on the platform and tools chosen by
-                      the developer. BitsWits masters the art of flutter cross
+                      the developer. Appsters masters the art of flutter cross
                       platform development.{" "}
                     </>
                   ),
@@ -407,7 +407,7 @@ export default function gamedevelopmentcompany() {
                       development to bring your project to life. If you find a company
                       that meets these criteria, then you are likely to have the best
                       custom mobile app development experience. And if you are looking
-                      for such a company, BitsWits is the perfect destination to hire
+                      for such a company, Appsters is the perfect destination to hire
                       cross platform app developers. Because we take pride in
                       possessing all those attributes mentioned above.{" "}
                     </>
@@ -452,7 +452,7 @@ export default function gamedevelopmentcompany() {
                 appContent1={[
                   {
                     title: "Custom Cross-Platform Development",
-                    text: "Premier provider of custom multi-platform app development services, BitsWits employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
+                    text: "Premier provider of custom multi-platform app development services, Appsters employs the latest technologies, including web services, databases, user experience design, development frameworks, and testing tools, to ensure that your app is optimized for all devices, from iPhones to Android phones.",
                     appclass: "app",
                   },
                   {
@@ -492,7 +492,7 @@ export default function gamedevelopmentcompany() {
                     text: (
                       <>
                         {" "}
-                        BitsWits specializes in creating custom applications that
+                        Appsters specializes in creating custom applications that
                         utilize the power of artificial intelligence. Our
                         AI-integrated cross-platform application development services
                         offer innovative and intuitive solutions that leverage the
@@ -620,7 +620,7 @@ export default function gamedevelopmentcompany() {
                       languages like Dart are designed with the intent to create
                       cross-platform apps. Ultimately, the language used for
                       cross-platform apps depends on the platform and tools chosen by
-                      the developer. BitsWits masters the art of flutter cross
+                      the developer. Appsters masters the art of flutter cross
                       platform development.{" "}
                     </>
                   ),
@@ -659,7 +659,7 @@ export default function gamedevelopmentcompany() {
                       development to bring your project to life. If you find a company
                       that meets these criteria, then you are likely to have the best
                       custom mobile app development experience. And if you are looking
-                      for such a company, BitsWits is the perfect destination to hire
+                      for such a company, Appsters is the perfect destination to hire
                       cross platform app developers. Because we take pride in
                       possessing all those attributes mentioned above.{" "}
                     </>
@@ -694,7 +694,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Cross Platform App Development Company",
-            "url": "https://www.bitswits.co/cross-platform-app-development",
+            "url": "https://www.Appsters.co/cross-platform-app-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -708,15 +708,15 @@ export default function gamedevelopmentcompany() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/cross-platform-app-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/cross-platform-app-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]  
           }                                                      
         `}
@@ -727,8 +727,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Cross Platform App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/1.32be1789.png",
-            "url": "https://www.bitswits.co/cross-platform-app-development",
+            "image": "https://www.Appsters.co/_next/static/media/1.32be1789.png",
+            "url": "https://www.Appsters.co/cross-platform-app-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -756,11 +756,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
           }                                          
         `}
@@ -771,11 +771,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Cross Platform App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/1.32be1789.png",
+            "image": "https://www.Appsters.co/_next/static/media/1.32be1789.png",
             "description": "With our cross-platform app development services, you can easily create apps that are compatible across multiple platforms. No more worrying about developing an app for every operating system; now you can develop and deploy one single app for both Android and iOS!",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

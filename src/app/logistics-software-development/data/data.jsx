@@ -112,7 +112,7 @@ const BlogsIMG03 = "/services/blogs/post-3.webp"
 
 export const BannerData = {
     title: "Future-Ready Logistics Software Development Company for Efficient Systems",
-    content: "BitsWits is a results-focused logistics software development company committed to streamlining workflows, reducing costs, and overcoming operational challenges. We optimize transportation processes and fleet management, helping your logistics operations run smoothly and efficiently for enhanced overall productivity.",
+    content: "Appsters is a results-focused logistics software development company committed to streamlining workflows, reducing costs, and overcoming operational challenges. We optimize transportation processes and fleet management, helping your logistics operations run smoothly and efficiently for enhanced overall productivity.",
     BannerBg: BannerBg,
 }
 
@@ -151,7 +151,7 @@ export const IndustryServiceList = [
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
     title: "Streamline Your Logistics with Advanced Software Solutions!",
-    text: "Join BitsWits to optimize your supply chain and fleet management for faster, more efficient logistics operations.",
+    text: "Join Appsters to optimize your supply chain and fleet management for faster, more efficient logistics operations.",
 }
 
 export const IndustrySliderContent = {
@@ -263,10 +263,10 @@ export const ExpertiseList2 = [
 export const TechnologiesContent = {
     title: "Hire Top Developers For Logistics Software Solutions",
     text: (<>
-        <p>Developers at BitsWits specialize in logistics software development services, utilizing technologies like <strong>Java, Python, Node.js,</strong> and <strong>AWS.</strong></p>
+        <p>Developers at Appsters specialize in logistics software development services, utilizing technologies like <strong>Java, Python, Node.js,</strong> and <strong>AWS.</strong></p>
         <p>Our expert-vetted team specializes in custom logistics software development, creating solutions for <strong>real-time tracking, fleet management,</strong> and <strong>supply chain optimization.</strong></p>
         <p>With a focus on scalability, efficiency, and seamless integration, we build software that improves operational performance and streamlines logistics workflows.</p>
-        <p>Use the <strong>free cost calculator</strong> by BitsWits to get a tailored estimate for your logistics software project.</p>
+        <p>Use the <strong>free cost calculator</strong> by Appsters to get a tailored estimate for your logistics software project.</p>
     </>),
 
     TechImg: TechImg
@@ -379,8 +379,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner With BitsWits For Your Next Project?",
-    text: "With years of experience, BitsWits provides logistic software development services that align with your business objectives, improving supply chain efficiency and streamlining logistics operations."
+    title: "Why Partner With Appsters For Your Next Project?",
+    text: "With years of experience, Appsters provides logistic software development services that align with your business objectives, improving supply chain efficiency and streamlining logistics operations."
 }
 
 export const WhyChooseList1 = [
@@ -400,7 +400,7 @@ export const WhyChooseList2 = [
     {
         Icon: <LogisticsIcon03 />,
         title: (<>Tailored Solutions <br />for Business Efficiency</>),
-        description: "BitsWits develops custom logistics software that enhances supply chain management, reduces costs, and improves operational efficiency for long-term growth.",
+        description: "Appsters develops custom logistics software that enhances supply chain management, reduces costs, and improves operational efficiency for long-term growth.",
     },
     {
         Icon: <LogisticsIcon04 />,
@@ -420,7 +420,7 @@ export const OffersTabs = [
         content: {
             heading: "Freight and Shipping Companies",
             description:
-                "Freight and shipping businesses can improve shipment tracking, optimize routes, and enhance fleet management through transport and logistics software solutions. As a leading logistics software development company, BitsWits helps streamline operations, providing real-time visibility and more efficient logistics processes with customized logistics software development services.",
+                "Freight and shipping businesses can improve shipment tracking, optimize routes, and enhance fleet management through transport and logistics software solutions. As a leading logistics software development company, Appsters helps streamline operations, providing real-time visibility and more efficient logistics processes with customized logistics software development services.",
         },
     },
     {
@@ -502,26 +502,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -529,8 +529,8 @@ export const TestimonialSLIDES = [
 ]
 
 export const FuelingContent2 = {
-    title: "BitsWits’ Approach to Security and Regulatory Compliance in Logistics Software",
-    text: "BitsWits prioritizes security and regulatory compliance in logistics software, delivering solutions that safeguard data and meet industry-specific standards for seamless operations",
+    title: "Appsters’ Approach to Security and Regulatory Compliance in Logistics Software",
+    text: "Appsters prioritizes security and regulatory compliance in logistics software, delivering solutions that safeguard data and meet industry-specific standards for seamless operations",
     subtitle: "Optimize Your Logistics with Custom Software Solutions Today!",
     subtext: "Develop scalable, efficient software to streamline your logistics operations and enhance supply chain management.",
     FuelingImg: FuelingImg,
@@ -811,7 +811,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -905,14 +905,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -920,7 +920,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

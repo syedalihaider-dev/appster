@@ -2,14 +2,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Custom Fintech App Development Services - BitsWits",
-  description: "As a leading fintech app development company, BitsWits delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
+  title: "Custom Fintech App Development Services - Appsters",
+  description: "As a leading fintech app development company, Appsters delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
   //===== OG Tags =====
   openGraph: {
-    title: "Custom Fintech App Development Services - BitsWits",
-    description: "As a leading fintech app development company, BitsWits delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
+    title: "Custom Fintech App Development Services - Appsters",
+    description: "As a leading fintech app development company, Appsters delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
     url: '/fintech-app-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

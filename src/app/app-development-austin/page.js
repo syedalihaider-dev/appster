@@ -287,8 +287,8 @@ When comparing mobile app development companies in Austin, evaluate them on more
                     __html: JSON.stringify({
                         "@context": "https://schema.org/",
                         "@type": "WebSite",
-                        name: "Mobile App Development Company in Austin - BitsWits",
-                        url: "https://www.bitswits.co/app-development-austin",
+                        name: "Mobile App Development Company in Austin - Appsters",
+                        url: "https://www.Appsters.co/app-development-austin",
                         potentialAction: {
                             "@type": "SearchAction",
                             target: "{search_term_string}",
@@ -304,10 +304,10 @@ When comparing mobile app development companies in Austin, evaluate them on more
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        name: "Mobile App Development Company in Austin - BitsWits",
-                        alternateName: "BitsWits",
-                        url: "https://www.bitswits.co/app-development-austin",
-                        logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+                        name: "Mobile App Development Company in Austin - Appsters",
+                        alternateName: "Appsters",
+                        url: "https://www.Appsters.co/app-development-austin",
+                        logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
                         contactPoint: {
                             "@type": "ContactPoint",
                             telephone: "+3022168231",
@@ -316,11 +316,11 @@ When comparing mobile app development companies in Austin, evaluate them on more
                             availableLanguage: "en",
                         },
                         sameAs: [
-                            "https://www.facebook.com/officialBitsWits",
-                            "https://twitter.com/BitsWits_/",
-                            "https://www.instagram.com/officialBitsWits/",
-                            "https://www.youtube.com/@officialBitsWits",
-                            "https://www.linkedin.com/company/officialBitsWits",
+                            "https://www.facebook.com/officialAppsters",
+                            "https://twitter.com/Appsters_/",
+                            "https://www.instagram.com/officialAppsters/",
+                            "https://www.youtube.com/@officialAppsters",
+                            "https://www.linkedin.com/company/officialAppsters",
                         ],
                     }),
                 }}
@@ -332,14 +332,14 @@ When comparing mobile app development companies in Austin, evaluate them on more
                     __html: JSON.stringify({
                         "@context": "https://schema.org/",
                         "@type": "Product",
-                        name: "Mobile App Development Company in Austin - BitsWits",
+                        name: "Mobile App Development Company in Austin - Appsters",
                         image:
-                            "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Faustin.0b76797f.webp&w=1920&q=75",
+                            "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Faustin.0b76797f.webp&w=1920&q=75",
                         description:
                             "As an elite mobile app development company in Austin, we specialize in creating apps that enhance user experience and drive brand engagement for businesses.",
                         brand: {
                             "@type": "Brand",
-                            name: "BitsWits",
+                            name: "Appsters",
                         },
                         aggregateRating: {
                             "@type": "AggregateRating",

@@ -1,7 +1,7 @@
 "use client";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Col, Modal, Row } from "react-bootstrap";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 import styles from "@/styles/Houtondubai.module.css";
 
@@ -154,7 +154,7 @@ const NewHouston = ({ content, rtl }) => {
       {/* Modal Start*/}
       <Modal show={show} onHide={closemodal} className={styles.modalnew}>
         <Modal.Body>
-          <Bitswitspopup formsaspire='popquote' />
+          <Appsterspopup formsaspire='popquote' />
           <span onClick={closemodal} className={styles.cross}>
             <RxCross2 />
           </span>

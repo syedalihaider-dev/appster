@@ -110,7 +110,7 @@ export const ExtendedServicesContent = {
 export const ExpertiseContent = {
     subtitle: "Mobile App Marketing Services",
     title: "Strategy, Growth, Success",
-    content: "The mobile app marketing experts at BitsWits deliver comprehensive services to improve user acquisition, boost engagement, and increase app visibility—providing measurable, impactful results that drive sustained growth and amplify your app’s success.",
+    content: "The mobile app marketing experts at Appsters deliver comprehensive services to improve user acquisition, boost engagement, and increase app visibility—providing measurable, impactful results that drive sustained growth and amplify your app’s success.",
 }
 
 export const ExpertiseList = [
@@ -173,7 +173,7 @@ export const TestimonialSLIDES = [
         content: {
             iconActive: testiIconActive1,
             icon: testiIcon1,
-            txt: "We were struggling to get the right users, and BitsWits really helped us shift gears. They dug into our data, reworked our ad strategy, and within a few months, we started seeing a noticeable uptick in quality installs.",
+            txt: "We were struggling to get the right users, and Appsters really helped us shift gears. They dug into our data, reworked our ad strategy, and within a few months, we started seeing a noticeable uptick in quality installs.",
         },
     },
     {
@@ -183,7 +183,7 @@ export const TestimonialSLIDES = [
         content: {
             iconActive: testiIconActive2,
             icon: testiIcon2,
-            txt: "BitsWits brought fresh ideas to our app marketing. They paid attention to the details and adjusted things quickly. Our engagement numbers moved up steadily, and it was clear their approach was working.",
+            txt: "Appsters brought fresh ideas to our app marketing. They paid attention to the details and adjusted things quickly. Our engagement numbers moved up steadily, and it was clear their approach was working.",
         },
     },
     {
@@ -193,7 +193,7 @@ export const TestimonialSLIDES = [
         content: {
             iconActive: testiIconActive3,
             icon: testiIcon3,
-            txt: "App store optimization can feel like a guessing game, but BitsWits showed why they’re the best mobile app marketing company. They improved our visibility and drove more traffic without the usual trial and error.",
+            txt: "App store optimization can feel like a guessing game, but Appsters showed why they’re the best mobile app marketing company. They improved our visibility and drove more traffic without the usual trial and error.",
         }
     },
     {
@@ -201,7 +201,7 @@ export const TestimonialSLIDES = [
         name: "Priya Patel",
         img: MauryoJones,
         content: {
-            txt: "BitsWits didn’t give us any false promises—just solid, practical advice that made a real difference. They kept refining our campaigns, and we saw better retention and engagement across the board.",
+            txt: "Appsters didn’t give us any false promises—just solid, practical advice that made a real difference. They kept refining our campaigns, and we saw better retention and engagement across the board.",
             iconActive: testiIconActive1,
             icon: testiIcon1,
         }
@@ -215,7 +215,7 @@ export const FaqsContent = {
 
 export const FaqsList = [
     {
-        title: "Will BitsWits create a custom marketing plan specific to my app’s goals?",
+        title: "Will Appsters create a custom marketing plan specific to my app’s goals?",
         txt: (<p>Yes, as a trusted mobile app marketing firm, we start by understanding your app’s unique goals, industry, and audience. Using this insight, our mobile app marketing services deliver a tailored plan that targets growth, user acquisition, engagement, and retention, ensuring your app reaches its full potential.</p>)
     },
     {
@@ -223,11 +223,11 @@ export const FaqsList = [
         txt: (<p>No problem—our team analyzes your app’s target audience, industry, and objectives to determine the best channels. With our app marketing services, we handle all testing and adjustments, finding the most effective ways to maximize visibility and engagement.</p>)
     },
     {
-        title: "What are the benefits of using BitsWits for app marketing compared to others?",
+        title: "What are the benefits of using Appsters for app marketing compared to others?",
         txt: (<p>We utilize a data-driven approach, combined with our experience in Android and iOS app marketing services, to implement strategies that drive user growth and engagement. Our mobile app marketers work closely with clients, offering transparent reporting and adaptable insights that support lasting app success.</p>)
     },
     {
-        title: "How does BitsWits help improve my app’s user acquisition and retention rates?",
+        title: "How does Appsters help improve my app’s user acquisition and retention rates?",
         txt: (<p>Our mobile app marketing approach uses targeted strategies to attract the right users and keep them engaged. This includes A/B testing, personalized messaging, and in-app promotions, ensuring users find value, which drives acquisition and retention.</p>)
     },
     {
@@ -235,7 +235,7 @@ export const FaqsList = [
         txt: (<p>We provide regular reports on campaign performance, growth metrics, and user engagement insights. With our mobile app marketing services, you’ll receive clear, actionable data on progress, adjustments, and key results, keeping you informed without needing complex analysis.</p>)
     },
     {
-        title: "Do I need a large budget to benefit from BitsWits’ app marketing services?",
+        title: "Do I need a large budget to benefit from Appsters’ app marketing services?",
         txt: (<p>We work with businesses of all sizes, offering scalable marketing strategies that align with your budget. Our team carefully allocates resources to high-impact areas, making sure your investment translates into growth, whether you’re a startup or a large enterprise.</p>)
     },
     {

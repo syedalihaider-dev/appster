@@ -64,7 +64,7 @@ const Provideservices = (props) => {
                       key={index}
                     >
                       <div>
-                        <Image src={item.img1} alt="bitswits" />
+                        <Image src={item.img1} alt="Appsters" />
                       </div>
                       <div>
                         <h3 className="font_20 newfycolr font-bold pb-2 pt-3 mb-0">
@@ -96,7 +96,7 @@ const Provideservices = (props) => {
                     key={index}
                   >
                     <div>
-                      <Image src={item.img1} alt="bitswits" />
+                      <Image src={item.img1} alt="Appsters" />
                     </div>
                     <div>
                       <h3 className="font_20 newfycolr font-bold pb-2 mb-0">

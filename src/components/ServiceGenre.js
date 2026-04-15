@@ -57,7 +57,7 @@ const ServiceGenre = (props) => {
                     <div key={index} className={styles.bod}>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={section.gameicon}
                         className="img-fluid"
                       />
@@ -86,7 +86,7 @@ const ServiceGenre = (props) => {
                   <div key={index} className={styles.bod}>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={section.gameicon}
                       className="img-fluid"
                     />

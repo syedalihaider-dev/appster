@@ -17,9 +17,9 @@ const DubaiDevelopment = ({ content }) => {
                     <Row>
                         <Col lg={12}>
                             <div className='d-flex align-items-center justify-content-center gap-4 mb-4'>
-                                <Image src={AppStore} width={60} height={60} alt='BitsWits' />
-                                <Image src={VS} width={54} height={30} alt='BitsWits' />
-                                <Image src={PlayStore} width={54} height={60} alt='BitsWits' />
+                                <Image src={AppStore} width={60} height={60} alt='Appsters' />
+                                <Image src={VS} width={54} height={30} alt='Appsters' />
+                                <Image src={PlayStore} width={54} height={60} alt='Appsters' />
                             </div>
                             <h2>{title}</h2>
                             {desc.map((item, index) => (

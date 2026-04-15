@@ -143,7 +143,7 @@ export default function Beats() {
           },
         ]}
         wantImg3={tackling}
-        lastPara={<> BitsWits combined the best suitable tech stack and creative design for the app The result is a music mobile application that delivers an exceptional user experience and elevates the way people enjoy and create music. </>}
+        lastPara={<> Appsters combined the best suitable tech stack and creative design for the app The result is a music mobile application that delivers an exceptional user experience and elevates the way people enjoy and create music. </>}
       />
       <CaseGoal
         golImg={goalImg}
@@ -162,7 +162,7 @@ export default function Beats() {
           },
           {
             title: (<> On-Time Delivery - <br /> Every Time </>),
-            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.',
+            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.',
           },
           {
             title: (<> Erasing <br /> Time-zone Barriers </>),
@@ -170,11 +170,11 @@ export default function Beats() {
           },
           {
             title: (<> Efficient <br /> Communication </>),
-            description: 'BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
+            description: 'Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
           },
           {
             title: (<> Addressing <br /> Payment Disputes </>),
-            description: (<> At BitsWits, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
+            description: (<> At Appsters, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
           },
         ]}
       />
@@ -195,7 +195,7 @@ export default function Beats() {
         service5={service5}
       />
       <CaseChoose
-        title={<> <span>Why Trust <br /> BitsWits</span> with App <br /> Development? </>}
+        title={<> <span>Why Trust <br /> Appsters</span> with App <br /> Development? </>}
         text1={<> We stand as the primary choice for mobile app development, exemplifying excellence in a dynamic field. Our team combines creativity and the most suitable tech stack to develop customized app solutions. </>}
         text2={<> Our track record of delivering on time and within budget, coupled with a commitment to staying ahead of industry trends, sets us apart as the best partner for mobile app development. </>}
         items={[

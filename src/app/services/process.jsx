@@ -44,7 +44,7 @@ const Process = ({ data, tabs }) => {
                                 </div>
                                 <div className={styles.txtImg}>
                                     <Image
-                                        alt="bitswits Servcies"
+                                        alt="Appsters Servcies"
                                         src={tabs[activeTab].content.imgSrc}
                                         height={405}
                                         width={622}

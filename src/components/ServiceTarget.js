@@ -26,7 +26,7 @@ const ServiceTarget = (props) => {
                                 <p>{props.content1}</p>
                                 <a href='javascript:window.replaceChat();'>
                                     Get to know us
-                                    <Image quality={75} alt='BitsWits' src={home_btn1} className='img-fluid' />
+                                    <Image quality={75} alt='Appsters' src={home_btn1} className='img-fluid' />
                                 </a>
                             </div>
                         </Col>
@@ -38,7 +38,7 @@ const ServiceTarget = (props) => {
                                 <p>{props.content2}</p>
                                 <a href='javascript:window.replaceChat();'>
                                     Get to know us
-                                    <Image quality={75} alt='BitsWits' src={home_btn1} className='img-fluid' />
+                                    <Image quality={75} alt='Appsters' src={home_btn1} className='img-fluid' />
                                 </a>
                             </div>
                         </Col>
@@ -48,7 +48,7 @@ const ServiceTarget = (props) => {
                                 <p>{props.content3}</p>
                                 <a href='javascript:window.replaceChat();'>
                                     Get to know us
-                                    <Image quality={75} alt='BitsWits' src={home_btn1} className='img-fluid' />
+                                    <Image quality={75} alt='Appsters' src={home_btn1} className='img-fluid' />
                                 </a>
                             </div>
                         </Col>

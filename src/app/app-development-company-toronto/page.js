@@ -185,7 +185,7 @@ export default function dubaidevelopmentcompany() {
   // delivered content
   const DeliveredContent = {
     title: (
-      <>Mobile Apps Built by BitsWits Have Over 1 Million Downloads Combined!</>
+      <>Mobile Apps Built by Appsters Have Over 1 Million Downloads Combined!</>
     ),
     desc: "Ready to Take Your App Idea to Market Quickly?",
     btntext: "Book Your Free Discovery Call!",
@@ -269,7 +269,7 @@ export default function dubaidevelopmentcompany() {
       para: (
         <>
           In Toronto, the average cost for mobile app development ranges from{" "}
-          <span>CAD 30,000 - CAD 140,000+</span>. At BitsWits, we value our
+          <span>CAD 30,000 - CAD 140,000+</span>. At Appsters, we value our
           customers and understand that cost plays a vital role in closing a
           deal.
         </>
@@ -485,7 +485,7 @@ export default function dubaidevelopmentcompany() {
               {
                 title: "Big Data",
                 description:
-                  "Data is the new-age gold. BitsWits being the best app development company in Toronto understands the importance of data and provides our esteemed customers with the most advanced Big Data solutions in Toronto.",
+                  "Data is the new-age gold. Appsters being the best app development company in Toronto understands the importance of data and provides our esteemed customers with the most advanced Big Data solutions in Toronto.",
                 imageSrc: banImg2,
               },
               {
@@ -509,7 +509,7 @@ export default function dubaidevelopmentcompany() {
               {
                 title: "AI/ML",
                 description:
-                  "If you think chatbot integration is the epitome of AI, this one is not for you. BitsWits understand the true potential of AI/ML and are proud to have helped numerous brands across the globe in automating their tasks and increasing efficiency through our solutions.",
+                  "If you think chatbot integration is the epitome of AI, this one is not for you. Appsters understand the true potential of AI/ML and are proud to have helped numerous brands across the globe in automating their tasks and increasing efficiency through our solutions.",
                 imageSrc: banImg4,
               },
               {
@@ -523,7 +523,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -642,7 +642,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -718,7 +718,7 @@ export default function dubaidevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             name: "Leading Mobile App Development Company in Toronto",
-            url: "https://www.bitswits.co/app-development-company-toronto",
+            url: "https://www.Appsters.co/app-development-company-toronto",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -735,9 +735,9 @@ export default function dubaidevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "Organization",
             name: "Leading Mobile App Development Company in Toronto",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/app-development-company-toronto",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/app-development-company-toronto",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+18335006007",
@@ -746,11 +746,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -764,9 +764,9 @@ export default function dubaidevelopmentcompany() {
             "@type": "LocalBusiness",
             name: "Leading Mobile App Development Company in Toronto",
             image:
-              " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoronto.568b0dc8.webp&w=1920&q=75",
+              " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoronto.568b0dc8.webp&w=1920&q=75",
             "@id": "",
-            url: "https://www.bitswits.co/app-development-company-toronto",
+            url: "https://www.Appsters.co/app-development-company-toronto",
             telephone: "+18335006007",
             priceRange: "$10000",
             address: {
@@ -796,11 +796,11 @@ export default function dubaidevelopmentcompany() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -814,12 +814,12 @@ export default function dubaidevelopmentcompany() {
             "@type": "Product",
             name: "Leading Mobile App Development Company in Toronto",
             image:
-              " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoronto.568b0dc8.webp&w=1920&q=75",
+              " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoronto.568b0dc8.webp&w=1920&q=75",
             description:
-              "BitsWits is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.",
+              "Appsters is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

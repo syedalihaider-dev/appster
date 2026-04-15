@@ -146,7 +146,7 @@ export default function dubaidevelopmentcompany() {
   // delivered content
   const DeliveredContent = {
     title: (
-      <>Mobile Apps Built by BitsWits Have Over 1 Million Downloads Combined!</>
+      <>Mobile Apps Built by Appsters Have Over 1 Million Downloads Combined!</>
     ),
     desc: "Ready to Take Your App Idea to Market Quickly?",
     btntext: "Book Your Free Discovery Call!",
@@ -421,7 +421,7 @@ export default function dubaidevelopmentcompany() {
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -492,8 +492,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Leading Mobile App Development Company in Florida- BitsWits",
-            url: "https://www.bitswits.co/app-development-florida",
+            name: "Leading Mobile App Development Company in Florida- Appsters",
+            url: "https://www.Appsters.co/app-development-florida",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -509,10 +509,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Leading Mobile App Development Company in Florida - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/app-development-florida",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Leading Mobile App Development Company in Florida - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/app-development-florida",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+3022168231",
@@ -521,11 +521,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -537,14 +537,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Leading Mobile App Development Company in Florida- BitsWits",
+            name: "Leading Mobile App Development Company in Florida- Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflorida.2912663c.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflorida.2912663c.webp&w=1920&q=75",
             description:
-              "BitsWits is a premier app development company in Florida that helps startups and businesses across industries create salable and UX-driven mobile apps",
+              "Appsters is a premier app development company in Florida that helps startups and businesses across industries create salable and UX-driven mobile apps",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

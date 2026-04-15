@@ -78,7 +78,7 @@ const SocialLpForm = (props) => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -201,7 +201,7 @@ const SocialLpForm = (props) => {
 
                     <div className={styles.para}>
                         <p className='mb-0'>
-                            At Bitswits, we are experts in social media app development, specializing in crafting social media apps that resonate with today's digital audience. Our team is dedicated to developing your vision into a vibrant and engaging social media platform, leveraging the latest technologies to connect and captivate users worldwide.
+                            At Appsters, we are experts in social media app development, specializing in crafting social media apps that resonate with today's digital audience. Our team is dedicated to developing your vision into a vibrant and engaging social media platform, leveraging the latest technologies to connect and captivate users worldwide.
                         </p>
                     </div>
                 </Container>

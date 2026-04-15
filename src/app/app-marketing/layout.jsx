@@ -1,12 +1,12 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: 'App Marketing Services - BitsWits',
-  description: 'Bitswits offers top-notch mobile app marketing services to boost your app’s visibility and drive downloads.We specializes in ASO, user acquisition, and retention strategies to maximize engagement',
+  title: 'App Marketing Services - Appsters',
+  description: 'Appsters offers top-notch mobile app marketing services to boost your app’s visibility and drive downloads.We specializes in ASO, user acquisition, and retention strategies to maximize engagement',
   //===== OG Tags =====
   openGraph: {
-    title: 'App Marketing Services - BitsWits',
-    description: 'Bitswits offers top-notch mobile app marketing services to boost your app’s visibility and drive downloads.We specializes in ASO, user acquisition, and retention strategies to maximize engagement',
+    title: 'App Marketing Services - Appsters',
+    description: 'Appsters offers top-notch mobile app marketing services to boost your app’s visibility and drive downloads.We specializes in ASO, user acquisition, and retention strategies to maximize engagement',
     url: '/app-marketing',
     siteName: '',
     locale: 'en_US',

@@ -57,11 +57,11 @@ const DubaiClients = ({ content }) => {
                                     <div className='txt d-flex align-items-center'>
                                         <p className='mb-0 me-2'>4.9 / <span>5.0</span></p>
                                         <div className='d-flex align-items-center'>
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
                                         </div>
                                     </div>
                                     <p className={`${styles.clientsPara} fontsfregular`}>based on 20+ clients</p>
@@ -77,11 +77,11 @@ const DubaiClients = ({ content }) => {
                                     <div className='txt d-flex align-items-center'>
                                         <p className='mb-0 me-2'>4.9 / <span>5.0</span></p>
                                         <div className='d-flex align-items-center'>
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
                                         </div>
                                     </div>
                                     <p className={`${styles.clientsPara} fontsfregular`}>based on 40+ clients</p>
@@ -97,11 +97,11 @@ const DubaiClients = ({ content }) => {
                                     <div className='txt d-flex align-items-center'>
                                         <p className='mb-0 me-2'>5.0 / <span>5.0</span></p>
                                         <div className='d-flex align-items-center'>
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
-                                            <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
+                                            <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={13} height={13} />
                                         </div>
                                     </div>
                                     <p className={`${styles.clientsPara} fontsfregular`}>based on 66+ clients</p>
@@ -119,15 +119,15 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
 
@@ -148,15 +148,15 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
                                         </div>
@@ -176,15 +176,15 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
                                         </div>
@@ -204,15 +204,15 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
 
@@ -233,15 +233,15 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
                                         </div>
@@ -262,21 +262,21 @@ const DubaiClients = ({ content }) => {
                                             </div>
                                             <div>
                                                 <div className='d-flex align-items-center mb-1'>
-                                                    <Image src={ClientIcon} alt='Bitswits' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
+                                                    <Image src={ClientIcon} alt='Appsters' loading='lazy' sizes="100vw" className={`icon ${styles.icon}`} width={19} height={22} />
                                                     <p className='mb-0'>4.9. / 5.0</p>
                                                 </div>
                                                 <div className='d-flex align-items-center'>
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
-                                                    <Image src={Star} alt='Bitswits' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
+                                                    <Image src={Star} alt='Appsters' loading='lazy' sizes="100vw" width={18} height={18} />
                                                 </div>
                                             </div>
                                         </div>
                                         <div className={styles.cardBottom}>
                                             <p className='fontsfregular'>
-                                                BitsWits truly understands their clients' needs. Their tailored approach and attention to detail resulted in an app that surpassed our expectations. Highly recommend their services for anyone looking for top-tier app development.
+                                                Appsters truly understands their clients' needs. Their tailored approach and attention to detail resulted in an app that surpassed our expectations. Highly recommend their services for anyone looking for top-tier app development.
                                             </p>
                                         </div>
                                     </div>

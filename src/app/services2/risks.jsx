@@ -16,13 +16,13 @@ const Risks = () => {
                 <Row className="h-100">
                     <Col lg={12} md={12} className="my-auto text-center">
                         {/* <div className={styles.customTitle}>
-                            No risks<Image src={IMG01} alt="Bitswits Services" width={228} height={85} />with an MVP!
+                            No risks<Image src={IMG01} alt="Appsters Services" width={228} height={85} />with an MVP!
                             launch your idea to see
-                            how they<Image src={IMG02} alt="Bitswits Services" width={228} height={85} />like it!
+                            how they<Image src={IMG02} alt="Appsters Services" width={228} height={85} />like it!
                         </div>
                         <p>Start your project with a trusted partner today.</p> */}
                         <div className={styles.customTitle}>
-                            Take No Risks <Image src={IMG01} alt="Bitswits Services" width={228} height={85} /> Create An MVP & Be Confident On <Image src={IMG02} alt="Bitswits Services" width={228} height={85} />  Your App!
+                            Take No Risks <Image src={IMG01} alt="Appsters Services" width={228} height={85} /> Create An MVP & Be Confident On <Image src={IMG02} alt="Appsters Services" width={228} height={85} />  Your App!
                         </div>
                         <p>Validate your app concept with minimal risk before launching a full-scale app!</p>
 

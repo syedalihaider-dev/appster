@@ -26,7 +26,7 @@ const SmallBanner = () => {
                         </Col>
                         <Col lg={6} className='d-lg-block d-none'>
                             <div className="secImg">
-                                <Image src={ImageOne} alt='Bitswits' className='img-fluid ms-auto d-block' />
+                                <Image src={ImageOne} alt='Appsters' className='img-fluid ms-auto d-block' />
                             </div>
                         </Col>
                     </Row>

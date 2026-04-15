@@ -132,13 +132,13 @@ export default function Page() {
                                 "@type": "ListItem",
                                 "position": 1,
                                 "name": "Home",
-                                "item": "https://www.bitswits.co/"
+                                "item": "https://www.Appsters.co/"
                             },
                             {
                                 "@type": "ListItem",
                                 "position": 2,
                                 "name": "Healthcare App Development Services",
-                                "item": "https://www.bitswits.co/healthcare-app-development-services"
+                                "item": "https://www.Appsters.co/healthcare-app-development-services"
                             }
                         ]
                     })
@@ -152,8 +152,8 @@ export default function Page() {
                     __html: JSON.stringify({
                         "@context": "https://schema.org/",
                         "@type": "WebSite",
-                        "name": "Premier Healthcare App Development Company | BitsWits",
-                        "url": "https://www.bitswits.co/healthcare-app-development-services",
+                        "name": "Premier Healthcare App Development Company | Appsters",
+                        "url": "https://www.Appsters.co/healthcare-app-development-services",
                         "potentialAction": {
                             "@type": "SearchAction",
                             "target": "{search_term_string}",
@@ -170,10 +170,10 @@ export default function Page() {
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "name": "Premier Healthcare App Development Company | BitsWits",
-                        "alternateName": "BitsWits",
-                        "url": "https://www.bitswits.co/healthcare-app-development-services",
-                        "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+                        "name": "Premier Healthcare App Development Company | Appsters",
+                        "alternateName": "Appsters",
+                        "url": "https://www.Appsters.co/healthcare-app-development-services",
+                        "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
                         "contactPoint": {
                             "@type": "ContactPoint",
                             "telephone": "+1 833 500-6007",
@@ -182,11 +182,11 @@ export default function Page() {
                             "availableLanguage": "en"
                         },
                         "sameAs": [
-                            "https://www.facebook.com/officialBitsWits",
-                            "https://twitter.com/BitsWits_/",
-                            "https://www.instagram.com/officialBitsWits/",
-                            "https://www.youtube.com/@officialBitsWits",
-                            "https://www.linkedin.com/company/officialBitsWits"
+                            "https://www.facebook.com/officialAppsters",
+                            "https://twitter.com/Appsters_/",
+                            "https://www.instagram.com/officialAppsters/",
+                            "https://www.youtube.com/@officialAppsters",
+                            "https://www.linkedin.com/company/officialAppsters"
                         ]
                     })
                 }}
@@ -199,10 +199,10 @@ export default function Page() {
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "LocalBusiness",
-                        "name": "Premier Healthcare App Development Company | BitsWits",
-                        "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+                        "name": "Premier Healthcare App Development Company | Appsters",
+                        "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
                         "@id": "",
-                        "url": "https://www.bitswits.co/healthcare-app-development-services",
+                        "url": "https://www.Appsters.co/healthcare-app-development-services",
                         "telephone": "+1 833 500-6007",
                         "address": {
                             "@type": "PostalAddress",
@@ -231,11 +231,11 @@ export default function Page() {
                             "closes": "23:59"
                         },
                         "sameAs": [
-                            "https://www.facebook.com/officialBitsWits",
-                            "https://twitter.com/BitsWits_/",
-                            "https://www.instagram.com/officialBitsWits/",
-                            "https://www.youtube.com/@officialBitsWits",
-                            "https://www.linkedin.com/company/officialBitsWits"
+                            "https://www.facebook.com/officialAppsters",
+                            "https://twitter.com/Appsters_/",
+                            "https://www.instagram.com/officialAppsters/",
+                            "https://www.youtube.com/@officialAppsters",
+                            "https://www.linkedin.com/company/officialAppsters"
                         ]
                     })
                 }}
@@ -248,13 +248,13 @@ export default function Page() {
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "Product",
-                        "name": "Premier Healthcare App Development Company | BitsWits",
-                        "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-                        "url": "https://www.bitswits.co/healthcare-app-development-services",
+                        "name": "Premier Healthcare App Development Company | Appsters",
+                        "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+                        "url": "https://www.Appsters.co/healthcare-app-development-services",
                         "description": "Leading healthcare app development company building advanced apps for fitness, telemedicine, patient care, appointment scheduling, insurance, and more!",
                         "brand": {
                             "@type": "Brand",
-                            "name": "BitsWits"
+                            "name": "Appsters"
                         },
                         "review": {
                             "@type": "Review",
@@ -266,7 +266,7 @@ export default function Page() {
                             "author": {
                                 "@type": "Organization",
                                 "name": "Clutch",
-                                "url": "https://clutch.co/profile/bitswits"
+                                "url": "https://clutch.co/profile/Appsters"
                             }
                         }
                     })
@@ -298,10 +298,10 @@ export default function Page() {
                             },
                             {
                                 "@type": "Question",
-                                "name": "What types of healthcare apps BitsWits build?",
+                                "name": "What types of healthcare apps Appsters build?",
                                 "acceptedAnswer": {
                                     "@type": "Answer",
-                                    "text": "Our healthcare app developers at BitsWits specialize in building user-centric healthcare applications, including:\n\nTelemedicine apps for remote consultations and virtual care.\nMedication management apps to track prescriptions and medication schedules.\nWearable integration apps for real-time health monitoring.\nPatient portal apps for easy access to medical records and test results.\nAnd a lot more.\nEven if you want custom features within your app, we can help. Let’s connect and discuss your healthcare app in detail."
+                                    "text": "Our healthcare app developers at Appsters specialize in building user-centric healthcare applications, including:\n\nTelemedicine apps for remote consultations and virtual care.\nMedication management apps to track prescriptions and medication schedules.\nWearable integration apps for real-time health monitoring.\nPatient portal apps for easy access to medical records and test results.\nAnd a lot more.\nEven if you want custom features within your app, we can help. Let’s connect and discuss your healthcare app in detail."
                                 }
                             },
                             {

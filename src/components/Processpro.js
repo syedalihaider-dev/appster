@@ -13,7 +13,7 @@ const Processpro = () => {
 
                             <div className={styles.application}>
                                 <h2>The Process Our Mobile App Development Company in Dubai Leverages</h2>
-                                <p className='font16 font-normal white'>The app development process that Bitswits follows to build remarkable mobile applications is always evolving and changing. Our objective is to keep complexity out of the app development in the UAE process to ensure that our clients completely understand what we're doing, when we're doing it, and how we'll do it.</p>
+                                <p className='font16 font-normal white'>The app development process that Appsters follows to build remarkable mobile applications is always evolving and changing. Our objective is to keep complexity out of the app development in the UAE process to ensure that our clients completely understand what we're doing, when we're doing it, and how we'll do it.</p>
                                 <p className='font16 font-normal white pt-2'>Though standardized, our mobile application process includes various stages or sprints that are integrated together to create mobile applications capable of withstanding the test of time and high competition.</p>
                                 <a href='javascript:window.replaceChat();'>Learn More About Our App Development Process</a>
                             </div>
@@ -74,8 +74,8 @@ const Processpro = () => {
 
                                 <h3 className='mt-5'>07</h3>
                                 <h2>Quality Assurance Phase</h2>
-                                <p>The quality assurance phase of Bitswits is led by a team of top Q/A engineers and specialists that are directed to thoroughly test the app for usability, performance, functionality, features, experience on multiple devices, identify bugs, errors, and lags, and more to determine the quality of the application.</p>
-                                <p>Once our Q/A engineers give us a heads-up on the standard and quality of the app, that's when Bitswits, the leading mobile app development company, presents the finalized version of the app to you.</p>
+                                <p>The quality assurance phase of Appsters is led by a team of top Q/A engineers and specialists that are directed to thoroughly test the app for usability, performance, functionality, features, experience on multiple devices, identify bugs, errors, and lags, and more to determine the quality of the application.</p>
+                                <p>Once our Q/A engineers give us a heads-up on the standard and quality of the app, that's when Appsters, the leading mobile app development company, presents the finalized version of the app to you.</p>
 
                                 <h3 className='mt-5'>08</h3>
                                 <h2>Launch & Deployment</h2>

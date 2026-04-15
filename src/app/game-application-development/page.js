@@ -105,7 +105,7 @@ export default function Gameapplicationdevelopment() {
         },
         {
           title: "3D Game Development",
-          text: `BitsWits masters the art of creating stunning 3D games,
+          text: `Appsters masters the art of creating stunning 3D games,
           harnessing the power of cutting-edge technology and
           state-of-the-art tools. We know that a successful 3D game
           requires more than just great visuals – it's also about a
@@ -118,31 +118,31 @@ export default function Gameapplicationdevelopment() {
         },
         {
           title: "Unreal Game Development",
-          text: "Unleashing the potential of Unreal Engine Technology, BitsWits create games that push the boundaries of what's possible in gaming and transport players into new worlds with breathtaking visuals and engaging gameplay. Let your imagination run wild with the one-of-a-kind gaming studio, BitsWits!!!",
+          text: "Unleashing the potential of Unreal Engine Technology, Appsters create games that push the boundaries of what's possible in gaming and transport players into new worlds with breathtaking visuals and engaging gameplay. Let your imagination run wild with the one-of-a-kind gaming studio, Appsters!!!",
           appclass: "app3",
           imgservice: appletvappdevelopment,
         },
         {
           title: "AR Game Development",
-          text: "BitsWits helps you unlock a world of dazzling possibilities and experience the ultimate gaming entertainment with its sheer expertise in building AR games. With cutting-edge technologies such as 3D scanning, game engine creation, and cloud-based storage, we provide innovative solutions built to stand the test of time!",
+          text: "Appsters helps you unlock a world of dazzling possibilities and experience the ultimate gaming entertainment with its sheer expertise in building AR games. With cutting-edge technologies such as 3D scanning, game engine creation, and cloud-based storage, we provide innovative solutions built to stand the test of time!",
           appclass: "app4",
           imgservice: iphoneappdesigning,
         },
         {
           title: "MR Game Development",
-          text: "BitsWits create technology-advanced MR games using the latest 3D graphics, motion capture systems, and robust gaming engines. From intense battles, realistic racing simulators, exciting open-world exploration, and highly interactive first-person shooters to interactive puzzles, there is nothing our gaming maestros don't excel at. Time to leave your gamers gasping for more; after all, this is what we always ensure!",
+          text: "Appsters create technology-advanced MR games using the latest 3D graphics, motion capture systems, and robust gaming engines. From intense battles, realistic racing simulators, exciting open-world exploration, and highly interactive first-person shooters to interactive puzzles, there is nothing our gaming maestros don't excel at. Time to leave your gamers gasping for more; after all, this is what we always ensure!",
           appclass: "app5",
           imgservice: hybridiphone,
         },
         {
           title: "Cross-platform Game Development",
-          text: `BitsWits capitalizes on the latest technologies to develop games that look and run seamlessly on all devices and gadgets. We share the experience in a slew of genres, i.e., casual, RPG, FPS, and more. Hire us to get a game that serves as the ticket to reaching a global audience!`,
+          text: `Appsters capitalizes on the latest technologies to develop games that look and run seamlessly on all devices and gadgets. We share the experience in a slew of genres, i.e., casual, RPG, FPS, and more. Hire us to get a game that serves as the ticket to reaching a global audience!`,
           appclass: "app6",
           imgservice: react,
         },
         {
           title: "Buildbox Game Development",
-          text: "BitsWits cashes in on the Buildbox platform and creates beautiful 3D worlds, physics-based levels, mind-bending puzzles, heart-pumping action games, side-scrolling runners, and whatnot. Tap into the power of this ground-breaking space with our world-class game developers, and let your rivals be knocked out of the competition!",
+          text: "Appsters cashes in on the Buildbox platform and creates beautiful 3D worlds, physics-based levels, mind-bending puzzles, heart-pumping action games, side-scrolling runners, and whatnot. Tap into the power of this ground-breaking space with our world-class game developers, and let your rivals be knocked out of the competition!",
           appclass: "app7",
           imgservice: reactnative,
         },
@@ -172,7 +172,7 @@ export default function Gameapplicationdevelopment() {
       <HomeBannerSlider />
       <LpForm
         addresClass="iosclass"
-        heading={`Welcome to Bitswits, your gateway to exceptional gaming experiences! As a premier game development company, we specialize in turning imaginative concepts into stunning gaming experiences. Our team of mobile game developers is not just skilled; they're innovators dedicated to pushing the boundaries of what games can be. With our renowned game development services, we offer more than development; we offer a partnership focused on elevating your game to an art form. Choose Bitswits to bring your gaming vision to life and captivate players worldwide.`}
+        heading={`Welcome to Appsters, your gateway to exceptional gaming experiences! As a premier game development company, we specialize in turning imaginative concepts into stunning gaming experiences. Our team of mobile game developers is not just skilled; they're innovators dedicated to pushing the boundaries of what games can be. With our renowned game development services, we offer more than development; we offer a partnership focused on elevating your game to an art form. Choose Appsters to bring your gaming vision to life and captivate players worldwide.`}
       />
       <Nothing Nothing="nothingLp6" />
       <ServiceGenre
@@ -182,17 +182,17 @@ export default function Gameapplicationdevelopment() {
         sections={[
           {
             title: <> 2D Game Development </>,
-            text: "Bitswits, a premier 2D game development company, transforms your vision into captivating 2D games. Specializing in comprehensive 2D game development services, we craft everything from pixel art to immersive RPGs. Trust us to bring your 2D game dreams to life with precision and creativity. Start your journey with us today.",
+            text: "Appsters, a premier 2D game development company, transforms your vision into captivating 2D games. Specializing in comprehensive 2D game development services, we craft everything from pixel art to immersive RPGs. Trust us to bring your 2D game dreams to life with precision and creativity. Start your journey with us today.",
             gameicon: gameicon1,
           },
           {
             title: <> 3D Game Development </>,
-            text: "Enter a new era of gaming with Bitswits, your trusted 3D game development company. Our 3D game development services focus on creating rich, interactive worlds that enthrall and engage. With a team of skilled 3D game developers, we're dedicated to pushing boundaries and bringing your most ambitious projects to life—partner with us for unparalleled 3D experiences that captivate from every angle.",
+            text: "Enter a new era of gaming with Appsters, your trusted 3D game development company. Our 3D game development services focus on creating rich, interactive worlds that enthrall and engage. With a team of skilled 3D game developers, we're dedicated to pushing boundaries and bringing your most ambitious projects to life—partner with us for unparalleled 3D experiences that captivate from every angle.",
             gameicon: gameicon2,
           },
           {
             title: <> NFT Game Development </>,
-            text: "BitsWits is an NFT game development company that offers innovative and secure NFT game development services for players who want more control over their gaming assets. Our team of skilled NFT game developers leverages the power of DLT to create high-quality, secure code that offers seamless UI with minimal latency.  Give us a try today!",
+            text: "Appsters is an NFT game development company that offers innovative and secure NFT game development services for players who want more control over their gaming assets. Our team of skilled NFT game developers leverages the power of DLT to create high-quality, secure code that offers seamless UI with minimal latency.  Give us a try today!",
             gameicon: gameicon3,
           },
         ]}
@@ -267,7 +267,7 @@ export default function Gameapplicationdevelopment() {
               text: (
                 <>
 
-                  BitsWits masters the art of creating stunning 3D games,
+                  Appsters masters the art of creating stunning 3D games,
                   harnessing the power of cutting-edge technology and
                   state-of-the-art tools. We know that a successful 3D game
                   requires more than just great visuals – it's also about a
@@ -283,19 +283,19 @@ export default function Gameapplicationdevelopment() {
           appContent2={[
             {
               title: "Unreal Game Development",
-              text: "Unleashing the potential of Unreal Engine Technology, BitsWits create games that push the boundaries of what's possible in gaming and transport players into new worlds with breathtaking visuals and engaging gameplay. Let your imagination run wild with the one-of-a-kind gaming studio, BitsWits!!!",
+              text: "Unleashing the potential of Unreal Engine Technology, Appsters create games that push the boundaries of what's possible in gaming and transport players into new worlds with breathtaking visuals and engaging gameplay. Let your imagination run wild with the one-of-a-kind gaming studio, Appsters!!!",
               appclass: "app3",
             },
           ]}
           appContent3={[
             {
               title: "AR Game Development",
-              text: "BitsWits helps you unlock a world of dazzling possibilities and experience the ultimate gaming entertainment with its sheer expertise in building AR games. With cutting-edge technologies such as 3D scanning, game engine creation, and cloud-based storage, we provide innovative solutions built to stand the test of time!",
+              text: "Appsters helps you unlock a world of dazzling possibilities and experience the ultimate gaming entertainment with its sheer expertise in building AR games. With cutting-edge technologies such as 3D scanning, game engine creation, and cloud-based storage, we provide innovative solutions built to stand the test of time!",
               appclass: "app4",
             },
             {
               title: "MR Game Development",
-              text: "BitsWits create technology-advanced MR games using the latest 3D graphics, motion capture systems, and robust gaming engines. From intense battles, realistic racing simulators, exciting open-world exploration, and highly interactive first-person shooters to interactive puzzles, there is nothing our gaming maestros don't excel at. Time to leave your gamers gasping for more; after all, this is what we always ensure!",
+              text: "Appsters create technology-advanced MR games using the latest 3D graphics, motion capture systems, and robust gaming engines. From intense battles, realistic racing simulators, exciting open-world exploration, and highly interactive first-person shooters to interactive puzzles, there is nothing our gaming maestros don't excel at. Time to leave your gamers gasping for more; after all, this is what we always ensure!",
               appclass: "app5",
             },
           ]}
@@ -304,7 +304,7 @@ export default function Gameapplicationdevelopment() {
               title: "Cross-platform Game Development",
               text: (
                 <>
-                  BitsWits capitalizes on the latest technologies to develop
+                  Appsters capitalizes on the latest technologies to develop
                   games that look and run seamlessly
                   <br className="d-lg-block d-none" /> on all devices and
                   gadgets. We share the experience in a slew of genres, i.e.,
@@ -320,7 +320,7 @@ export default function Gameapplicationdevelopment() {
           appContent5={[
             {
               title: "Buildbox Game Development",
-              text: "BitsWits cashes in on the Buildbox platform and creates beautiful 3D worlds, physics-based levels, mind-bending puzzles, heart-pumping action games, side-scrolling runners, and whatnot. Tap into the power of this ground-breaking space with our world-class game developers, and let your rivals be knocked out of the competition!",
+              text: "Appsters cashes in on the Buildbox platform and creates beautiful 3D worlds, physics-based levels, mind-bending puzzles, heart-pumping action games, side-scrolling runners, and whatnot. Tap into the power of this ground-breaking space with our world-class game developers, and let your rivals be knocked out of the competition!",
               appclass: "app04",
             },
           ]}
@@ -373,18 +373,18 @@ export default function Gameapplicationdevelopment() {
         text={
           <>
             It's time to develop compelling storylines and rich characters with
-            BitsWits; after all, don't you want to create an immersive
+            Appsters; after all, don't you want to create an immersive
             experience? <br></br> We use the latest technologies and
             cutting-edge visuals to enable players to interact intuitively,
             whether playing on a PC, console, or mobile device.
           </>
         }
         heading1="We Ideate, Design, and Construct Expressive Games!!!"
-        content1="BitsWits bring your visions into gaming reality following a structured and mindful approach. Our ideation process starts by exploring potential themes and genres to create an ideal design concept. We then move on to planning out the game's structure and detailing the game design document. Once the plan is locked in, we move on to building the game prototype. Our team works in tandem to create the basic visuals and gameplay for the game with all features intact. The end result is nothing short of amazing - a game that best aligns with the interests and goals of the client and functions seamlessly!"
+        content1="Appsters bring your visions into gaming reality following a structured and mindful approach. Our ideation process starts by exploring potential themes and genres to create an ideal design concept. We then move on to planning out the game's structure and detailing the game design document. Once the plan is locked in, we move on to building the game prototype. Our team works in tandem to create the basic visuals and gameplay for the game with all features intact. The end result is nothing short of amazing - a game that best aligns with the interests and goals of the client and functions seamlessly!"
         heading2="We Design Flawless, Captivating User Interfaces And Experiences!!!"
-        content2="BitsWits shares a renowned name in developing top-class UI/UX processes that glues gamers to the screen for stretched hours. Our in-depth analysis of user behavior helps us create the perfect interface for each game, ensuring that no two experiences are the same. Our industry-trained game developers develop UI/UX optimized for maximum engagement and satiation."
+        content2="Appsters shares a renowned name in developing top-class UI/UX processes that glues gamers to the screen for stretched hours. Our in-depth analysis of user behavior helps us create the perfect interface for each game, ensuring that no two experiences are the same. Our industry-trained game developers develop UI/UX optimized for maximum engagement and satiation."
         heading3="We Utilize Cutting-Edge Mobile Gaming Technologies!!!"
-        content3="BitsWits collar the intricacies of mobile gaming technology and help develop a strategy for success. We use cutting-edge software, languages, and frameworks; you can enjoy superior graphics and sound that bring every battle, mission, or quest to life. Our innovative network protocols will keep your game running smoothly with low latency and excellent responsiveness."
+        content3="Appsters collar the intricacies of mobile gaming technology and help develop a strategy for success. We use cutting-edge software, languages, and frameworks; you can enjoy superior graphics and sound that bring every battle, mission, or quest to life. Our innovative network protocols will keep your game running smoothly with low latency and excellent responsiveness."
       />
       <ServiceSolutions
         addClass="gameApp"
@@ -394,7 +394,7 @@ export default function Gameapplicationdevelopment() {
       />
       <ServiceEngage
         subTitle="HIRE THE BEST; FORGET THE REST!"
-        title="Why Engage BitsWits As Your Game Development Studio?"
+        title="Why Engage Appsters As Your Game Development Studio?"
         main={main}
         heading1="Unpaired Expertise"
         text1="Our team brings a wealth of expertise to the table. We celebrate a team of experts in game design, programming, and art direction, ensuring your vision for a video game comes to life with precision and accuracy."
@@ -403,10 +403,10 @@ export default function Gameapplicationdevelopment() {
         text2="We are passionate about gaming and strive to stay up-to-date on the latest trends in the industry. We are equipped with the necessary tools, knowledge, and skills to create an engaging video game experience."
         engIcon2={engIcon2}
         heading3="Creative Solutions"
-        text3="BitsWits offers innovative solutions tailored to your specific needs and marketing objectives. Whether you're looking to create a game that educates, entertains, or helps you earn a steady stream of revenue, our team can craft the perfect experience to meet your needs."
+        text3="Appsters offers innovative solutions tailored to your specific needs and marketing objectives. Whether you're looking to create a game that educates, entertains, or helps you earn a steady stream of revenue, our team can craft the perfect experience to meet your needs."
         engIcon3={engIcon3}
         heading4="Prices That Make Sense"
-        text4="We offer competitive prices for our services, meaning you get a great game at an even better price. Plus, if you're not 100% satisfied with the final product, we offer a full refund so you can be sure that your money is being well spent. There is one thing for sure at BitsWits, your hard-earned money won't go down the drain."
+        text4="We offer competitive prices for our services, meaning you get a great game at an even better price. Plus, if you're not 100% satisfied with the final product, we offer a full refund so you can be sure that your money is being well spent. There is one thing for sure at Appsters, your hard-earned money won't go down the drain."
         engIcon4={engIcon4}
       />
       <Newsuccess
@@ -506,7 +506,7 @@ export default function Gameapplicationdevelopment() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Game Application Development Company",
-            "url": "https://www.bitswits.co/game-application-development",
+            "url": "https://www.Appsters.co/game-application-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -520,15 +520,15 @@ export default function Gameapplicationdevelopment() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/game-application-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/game-application-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
            }                                                                                        
         `}
@@ -539,8 +539,8 @@ export default function Gameapplicationdevelopment() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Game Application Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgameappbanner.c0534db1.png&w=1200&q=75",
-            "url": "https://www.bitswits.co/game-application-development",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgameappbanner.c0534db1.png&w=1200&q=75",
+            "url": "https://www.Appsters.co/game-application-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -568,11 +568,11 @@ export default function Gameapplicationdevelopment() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
           }                                                                       
         `}
@@ -583,11 +583,11 @@ export default function Gameapplicationdevelopment() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Game Application Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgameappbanner.c0534db1.png&w=1200&q=75",
-            "description": "Welcome to Bitswits, your gateway to exceptional gaming experiences! As a premier game development company, we specialize in turning imaginative concepts into stunning gaming experiences. Our team of mobile game developers is not just skilled; they're innovators dedicated to pushing the boundaries of what games can be. With our renowned game development services, we offer more than development; we offer a partnership focused on elevating your game to an art form. Choose Bitswits to bring your gaming vision to life and captivate players worldwide.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgameappbanner.c0534db1.png&w=1200&q=75",
+            "description": "Welcome to Appsters, your gateway to exceptional gaming experiences! As a premier game development company, we specialize in turning imaginative concepts into stunning gaming experiences. Our team of mobile game developers is not just skilled; they're innovators dedicated to pushing the boundaries of what games can be. With our renowned game development services, we offer more than development; we offer a partnership focused on elevating your game to an art form. Choose Appsters to bring your gaming vision to life and captivate players worldwide.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

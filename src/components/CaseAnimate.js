@@ -12,18 +12,18 @@ const CaseAnimate = (props) => {
                     <Row className='align-items-end'>
                         <Col md={4} className='px-md-0 col-4'>
                             <div className={styles.imgBox}>
-                                <Image quality={90} src={props.animiImg1} alt="BitsWits" className={`${styles.secImg} img-fluid`} />
+                                <Image quality={90} src={props.animiImg1} alt="Appsters" className={`${styles.secImg} img-fluid`} />
 
                             </div>
                         </Col>
                         <Col md={4} className='px-md-0 col-4'>
                             <div className={styles.imgBox}>
-                                <Image quality={90} src={props.animiImg2} alt="BitsWits" className={`${styles.secImg2} img-fluid`} />
+                                <Image quality={90} src={props.animiImg2} alt="Appsters" className={`${styles.secImg2} img-fluid`} />
                             </div>
                         </Col>
                         <Col md={4} className='px-md-0 col-4'>
                             <div className={styles.imgBox}>
-                                <Image quality={90} src={props.animiImg3} alt="BitsWits" className={`${styles.secImg} img-fluid`} />
+                                <Image quality={90} src={props.animiImg3} alt="Appsters" className={`${styles.secImg} img-fluid`} />
                             </div>
                         </Col>
                     </Row>

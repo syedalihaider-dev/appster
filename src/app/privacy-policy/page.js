@@ -27,9 +27,9 @@ export default function privacypolicy() {
                 statistical information used to monitor the usage of our website
                 and for advertising purposes. This information does not include
                 personal information. a) Personally Identifiable Information:
-                BitsWits Consulting will not rent or sell your personally
+                Appsters Consulting will not rent or sell your personally
                 identifiable information to others. We may store personal
-                information in locations outside the direct control of BitsWits
+                information in locations outside the direct control of Appsters
                 Consulting (for instance on servers or databases co-located with
                 hosting providers). Any personally identifiable information you
                 elect to make publicly available on our sites, such as posting
@@ -45,21 +45,21 @@ export default function privacypolicy() {
                 learn how the third party application uses your information,
                 please visit their privacy policy. All personal information used
                 within our contact form will be used by the internal team at
-                BitsWits for communication purposes. b) Non-Personally
+                Appsters for communication purposes. b) Non-Personally
                 Identifiable Information: Non-Personally Identifiable
                 Information: We may share non-personally identifiable
                 information (such as anonymous usage data, referring/exit pages
                 and URLs, platform types, number of clicks, etc,) with
                 interested third parties to help them understand the usage
-                patterns for certain BitsWits Consulting services.
+                patterns for certain Appsters Consulting services.
               </p>
               <h3 className="font30 font-bold fontf white mt-3">Cookies</h3>
               <p className="font14 font-500 fontf white">
-                As you browse BitsWits.co, advertising cookies will be placed on
+                As you browse Appsters.co, advertising cookies will be placed on
                 your computer so that we can understand what you are interested
                 in. Our display advertising partner, then enables us to present
                 you with retargeting advertising on other sites based on your
-                previous interaction with BitsWits.co. The techniques our
+                previous interaction with Appsters.co. The techniques our
                 partners employ do not collect personal information such as your
                 name, email address, postal address or telephone number. You can
                 visit this page to opt out of AdRoll and their partner's

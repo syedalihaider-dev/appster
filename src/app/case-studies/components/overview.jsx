@@ -18,12 +18,12 @@ const Overview = ({data}) => {
                         <div className={styles.storeImg}>
                             <div className={styles.storeItem}>
                                 <a href="#" target="_blank">
-                                    <Image src={AppleStore.src} alt="Bitswits Apple Store" width={190} height={57} />
+                                    <Image src={AppleStore.src} alt="Appsters Apple Store" width={190} height={57} />
                                 </a>
                             </div>
                             <div className={styles.storeItem}>
                                 <a href="#" target="_blank">
-                                    <Image src={GoogleStore.src} alt="Bitswits Google Store" width={190} height={57} />
+                                    <Image src={GoogleStore.src} alt="Appsters Google Store" width={190} height={57} />
                                 </a>
                             </div>
                         </div>

@@ -114,7 +114,7 @@ const Banner = ({ content }) => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -255,7 +255,7 @@ const Banner = ({ content }) => {
                                 typingDelay={100}
                             />
                             <h1 className='text-black mb-3 mb-lg-4 manrope font-bold'>3D Game <span className='newfycolr'>Development Company</span></h1>
-                            <p className='font16 text-black font-medium mt-2 mt-xl-3 mb-3 mb-xl-4 mb-0 manrope'>BitsWits is a premium-grade 3D game development company that creates immersive 3D games for PC, consoles, mobile, and VR/AR. Utilizing Unity and Unreal Engine, our results-driven 3D game development services ensure exceptional visuals and implement monetization strategies to boost engagement and drive ROI by 30%.</p>
+                            <p className='font16 text-black font-medium mt-2 mt-xl-3 mb-3 mb-xl-4 mb-0 manrope'>Appsters is a premium-grade 3D game development company that creates immersive 3D games for PC, consoles, mobile, and VR/AR. Utilizing Unity and Unreal Engine, our results-driven 3D game development services ensure exceptional visuals and implement monetization strategies to boost engagement and drive ROI by 30%.</p>
                             <div className="d-flex align-items-center gap-4 px-0">
                                 <a href="#href" className={`${styles.demoBtn} font-bold manrope`}>
                                     Let’s Talk!
@@ -266,7 +266,7 @@ const Banner = ({ content }) => {
                             </div>
                         </div>
                         <div className="logos pb-4 pb-lg-0 pt-4 pt-lg-5">
-                            <Image src={logos} alt='Bitswits' className='img-fluid' />
+                            <Image src={logos} alt='Appsters' className='img-fluid' />
                         </div>
                     </Col>
                     <Col lg={5} xl={6}>
@@ -281,7 +281,7 @@ const Banner = ({ content }) => {
                                 <input className={styles.vehicle1} type='checkbox' name='vehicle1' checked={checkboxes.includes('Share Non Disclosure Agreement')} onChange={handleOptionChange3} value='Share Non Disclosure Agreement' />
                                 <label className='form-check-label' htmlFor='flexCheckDefault'>Sign Non-Disclosure Agreement </label>
                                 <button className={`pink ${styles.value} mt-4 mt-sm-0 blackPulse bitsForm`} type='submit' disabled={isDisabled}>
-                                    <Image src={formImg} className='img-fluid' alt='BitsWits' />
+                                    <Image src={formImg} className='img-fluid' alt='Appsters' />
                                     {score}
                                 </button>
                             </div>

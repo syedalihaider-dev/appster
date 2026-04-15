@@ -36,7 +36,7 @@ const HeaderMbl = () => {
                 <div className={styles.navLogo}>
                     <Link href="#href">
                         <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             className='img-fluid'
                             src={logo}
                         />
@@ -46,7 +46,7 @@ const HeaderMbl = () => {
                     <ul className={isActive ? `${styles.menu} ${styles.active}` : `${styles.menu}`}>
                         <div className={`${styles.navLogo} ${styles.mblLogo}`}>
                             <Link href="#href">
-                                <Image alt="bitswits" className='img-fluid'
+                                <Image alt="Appsters" className='img-fluid'
                                     src={mbllogo}
                                 />
                             </Link>

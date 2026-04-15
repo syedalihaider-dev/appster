@@ -76,7 +76,7 @@ const NewMaintain = (props) => {
                                                 Artificial Intelligence (Ai)
                                             </h3>
                                             <p className={styles.para1}>
-                                                Hire BitsWits as your trusted ally for AI development,
+                                                Hire Appsters as your trusted ally for AI development,
                                                 and experience the revolution of your project through
                                                 Artificial Intelligence that raises its potential.
                                             </p>
@@ -120,7 +120,7 @@ const NewMaintain = (props) => {
                                     <div className={styles.power}>
                                         <h3 className="text-white newservefy font-bold">AR/VR</h3>
                                         <p className={`text-white f-16 ${styles.contentPara}`}>
-                                            BitsWits serves as your AR/VR portal. We specialize in
+                                            Appsters serves as your AR/VR portal. We specialize in
                                             creating imaginative concepts into compelling digital
                                             realities that captivate, entertain, and inspire your
                                             audience.

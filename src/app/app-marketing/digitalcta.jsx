@@ -8,7 +8,7 @@ const DigitalCta = ({ data }) => {
             <Container className="h-100">
                 <Row className="h-100">
                     <Col lg={6} md={6} className="my-auto">
-                        <div className={styles.bitsWits}>
+                        <div className={styles.Appsters}>
                             <span className={`${styles.bits}`}>Bits</span>
                             <span className={`${styles.wits}`}>Wits</span>
                         </div>

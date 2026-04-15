@@ -19,7 +19,7 @@ const Creative = () => {
                             <h2 className="black f-40 f-600 center">Let's <span className="f-700">Works</span> Together <br></br> Let's <span className="f-700">Creative</span> </h2>
                         </Col>
                         <div className={` ${styles.flip} d-flex justify-content-center align-items-center`}>
-                            <Image src={BannerImage} className="img-fluid dropshadow" alt="BitsWits" />
+                            <Image src={BannerImage} className="img-fluid dropshadow" alt="Appsters" />
                         </div>
                         <div className={styles.btncall}>
                             <h4>START <br></br> A PROJECT?</h4>

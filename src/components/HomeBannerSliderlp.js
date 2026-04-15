@@ -26,7 +26,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg1}
                 className="img-fluid"
               />
@@ -34,7 +34,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg2}
                 className="img-fluid"
               />
@@ -42,7 +42,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg3}
                 className="img-fluid"
               />
@@ -50,7 +50,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg4}
                 className="img-fluid"
               />
@@ -58,7 +58,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg5}
                 className="img-fluid"
               />
@@ -66,7 +66,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg6}
                 className="img-fluid"
               />
@@ -74,7 +74,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg7}
                 className="img-fluid"
               />
@@ -82,7 +82,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg8}
                 className="img-fluid"
               />
@@ -90,7 +90,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg1}
                 className="img-fluid"
               />
@@ -98,7 +98,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg2}
                 className="img-fluid"
               />
@@ -106,7 +106,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg3}
                 className="img-fluid"
               />
@@ -114,7 +114,7 @@ export default function HomeBannerSlider(props) {
             <div className="slide">
               <Image
                 quality={100}
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg4}
                 className="img-fluid"
               />

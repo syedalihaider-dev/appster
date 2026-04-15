@@ -29,7 +29,7 @@ const ServicesFaqsdubai = (props) => {
                                 <div key={index} className={`${faqStates[index] ? "touchFaq" : ""} mb-4 mb-lg-0`}>
                                     <div onClick={() => toggleFaq(index)} className={`${styles.heading} p-3`}>
                                         <h3>
-                                            {faq.question} {faqStates[index] ? <Image quality={75} src={open} className="img-fluid" alt="Bitswits" /> : <Image quality={75} src={close} className="img-fluid" alt="Bitswits" />}
+                                            {faq.question} {faqStates[index] ? <Image quality={75} src={open} className="img-fluid" alt="Appsters" /> : <Image quality={75} src={close} className="img-fluid" alt="Appsters" />}
                                         </h3>
                                     </div>
 

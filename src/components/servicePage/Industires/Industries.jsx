@@ -87,7 +87,7 @@ const Industries = () => {
                             <Slider {...indusSlider} className={`${styles.indusSlider} servicesIndustriesSlider`}>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide1} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide1} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Healthcare</h5>
                                         </div>
@@ -97,7 +97,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -105,7 +105,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide2} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide2} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Education</h5>
                                         </div>
@@ -115,7 +115,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -123,7 +123,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide3} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide3} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Finance</h5>
                                         </div>
@@ -133,7 +133,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -141,7 +141,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide4} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide4} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Retail</h5>
                                         </div>
@@ -151,7 +151,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -159,7 +159,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide5} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide5} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Real Estate</h5>
                                         </div>
@@ -169,7 +169,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -177,7 +177,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide6} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide6} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Travel & Hospitality</h5>
                                         </div>
@@ -187,7 +187,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -195,7 +195,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide7} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide7} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Entertainment</h5>
                                         </div>
@@ -205,7 +205,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>
@@ -213,7 +213,7 @@ const Industries = () => {
                                 </div>
                                 <div className="px-2">
                                     <div className={`${styles.indusSlide} indusSlide`}>
-                                        <Image src={slide8} alt='BitsWits' className='img-fluid w-100' />
+                                        <Image src={slide8} alt='Appsters' className='img-fluid w-100' />
                                         <div className={`${styles.head} head`}>
                                             <h5 className='manrope'>Food & Beverage</h5>
                                         </div>
@@ -223,7 +223,7 @@ const Industries = () => {
                                             <a href="#form" className={`manrope ${styles.btn}`}>
                                                 Learn More
                                                 <span>
-                                                    <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                    <Image src={arrow} alt='Appsters' width={17} height={11} />
                                                 </span>
                                             </a>
                                         </div>

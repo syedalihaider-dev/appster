@@ -56,7 +56,7 @@ const ExplainerType = () => {
                         <Row className={styles.secGap}>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card1} alt='Bitswits' />
+                                    <Image src={Card1} alt='Appsters' />
                                     <h3>Whiteboard Animation Video</h3>
                                     <p>
                                         Whiteboard videos entail simulating black-line graphics on a white background while guiding viewers through the entire concept or idea.
@@ -65,7 +65,7 @@ const ExplainerType = () => {
                             </Col>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card2} alt='Bitswits' />
+                                    <Image src={Card2} alt='Appsters' />
                                     <h3>Motion Graphics</h3>
                                     <p>
                                         Again, motion graphics animation videos are known for being simple and engaging. It's the perfect animation style for businesses looking to show off a wide variety of goods or services.
@@ -74,7 +74,7 @@ const ExplainerType = () => {
                             </Col>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card3} alt='Bitswits' />
+                                    <Image src={Card3} alt='Appsters' />
                                     <h3>2D Character Animation Videos</h3>
                                     <p>
                                         2D animation is one of the most widely used and common animation forms today. Because of its versatility, 2D animation allows for a lot of artistic freedom when it comes to adding the next stage of customization.
@@ -83,7 +83,7 @@ const ExplainerType = () => {
                             </Col>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card4} alt='Bitswits' />
+                                    <Image src={Card4} alt='Appsters' />
                                     <h3>3D Animation Video</h3>
                                     <p>
                                         Because of its high-end and high-quality finish, 3D animation has carved out a niche for itself. With a narrative focus on the action, the distinctive aesthetics of 3D animation make it easier for viewers to interact with what is being seen in the video.
@@ -92,7 +92,7 @@ const ExplainerType = () => {
                             </Col>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card5} alt='Bitswits' />
+                                    <Image src={Card5} alt='Appsters' />
                                     <h3>Screencast Videos</h3>
                                     <p>
                                         It is a popular tool for startups in the technology world. It's a fantastic way to explain a procedure or film a demo video.
@@ -101,7 +101,7 @@ const ExplainerType = () => {
                             </Col>
                             <Col lg={4}>
                                 <div className={styles.card}>
-                                    <Image src={Card6} alt='Bitswits' />
+                                    <Image src={Card6} alt='Appsters' />
                                     <h3>Typography Videos</h3>
                                     <p>
                                         Typography animation can render a video by effectively underlining and memorably reinforcing the message with the use of clever fonts and animation.
@@ -114,7 +114,7 @@ const ExplainerType = () => {
                         <Slider {...ExplainerSlider} className="typeSlider">
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card1} alt='Bitswits' />
+                                    <Image src={Card1} alt='Appsters' />
                                     <h3>Whiteboard Animation Video</h3>
                                     <p>
                                         Whiteboard videos entail simulating black-line graphics on a white background while guiding viewers through the entire concept or idea.
@@ -123,7 +123,7 @@ const ExplainerType = () => {
                             </div>
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card2} alt='Bitswits' />
+                                    <Image src={Card2} alt='Appsters' />
                                     <h3>Motion Graphics</h3>
                                     <p>
                                         Again, motion graphics animation videos are known for being simple and engaging. It's the perfect animation style for businesses looking to show off a wide variety of goods or services.
@@ -132,7 +132,7 @@ const ExplainerType = () => {
                             </div>
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card3} alt='Bitswits' />
+                                    <Image src={Card3} alt='Appsters' />
                                     <h3>2D Character Animation Videos</h3>
                                     <p>
                                         2D animation is one of the most widely used and common animation forms today. Because of its versatility, 2D animation allows for a lot of artistic freedom when it comes to adding the next stage of customization.
@@ -141,7 +141,7 @@ const ExplainerType = () => {
                             </div>
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card4} alt='Bitswits' />
+                                    <Image src={Card4} alt='Appsters' />
                                     <h3>3D Animation Video</h3>
                                     <p>
                                         Because of its high-end and high-quality finish, 3D animation has carved out a niche for itself. With a narrative focus on the action, the distinctive aesthetics of 3D animation make it easier for viewers to interact with what is being seen in the video.
@@ -150,7 +150,7 @@ const ExplainerType = () => {
                             </div>
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card5} alt='Bitswits' />
+                                    <Image src={Card5} alt='Appsters' />
                                     <h3>Screencast Videos</h3>
                                     <p>
                                         It is a popular tool for startups in the technology world. It's a fantastic way to explain a procedure or film a demo video.
@@ -159,7 +159,7 @@ const ExplainerType = () => {
                             </div>
                             <div className='px-2'>
                                 <div className={styles.card}>
-                                    <Image src={Card6} alt='Bitswits' />
+                                    <Image src={Card6} alt='Appsters' />
                                     <h3>Typography Videos</h3>
                                     <p>
                                         Typography animation can render a video by effectively underlining and memorably reinforcing the message with the use of clever fonts and animation.

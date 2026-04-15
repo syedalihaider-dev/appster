@@ -20,7 +20,7 @@ const CtaEstimated = ({ data }) => {
                         </Col>
                         <Col lg={5}>
                             <div className={styles.ctaSectionMainImg}>
-                                <Image src={ctaImg} width={500} height={500} alt="BitsWits" />
+                                <Image src={ctaImg} width={500} height={500} alt="Appsters" />
                             </div>
                         </Col>
                     </Row>

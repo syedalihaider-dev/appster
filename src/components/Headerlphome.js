@@ -99,7 +99,7 @@ const Headerlphome = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -184,7 +184,7 @@ const Headerlphome = () => {
                            
                             <div className="toasNotificationGoogle" data-scroll data-scroll-speed="0.1">
                                 <div className="innerborder">
-                                <Link href='/'><Image src={logo22} alt='BitsWits' className={`${styles.foldp} img-fluid mt-2 w-25`} /></Link>
+                                <Link href='/'><Image src={logo22} alt='Appsters' className={`${styles.foldp} img-fluid mt-2 w-25`} /></Link>
                                 </div>
                             </div>
                             <div className={styles.toasNotification} data-scroll data-scroll-speed="0.1">
@@ -204,11 +204,11 @@ const Headerlphome = () => {
                         
 
                         <ul className={styles.newpond}>
-                           <a href='#home' > <li className={show == 'tab1' ? styles.new : ''} onClick={() => fun1('tab1')}><Image alt='BitsWits' src={new1} /></li> </a>
-                           <a href='#technofair' > <li className={show == 'tab2' ? styles.new : ''} onClick={() => fun1('tab2')}><Image alt='BitsWits' src={new2} /></li> </a>
-                           <a href='#third' > <li className={show == 'tab3' ? styles.new : ''} onClick={() => fun1('tab3')}><Image alt='BitsWits' src={new3} /></li> </a>
-                           <a href='#testihook' > <li className={show == 'tab4' ? styles.new : ''} onClick={() => fun1('tab4')}><Image alt='BitsWits' src={new4} /></li> </a>
-                           <a href='#lastform' ><li className={show == 'tab5' ? styles.new : ''} onClick={() => fun1('tab5')}><Image alt='BitsWits' src={new5} /></li> </a>
+                           <a href='#home' > <li className={show == 'tab1' ? styles.new : ''} onClick={() => fun1('tab1')}><Image alt='Appsters' src={new1} /></li> </a>
+                           <a href='#technofair' > <li className={show == 'tab2' ? styles.new : ''} onClick={() => fun1('tab2')}><Image alt='Appsters' src={new2} /></li> </a>
+                           <a href='#third' > <li className={show == 'tab3' ? styles.new : ''} onClick={() => fun1('tab3')}><Image alt='Appsters' src={new3} /></li> </a>
+                           <a href='#testihook' > <li className={show == 'tab4' ? styles.new : ''} onClick={() => fun1('tab4')}><Image alt='Appsters' src={new4} /></li> </a>
+                           <a href='#lastform' ><li className={show == 'tab5' ? styles.new : ''} onClick={() => fun1('tab5')}><Image alt='Appsters' src={new5} /></li> </a>
                         </ul>
                     </div> */}
 
@@ -296,14 +296,14 @@ const Headerlphome = () => {
                                                         <h3 className='mb-0'>Trusted by</h3>
                                                     </div>
                                                     <div className={styles.icons}>
-                                                        <Image src={logo1} alt='BitsWits' className='img-fluid' />
-                                                        <Image src={logo2} alt='BitsWits' className='img-fluid' />
-                                                        <Image src={logo3} alt='BitsWits' className='img-fluid' />
-                                                        <Image src={logo4} alt='BitsWits' className='img-fluid' />
-                                                        <Image src={logo5} alt='BitsWits' className='img-fluid' />
+                                                        <Image src={logo1} alt='Appsters' className='img-fluid' />
+                                                        <Image src={logo2} alt='Appsters' className='img-fluid' />
+                                                        <Image src={logo3} alt='Appsters' className='img-fluid' />
+                                                        <Image src={logo4} alt='Appsters' className='img-fluid' />
+                                                        <Image src={logo5} alt='Appsters' className='img-fluid' />
                                                     </div>
                                                     <div className={styles.star}>
-                                                        <Image src={star} alt='BitsWits' className='img-fluid' />
+                                                        <Image src={star} alt='Appsters' className='img-fluid' />
                                                     </div>
                                                 </div>
                                             </div>

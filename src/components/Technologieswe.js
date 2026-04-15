@@ -160,7 +160,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon1}
                       className="img-fluid"
                     />
@@ -169,7 +169,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon2}
                       className="img-fluid"
                     />
@@ -178,7 +178,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon3}
                       className="img-fluid"
                     />
@@ -187,7 +187,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon4}
                       className="img-fluid"
                     />
@@ -196,7 +196,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon5}
                       className="img-fluid"
                     />
@@ -206,7 +206,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon6}
                       className="img-fluid"
                     />
@@ -215,7 +215,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon7}
                       className="img-fluid"
                     />
@@ -224,7 +224,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon8}
                       className="img-fluid"
                     />
@@ -238,7 +238,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend1}
                       className="img-fluid"
                     />
@@ -247,7 +247,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend2}
                       className="img-fluid"
                     />
@@ -256,7 +256,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend3}
                       className="img-fluid"
                     />
@@ -265,7 +265,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend4}
                       className="img-fluid"
                     />
@@ -274,7 +274,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend5}
                       className="img-fluid w-75"
                     />
@@ -284,7 +284,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={frontend6}
                       className="img-fluid"
                     />
@@ -298,7 +298,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database1}
                       className="img-fluid"
                     />
@@ -307,7 +307,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database2}
                       className="img-fluid"
                     />
@@ -316,7 +316,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database3}
                       className="img-fluid"
                     />
@@ -325,7 +325,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database4}
                       className="img-fluid"
                     />
@@ -334,7 +334,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database5}
                       className="img-fluid"
                     />
@@ -344,7 +344,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={database6}
                       className="img-fluid"
                     />
@@ -358,7 +358,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={php1}
                       className="img-fluid"
                     />
@@ -367,7 +367,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={php2}
                       className="img-fluid"
                     />
@@ -376,7 +376,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={php3}
                       className="img-fluid"
                     />
@@ -390,7 +390,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={cms1}
                       className="img-fluid"
                     />
@@ -399,7 +399,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={cms2}
                       className="img-fluid"
                     />
@@ -408,7 +408,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={cms3}
                       className="img-fluid"
                     />
@@ -422,7 +422,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev1}
                       className="img-fluid"
                     />
@@ -431,7 +431,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev2}
                       className="img-fluid"
                     />
@@ -440,7 +440,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev3}
                       className="img-fluid"
                     />
@@ -449,7 +449,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev4}
                       className="img-fluid"
                     />
@@ -458,7 +458,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev5}
                       className="img-fluid"
                     />
@@ -468,7 +468,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev6}
                       className="img-fluid"
                     />
@@ -477,7 +477,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev7}
                       className="img-fluid"
                     />
@@ -486,7 +486,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev8}
                       className="img-fluid"
                     />
@@ -495,7 +495,7 @@ const Technologieswe = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={dev9}
                       className="img-fluid"
                     />

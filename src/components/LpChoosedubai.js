@@ -33,7 +33,7 @@ const LpChoosedubai = (props) => {
               <h3 className="white newchoose font-bold f-700">The Apex of Disruptive Mobile App Solutions by a Mobile App Development Company in Dubai</h3>
 
               <p>
-                At BitsWits, we pride ourselves on being more than just another Mobile app development company in Dubai. Our team of skilled professionals has earned global recognition, awards, and accolades for creating ingenious and disruptive mobile app solutions. This distinction sets us apart in the industry.
+                At Appsters, we pride ourselves on being more than just another Mobile app development company in Dubai. Our team of skilled professionals has earned global recognition, awards, and accolades for creating ingenious and disruptive mobile app solutions. This distinction sets us apart in the industry.
               </p>
               <p>
                 Mobile app developers in Dubai thrive on the philosophy of individualistic collectivism, using it as a driving force to revolutionize and disrupt the mobile app landscape. Our aim is to develop scalable solutions that empower businesses to achieve their objectives seamlessly.

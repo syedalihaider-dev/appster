@@ -56,7 +56,7 @@ const Technologieslpdubai = ({ content }) => {
                                             </a>
                                         </Col>
                                         <Col lg={5}>
-                                            <Image priority className='img-fluid mx-auto d-block' alt='Bitswits' quality={85} src={icon3} />
+                                            <Image priority className='img-fluid mx-auto d-block' alt='Appsters' quality={85} src={icon3} />
                                         </Col>
                                     </Row>
                                 </div>
@@ -81,7 +81,7 @@ const Technologieslpdubai = ({ content }) => {
                                             </a>
                                         </Col>
                                         <Col lg={5}>
-                                            <Image priority className='img-fluid mx-auto d-block' alt='Bitswits' quality={85} src={icon4} />
+                                            <Image priority className='img-fluid mx-auto d-block' alt='Appsters' quality={85} src={icon4} />
                                         </Col>
                                     </Row>
                                 </div>
@@ -105,7 +105,7 @@ const Technologieslpdubai = ({ content }) => {
                                             </a>
                                         </Col>
                                         <Col lg={5}>
-                                            <Image priority className='img-fluid mx-auto d-block' alt='Bitswits' quality={85} src={icon6} />
+                                            <Image priority className='img-fluid mx-auto d-block' alt='Appsters' quality={85} src={icon6} />
                                         </Col>
                                     </Row>
                                 </div>
@@ -129,7 +129,7 @@ const Technologieslpdubai = ({ content }) => {
                                             </a>
                                         </Col>
                                         <Col lg={5}>
-                                            <Image priority className='img-fluid mx-auto d-block' alt='Bitswits' quality={85} src={icon5} />
+                                            <Image priority className='img-fluid mx-auto d-block' alt='Appsters' quality={85} src={icon5} />
                                         </Col>
                                     </Row>
                                 </div>
@@ -153,7 +153,7 @@ const Technologieslpdubai = ({ content }) => {
                                             </a>
                                         </Col>
                                         <Col lg={5}>
-                                            <Image priority className='img-fluid mx-auto d-block' alt='Bitswits' quality={85} src={icon6} />
+                                            <Image priority className='img-fluid mx-auto d-block' alt='Appsters' quality={85} src={icon6} />
                                         </Col>
                                     </Row>
                                 </div>

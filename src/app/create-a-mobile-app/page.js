@@ -109,7 +109,7 @@ export default function gamedevelopmentcompany() {
               para={
                 <>
                   <h3 className={stylesjust.develop}>
-                    Design, Develop, and Grow with BitsWits.
+                    Design, Develop, and Grow with Appsters.
                   </h3>
                 </>
               }
@@ -147,7 +147,7 @@ export default function gamedevelopmentcompany() {
               para={
                 <>
                   <h3 className={stylesjust.develop}>
-                    Design, Develop, and Grow with BitsWits.
+                    Design, Develop, and Grow with Appsters.
                   </h3>
                 </>
               }

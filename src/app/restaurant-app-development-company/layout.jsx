@@ -1,16 +1,16 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Top Restaurant app development company - Bitswits",
+  title: "Top Restaurant app development company - Appsters",
   description:
-    "BitsWits, a top restaurant app development company, builds apps with online ordering, reservations, and loyalty programs to grow your business effectively.",
+    "Appsters, a top restaurant app development company, builds apps with online ordering, reservations, and loyalty programs to grow your business effectively.",
   //===== OG Tags =====
   openGraph: {
-    title: "Top Restaurant app development company - Bitswits",
+    title: "Top Restaurant app development company - Appsters",
     description:
-      "BitsWits, a top restaurant app development company, builds apps with online ordering, reservations, and loyalty programs to grow your business effectively.",
+      "Appsters, a top restaurant app development company, builds apps with online ordering, reservations, and loyalty programs to grow your business effectively.",
     url: "/restaurant-app-development-company",
-    siteName: "BitsWits",
+    siteName: "Appsters",
     locale: "en_US",
     type: "website",
     images: "/public/images/icons/footerlogo.png",
@@ -19,7 +19,7 @@ export const metadata = {
   alternates: { canonical: "/restaurant-app-development-company" },
   //===== GEO Tags =====
   other: {
-    "DC.title": "Top Restaurant app development company - Bitswits",
+    "DC.title": "Top Restaurant app development company - Appsters",
     "geo.region": "US",
     "geo.placename": "Houston",
     "geo.position": "29.7372487; -95.4618603",

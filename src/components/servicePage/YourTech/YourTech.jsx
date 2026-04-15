@@ -120,7 +120,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechOne} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechOne} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Unity</p>
@@ -130,7 +130,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwo} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwo} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Unreal Engine</p>
@@ -140,7 +140,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThree} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThree} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Godot</p>
@@ -150,7 +150,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFour} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFour} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>CryEngine</p>
@@ -164,7 +164,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechEleven} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechEleven} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>C++</p>
@@ -174,7 +174,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwelve} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwelve} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>C#</p>
@@ -184,7 +184,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Python</p>
@@ -194,7 +194,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>JavaScript</p>
@@ -204,7 +204,7 @@ const YourTech = () => {
                                     {/* <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFifteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFifteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Angular</p>
@@ -214,7 +214,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechSixteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechSixteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Vue.JS</p>
@@ -228,7 +228,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechSeventeen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechSeventeen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Autodesk Maya</p>
@@ -238,7 +238,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechEighteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechEighteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Blender</p>
@@ -248,7 +248,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechNineteen} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechNineteen} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Adobe Photoshop</p>
@@ -258,7 +258,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwenty} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwenty} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Substance Painter</p>
@@ -268,7 +268,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentyOne} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentyOne} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Symfony</p>
@@ -278,7 +278,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentyTwo} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentyTwo} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Python</p>
@@ -288,7 +288,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentyThree} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentyThree} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Yii</p>
@@ -298,7 +298,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentyFour} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentyFour} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>GraphQL</p>
@@ -308,7 +308,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentyFive} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentyFive} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Typo3</p>
@@ -318,7 +318,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechTwentySix} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechTwentySix} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>CakePHP</p>
@@ -332,7 +332,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtyFive} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtyFive} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>MySQL</p>
@@ -342,7 +342,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourty} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourty} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>PostgreSQL</p>
@@ -352,7 +352,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtyEight} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtyEight} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>SQLite</p>
@@ -362,7 +362,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtySeven} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtySeven} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>MongoDB</p>
@@ -376,7 +376,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtyFive} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtyFive} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Three.js</p>
@@ -386,7 +386,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtySix} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtySix} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Babylon.js</p>
@@ -396,7 +396,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtySeven} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtySeven} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>OpenGL</p>
@@ -406,7 +406,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechThirtyEight} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechThirtyEight} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Vulkan</p>
@@ -420,7 +420,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourtyOne} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourtyOne} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Jenkins</p>
@@ -430,7 +430,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourtyTwo} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourtyTwo} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>Selenium</p>
@@ -440,7 +440,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourtyThree} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourtyThree} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>JIRA</p>
@@ -450,7 +450,7 @@ const YourTech = () => {
                                     <div>
                                         <div className={styles.tech}>
                                             <div className={styles.techImage}>
-                                                <Image src={TechFourtyThree} alt='Bitswits' className='img-fluid' />
+                                                <Image src={TechFourtyThree} alt='Appsters' className='img-fluid' />
                                             </div>
                                             <div className="texhTxt">
                                                 <p className='manrope'>TestRail</p>

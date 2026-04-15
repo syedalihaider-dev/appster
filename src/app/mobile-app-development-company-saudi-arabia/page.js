@@ -99,7 +99,7 @@ export default function dubaidevelopmentcompany() {
     title: <>Certified Mobile App Developers in Saudi Arabia Driving Secure Enterprise Platforms</>,
     para: "Our mobile app development services in Saudi Arabia support enterprises and founders searching for app builders near me in Saudi Arabia who prioritize regulatory compliance, scalability, and integration depth. Every system is built to support operational growth while maintaining data integrity and performance under concurrent load. Our experienced developers in Saudi Arabia are trained in delivering structured, compliant, high-performance digital ecosystems.",
     subPara:
-      "Here are the top mobile app development services in Saudi Arabia BitsWits offers:",
+      "Here are the top mobile app development services in Saudi Arabia Appsters offers:",
     accordionData: accordionData,
   };
   // Who We Are Content
@@ -212,7 +212,7 @@ export default function dubaidevelopmentcompany() {
     {
       para: (
         <>
-          At BitsWits, we offer a transparent pricing structure customized to
+          At Appsters, we offer a transparent pricing structure customized to
           your specific needs and requirements. Our simplest app development{" "}
           <br /> project begins at <span>SAR 100,000</span>, ensuring quality
           and affordability to suit your bottom-line objectives.
@@ -442,7 +442,7 @@ export default function dubaidevelopmentcompany() {
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -509,8 +509,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Top Mobile App Development Company in Saudi Arabia - Bitswits",
-            url: "https://www.bitswits.co/mobile-app-development-company-saudi-arabia",
+            name: "Top Mobile App Development Company in Saudi Arabia - Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-saudi-arabia",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -526,10 +526,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Top Mobile App Development Company in Saudi Arabia - Bitswits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-saudi-arabia",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Top Mobile App Development Company in Saudi Arabia - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-saudi-arabia",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+971555031266",
@@ -538,11 +538,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -554,14 +554,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Top Mobile App Development Company in Saudi Arabia - Bitswits",
+            name: "Top Mobile App Development Company in Saudi Arabia - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsaudi.ea88a14f.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsaudi.ea88a14f.webp&w=1920&q=75",
             description:
-              "BitsWits is a leading app development company in Saudi Arabia empowering businesses across 10+ industries with scalable, and feature-rich mobile apps.",
+              "Appsters is a leading app development company in Saudi Arabia empowering businesses across 10+ industries with scalable, and feature-rich mobile apps.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

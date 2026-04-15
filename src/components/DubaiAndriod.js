@@ -15,11 +15,11 @@ const DubaiAndriod = ({ content }) => {
                     <Row className='align-items-center'>
                         <Col lg={5}>
                             <div className={styles.iosImage}>
-                                <Image src={Andriodmobile} width={650} height={508} alt='Bitswits' className='d-lg-block d-none' />
+                                <Image src={Andriodmobile} width={650} height={508} alt='Appsters' className='d-lg-block d-none' />
                             </div>
                         </Col>
                         <Col lg={7}>
-                            <Image src={PlayStore} width={60} height={60} alt='Bitswits' />
+                            <Image src={PlayStore} width={60} height={60} alt='Appsters' />
                             <h2>{title}</h2>
                             {desc.map((item, index) => (
                                 <div key={index}>

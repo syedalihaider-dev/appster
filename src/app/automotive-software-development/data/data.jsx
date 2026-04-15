@@ -147,13 +147,13 @@ export const IndustryServiceList = [
 
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
-    title: "Revolutionize Vehicle Software with BitsWits!",
+    title: "Revolutionize Vehicle Software with Appsters!",
     text: "Let us help you build software that drives efficiency, performance, and connectivity in the automotive industry.",
 }
 
 export const IndustrySliderContent = {
     title: "Types of Automotive Software We Develop",
-    text: "When it comes to software development for the automotive industry, BitsWits clearly stands out. We provide tailor-made automotive software engineering services to cater to the unique needs of all our clients.",
+    text: "When it comes to software development for the automotive industry, Appsters clearly stands out. We provide tailor-made automotive software engineering services to cater to the unique needs of all our clients.",
 }
 
 export const IndustrySliderList = [
@@ -226,7 +226,7 @@ export const ExpertiseList1 = [
     },
     {
         title: "Vendor Network Access",
-        txt: "BitsWits, as an automotive software development company provides you with an application that connects with multiple suppliers with a single tap. Centralize your supply chain operations in one app."
+        txt: "Appsters, as an automotive software development company provides you with an application that connects with multiple suppliers with a single tap. Centralize your supply chain operations in one app."
     },
 
 ];
@@ -381,8 +381,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a top-grade automotive application development company that delivers high-performance solutions, integrating advanced vehicle technologies to meet the evolving demands of the automotive industry."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a top-grade automotive application development company that delivers high-performance solutions, integrating advanced vehicle technologies to meet the evolving demands of the automotive industry."
 }
 
 export const WhyChooseList1 = [
@@ -511,26 +511,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -794,7 +794,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -885,14 +885,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -900,7 +900,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

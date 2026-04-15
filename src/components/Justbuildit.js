@@ -42,7 +42,7 @@ const Justbuildit = (props) => {
             <Col xl={12}>
               <h2 className={styles.just}>Build Your App</h2>
               <h3 className={styles.develop}>
-                Hire BitsWits & Watch Your App Ideas Aspire!
+                Hire Appsters & Watch Your App Ideas Aspire!
               </h3>
 
               <div className={`${styles.pont} mb-4 mb-md-0`}>
@@ -65,19 +65,19 @@ const Justbuildit = (props) => {
 
         <Slider {...bannerslider} className="mt-3 mt-sm-5 jstBuild">
           <div className={styles.strpImg}>
-            <Image alt="BitsWits" src={banImg1} className="img-fluid w-100" />
+            <Image alt="Appsters" src={banImg1} className="img-fluid w-100" />
           </div>
           <div className={styles.strpImg}>
-            <Image alt="BitsWits" src={banImg2} className="img-fluid w-100" />
+            <Image alt="Appsters" src={banImg2} className="img-fluid w-100" />
           </div>
           <div className={styles.strpImg}>
-            <Image alt="BitsWits" src={banImg3} className="img-fluid w-100" />
+            <Image alt="Appsters" src={banImg3} className="img-fluid w-100" />
           </div>
           <div className={styles.strpImg}>
-            <Image alt="BitsWits" src={banImg4} className="img-fluid w-100" />
+            <Image alt="Appsters" src={banImg4} className="img-fluid w-100" />
           </div>
           <div className={styles.strpImg}>
-            <Image alt="BitsWits" src={banImg5} className="img-fluid w-100" />
+            <Image alt="Appsters" src={banImg5} className="img-fluid w-100" />
           </div>
         </Slider>
       </section>

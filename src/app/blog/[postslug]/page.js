@@ -59,7 +59,7 @@ export default async function Post({ params, searchParams }) {
   // }
   // =============== Post Data ===============
   let featuredImageUrl =
-    "https://inhouse.pulse-force.com/wordpress/bitswits/wp-admin/uploads/2023/08/moz-brand-authority-768x439-1.png";
+    "https://inhouse.pulse-force.com/wordpress/Appsters/wp-admin/uploads/2023/08/moz-brand-authority-768x439-1.png";
 
   const postData = await getSinglePost(params.postslug);
   //=============== Render ===============
@@ -123,7 +123,7 @@ export default async function Post({ params, searchParams }) {
                   {postData.featuredImage ? (
                     <Image
                       quality={75}
-                      src={`https://inhouse.pulse-force.com/wordpress/bitswits/wp-content/uploads/${postData.featuredImage.node.mediaDetails.file}`}
+                      src={`https://inhouse.pulse-force.com/wordpress/Appsters/wp-content/uploads/${postData.featuredImage.node.mediaDetails.file}`}
                       alt={postData.title}
                       width={736}
                       height={450}

@@ -18,7 +18,7 @@ const LpChoosedubaiship = (props) => {
                 Join Our Expansion for Business Growth
               </h3>
               <p className="fontsfregular">
-                At BitsWits, we offer a wide range of services and solutions across diverse sectors and industries. Our app development company in Dubai work hand in hand with clients to create spectacular apps that drive results and generate revenue.
+                At Appsters, we offer a wide range of services and solutions across diverse sectors and industries. Our app development company in Dubai work hand in hand with clients to create spectacular apps that drive results and generate revenue.
               </p>
               <div className="mt-4">
                 <a href='javascript:window.replaceChat();' className={styles.dus}>

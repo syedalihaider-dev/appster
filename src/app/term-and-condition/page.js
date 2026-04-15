@@ -35,24 +35,24 @@ export default function privacypolicy() {
               </h3>
               <p className="font14 font-500 fontf white">
                 ATTENTION: PLEASE READ THIS STATEMENT CAREFULLY BEFORE USING
-                BitsWits (THIS “WEBSITE”). YOUR USE OF THIS WEBSITE CONSTITUTES
+                Appsters (THIS “WEBSITE”). YOUR USE OF THIS WEBSITE CONSTITUTES
                 YOUR ACCEPTANCE OF THIS COPYRIGHT STATEMENT AND TERMS OF USE
                 (COLLECTIVELY, “TERMS OF USE”). IF YOU DO NOT ACCEPT THESE TERMS
                 OF USE, DO NOT USE THIS WEBSITE.
               </p>
               <p className="font14 font-500 fontf white">
-                BitsWits reserves the right to modify these Terms of Use without
+                Appsters reserves the right to modify these Terms of Use without
                 notice and any modifications are effective when they are posted
-                here. BitsWits may, at any time, in its discretion terminate
+                here. Appsters may, at any time, in its discretion terminate
                 your access to this Web site. Access to the Web site may be
-                monitored by BitsWits If you are accessing this Web site as a
+                monitored by Appsters If you are accessing this Web site as a
                 representative of an organization, these Terms of Use bind both
                 you inpidually and the organization and references to “you” and
                 “your” shall be construed to apply to you inpidually and the
                 organization.
               </p>
               <p className="font14 font-500 fontf white">
-                While BitsWits maintains copyright protection in all materials,
+                While Appsters maintains copyright protection in all materials,
                 information and publications (collectively, “Web site
                 information”) it places on this Web site, BitWits consents to
                 normal downloading, copying and distribution of the information
@@ -64,7 +64,7 @@ export default function privacypolicy() {
                 use” under copyright law, you may not otherwise use, download,
                 upload, copy, print, display, perform, reproduce, publish, or
                 distribute any Website information, in whole or in part, without
-                the prior written consent of BitsWits.
+                the prior written consent of Appsters.
               </p>
               <p className="font14 font-500 fontf white">
                 As a condition of your use of this Web site, you will not use
@@ -76,38 +76,38 @@ export default function privacypolicy() {
               </p>
               <p className="font14 font-500 fontf white">
                 Certain restricted product information is available on this Web
-                site only to licensed customers of BitsWits that are registered
-                to receive information via passwords issued by BitsWits This
+                site only to licensed customers of Appsters that are registered
+                to receive information via passwords issued by Appsters This
                 restricted information is considered confidential and
-                proprietary information of BitsWits If you are a registered
-                customer or a representative of a registered customer, BitsWits
+                proprietary information of Appsters If you are a registered
+                customer or a representative of a registered customer, Appsters
                 authorizes you to download, copy, distribute and use the
                 restricted information for yourself or, if applicable, only
                 within the customer organization, and only for the intended
-                purposes authorized by BitsWits Issuance of a registration
+                purposes authorized by Appsters Issuance of a registration
                 password is conditioned on the customer’s use of the information
                 in accordance with the terms of its license or service agreement
-                with BitsWits You shall not transfer your password to
-                unauthorized parties. You will immediately notify BitsWits Proof
+                with Appsters You shall not transfer your password to
+                unauthorized parties. You will immediately notify Appsters Proof
                 any unauthorized use of your password. You are responsible for
                 use of your password. You will not attempt to gain unauthorized
                 access to any Web site information or area within this Website.
               </p>
               <p className="font14 font-500 fontf white">
-                You may link to the BitsWits home page, but are not authorized
-                to link to any other page on the BitsWits Web site without the
-                prior express written consent of BitWits provided that BitsWits
+                You may link to the Appsters home page, but are not authorized
+                to link to any other page on the Appsters Web site without the
+                prior express written consent of BitWits provided that Appsters
                 reserves the right to withdraw this consent at any time in its
-                discretion. You may not use any of BitsWits proprietary logos,
+                discretion. You may not use any of Appsters proprietary logos,
                 marks, or other distinctive graphics, video, or audio material
                 in your links. You may not link in any manner reasonably likely
                 to 1) imply affiliation with or endorsement or sponsorship by
                 BitWits 2) cause confusion, mistake, or deception; 3) dilute
-                BitsWits trademarks, service marks or trade names; or 4)
+                Appsters trademarks, service marks or trade names; or 4)
                 otherwise violate applicable law.
               </p>
               <p className="font14 font-500 fontf white">
-                BitsWits makes no representations or promises to develop,
+                Appsters makes no representations or promises to develop,
                 provide or market any software, service or product discussed on
                 this Web site, and you shall not rely on the information
                 provided or the prospect of availability of any software,
@@ -116,13 +116,13 @@ export default function privacypolicy() {
               </p>
               <p className="font14 font-500 fontf white">
                 Web site information may refer to products, programs or services
-                that are not available in your country. Consult your BitsWits
+                that are not available in your country. Consult your Appsters
                 representative for information about the products, programs and
                 services that may be available to you.
               </p>
               <p className="font14 font-500 fontf white">
                 Any software that is available for download from this Web site
-                is the copyrighted property of BitsWits and/or its suppliers.
+                is the copyrighted property of Appsters and/or its suppliers.
                 Any use or reproduction of any such software and warranties as
                 to such software, if any, are governed by the terms of the
                 license agreement applicable to that software. Any use of any
@@ -132,7 +132,7 @@ export default function privacypolicy() {
                 applicable to that product or service.
               </p>
               <p className="font14 font-500 fontf white">
-                BitsWits makes no representations or promises to develop,
+                Appsters makes no representations or promises to develop,
                 provide or market any software, service or product discussed on
                 this Web site, and you shall not rely on the information
                 provided or the prospect of availability of any software,
@@ -141,13 +141,13 @@ export default function privacypolicy() {
               </p>
               <p className="font14 font-500 fontf white">
                 Web site information may refer to products, programs or services
-                that are not available in your country. Consult your BitsWits
+                that are not available in your country. Consult your Appsters
                 representative for information about the products, programs and
                 services that may be available to you.
               </p>
               <p className="font14 font-500 fontf white">
                 Any software that is available for download from this Web site
-                is the copyrighted property of BitsWits and/or its suppliers.
+                is the copyrighted property of Appsters and/or its suppliers.
                 Any use or reproduction of any such software and warranties as
                 to such software, if any, are governed by the terms of the
                 license agreement applicable to that software. Any use of any

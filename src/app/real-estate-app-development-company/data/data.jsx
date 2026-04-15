@@ -113,7 +113,7 @@ const BlogsIMG03 = "/services/blogs/post-3.webp"
 
 export const BannerData = {
     title: "Scalable Real Estate App Development Company for Growing Property Markets",
-    content: "BitsWits is a top-tier real estate app development company, empowering startups and SMBs to create feature-rich and scalable apps for iOS and Android. We deliver user-centric, custom real estate app solutions that help clients expand their reach, simplify property management, and make informed decisions.",
+    content: "Appsters is a top-tier real estate app development company, empowering startups and SMBs to create feature-rich and scalable apps for iOS and Android. We deliver user-centric, custom real estate app solutions that help clients expand their reach, simplify property management, and make informed decisions.",
     BannerBg: BannerBg,
 }
 
@@ -152,7 +152,7 @@ export const IndustryServiceList = [
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
     title: "Empower Your Real Estate Business with Smart Apps!",
-    text: "Join hands with BitsWits to develop apps that connect buyers, sellers, and agents effortlessly, driving your real estate success.",
+    text: "Join hands with Appsters to develop apps that connect buyers, sellers, and agents effortlessly, driving your real estate success.",
 
 }
 
@@ -185,7 +185,7 @@ export const IndustrySliderList = [
     {
         img: IndustrySliderIMG05,
         title: "Virtual 3D Tours and View",
-        txt: "BitsWits creates real estate apps with integrated virtual tours and 3D property viewing features, offering an immersive experience that enhances property exploration and decision-making for both buyers and tenants."
+        txt: "Appsters creates real estate apps with integrated virtual tours and 3D property viewing features, offering an immersive experience that enhances property exploration and decision-making for both buyers and tenants."
     },
     {
         img: IndustrySliderIMG06,
@@ -260,7 +260,7 @@ export const TechnologiesContent = {
         <p>Our developers are skilled in building <strong>Real Estate Apps </strong> using technologies like React Native, Swift, Kotlin, and Flutter. </p>
         <p>They deliver solutions for property listings, virtual tours, customer management, and communication tools.  </p>
         <p>With an emphasis on intuitive design and robust functionality, our team creates apps that connect buyers, sellers, and agents, elevating the <strong>Real Estate</strong> experience for everyone involved. </p>
-        <p>Use the free cost calculator by BitsWits to get a detailed estimate. </p>
+        <p>Use the free cost calculator by Appsters to get a detailed estimate. </p>
     </>),
 
     TechImg: TechImg
@@ -366,15 +366,15 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a market-leading real estate app development company that delivers innovative solutions, seamlessly integrating advanced technologies for exceptional results."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a market-leading real estate app development company that delivers innovative solutions, seamlessly integrating advanced technologies for exceptional results."
 }
 
 export const WhyChooseList1 = [
     {
         Icon: <RealEstateIcon01 />,
         title: (<>Proven Success in <br />Real Estate Apps </>),
-        description: "BitsWits delivers real estate apps that make an impact, backed by a portfolio showcasing significant user engagement and success.",
+        description: "Appsters delivers real estate apps that make an impact, backed by a portfolio showcasing significant user engagement and success.",
     },
     {
         Icon: <RealEstateIcon02 />,
@@ -488,26 +488,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -516,7 +516,7 @@ export const TestimonialSLIDES = [
 
 export const FuelingContent2 = {
     title: "Integrating Cutting-Edge Technologies with Real Estate App Development",
-    text: "At BitsWits, we harness advanced technologies to build real estate apps that offer unmatched functionality and user experience. From virtual reality to AI-driven insights, we ensure your app stands out in the competitive real estate market.",
+    text: "At Appsters, we harness advanced technologies to build real estate apps that offer unmatched functionality and user experience. From virtual reality to AI-driven insights, we ensure your app stands out in the competitive real estate market.",
     subtitle: "Explore Next-Generation Real Estate Technologies",
     subtext: "Schedule a consultation to see how our real estate app development services can help you scale your real estate business and attract more clients.",
     FuelingImg: FuelingImg,
@@ -776,7 +776,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -840,14 +840,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -855,7 +855,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

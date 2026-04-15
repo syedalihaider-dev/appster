@@ -55,7 +55,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg1}
                                                         
                                                     />
@@ -64,12 +64,12 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
                                                         <p className={` ${styles.hight} font13 fontf white mt-1 mb-0`}>
-                                                            BitsWits was a lifesaver for our business. We needed to create an app that could be used on
+                                                            Appsters was a lifesaver for our business. We needed to create an app that could be used on
                                                             multiple platforms, but we didn’t have a lot of technical know-how or additional development
                                                             resources. Their team made it easy for us and delivered exactly what we needed. They stayed on
                                                             top of our project and kept us informed throughout the process. We wouldn't hesitate to
@@ -108,7 +108,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg2}
                                                         
                                                     />
@@ -117,12 +117,12 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
                                                         <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}>We hired mobile app developers to create a completely new mobile app for our company. The team
-                                                            at BitsWits was really professional, efficient, and knowledgeable in the latest technologies and
+                                                            at Appsters was really professional, efficient, and knowledgeable in the latest technologies and
                                                             trends. We couldn't be happier with the results and will definitely be recommending them to
                                                             anyone looking for top-notch mobile app development company.</p>
                                                         <h5 className='font16 font-semibold fontf white mt-4 mb-0'>
@@ -158,7 +158,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg3}
                                                         
                                                     />
@@ -167,11 +167,11 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
-                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}>Hiring Flutter app developers from BitsWits was one of the best decisions I have ever made. They
+                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}>Hiring Flutter app developers from Appsters was one of the best decisions I have ever made. They
                                                             are highly skilled and knowledgeable professionals who understand customer needs and deliver
                                                             well-crafted solutions to us. Overall, we are extremely satisfied with their service and highly
                                                             recommend them to anyone looking for reliable and cost-effective Flutter solutions.</p>
@@ -206,7 +206,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg4}
                                                         
                                                     />
@@ -215,11 +215,11 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
-                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}> We're very satisfied with the results of our working relationship with BitsWits.
+                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}> We're very satisfied with the results of our working relationship with Appsters.
                                                             We were able to create a high-quality mobile app that not only met our specifications but
                                                             exceeded them in every way. The entire team was friendly and professional throughout the entire
                                                             process, and we would definitely recommend their services to anyone looking for a reliable
@@ -257,7 +257,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg5}
                                                         
                                                     />
@@ -266,11 +266,11 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
-                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}> BitsWits have done a great job making an attractive and eye-catching IOS application.
+                                                        <p className={` ${styles.hight} font13 fontf white mt-3 mb-0`}> Appsters have done a great job making an attractive and eye-catching IOS application.
                                                             I am grateful to the team for delivering this application perfectly on very short notice.
                                                             Thanks a lot.</p>
                                                         <h5 className='font16 font-semibold fontf white mt-4 mb-0'>
@@ -335,7 +335,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg1}
                                                         
                                                     />
@@ -344,7 +344,7 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
@@ -376,7 +376,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg2}
                                                         
                                                     />
@@ -385,7 +385,7 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
@@ -417,7 +417,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg3}
                                                         
                                                     />
@@ -426,7 +426,7 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />
@@ -458,7 +458,7 @@ function ClientsThink() {
                                         <Row className={styles.slideRow}>
                                             <Col lg={4} className='pe-lg-0'>
                                                 <div className={styles.slideImg}>
-                                                    <Image  alt="BitsWits"     className='img-fluid'
+                                                    <Image  alt="Appsters"     className='img-fluid'
                                                         src={slideImg4}
                                                         
                                                     />
@@ -467,7 +467,7 @@ function ClientsThink() {
                                             <Col lg={8} className='ps-lg-0'>
                                                 <div className={styles.slideInner}>
                                                     <div className={styles.slideCntnt}>
-                                                        <Image  alt="BitsWits"     className='img-fluid'
+                                                        <Image  alt="Appsters"     className='img-fluid'
                                                             src={slidebefore}
                                                             
                                                         />

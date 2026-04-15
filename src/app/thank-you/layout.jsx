@@ -2,14 +2,14 @@
 //===== Meta Data =====
 export const metadata = {
     //===== Meta Tags =====
-    title: "Portfolio | BitsWits",
+    title: "Portfolio | Appsters",
     description: "",
     //===== OG Tags =====
     openGraph: {
-        title: "Portfolio | BitsWits",
+        title: "Portfolio | Appsters",
         description: "",
         url: '/thank-you',
-        siteName: 'BitsWits',
+        siteName: 'Appsters',
         locale: 'en_US',
         type: 'website',
         images: "/public/images/icons/footerlogo.png",

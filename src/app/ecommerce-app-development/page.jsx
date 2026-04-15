@@ -72,10 +72,10 @@ export default function Page() {
       },
       {
         "@type": "Question",
-        "name": "What eCommerce application development services does BitsWits offer?",
+        "name": "What eCommerce application development services does Appsters offer?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "BitsWits offers comprehensive eCommerce application development services, including UI/UX design, backend development, payment integration, and ongoing support. Our ecommerce app developers focus on creating scalable, secure apps tailored to your business needs, delivering a seamless shopping experience."
+          "text": "Appsters offers comprehensive eCommerce application development services, including UI/UX design, backend development, payment integration, and ongoing support. Our ecommerce app developers focus on creating scalable, secure apps tailored to your business needs, delivering a seamless shopping experience."
         }
       }
     ]
@@ -112,13 +112,13 @@ export default function Page() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.bitswits.co/"
+                "item": "https://www.Appsters.co/"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "eCommerce App Development Company",
-                "item": "https://www.bitswits.co/ecommerce-app-development"
+                "item": "https://www.Appsters.co/ecommerce-app-development"
               }
             ]
           })
@@ -132,8 +132,8 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "name": "Top-Tier eCommerce App Development Company | BitsWits",
-            "url": "https://www.bitswits.co/ecommerce-app-development",
+            "name": "Top-Tier eCommerce App Development Company | Appsters",
+            "url": "https://www.Appsters.co/ecommerce-app-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -150,10 +150,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Top-Tier eCommerce App Development Company | BitsWits",
-            "alternateName": "BitsWits",
-            "url": "https://www.bitswits.co/ecommerce-app-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            "name": "Top-Tier eCommerce App Development Company | Appsters",
+            "alternateName": "Appsters",
+            "url": "https://www.Appsters.co/ecommerce-app-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+1 833 500-6007",
@@ -162,11 +162,11 @@ export default function Page() {
               "availableLanguage": "en"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           })
         }}
@@ -179,10 +179,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Top-Tier eCommerce App Development Company | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Top-Tier eCommerce App Development Company | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "@id": "",
-            "url": "https://www.bitswits.co/ecommerce-app-development",
+            "url": "https://www.Appsters.co/ecommerce-app-development",
             "telephone": "+1 833 500-6007",
             "address": {
               "@type": "PostalAddress",
@@ -211,11 +211,11 @@ export default function Page() {
               "closes": "23:59"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           })
         }}
@@ -228,13 +228,13 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "Top-Tier eCommerce App Development Company | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/ecommerce-app-development",
-            "description": "Partner with BitsWits, a leading eCommerce app development company for tailored, scalable solutions that enhance user experience and drive sales.",
+            "name": "Top-Tier eCommerce App Development Company | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/ecommerce-app-development",
+            "description": "Partner with Appsters, a leading eCommerce app development company for tailored, scalable solutions that enhance user experience and drive sales.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "review": {
               "@type": "Review",
@@ -246,7 +246,7 @@ export default function Page() {
               "author": {
                 "@type": "Organization",
                 "name": "Clutch",
-                "url": "https://clutch.co/profile/bitswits"
+                "url": "https://clutch.co/profile/Appsters"
               }
             }
           })

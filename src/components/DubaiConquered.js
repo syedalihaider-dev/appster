@@ -56,13 +56,13 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide1} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide1} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Ecommerce</h3>
                                 </div>
                                 <div className={styles.cardHover}>
                                     <h5>Ecommerce</h5>
                                     <p className='fontsfregular'>
-                                        We, as professionals at BitsWits, know the specific problems and possibilities within e-commerce. Our solutions are aimed at improving user experience, simplifying operational workflow, and maximizing revenues for e-commerce companies.
+                                        We, as professionals at Appsters, know the specific problems and possibilities within e-commerce. Our solutions are aimed at improving user experience, simplifying operational workflow, and maximizing revenues for e-commerce companies.
                                     </p>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide12} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide12} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Automotive</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -84,7 +84,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide9} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide9} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Food & Beverage</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -98,7 +98,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide7} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide7} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Healthcare & Medical</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -112,7 +112,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide8} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide8} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Real Estate</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -126,7 +126,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide6} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide6} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Enterprise Mobility Solutions</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -140,13 +140,13 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide2} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide2} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Manufacture</h3>
                                 </div>
                                 <div className={styles.cardHover}>
                                     <h5>Manufacture</h5>
                                     <p className='fontsfregular'>
-                                        At BitsWits, we create digital-based solutions that reshape the manufacturing industry. From process automation to inventory management, we offer adaptive solutions which are aimed at raising productivity and efficiency.
+                                        At Appsters, we create digital-based solutions that reshape the manufacturing industry. From process automation to inventory management, we offer adaptive solutions which are aimed at raising productivity and efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide13} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide13} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Logistics</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -168,7 +168,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide5} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide5} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>Agriculture</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -182,7 +182,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide10} alt='Bitswits' width={287} height={384} className='mx-auto img-fluid' />
+                                    <Image src={Slide10} alt='Appsters' width={287} height={384} className='mx-auto img-fluid' />
                                     <h3>E-learning</h3>
                                 </div>
                                 <div className={styles.cardHover}>
@@ -196,7 +196,7 @@ const DubaiConquered = ({ content }) => {
                         <div className='px-2'>
                             <div className={styles.mainCardDiv}>
                                 <div className={styles.card}>
-                                    <Image src={Slide11} alt='Bitswits' width={287} height={384} className={`${styles.lastImg} mx-auto img-fluid`} />
+                                    <Image src={Slide11} alt='Appsters' width={287} height={384} className={`${styles.lastImg} mx-auto img-fluid`} />
                                     <h3>Sports</h3>
                                 </div>
                                 <div className={styles.cardHover}>

@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Artificial Intelligence Development Company | AI Developers',
     description: 'Embrace the future of technology with our Artificial Intelligence development company, delivering intelligent solutions to drive your business forward.',
     url: '/ai-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Blockchain Games Development Company | Blockchain game developers',
     description: 'Get your blockchain gaming projects off the ground with our team of experienced blockchain game developers. Connect with the top blockchain game development company today!',
     url: '/blockchain-game-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

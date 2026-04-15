@@ -93,14 +93,14 @@ export default function Wework(props) {
                     {isSliderActive ?
                         <Slider {...awardslogo} className={styles.dem}>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups1} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups1} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Pre-Seed & <br></br>
                                     Seed Startups</h4>
                                 <p>Create a pitch deck, research your idea, run
                                     user interviews, and create MVP.</p>
                             </Col>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups2} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups2} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Startups <br></br>
                                     that Scale</h4>
                                 <p>Find your product-market fit, find the team
@@ -108,7 +108,7 @@ export default function Wework(props) {
                                     breaking things.</p>
                             </Col>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups3} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups3} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Businesses that  <br></br>
                                     want to digitize</h4>
                                 <p>Redesign and modernize your platform or SaaS, and
@@ -118,14 +118,14 @@ export default function Wework(props) {
                         :
                         <Row className={` ${styles.dem} gx-5 `}>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups1} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups1} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Pre-Seed & <br></br>
                                     Seed Startups</h4>
                                 <p>Create a pitch deck, research your idea, run
                                     user interviews, and create MVP.</p>
                             </Col>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups2} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups2} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Startups <br></br>
                                     that Scale</h4>
                                 <p>Find your product-market fit, find the team
@@ -133,7 +133,7 @@ export default function Wework(props) {
                                     breaking things.</p>
                             </Col>
                             <Col lg={4}>
-                                <Image alt='BitsWits' src={startups3} className='img-fluid mb-3' />
+                                <Image alt='Appsters' src={startups3} className='img-fluid mb-3' />
                                 <h4 className='mt-5'>Businesses that  <br></br>
                                     want to digitize</h4>
                                 <p>Redesign and modernize your platform or SaaS, and

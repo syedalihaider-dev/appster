@@ -49,7 +49,7 @@ export default function blockchaindevelopmentservices() {
           title={<> Blockchain Development Services </>}
           text={
             <>
-              Bitswits is a leading development company that can help you hit the
+              Appsters is a leading development company that can help you hit the
               market with <br /> a newly developed Blockchain solution or revamp
               your existing systems.
             </>
@@ -60,7 +60,7 @@ export default function blockchaindevelopmentservices() {
         <HomeBannerSliderlp />
         <LpForm
           addresClass="iosclass"
-          heading={`At Bitswits, we're pioneers in blockchain innovation. Our dedicated team crafts cutting-edge solutions that redefine the digital landscape. From smart contracts to decentralized apps, we turn your vision into a global powerhouse. Join us for a transformative journey where technology meets excellence, and your success in the blockchain realm is our priority.`}
+          heading={`At Appsters, we're pioneers in blockchain innovation. Our dedicated team crafts cutting-edge solutions that redefine the digital landscape. From smart contracts to decentralized apps, we turn your vision into a global powerhouse. Join us for a transformative journey where technology meets excellence, and your success in the blockchain realm is our priority.`}
         />
         <Nothing Nothing="nothingLp6" />
         <Provideservices
@@ -90,7 +90,7 @@ export default function blockchaindevelopmentservices() {
           }
           para2={
             <p className="font_15 linehight_1 white fontsfregular pt-2">
-              Bitswits is a leading development company that can help you hit the
+              Appsters is a leading development company that can help you hit the
               market with a newly developed Blockchain solution or revamp your
               existing systems. Our Blockchain Development promotes business
               growth while transforming companies and establishing improved
@@ -216,7 +216,7 @@ export default function blockchaindevelopmentservices() {
             },
             {
               question:
-                "Does Bitswits Offers Hybrid and Native Application Development?",
+                "Does Appsters Offers Hybrid and Native Application Development?",
               answer: (
                 <>
                   It is a long established fact that a reader will be distracted
@@ -229,7 +229,7 @@ export default function blockchaindevelopmentservices() {
             },
             {
               question:
-                "Why Choose Bitswits as a Mobile Application Development Company?",
+                "Why Choose Appsters as a Mobile Application Development Company?",
               answer: (
                 <>
                   It is a long established fact that a reader will be distracted
@@ -265,7 +265,7 @@ export default function blockchaindevelopmentservices() {
               ),
             },
             {
-              question: "What industries does BitsWits cater do?",
+              question: "What industries does Appsters cater do?",
               answer: (
                 <>
                   It is a long established fact that a reader will be distracted
@@ -287,7 +287,7 @@ export default function blockchaindevelopmentservices() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Blockchain Development Services",
-            "url": "https://www.bitswits.co/blockchain-development-services",
+            "url": "https://www.Appsters.co/blockchain-development-services",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -301,15 +301,15 @@ export default function blockchaindevelopmentservices() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/blockchain-development-services",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/blockchain-development-services",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ] 
           }                               
         `}
@@ -320,8 +320,8 @@ export default function blockchaindevelopmentservices() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Blockchain Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner.27d4835a.png&w=828&q=75",
-            "url": "https://www.bitswits.co/blockchain-development-services",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner.27d4835a.png&w=828&q=75",
+            "url": "https://www.Appsters.co/blockchain-development-services",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -349,11 +349,11 @@ export default function blockchaindevelopmentservices() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
           }                    
         `}
@@ -365,11 +365,11 @@ export default function blockchaindevelopmentservices() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Augmented Reality Apps Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
-            "description": "BitsWits is your ultimate destination for Augmented Reality app development. Our developers deliver dynamic AR experiences that set your business apart from the rest.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAugmentebanner.8f681373.png&w=750&q=75",
+            "description": "Appsters is your ultimate destination for Augmented Reality app development. Our developers deliver dynamic AR experiences that set your business apart from the rest.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

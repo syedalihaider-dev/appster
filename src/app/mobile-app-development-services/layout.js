@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Mobile Application Development Services | Apps Development Services',
     description: "Ignite your brand's success with our unparalleled mobile application development services, delivering transformative apps that propel your business to new heights.",
     url: '/mobile-application-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

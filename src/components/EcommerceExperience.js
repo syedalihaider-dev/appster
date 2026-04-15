@@ -59,7 +59,7 @@ const EcommerceExperience = () => {
                                 
 
                                     <div className={styles.contentTwo}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>CONCEPTUALIZATION</h3>
                                         <h4 className='text-white font20 font-bold'>Foundation Phase</h4>
                                         <p className='text-white font14 ling25'>We begin with a thorough assessment of your requirements and addressing all your queries from the outset. Then, our team develops a comprehensive scope of work for your project.</p>
@@ -68,7 +68,7 @@ const EcommerceExperience = () => {
                                     </div>
 
                                     <div className={styles.contentThree}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>PRODUCTION</h3>
                                         <h4 className='text-white font20 font-bold'>Visualization</h4>
                                         <p className='text-white font14 ling25'>Our mobile app designers create a visually appealing and simplified user interface (UI) design that aligns with your brand identity, industry best practices, and your guideline.</p>
@@ -81,7 +81,7 @@ const EcommerceExperience = () => {
                                     </div>
 
                                     <div className={styles.contentFour}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>DELIVERY</h3>
                                         <h4 className='text-white font20 font-bold'>Deployment and Launch</h4>
                                         <p className='text-white font14 ling25'>Once the app is thoroughly tested and approved, it is prepared for deployment to the respective app stores or distribution platforms.</p>
@@ -95,7 +95,7 @@ const EcommerceExperience = () => {
                             <>
                                 <Col lg={6} xl={3}>
                                     <div className={styles.contentTwo}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>CONCEPTUALIZATION</h3>
                                         <h4 className='text-white font20 font-bold'>Foundation Phase</h4>
                                         <p className='text-white font14 ling25'>We begin with a thorough assessment of your requirements and addressing all your queries from the outset. Then, our team develops a comprehensive scope of work for your project.</p>
@@ -105,7 +105,7 @@ const EcommerceExperience = () => {
                                 </Col>
                                 <Col lg={6} xl={3}>
                                     <div className={styles.contentThree}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>PRODUCTION</h3>
                                         <h4 className='text-white font20 font-bold'>Visualization</h4>
                                         <p className='text-white font14 ling25'>Our mobile app designers create a visually appealing and simplified user interface (UI) design that aligns with your brand identity, industry best practices, and your guideline.</p>
@@ -119,7 +119,7 @@ const EcommerceExperience = () => {
                                 </Col>
                                 <Col lg={6} xl={3}>
                                     <div className={styles.contentFour}>
-                                        <Image src={ExperienceOne} alt='Bitswits' />
+                                        <Image src={ExperienceOne} alt='Appsters' />
                                         <h3 className='text-white font-bold font25 pt-2'>DELIVERY</h3>
                                         <h4 className='text-white font20 font-bold'>Deployment and Launch</h4>
                                         <p className='text-white font14 ling25'>Once the app is thoroughly tested and approved, it is prepared for deployment to the respective app stores or distribution platforms.</p>

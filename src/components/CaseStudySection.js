@@ -62,7 +62,7 @@ const CaseStudySection = () => {
                                             <h3>The Practice Pen</h3>
                                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href="#">
                                                     View Case Study
                                                 </Link>
@@ -104,13 +104,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider1} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider1} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -122,16 +122,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Soul Scribe</h3>
                                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href="/social-app-development-case-study">
                                                     View Case Study
                                                 </Link>
@@ -173,13 +173,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider2} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider2} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -191,16 +191,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Crave Cuisine</h3>
                                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href="/food-delivery-app-development-case-study">
                                                     View Case Study
                                                 </Link>
@@ -242,13 +242,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider3} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider3} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -260,16 +260,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Fitnow</h3>
                                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href="/fitness-app-development-case-study">
                                                     View Case Study
                                                 </Link>
@@ -311,13 +311,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider4} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider4} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -329,16 +329,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Route Rover</h3>
                                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href="#">
                                                     View Case Study
                                                 </Link>
@@ -380,13 +380,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider5} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider5} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>

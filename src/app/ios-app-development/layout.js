@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "IOS App Development Company | Top IOS developers",
-  description: "Looking for a top iOS app development company? Our team of expert IOS app developers at BitsWits, can turn your ideas into reality. Contact us to discuss your project today.",
+  description: "Looking for a top iOS app development company? Our team of expert IOS app developers at Appsters, can turn your ideas into reality. Contact us to discuss your project today.",
   //===== OG Tags =====
   openGraph: {
     title: 'IOS App Development Company | Top IOS developers',
-    description: 'Looking for a top iOS app development company? Our team of expert IOS app developers at BitsWits, can turn your ideas into reality. Contact us to discuss your project today.',
+    description: 'Looking for a top iOS app development company? Our team of expert IOS app developers at Appsters, can turn your ideas into reality. Contact us to discuss your project today.',
     url: '/ios-app-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

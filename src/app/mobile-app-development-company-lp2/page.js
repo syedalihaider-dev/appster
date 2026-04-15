@@ -131,7 +131,7 @@ export default function gamedevelopmentcompany() {
         },
         {
           title: "Artificial Intelligence (Ai)",
-          text: "Hire BitsWits as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.",
+          text: "Hire Appsters as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.",
           appclass: "app3",
           imgservice: appletvappdevelopment,
         },
@@ -149,7 +149,7 @@ export default function gamedevelopmentcompany() {
         },
         {
           title: "AR/VR",
-          text: "BitsWits serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.",
+          text: "Appsters serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.",
           appclass: "app6",
           imgservice: appSeven,
         },
@@ -200,7 +200,7 @@ export default function gamedevelopmentcompany() {
         para={
           <>
             <h3 className={stylesjust.develop}>
-              Design, Develop, and Grow with BitsWits.
+              Design, Develop, and Grow with Appsters.
             </h3>
           </>
         }

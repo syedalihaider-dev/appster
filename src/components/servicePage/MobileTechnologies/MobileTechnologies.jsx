@@ -25,35 +25,35 @@ const MobileTechnologies = () => {
                         </div>
                         <div className={styles.services}>
                             <div className={styles.service}>
-                                <Image src={Icon1} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon1} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>iOS</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon2} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon2} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>Android</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon3} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon3} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>Flutter</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon4} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon4} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>Kotlin</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon5} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon5} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>Objective C</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon6} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon6} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>ionic</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon7} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon7} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>React Native</p>
                             </div>
                             <div className={styles.service}>
-                                <Image src={Icon8} alt='Bitswits' className='img-fluid' />
+                                <Image src={Icon8} alt='Appsters' className='img-fluid' />
                                 <p className='font16 manrope mb-0'>Swift</p>
                             </div>
                         </div>
@@ -65,7 +65,7 @@ const MobileTechnologies = () => {
                     </Col>
                     <Col lg={5}>
                         <div className={`d-md-block d-none ${styles.secImage}`}>
-                            <Image src={TachnoImg} alt='Bitswits' className='img-fluid' />
+                            <Image src={TachnoImg} alt='Appsters' className='img-fluid' />
                         </div>
                     </Col>
                 </Row>

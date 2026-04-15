@@ -157,7 +157,7 @@ export const IndustryServiceList = [
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
     title: "Streamline Patient Care with Healthcare Apps",
-    text: "Innovate with secure, reliable healthcare apps! Partner with BitsWits to develop apps that streamline patient care, improve communication, and enhance healthcare delivery. ",
+    text: "Innovate with secure, reliable healthcare apps! Partner with Appsters to develop apps that streamline patient care, improve communication, and enhance healthcare delivery. ",
 }
 
 export const IndustrySliderContent = {
@@ -304,7 +304,7 @@ export const TechnologiesIcons = [
 ]
 
 export const ProcessContent = {
-    title: "BitsWits' Proven Healthcare App Development Process For Optimizing Patient Care",
+    title: "Appsters' Proven Healthcare App Development Process For Optimizing Patient Care",
     text: (<>We genuinely care about supporting doctors and healthcare professionals. Our <Link href='/blog/application-development-life-cycle'>app development lifecycle </Link> for custom healthcare solutions is designed with a compassionate approach, understanding that your time and patients are your top priority.</>),
 }
 
@@ -375,15 +375,15 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Choose BitsWits for Healthcare App Development?",
-    text: "BitsWits is an innovation-led customer-first app development company building top-tier healthcare mobile applications to make healthy living accessible for everyone."
+    title: "Why Choose Appsters for Healthcare App Development?",
+    text: "Appsters is an innovation-led customer-first app development company building top-tier healthcare mobile applications to make healthy living accessible for everyone."
 }
 
 export const WhyChooseList1 = [
     {
         Icon: <HealthCareIcon01 />,
         title: (<>Proven Success <br />in Healthcare Apps</>),
-        description: "BitsWits, a leading healthcare mobile app development company, has a strong track record of creating effective apps that enhance patient care and streamline healthcare services.",
+        description: "Appsters, a leading healthcare mobile app development company, has a strong track record of creating effective apps that enhance patient care and streamline healthcare services.",
     },
     {
         Icon: <HealthCareIcon02 />,
@@ -497,26 +497,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -760,14 +760,14 @@ export const TechStackTabs = [
 
 export const IndustriesContent = {
     title: "Other Industries We Serve",
-    text: "At BitsWits, our expertise extends beyond healthcare, delivering standout app development solutions across a range of industries. Here’s how we bring innovation and efficiency to diverse sectors:",
+    text: "At Appsters, our expertise extends beyond healthcare, delivering standout app development solutions across a range of industries. Here’s how we bring innovation and efficiency to diverse sectors:",
 }
 
 export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -879,14 +879,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -894,7 +894,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

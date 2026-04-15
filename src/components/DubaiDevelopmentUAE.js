@@ -122,8 +122,8 @@ const DubaiDevelopmentUAE = ({content}) => {
                                 <div className={styles.cardOne}>
                                     <h5>"HAPPIFYIS PERHAPS THE MOST SOPHISTICATED POSITIVE VIBES APP AVAILABLE NOW."</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
-                                        <Image src={CardTitle} width={221} height={50} className={styles.rotateImg} alt='Bitswits' />
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={CardTitle} width={221} height={50} className={styles.rotateImg} alt='Appsters' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@ const DubaiDevelopmentUAE = ({content}) => {
                                     <h5>RAMEET CHAWLA, EVEN SUGGESTED THAT COINBASE MAY INCREASE THE STRENGTH OFTHE ORIGINAL BITCOIN.</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
                                         <p className='text-center mb-0'>BUSSINESS <br />INSIDER</p>
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -141,7 +141,7 @@ const DubaiDevelopmentUAE = ({content}) => {
                                     <h5>Ranked #1 For “Entertainment App Development Companies In Europe”</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
                                         <p className='mb-0'>Top Tech Biz</p>
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -151,8 +151,8 @@ const DubaiDevelopmentUAE = ({content}) => {
                                 <div className={styles.cardFour}>
                                     <h5>Named Comparably’s Best Ceos For <br /> Women</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
-                                        <Image src={USToday} width={90} height={30} className={styles.rotateImg} alt='Bitswits' />
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={USToday} width={90} height={30} className={styles.rotateImg} alt='Appsters' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -160,8 +160,8 @@ const DubaiDevelopmentUAE = ({content}) => {
                                 <div className={styles.cardFive}>
                                     <h5>Featured On Wirecutter’s “Guide To The Iphone 8, 8 Plus, 7, 7 Plus, 6S, 6S Plus, And SE”</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
-                                        <Image src={WireCutter} width={135} height={30} className={styles.rotateImg} alt='Bitswits' />
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={WireCutter} width={135} height={30} className={styles.rotateImg} alt='Appsters' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -169,8 +169,8 @@ const DubaiDevelopmentUAE = ({content}) => {
                                 <div className={styles.cardSix}>
                                     <h5>Qwake Technologies Featured On Forbes</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
-                                        <Image src={Forbes} width={121} height={30} className={styles.rotateImg} alt='Bitswits' />
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={Forbes} width={121} height={30} className={styles.rotateImg} alt='Appsters' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ const DubaiDevelopmentUAE = ({content}) => {
                                     <h5>Ranked #1 For “Entertainment App<br /> Development Companies In Europe”</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
                                         <p className='mb-0'>Top Tech Biz</p>
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -189,8 +189,8 @@ const DubaiDevelopmentUAE = ({content}) => {
                                 <div className={styles.cardEight}>
                                     <h5>"HAPPIFYIS PERHAPS THE MOST <br /> SOPHISTICATED POSITIVE VIBES APP <br /> AVAILABLE NOW."</h5>
                                     <div className={`${styles.cardBottom} pt-4 d-flex align-items-center justify-content-between`}>
-                                        <Image src={NewYork} width={221} height={30} className={styles.rotateImg} alt='Bitswits' />
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={NewYork} width={221} height={30} className={styles.rotateImg} alt='Appsters' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@ const DubaiDevelopmentUAE = ({content}) => {
                                     <h5>RAMEET CHAWLA, EVEN SUGGESTED<br /> THAT COINBASE MAY INCREASE THE<br /> STRENGTH OFTHE ORIGINAL BITCOIN.</h5>
                                     <div className={`${styles.cardBottom} pt-2 d-flex align-items-center justify-content-between`}>
                                         <p className='text-center mb-0'>BUSSINESS <br />INSIDER</p>
-                                        <Image src={Share} width={30} height={30} alt='Bitswits' />
+                                        <Image src={Share} width={30} height={30} alt='Appsters' />
                                     </div>
                                 </div>
                             </div>

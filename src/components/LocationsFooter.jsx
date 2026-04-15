@@ -235,23 +235,23 @@ const MainLinks = [
 const SocailLinks = [
   {
     icon: <Instagram />,
-    url: "https://www.instagram.com/officialBitsWits/",
+    url: "https://www.instagram.com/officialAppsters/",
   },
   {
     icon: <Facebook />,
-    url: "https://www.facebook.com/officialbitswits/",
+    url: "https://www.facebook.com/officialAppsters/",
   },
   {
     icon: <Twitter />,
-    url: "https://twitter.com/BitsWits_/",
+    url: "https://twitter.com/Appsters_/",
   },
   {
     icon: <Linkedin />,
-    url: "https://www.linkedin.com/company/officialbitswits",
+    url: "https://www.linkedin.com/company/officialAppsters",
   },
   {
     icon: <Youtube />,
-    url: "https://www.youtube.com/@officialBitsWits",
+    url: "https://www.youtube.com/@officialAppsters",
   },
 ]
 

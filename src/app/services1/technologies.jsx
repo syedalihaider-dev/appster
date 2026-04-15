@@ -52,7 +52,7 @@ const Technologies = ({ setModalShow }) => {
             <Container className="h-100">
                 <Row className="h-100">
                     <Col lg={7} md={12} className="my-auto">
-                        <h2>Hire BitsWits Mobile App Developers To Stay Ahead of The Technology Curve</h2>
+                        <h2>Hire Appsters Mobile App Developers To Stay Ahead of The Technology Curve</h2>
                         <p>With over <strong>150+ successful projects</strong> delivered, our experienced team achieves a <strong>30% faster time to market</strong> while maintaining cost efficiency.
                             We have a <strong>95% client satisfaction rate,</strong> reflecting our commitment to delivering high-quality solutions. </p>
                         <p>Focusing on robust security, our approach safeguards your valuable data. Our high-performance apps are built to <strong>handle heavy traffic,</strong> providing the scalability needed for business growth.Choosing us means opting for a trusted partner dedicated to meeting your mobile app development needs effectively.</p>

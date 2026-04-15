@@ -47,7 +47,7 @@ const ServiceBanner = (props) => {
                 {props.BannerImage ? (
                   <Image
                     quality={75}
-                    alt="BitsWits"
+                    alt="Appsters"
                     src={props.BannerImage}
                     className={`img-fluid`}
                   />

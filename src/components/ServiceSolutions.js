@@ -37,7 +37,7 @@ const ServiceSolutions = (props) => {
               <div className={`${styles.solImg} ${props.marginTop}`}>
                 <Image
                   quality={75}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={props.Solution}
                   className="img-fluid mt-5 mt-lg-0"
                 />

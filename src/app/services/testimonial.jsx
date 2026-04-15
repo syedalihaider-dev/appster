@@ -15,9 +15,9 @@ const Testimonial = ({data, list}) => {
                     </Col>
                     <Col lg={7} md={6}>
                         <div className={styles.reviewsBox}>
-                            <Image src={data?.TestiImg1} alt="Bitswits Reviews" width={145} height={65} />
-                            <Image src={data?.TestiImg2} alt="Bitswits Reviews" width={145} height={65} />
-                            <Image src={data?.TestiImg3} alt="Bitswits Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg1} alt="Appsters Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg2} alt="Appsters Reviews" width={145} height={65} />
+                            <Image src={data?.TestiImg3} alt="Appsters Reviews" width={145} height={65} />
                         </div>
                     </Col>
                 </Row>

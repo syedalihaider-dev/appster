@@ -71,7 +71,7 @@ const CaseStudySection = () => {
                                             <h3>The Practice Pen</h3>
                                             <p>We designed Practice Pen as a skill development app that uses video-based learning and gamification. Users can upload practice videos, receive feedback, and compete in interactive challenges to win prizes, making learning fun and engaging.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href='javascript:window.replaceChat();' className={styles.linksBtn}>
                                                     Let’s Talk
                                                 </Link>
@@ -113,13 +113,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider1} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider1} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -131,16 +131,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Soul Scribe</h3>
                                             <p>We created Soul Scribe as a social networking app that serves as a digital diary, allowing users to invite friends and family to contribute to an online journal. Featuring a freemium subscription model with a complimentary family room option.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href='javascript:window.replaceChat();' className={styles.linksBtn}>
                                                     Let’s Talk
                                                 </Link>
@@ -182,13 +182,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider2} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider2} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -200,16 +200,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Crave Cuisine</h3>
                                             <p>We developed Crave Cuisine, a food delivery app that streamlines the process of selecting local eateries and placing orders. Enjoy convenient dining with a wide range of meal choices, all in one easy-to-use app.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href='javascript:window.replaceChat();' className={styles.linksBtn}>
                                                     Let’s Talk
                                                 </Link>
@@ -251,13 +251,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider3} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider3} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -269,16 +269,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Fitnow</h3>
                                             <p>We developed Fitnow as a user-friendly fitness app that allows users to select workouts, set goals, and customize routines with expert guidance. With a simple interface, Fitnow makes tracking progress and achieving fitness goals easy.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href='javascript:window.replaceChat();' className={styles.linksBtn}>
                                                     Let’s Talk
                                                 </Link>
@@ -320,13 +320,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider4} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider4} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>
@@ -338,16 +338,16 @@ const CaseStudySection = () => {
                                         <div className={styles.contentBox}>
                                             <div className={styles.arrows}>
                                                 <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                                 <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                    <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                    <Image src={arrow} alt='Appsters' className='img-fluid' />
                                                 </button>
                                             </div>
                                             <h3>Route Rover</h3>
                                             <p>We created Route Rover, a navigation and route-planning app designed to optimize travel. Whether for daily commutes or road trips, users can discover efficient routes, avoid traffic, and explore new destinations with ease.</p>
                                             <div className={styles.blackBtn}>
-                                                <Image src={store} alt='Bitswits' className='img-fluid' />
+                                                <Image src={store} alt='Appsters' className='img-fluid' />
                                                 <Link href='javascript:window.replaceChat();' className={styles.linksBtn}>
                                                     Let’s Talk
                                                 </Link>
@@ -389,13 +389,13 @@ const CaseStudySection = () => {
                                     <div className={styles.caseImg}>
                                         <div className={styles.arrows}>
                                             <button className={styles.btnLeft} onClick={handleBtnLeftClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                             <button className={styles.btnRight} onClick={handleBtnRightClick}>
-                                                <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                                <Image src={arrow} alt='Appsters' className='img-fluid' />
                                             </button>
                                         </div>
-                                        <Image src={slider5} alt='Bitswits' fill={true} className='img-fluid' />
+                                        <Image src={slider5} alt='Appsters' fill={true} className='img-fluid' />
                                     </div>
                                 </Col>
                             </Row>

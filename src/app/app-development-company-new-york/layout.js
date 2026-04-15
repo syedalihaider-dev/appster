@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "Top Mobile App Development Company in New York",
-  description: "BitsWits is a top app development company in New York helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
+  description: "Appsters is a top app development company in New York helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.",
   //===== OG Tags =====
   openGraph: {
     title: 'Top Mobile App Development Company in New York',
-    description: 'BitsWits is a top app development company in New York helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.',
+    description: 'Appsters is a top app development company in New York helping startups and entrepreneurs across 10+ industries build scalable, and feature-rich mobile apps.',
     url: '/app-development-company-new-york',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },
@@ -16,17 +16,17 @@ export const metadata = {
   alternates: { canonical: '/app-development-company-new-york' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "Mobile App Development Company in New York -Bitswits",
+    "DC.title": "Mobile App Development Company in New York -Appsters",
     "geo.region": "US",
     "geo.position": "40.7054441, -74.01309",
     "ICBM": " 40.7054441, -74.01309",
     //==========
-    "DC.title": "Mobile App Development Company in New York -Bitswits",
+    "DC.title": "Mobile App Development Company in New York -Appsters",
     "geo.region": "US-NY",
     "geo.position": "40.7054441, -74.01309",
     "ICBM": "40.7054441, -74.01309",
     //==========
-    "DC.title": "Mobile App Development Company in New York -Bitswits",
+    "DC.title": "Mobile App Development Company in New York -Appsters",
     "geo.region": "US-NY",
     "geo.placename": "New York",
     "geo.position": "40.7054441, -74.01309",

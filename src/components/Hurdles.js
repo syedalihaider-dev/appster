@@ -56,15 +56,15 @@ const Hurdles = () => {
 
                                 {isSliderActive ?
                                     <Slider {...awardslogo} className={` ${styles.startup1} pt-0 pt-md-5`}>
-                                        <Image quality={95} alt='BitsWits' src={secImg1} className='img-fluid my-4' />
-                                        <Image quality={95} alt='BitsWits' src={secImg2} className='img-fluid my-4' />
-                                        <Image quality={95} alt='BitsWits' src={secImg3} className='img-fluid my-4' />
-                                        <Image quality={95} alt='BitsWits' src={secImg4} className='img-fluid my-4' />
-                                        <Image quality={95} alt='BitsWits' src={secImg5} className='img-fluid my-4' />
+                                        <Image quality={95} alt='Appsters' src={secImg1} className='img-fluid my-4' />
+                                        <Image quality={95} alt='Appsters' src={secImg2} className='img-fluid my-4' />
+                                        <Image quality={95} alt='Appsters' src={secImg3} className='img-fluid my-4' />
+                                        <Image quality={95} alt='Appsters' src={secImg4} className='img-fluid my-4' />
+                                        <Image quality={95} alt='Appsters' src={secImg5} className='img-fluid my-4' />
                                     </Slider>
 
                                     :
-                                    <Image quality={95} alt='BitsWits' src={secImg} className='img-fluid my-4' />
+                                    <Image quality={95} alt='Appsters' src={secImg} className='img-fluid my-4' />
 
                                 }
 

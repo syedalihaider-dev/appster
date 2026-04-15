@@ -18,7 +18,7 @@ const Fueling = ({ data, list, bgWhite }) => {
                                 <>
                                     <ButtonCommon txt="Free Consultation" />
                                     <div className={styles.fuelingImg}>
-                                        <Image src={data?.FuelingImg1} alt="Bitswits Services" width={610} height={520} />
+                                        <Image src={data?.FuelingImg1} alt="Appsters Services" width={610} height={520} />
                                     </div>
                                 </>
                                 :
@@ -29,7 +29,7 @@ const Fueling = ({ data, list, bgWhite }) => {
                                             <p>{data?.subtext}</p>
                                         </div>
                                         <div className={styles.boxImg}>
-                                            <Image src={data?.FuelingImg} alt="Bitswits Services" width={350} height={290} />
+                                            <Image src={data?.FuelingImg} alt="Appsters Services" width={350} height={290} />
                                         </div>
                                     </div>
                                     <ButtonCommon txt="Free Consultation" />
@@ -61,7 +61,7 @@ const Fueling = ({ data, list, bgWhite }) => {
                             </div>
                             <div className={styles.sicktyItem}>
                                 <h5>Multi-device Synchronization</h5>
-                                <p>Hire mobile app developers from BitsWits to implement multi-device synchronization, allowing users to access data and continue activities seamlessly across devices. This approach enhances user convenience and engagement by providing a consistent experience across all platforms.</p>
+                                <p>Hire mobile app developers from Appsters to implement multi-device synchronization, allowing users to access data and continue activities seamlessly across devices. This approach enhances user convenience and engagement by providing a consistent experience across all platforms.</p>
                             </div>
                             <div className={styles.sicktyItem}>
                                 <h5>Chatbots</h5>

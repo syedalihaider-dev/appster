@@ -37,7 +37,7 @@ const UIUXTechnology = (props) => {
               </p>
               <h2 className={`${styles.work} newchoose`}>
                 <span className="newchoose">
-                  Bitswits UX/UI Technology Stack
+                  Appsters UX/UI Technology Stack
                 </span>
               </h2>
               <p className="white font16 f-400 center">
@@ -120,7 +120,7 @@ const UIUXTechnology = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon1}
                       className="img-fluid"
                     />
@@ -129,7 +129,7 @@ const UIUXTechnology = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon2}
                       className="img-fluid"
                     />
@@ -138,7 +138,7 @@ const UIUXTechnology = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon3}
                       className="img-fluid"
                     />
@@ -147,7 +147,7 @@ const UIUXTechnology = (props) => {
                   <div>
                     <Image
                       quality={75}
-                      alt="BitsWits"
+                      alt="Appsters"
                       src={icon4}
                       className="img-fluid"
                     />
@@ -168,7 +168,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database1}
                         className="img-fluid"
                       />
@@ -177,7 +177,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database2}
                         className="img-fluid"
                       />
@@ -186,7 +186,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database3}
                         className="img-fluid"
                       />
@@ -195,7 +195,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database4}
                         className="img-fluid"
                       />
@@ -218,7 +218,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database5}
                         className="img-fluid"
                       />
@@ -227,7 +227,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database6}
                         className="img-fluid"
                       />
@@ -236,7 +236,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database7}
                         className="img-fluid"
                       />
@@ -245,7 +245,7 @@ const UIUXTechnology = (props) => {
                     <div>
                       <Image
                         quality={75}
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={database8}
                         className="img-fluid"
                       />

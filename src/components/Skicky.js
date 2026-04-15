@@ -108,7 +108,7 @@ const Skicky = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -188,7 +188,7 @@ const Skicky = () => {
                 <div className="newtownfy">
                     <div className="chat">
                         <span className="icon">
-                            <Image width="30" height="30" alt="bitswits" className="img-fluid" src={tel} loading="lazy" />
+                            <Image width="30" height="30" alt="Appsters" className="img-fluid" src={tel} loading="lazy" />
                             <div className="txtBody">
                                 <a href='javascript:window.replaceChat();'>Chat Now</a>
                             </div>
@@ -196,7 +196,7 @@ const Skicky = () => {
                     </div>
                     <div className="call">
                         <span className="icon">
-                            <Image width="30" height="30" alt="bitswits" className="img-fluid" src={call} loading="lazy" />
+                            <Image width="30" height="30" alt="Appsters" className="img-fluid" src={call} loading="lazy" />
                             <div className="txtBody">
                                 <a href="tel:8335006007">(833) 500-6007</a>
                             </div>

@@ -26,7 +26,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg1}
                   width={200}
                   height={100}
@@ -36,7 +36,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg2}
                   width={200}
                   height={100}
@@ -46,7 +46,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg3}
                   width={200}
                   height={100}
@@ -56,7 +56,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg4}
                   width={200}
                   height={100}
@@ -66,7 +66,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg5}
                   width={200}
                   height={100}
@@ -76,7 +76,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg6}
                   width={200}
                   height={100}
@@ -86,7 +86,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg7}
                   width={200}
                   height={100}
@@ -96,7 +96,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg8}
                   width={200}
                   height={100}
@@ -106,7 +106,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg1}
                   className="img-fluid"
                 />
@@ -114,7 +114,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg2}
                   className="img-fluid"
                 />
@@ -122,7 +122,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg3}
                   className="img-fluid"
                 />
@@ -130,7 +130,7 @@ export default function HomeBannerSliderlpnew(props) {
               <div className="slide">
                 <Image
                   quality={100}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={banImg4}
                   className="img-fluid"
                 />

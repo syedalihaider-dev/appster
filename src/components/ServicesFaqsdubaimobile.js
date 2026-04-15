@@ -36,7 +36,7 @@ const ServicesFaqsdubaimobile = (props) => {
                                     <div>
                                         <div onClick={() => toggleFaq(index)} className={`${styles.heading} newfoldpost p-3`}>
                                             <h3>
-                                                {faq.question} {faqStates[index] ? <Image quality={75} src={open} className="img-fluid" alt="Bitswits" /> : <Image quality={75} src={close} className="img-fluid" alt="Bitswits" />}
+                                                {faq.question} {faqStates[index] ? <Image quality={75} src={open} className="img-fluid" alt="Appsters" /> : <Image quality={75} src={close} className="img-fluid" alt="Appsters" />}
                                             </h3>
                                             <p className={`mt-2 mb-0 ${styles.siop}`}> {faq.ques2} </p>
                                         </div>

@@ -113,7 +113,7 @@ const Nftservices = (props) => {
 
                         <Col lg={6}>
                             <div className={styles.intlong}>
-                                <Image src={videopic} alt="bitswits" className="img-fluid" />
+                                <Image src={videopic} alt="Appsters" className="img-fluid" />
                             </div>
                         </Col>
                     </Row>

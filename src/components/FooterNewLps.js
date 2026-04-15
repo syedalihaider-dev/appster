@@ -81,7 +81,7 @@ const FooterNewLps = () => {
               <Slider {...awardslogo} className={` ${styles.startup1}  startposition mt-4`}>
                 {icons.map((icon, index) => (
                   <div key={index} className={`${styles.strpImg} ${icon === icon7 ? styles.minImg : styles.strpImg}`}>
-                    <Image alt="BitsWits" src={icon} className="img-fluid" />
+                    <Image alt="Appsters" src={icon} className="img-fluid" />
                   </div>
                 ))}
               </Slider>
@@ -95,35 +95,35 @@ const FooterNewLps = () => {
                 <ul className={`${styles.socials} mb-0 p-0`}>
                   <li>
                     <a href="#href" rel="noopener noreferrer">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={fb} loading="lazy"
                       />
                     </a>
                   </li>
                   <li>
                     <a href="#href" rel="noopener noreferrer">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={inta} loading="lazy"
                       />
                     </a>
                   </li>
                   <li>
                     <a href="#href" rel="noopener noreferrer">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={tweet} loading="lazy"
                       />
                     </a>
                   </li>
                   <li>
                     <a href="#href" rel="noopener noreferrer">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={linkedin} loading="lazy"
                       />
                     </a>
                   </li>
                   <li>
                     <a href="#href" rel="noopener noreferrer">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={youtube} loading="lazy"
                       />
                     </a>
@@ -132,7 +132,7 @@ const FooterNewLps = () => {
               </Col>
               <Col md={4} lg={6}>
                 <p className={`${styles.trmCon} f-montserrat f-12 white f-500 mb-0`}>
-                  Copyright © 2026 BitsWits.
+                  Copyright © 2026 Appsters.
                 </p>
               </Col>
               <Col md={4} lg={3}>

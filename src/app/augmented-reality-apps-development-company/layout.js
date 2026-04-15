@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Augmented Reality Apps Development Company | AR App Developers',
     description: 'Our augmented reality apps development company is your one-stop shop for creating immersive AR experiences. We have a team of expert AR app developers to bring your ideas to life.',
     url: '/ai-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

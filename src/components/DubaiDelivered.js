@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { animate, motion } from "framer-motion";
 import { Row, Col, Modal } from "react-bootstrap";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 import styles from "@/styles/DubaiDelivered.module.css";
 // Images
@@ -166,7 +166,7 @@ const DubaiDelivered = ({ content }) => {
       {/* Modal Start*/}
       <Modal show={show} onHide={closemodal} className={styles.modalnew}>
         <Modal.Body>
-          <Bitswitspopup formsaspire="popquote" />
+          <Appsterspopup formsaspire="popquote" />
           <span onClick={closemodal} className={styles.cross}>
             <RxCross2 />
           </span>

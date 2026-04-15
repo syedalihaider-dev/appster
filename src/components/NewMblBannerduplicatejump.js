@@ -79,7 +79,7 @@ const NewHomeBanner = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -166,7 +166,7 @@ const NewHomeBanner = () => {
                             </p>
                             <Link className="text-white" href="#">
                                 <h3 className={`${styles.develop} text-center f-45 font-bold mt-3 mb-4`}>
-                                    Ready. Steady and BitsWits With Our Class-apart Digital Marketing Services!
+                                    Ready. Steady and Appsters With Our Class-apart Digital Marketing Services!
                                 </h3>
                             </Link>
 

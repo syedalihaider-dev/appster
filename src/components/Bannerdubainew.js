@@ -3,7 +3,7 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { Container, Row, Col, Modal } from "react-bootstrap";
 import styles from "@/styles/bannerdubainew.module.css";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 // images
 import badgeClient from "media/newdubai/badgesClient.webp";
@@ -100,7 +100,7 @@ const Bannerdubai = ({ content, rtl }) => {
         };
         let bodyContent = JSON.stringify({
             IP: `${ip.ip} - ${ip.city} - ${ip.country}`,
-            Brand: "Bitswits",
+            Brand: "Appsters",
             Page: `${currentRoute}`,
             Date: currentdate,
             Time: currentdate,
@@ -344,7 +344,7 @@ const Bannerdubai = ({ content, rtl }) => {
             {/* Modal Start*/}
             <Modal show={show} onHide={closemodal} className={styles.modalnew}>
                 <Modal.Body>
-                    <Bitswitspopup formsaspire='popquote' />
+                    <Appsterspopup formsaspire='popquote' />
                     <span onClick={closemodal} className={styles.cross}>
                         <RxCross2 />
                     </span>

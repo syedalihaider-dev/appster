@@ -81,7 +81,7 @@ const Succes = (props) => {
             <Col xl={12}>
               <h2 className="white font50 f-700  mb-3">Exploring Success Stories of Our Mobile App  <br></br>
                 Development Company in Dubai</h2>
-              <p className="font16 font-normal white  mb-5">BitsWits has transformed ideas into powerful applications, driving growth and excellence. Their journeys, challenges, and achievements have made them a trusted partner in app development. Explore their success stories and envision what we can create together to inspire startups and enterprises worldwide.</p>
+              <p className="font16 font-normal white  mb-5">Appsters has transformed ideas into powerful applications, driving growth and excellence. Their journeys, challenges, and achievements have made them a trusted partner in app development. Explore their success stories and envision what we can create together to inspire startups and enterprises worldwide.</p>
             </Col>
           </Row>
           {isSliderActive ?

@@ -13,7 +13,7 @@ const IdeaCta = ({ data }) => {
                 <Row className='h-100 align-items-end'>
                     <Col lg={4} md={4} className="m-0 p-0">
                         <div className={styles.ideaBox}>
-                            <Image src={ideCtaImg} width={400} height={500} alt="BitsWits" />
+                            <Image src={ideCtaImg} width={400} height={500} alt="Appsters" />
                         </div>
                     </Col>
                     <Col lg={8} md={8} className='p-0'>

@@ -97,13 +97,13 @@ export default function Page() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://www.bitswits.co/",
+                item: "https://www.Appsters.co/",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Restaurant App Development",
-                item: "https://www.bitswits.co/restaurant-app-development-company",
+                item: "https://www.Appsters.co/restaurant-app-development-company",
               },
             ],
           }),
@@ -117,10 +117,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Restaurant App Development Company - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/restaurant-app-development-company",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            name: "Restaurant App Development Company - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/restaurant-app-development-company",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+1 833 500-6007",
@@ -130,11 +130,11 @@ export default function Page() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.bitswits.co",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.Appsters.co",
             ],
           }),
         }}
@@ -147,11 +147,11 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Restaurant App Development Company - BitsWits",
+            name: "Restaurant App Development Company - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "@id": "https://www.bitswits.co/restaurant-app-development-company",
-            url: "https://www.bitswits.co/restaurant-app-development-company",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "@id": "https://www.Appsters.co/restaurant-app-development-company",
+            url: "https://www.Appsters.co/restaurant-app-development-company",
             telephone: "+1 833 500-6007",
             priceRange: "12,000",
             address: {
@@ -182,11 +182,11 @@ export default function Page() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.bitswits.co",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.Appsters.co",
             ],
           }),
         }}
@@ -200,15 +200,15 @@ export default function Page() {
             "@context": "https://schema.org",
             "@type": "Product",
             "name": "Restaurant App Development Services",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "description": "BitsWits is a leading restaurant app development company that specializes in creating savory solutions with freshly cooked codes tailored to the unique needs of your dining business.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "description": "Appsters is a leading restaurant app development company that specializes in creating savory solutions with freshly cooked codes tailored to the unique needs of your dining business.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "offers": {
               "@type": "AggregateOffer",
-              "url": "https://www.bitswits.co/restaurant-app-development-company",
+              "url": "https://www.Appsters.co/restaurant-app-development-company",
               "priceCurrency": "USD",
               "lowPrice": "10000",
               "highPrice": "30000",

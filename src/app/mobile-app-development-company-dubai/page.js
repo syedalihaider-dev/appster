@@ -250,7 +250,7 @@ export default function dubaidevelopmentcompany() {
     {
       para: (
         <>
-          At BitsWits, a simple app development project starts with just AED
+          At Appsters, a simple app development project starts with just AED
           100,000, and it varies depending on your specific app needs.
         </>
       ),
@@ -291,7 +291,7 @@ export default function dubaidevelopmentcompany() {
     "How long do mobile app development services in Dubai take end-to-end?",
     " How do I choose between mobile app development companies in Dubai?",
     " Should I build iOS, Android, or both in Dubai?",
-    "Cutting-Edge Mobile App Development Frameworks Utilized by BitsWits",
+    "Cutting-Edge Mobile App Development Frameworks Utilized by Appsters",
     "What do “certified apps” mean in Dubai, and what should I ask for?",
     " What should post-launch support include for apps in Dubai?",
   ];
@@ -441,7 +441,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -562,7 +562,7 @@ export default function dubaidevelopmentcompany() {
           <Justbuilditlpdubai
             title1="Just"
             title="Build It."
-            para="Design, Develop, and Grow with BitsWits."
+            para="Design, Develop, and Grow with Appsters."
             slide="slide1lp"
             href="tel:+971 55 503 1266"
           />
@@ -576,7 +576,7 @@ export default function dubaidevelopmentcompany() {
                   <>
                     To develop your app in UAE successfully, it is necessary to
                     have a strategic implementation and work with a competent
-                    app development company. At BitsWits, we provide
+                    app development company. At Appsters, we provide
                     unparalleled mobile app development services that perfectly
                     address your business needs. At our disposal are experienced
                     and skilled professionals who guarantee that the work is
@@ -594,7 +594,7 @@ export default function dubaidevelopmentcompany() {
                     The price of building an app in Dubai varies based on
                     multiple factors, such as app classification, functionality,
                     abilities, tech stack, and your schedule and budget. At
-                    BitsWits, you’ll get affordable app development services,
+                    Appsters, you’ll get affordable app development services,
                     but this does not detriment quality. Contact our
                     professionals now for a personalized quote for your app
                     project in the UAE.
@@ -619,10 +619,10 @@ export default function dubaidevelopmentcompany() {
               },
               {
                 question:
-                  "Why should I choose BitsWits for mobile app development services in Dubai?",
+                  "Why should I choose Appsters for mobile app development services in Dubai?",
                 answer: (
                   <>
-                    Choosing BitsWits for your mobile app development needs in
+                    Choosing Appsters for your mobile app development needs in
                     Dubai means partnering with a team that has over 10+ years
                     of experience in the industry. We offer innovative solutions
                     and stay updated with emerging technologies like AI/ML,
@@ -657,8 +657,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Mobile App Development Company in Dubai - BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-dubai",
+            name: "Mobile App Development Company in Dubai - Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-dubai",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -674,10 +674,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Mobile App Development Company in Dubai - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-dubai",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Mobile App Development Company in Dubai - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-dubai",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+971555031266",
@@ -686,11 +686,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -702,11 +702,11 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Mobile App Development Company in Dubai - BitsWits",
+            name: "Mobile App Development Company in Dubai - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdubai.07d013c3.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdubai.07d013c3.webp&w=1920&q=75",
             "@id": "",
-            url: "https://www.bitswits.co/mobile-app-development-company-dubai",
+            url: "https://www.Appsters.co/mobile-app-development-company-dubai",
             telephone: "+971555031266",
             priceRange: "$10000",
             address: {
@@ -736,11 +736,11 @@ export default function dubaidevelopmentcompany() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -752,14 +752,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Mobile App Development Company in Dubai - BitsWits",
+            name: "Mobile App Development Company in Dubai - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdubai.07d013c3.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdubai.07d013c3.webp&w=1920&q=75",
             description:
-              "Partner with BitsWits, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.",
+              "Partner with Appsters, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

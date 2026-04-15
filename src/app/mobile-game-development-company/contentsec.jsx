@@ -10,7 +10,7 @@ const ContentSec = ({data}) => {
             <Container>
                 <Row>
                     <Col lg={6} md={5} className='my-auto order-2 order-md-1' >
-                        <Image src={data.ContentSecIMG} alt="Bitswits Services" width={1340} height={1006} />
+                        <Image src={data.ContentSecIMG} alt="Appsters Services" width={1340} height={1006} />
                     </Col>
                     <Col lg={6} md={7} className='my-auto order-1 order-md-2'>
                         <div className={styles.contentBox}>

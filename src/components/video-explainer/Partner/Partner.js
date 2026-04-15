@@ -12,7 +12,7 @@ const Partner = () => {
                 <div className='container'>
                     <Row>
                         <Col lg={12}>
-                            <Image src={Partners} alt='Bitswits' className='d-block mx-auto' />
+                            <Image src={Partners} alt='Appsters' className='d-block mx-auto' />
                         </Col>
                     </Row>
                 </div>

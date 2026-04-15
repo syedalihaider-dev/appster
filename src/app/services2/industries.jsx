@@ -15,7 +15,7 @@ const data = [
     {
         icon: <Icon01 />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "#",
         img: Ecommerce.src,
     },

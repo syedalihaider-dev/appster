@@ -66,7 +66,7 @@ const Hand = (props) => {
 
                                             <p className="font_13 white fontsfregular linehight_2">We integrate Application-Specific Integrated Circuit (ASIC) chips within existing cryptocurrency mining software to accelerate transaction verifications, along with designing decentralized networks for mining pools, creating miner performance dashboards, and providing architecture solutions for mining farms.</p>
                                         </div>
-                                        <Image src={bestgloba11} className="img-fluid" alt='bitswits' />
+                                        <Image src={bestgloba11} className="img-fluid" alt='Appsters' />
                                     </div>
                                 </div>
 
@@ -78,7 +78,7 @@ const Hand = (props) => {
 
                                             <p className="font_13 white fontsfregular linehight_2">We develop Blockchain Wallet & Exchange Software equipped with features for trading blockchain tokens & multiple cryptocurrencies, auto-generating private & public keys, and participating in Initial Coin Offerings (ICO), Security Token Offerings (STO), and Digital Security Offerings (DSO)</p>
                                         </div>
-                                        <Image src={bestgloba12} className="img-fluid" alt='bitswits' />
+                                        <Image src={bestgloba12} className="img-fluid" alt='Appsters' />
                                     </div>
                                 </div>
 
@@ -88,7 +88,7 @@ const Hand = (props) => {
                                         <div>
                                             <p className="font_13 white fontsfregular linehight_2">Our Blockchain Smart Contract Development is designed to supply decentralized web solutions for finance, healthcare, e-commerce, supply chain, and gaming markets for registering loan requests & intellectual properties, generating letters of credit for international transactions, and validating insurance eligibility.</p>
                                         </div>
-                                        <Image src={bestgloba13} className="img-fluid" alt='bitswits' />
+                                        <Image src={bestgloba13} className="img-fluid" alt='Appsters' />
                                     </div>
                                 </div>
 
@@ -99,7 +99,7 @@ const Hand = (props) => {
 
                                             <p className="font_13 white fontsfregular linehight_2">We develop highly scalable white-label Cryptocurrency Exchange Software for exchange operators, asset managers, token issuers, brokers & dealers, and custodians to manage cryptocurrency global trading and blockchain-based digital assets protected by a layered architecture to secure digital exchange data and assets.</p>
                                         </div>
-                                        <Image src={bestgloba14} className="img-fluid" alt='bitswits' />
+                                        <Image src={bestgloba14} className="img-fluid" alt='Appsters' />
                                     </div>
                                 </div>
 
@@ -116,7 +116,7 @@ const Hand = (props) => {
 
                                                     <p className="font_13 white fontsfregular linehight_2">We integrate Application-Specific Integrated Circuit (ASIC) chips within existing cryptocurrency mining software to accelerate transaction verifications, along with designing decentralized networks for mining pools, creating miner performance dashboards, and providing architecture solutions for mining farms.</p>
                                                 </div>
-                                                <Image src={bestgloba11} className="img-fluid" alt='bitswits' />
+                                                <Image src={bestgloba11} className="img-fluid" alt='Appsters' />
                                             </div>
                                         </div>
                                     </Col>
@@ -128,7 +128,7 @@ const Hand = (props) => {
 
                                                     <p className="font_13 white fontsfregular linehight_2">We develop Blockchain Wallet & Exchange Software equipped with features for trading blockchain tokens & multiple cryptocurrencies, auto-generating private & public keys, and participating in Initial Coin Offerings (ICO), Security Token Offerings (STO), and Digital Security Offerings (DSO)</p>
                                                 </div>
-                                                <Image src={bestgloba12} className="img-fluid" alt='bitswits' />
+                                                <Image src={bestgloba12} className="img-fluid" alt='Appsters' />
                                             </div>
                                         </div>
                                     </Col>
@@ -139,7 +139,7 @@ const Hand = (props) => {
                                                 <div>
                                                     <p className="font_13 white fontsfregular linehight_2">Our Blockchain Smart Contract Development is designed to supply decentralized web solutions for finance, healthcare, e-commerce, supply chain, and gaming markets for registering loan requests & intellectual properties, generating letters of credit for international transactions, and validating insurance eligibility.</p>
                                                 </div>
-                                                <Image src={bestgloba13} className="img-fluid" alt='bitswits' />
+                                                <Image src={bestgloba13} className="img-fluid" alt='Appsters' />
                                             </div>
                                         </div>
                                     </Col>
@@ -151,7 +151,7 @@ const Hand = (props) => {
 
                                                     <p className="font_13 white fontsfregular linehight_2">We develop highly scalable white-label Cryptocurrency Exchange Software for exchange operators, asset managers, token issuers, brokers & dealers, and custodians to manage cryptocurrency global trading and blockchain-based digital assets protected by a layered architecture to secure digital exchange data and assets.</p>
                                                 </div>
-                                                <Image src={bestgloba14} className="img-fluid" alt='bitswits' />
+                                                <Image src={bestgloba14} className="img-fluid" alt='Appsters' />
                                             </div>
                                         </div>
                                     </Col>

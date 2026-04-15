@@ -80,7 +80,7 @@ const Tale = (props) => {
           <Row>
             <Col xl={12}>
               <h2 className="white font50 f-700 center mb-3">Harnessing Trust and Credibility: Mobile App <br /> Development Solutions in Dubai</h2>
-              <p className="font16 font-normal white text-center mb-5">BitsWits, a Dubai-based technology company, has established strong partnerships with top brands, focusing on delivering quality digital products. Our client-centric approach ensures products reflect clients' values and brand identity. Our success stories are a testament to dedication, meticulous planning, innovative thinking, and teamwork. BitsWits continues to foster strong partnerships and strive to shape a brighter digital future with clients.</p>
+              <p className="font16 font-normal white text-center mb-5">Appsters, a Dubai-based technology company, has established strong partnerships with top brands, focusing on delivering quality digital products. Our client-centric approach ensures products reflect clients' values and brand identity. Our success stories are a testament to dedication, meticulous planning, innovative thinking, and teamwork. Appsters continues to foster strong partnerships and strive to shape a brighter digital future with clients.</p>
             </Col>
           </Row>
 

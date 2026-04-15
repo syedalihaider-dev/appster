@@ -336,7 +336,7 @@ export default function dubaidevelopmentcompany() {
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -408,8 +408,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Mobile App Development Company in Denver – BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-denver",
+            name: "Mobile App Development Company in Denver – Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-denver",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -425,10 +425,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Mobile App Development Company in Denver – BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-denver",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Mobile App Development Company in Denver – Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-denver",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+3022168231",
@@ -437,11 +437,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -453,12 +453,12 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Mobile App Development Company in Denver - BitsWits",
+            name: "Mobile App Development Company in Denver - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
             "@id":
-              "https://www.bitswits.co/mobile-app-development-company-denver",
-            url: "https://www.bitswits.co/mobile-app-development-company-denver",
+              "https://www.Appsters.co/mobile-app-development-company-denver",
+            url: "https://www.Appsters.co/mobile-app-development-company-denver",
             telephone: "+18335006007",
             priceRange: "$12,000",
             address: {
@@ -489,11 +489,11 @@ export default function dubaidevelopmentcompany() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.bitswits.co/",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.Appsters.co/",
             ],
           }),
         }}
@@ -505,14 +505,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Mobile App Development Company in Denver – BitsWits",
+            name: "Mobile App Development Company in Denver – Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdenver.d84bc1fd.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdenver.d84bc1fd.webp&w=1920&q=75",
             description:
-              "BitsWits is a leading mobile app development company in Denver offering innovative solutions customized to your business needs for unparalleled success!",
+              "Appsters is a leading mobile app development company in Denver offering innovative solutions customized to your business needs for unparalleled success!",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

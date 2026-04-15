@@ -115,7 +115,7 @@ const Ecommerce = () => {
                               quality={95}
                               className={styles.newmob}
                               src="/images/industry/1n.png"
-                              alt="bitswits"
+                              alt="Appsters"
                               width={166}
                               height={129}
                             />
@@ -131,7 +131,7 @@ const Ecommerce = () => {
                               quality={95}
                               className={styles.newmob}
                               src="/images/industry/2n.png"
-                              alt="bitswits"
+                              alt="Appsters"
                               width={120}
                               height={130}
                             />
@@ -147,7 +147,7 @@ const Ecommerce = () => {
                               quality={95}
                               className={styles.newmob}
                               src="/images/industry/3n.png"
-                              alt="bitswits"
+                              alt="Appsters"
                               width={148}
                               height={130}
                             />
@@ -163,7 +163,7 @@ const Ecommerce = () => {
                               quality={95}
                               className={styles.newmob}
                               src="/images/industry/4n.png"
-                              alt="bitswits"
+                              alt="Appsters"
                               width={130}
                               height={129}
                             />

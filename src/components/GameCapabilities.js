@@ -46,7 +46,7 @@ const GameCapabilities = () => {
                             <div className={styles.build}>
                                 <div>
                                     <h2>Explore a New Dimension of Fun with <br className='d-xl-block d-none'></br> Our Blockchain Game Development  <br></br> Company</h2>
-                                    <p className='white'>Our blockchain-based solutions provide gamers with the highest level of security, ensuring that their digital assets remain safely in their hands. BitsWits is experienced in crafting games for both mobile and PC platforms and boasts a wealth of experience in creating games for both the public and private sectors. We also ensure that all of our games comply with the latest industry standards, so you can be sure that your investment in our technology is secure. From world-class art direction to feature-rich gameplay mechanics, BitsWits is your partner in creating the perfect gaming experience. Contact us today to learn how we can help make your upcoming game a success!</p>
+                                    <p className='white'>Our blockchain-based solutions provide gamers with the highest level of security, ensuring that their digital assets remain safely in their hands. Appsters is experienced in crafting games for both mobile and PC platforms and boasts a wealth of experience in creating games for both the public and private sectors. We also ensure that all of our games comply with the latest industry standards, so you can be sure that your investment in our technology is secure. From world-class art direction to feature-rich gameplay mechanics, Appsters is your partner in creating the perfect gaming experience. Contact us today to learn how we can help make your upcoming game a success!</p>
                                 </div>
                                 <a className={styles.about} href='javascript:window.replaceChat();'>LET'S CONNECT</a>
                             </div>
@@ -74,7 +74,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon1} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon1} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -86,7 +86,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon2} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon2} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -98,7 +98,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon3} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon3} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -110,7 +110,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon4} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon4} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -124,7 +124,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon5} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon5} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -136,7 +136,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon6} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon6} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -148,7 +148,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon7} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon7} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -160,7 +160,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon8} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon8} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -172,7 +172,7 @@ const GameCapabilities = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon9} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon9} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 

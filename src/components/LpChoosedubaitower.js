@@ -17,15 +17,15 @@ const LpChoosedubaitower = (props) => {
         <Container>
           <Row className="align-items-center gy-lg-5 gy-4 w-100">
             <Col lg={6} className={styles.walk}>
-              <h3 className="white newchoose font-bold f-700">BitsWits: Leading the Way as a Mobile Application Development Company in Dubai for Digital Transformation Solutions</h3>
+              <h3 className="white newchoose font-bold f-700">Appsters: Leading the Way as a Mobile Application Development Company in Dubai for Digital Transformation Solutions</h3>
 
               <p>
-                BitsWits has earned recognition both locally and globally for its remarkable achievements. We are now expanding our influence beyond Dubai, reaching out to the MENA region and beyond. Our mission is clear: to create valuable digital products that not only solve business problems but also ensure growth, scalability, and resounding success in Dubai's dynamic market.
+                Appsters has earned recognition both locally and globally for its remarkable achievements. We are now expanding our influence beyond Dubai, reaching out to the MENA region and beyond. Our mission is clear: to create valuable digital products that not only solve business problems but also ensure growth, scalability, and resounding success in Dubai's dynamic market.
               </p>
               <p>
-                At BitsWits, we are bringing an exceptional team of certified software engineers, product developers, Q&A engineers, and business strategists to the region. We promise a tech-driven environment that thrives on experience-led digital solutions, further nurturing Dubai's entrepreneurial culture.
+                At Appsters, we are bringing an exceptional team of certified software engineers, product developers, Q&A engineers, and business strategists to the region. We promise a tech-driven environment that thrives on experience-led digital solutions, further nurturing Dubai's entrepreneurial culture.
               </p>
-              <p>BitsWits has developed a comprehensive digital transformation suite, encompassing all the necessary digital tools that businesses need to navigate uncertain times, plan strategically, and maintain the resilience of their industries and business models. With BitsWits, your digital transformation is in expert hands, ready to conquer challenges and secure success.</p>
+              <p>Appsters has developed a comprehensive digital transformation suite, encompassing all the necessary digital tools that businesses need to navigate uncertain times, plan strategically, and maintain the resilience of their industries and business models. With Appsters, your digital transformation is in expert hands, ready to conquer challenges and secure success.</p>
               <a href='javascript:window.replaceChat();' className={styles.dus}>
                 Let’s Get Started
               </a>

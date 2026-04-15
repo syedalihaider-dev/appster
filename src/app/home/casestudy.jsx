@@ -52,7 +52,7 @@ const CaseStudy = ({ data }) => {
                                                         <span>Vifty</span>
                                                     </div>
                                                     <div className={styles.casestudyPara}>
-                                                        <p>BitsWits developed Vifty, a multi-functional platform allowing users to list gigs, book online consultations, and interact socially. The app includes reels, a booking module, rating and review systems, video calling, and one-to-one chat. Vifty also supports social posts and external sharing for enhanced user engagement.</p>
+                                                        <p>Appsters developed Vifty, a multi-functional platform allowing users to list gigs, book online consultations, and interact socially. The app includes reels, a booking module, rating and review systems, video calling, and one-to-one chat. Vifty also supports social posts and external sharing for enhanced user engagement.</p>
                                                         <ul>
                                                             <li>Gig Listings</li>
                                                             <li>Online Consultation</li>
@@ -81,7 +81,7 @@ const CaseStudy = ({ data }) => {
                                                         <span>SoulScribe</span>
                                                     </div>
                                                     <div className={styles.casestudyPara}>
-                                                        <p>SoulScribe is a social media platform where users manage posts, maintain memory journals with beneficiaries, and connect with friends. BitsWits integrated features like search and filter, in-app messaging, group management, and social interactions, making it a comprehensive tool for personal journaling and building meaningful connections.</p>
+                                                        <p>SoulScribe is a social media platform where users manage posts, maintain memory journals with beneficiaries, and connect with friends. Appsters integrated features like search and filter, in-app messaging, group management, and social interactions, making it a comprehensive tool for personal journaling and building meaningful connections.</p>
                                                         <ul>
                                                             <li>Post Management</li>
                                                             <li>Memory Journal</li>
@@ -110,7 +110,7 @@ const CaseStudy = ({ data }) => {
                                                         <span>ReadyApp</span>
                                                     </div>
                                                     <div className={styles.casestudyPara}>
-                                                        <p>ReadyApp, created by BitsWits, connects truck drivers with jobs and recruiters. Drivers can search and apply for jobs, manage profiles and documents, and connect with others. Recruiters can handle job postings and hiring processes, with features for profile management, notifications, and in-app messaging for seamless communication.</p>
+                                                        <p>ReadyApp, created by Appsters, connects truck drivers with jobs and recruiters. Drivers can search and apply for jobs, manage profiles and documents, and connect with others. Recruiters can handle job postings and hiring processes, with features for profile management, notifications, and in-app messaging for seamless communication.</p>
                                                         <ul>
                                                             <li>Job Listings</li>
                                                             <li>Driver Profiles</li>

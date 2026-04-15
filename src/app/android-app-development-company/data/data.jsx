@@ -387,7 +387,7 @@ export const TestimonialSLIDES = [
 ]
 
 export const RisksContent = {
-    title: (<>Test Your App <Image src={RisksIMG01} alt="Bitswits Services" width={228} height={85} />Idea with a High-Impact MVP and <Image src={RisksIMG02} alt="Bitswits Services" width={228} height={85} /> Maximize Your ROI!</>),
+    title: (<>Test Your App <Image src={RisksIMG01} alt="Appsters Services" width={228} height={85} />Idea with a High-Impact MVP and <Image src={RisksIMG02} alt="Appsters Services" width={228} height={85} /> Maximize Your ROI!</>),
     text: "Validate your app concept with minimal risk before launching a full-scale app!"
 }
 
@@ -449,7 +449,7 @@ export const OffersTabs = [
 
 export const FuelingContent = {
     title: "Pioneering Android App Development with Emerging Tech",
-    text: "At BitsWits, we integrate cutting-edge technologies to craft standout Android apps, offering bespoke solutions across diverse industries. Explore how these innovations elevate user experiences and amplify app capabilities.",
+    text: "At Appsters, we integrate cutting-edge technologies to craft standout Android apps, offering bespoke solutions across diverse industries. Explore how these innovations elevate user experiences and amplify app capabilities.",
     subtitle: "Launch a High-Performance Android App with Flawless User Experience!",
     subtext: "Our developers can build intuitive, engaging apps that are designed for maximum performance and scalability.",
     FuelingImg: FuelingImg
@@ -787,14 +787,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -802,7 +802,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

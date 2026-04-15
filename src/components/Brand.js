@@ -82,7 +82,7 @@ const Brand = ({ rtl }) => {
     };
     let bodyContent = JSON.stringify({
       IP: `${ip.ip} - ${ip.city} - ${ip.country}`,
-      Brand: "Bitswits",
+      Brand: "Appsters",
       Page: `${currentRoute}`,
       Date: currentdate,
       Time: currentdate,
@@ -175,7 +175,7 @@ const Brand = ({ rtl }) => {
                   src={free}
                   width={436}
                   height={618}
-                  alt='Bitswits'
+                  alt='Appsters'
                   loading='lazy'
                   sizes='100vw'
                   className='img-fluid'

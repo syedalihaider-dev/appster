@@ -48,25 +48,25 @@ export default function HomeBannerSlider(props) {
             <section className={`${styles.BannerSlider} ${styles[props.assignClass]}`}>
                 <Slider {...bannerslider} className={`${styles.slider} newLogoSlide`}>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={icon20} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon20} className="img-fluid mx-auto" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={icon30} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon30} className="img-fluid mx-auto" />
                     </div>
                     <div className={`${styles.strpImg} ${styles.minImg}`}>
-                        <Image alt="BitsWits" src={icon80} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon80} className="img-fluid mx-auto" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={icon40} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon40} className="img-fluid mx-auto" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={icon50} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon50} className="img-fluid mx-auto" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={icon60} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon60} className="img-fluid mx-auto" />
                     </div>
                     <div className={`${styles.strpImg} ${styles.minImg}`}>
-                        <Image alt="BitsWits" src={icon70} className="img-fluid mx-auto" />
+                        <Image alt="Appsters" src={icon70} className="img-fluid mx-auto" />
                     </div>
                 </Slider>
             </section>

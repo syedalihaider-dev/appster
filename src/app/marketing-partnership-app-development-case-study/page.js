@@ -199,7 +199,7 @@ export default function Sponsord() {
         wantImg3={tackling}
         lastPara={
           <>
-            BitsWits' proactive approach to problem solving and constant
+            Appsters' proactive approach to problem solving and constant
             commitment to technology refinement played an important role in
             ensuring the efficiency and user satisfaction. Through our vigilant
             problem-solving mindset, we promptly sought solutions and made sure
@@ -213,7 +213,7 @@ export default function Sponsord() {
           <>
             Start Your App Development Journey <br /> Effortlessly; Let
             <span>
-              Bitswits Be Your <br /> Savior
+              Appsters Be Your <br /> Savior
             </span>
             With A Quick Tap!
           </>
@@ -255,7 +255,7 @@ export default function Sponsord() {
               </>
             ),
             description:
-              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.",
+              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.",
           },
           {
             title: (
@@ -282,7 +282,7 @@ export default function Sponsord() {
               </>
             ),
             description:
-              "BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
+              "Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
           },
           {
             title: (
@@ -292,7 +292,7 @@ export default function Sponsord() {
             ),
             description: (
               <>
-                At BitsWits, we rely on the Stripe payment method for all
+                At Appsters, we rely on the Stripe payment method for all
                 transactions. We've developed an automated dispute resolution
                 portal to efficiently manage payment issues. Our portal also
                 provides clear visibility into the different stages of reported
@@ -326,7 +326,7 @@ export default function Sponsord() {
         title={
           <>
             <span>
-              Why Trust <br /> BitsWits
+              Why Trust <br /> Appsters
             </span>
             with App <br /> Development?
           </>

@@ -9,7 +9,7 @@ export const metadata = {
     title: "AI Agent Development Company - AI Agent Development Service",
     description: "At our AI agent development company, we build intelligent AI agents with advanced LLMs & NLP that work 24/7. AI agents that learn, adapt & integrate with your workflows.",
     url: '/ai-agent-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

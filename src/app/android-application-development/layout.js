@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Android Apps Development Company | Android App Developers',
     description: 'Looking for a reliable Android Apps Development company? Hire skilled Android App Developers to create high-quality, user-friendly mobile applications for your business needs.',
     url: '/android-application-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

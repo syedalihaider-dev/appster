@@ -95,7 +95,7 @@ const Banner = ({ content }) => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -198,15 +198,15 @@ const Banner = ({ content }) => {
                             <div className={styles.badge}>
                                 <div className={`d-flex align-items-center ${styles.clientRviews}`}>
                                     <div className={styles.clients}>
-                                        <Image src={badgeClient} alt='Bitswits' width={183} height={80} />
+                                        <Image src={badgeClient} alt='Appsters' width={183} height={80} />
                                     </div>
                                     <div>
                                         <div className={styles.reviews}>
-                                            <Image src={Star} alt='Bitswits' width={25} height={22} />
-                                            <Image src={Star} alt='Bitswits' width={25} height={22} />
-                                            <Image src={Star} alt='Bitswits' width={25} height={22} />
-                                            <Image src={Star} alt='Bitswits' width={25} height={22} />
-                                            <Image src={Star} alt='Bitswits' width={25} height={22} />
+                                            <Image src={Star} alt='Appsters' width={25} height={22} />
+                                            <Image src={Star} alt='Appsters' width={25} height={22} />
+                                            <Image src={Star} alt='Appsters' width={25} height={22} />
+                                            <Image src={Star} alt='Appsters' width={25} height={22} />
+                                            <Image src={Star} alt='Appsters' width={25} height={22} />
                                         </div>
                                         <p className='mb-0'>
                                             <strong>4.8 out of 5</strong> (review rating)
@@ -216,10 +216,10 @@ const Banner = ({ content }) => {
                                 </div>
                                 <div className='d-flex align-items-center justify-content-between gap-4 gap-xxl-5'>
                                     <div className={styles.partnersImage}>
-                                        <Image src={Clutch} alt='Bitswits' width={127} height={60} />
+                                        <Image src={Clutch} alt='Appsters' width={127} height={60} />
                                     </div>
                                     <div className={styles.partnersImage}>
-                                        <Image src={Partner} alt='Bitswits' width={127} height={56} />
+                                        <Image src={Partner} alt='Appsters' width={127} height={56} />
                                     </div>
                                 </div>
                             </div>
@@ -236,7 +236,7 @@ const Banner = ({ content }) => {
                                     <input className={styles.vehicle1} type='checkbox' name='vehicle1' checked={checkboxes.includes('Share Non Disclosure Agreement')} onChange={handleOptionChange3} value='Share Non Disclosure Agreement' />
                                     <label className='form-check-label' htmlFor='flexCheckDefault'>Sign Non-Disclosure Agreement </label>
                                     <button className={`pink ${styles.value} mt-4 mt-sm-0 blackPulse bitsForm`} type='submit' disabled={isDisabled}>
-                                        <Image src={formImg} className='img-fluid' alt='BitsWits' />
+                                        <Image src={formImg} className='img-fluid' alt='Appsters' />
                                         {score}
                                     </button>
                                 </div>

@@ -70,17 +70,17 @@ const NewDubaiAwards = ({ content }) => {
                                 </div>
                                 <div className={`${styles.trustPilot} mt-5 mt-md-0`}>
                                     <div className='image'>
-                                        <Image sizes="100vw" loading='lazy' src={ClientTwo} alt='Bitswits' width={101} height={28} />
+                                        <Image sizes="100vw" loading='lazy' src={ClientTwo} alt='Appsters' width={101} height={28} />
                                     </div>
                                     <div>
                                         <div className='txt d-flex align-items-center'>
                                             <p className='mb-0 me-2'>4.9 / <span>5.0</span></p>
                                             <div className='d-md-none d-lg-flex align-items-center'>
-                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Bitswits' width={13} height={13} />
-                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Bitswits' width={13} height={13} />
-                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Bitswits' width={13} height={13} />
-                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Bitswits' width={13} height={13} />
-                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Bitswits' width={13} height={13} />
+                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Appsters' width={13} height={13} />
+                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Appsters' width={13} height={13} />
+                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Appsters' width={13} height={13} />
+                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Appsters' width={13} height={13} />
+                                                <Image sizes="100vw" loading='lazy' src={Star} alt='Appsters' width={13} height={13} />
                                             </div>
                                         </div>
                                         <p className={`${styles.clientsPara} fontsfregular`}>based on 40+ clients</p>

@@ -12,9 +12,9 @@ const CaseBanner = (props) => {
                     <Row>
                         <Col lg={12}>
                             <div className={styles.banSec}>
-                                <Image quality={90} src={props.banLogo} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.banLogo} alt="Appsters" className={`img-fluid`} />
                                 <h1>{props.title}</h1>
-                                <Image quality={90} src={props.banImg} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.banImg} alt="Appsters" className={`img-fluid`} />
                             </div>
                         </Col>
                     </Row>

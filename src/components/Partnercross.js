@@ -31,7 +31,7 @@ const Partnercross = () => {
                     <Col lg={12}>
                         <h2 className="f-50 f-playfair f-700 newfycolr t-center">Technologies We Use</h2>
                         <p className='font16 f-montserrat white mb-3 mb-sm-5 t-center'>
-                            BitsWits turns inventive ideas into groundbreaking mobile apps! Our award-winning app developers <br></br> know hybrid and native technologies, so your project is in good hands. With us, your project will be a success from start to finish!
+                            Appsters turns inventive ideas into groundbreaking mobile apps! Our award-winning app developers <br></br> know hybrid and native technologies, so your project is in good hands. With us, your project will be a success from start to finish!
                         </p>
                     </Col>
                 </Row>
@@ -43,7 +43,7 @@ const Partnercross = () => {
                                 <h3 className="white f-30 f-playfair f-700 mb-3">Hybrid App Development </h3>
 
                                 <p className="f-16 white f-500 f-montserrat mb-4 ">
-                                    BitsWits take pride in developing hybrid apps that are visually stunning and perform exceptionally well. Our team of skilled hybrid app developers leverage the latest technologies to create fast, secure, and user-friendly apps, ensuring your business stays ahead of the curve with:
+                                    Appsters take pride in developing hybrid apps that are visually stunning and perform exceptionally well. Our team of skilled hybrid app developers leverage the latest technologies to create fast, secure, and user-friendly apps, ensuring your business stays ahead of the curve with:
                                 </p>
 
                                 <ul className='p-0'>
@@ -53,7 +53,7 @@ const Partnercross = () => {
                                     <li className="f-14 white f-500 f-montserrat">4. Cost-Effective Single Codebase Solution.</li>
                                 </ul>
 
-                                <Image quality={75} alt='BitsWits' src={hybird} className='img-fluid mt-2 mb-5' />
+                                <Image quality={75} alt='Appsters' src={hybird} className='img-fluid mt-2 mb-5' />
 
                                 <a href='javascript:window.replaceChat();' className={styles.arrowBtn}>
                                     <span className="f-poppins f-600 f-capitalize">LET'S CONNECT</span>
@@ -67,7 +67,7 @@ const Partnercross = () => {
                                 <h3 className="white f-30 f-playfair f-700 mb-3">Native App Development </h3>
 
                                 <p className="f-16 white f-500 f-montserrat mb-4 ">
-                                    BitsWits specializes in creating native applications that provide users with the best experience. With our native app developers, we deeply understand the most popular operating systems and programming languages to ensure that any app developed with us will have professional performance. Our key focus includes:
+                                    Appsters specializes in creating native applications that provide users with the best experience. With our native app developers, we deeply understand the most popular operating systems and programming languages to ensure that any app developed with us will have professional performance. Our key focus includes:
                                 </p>
 
                                 <ul className='p-0'>
@@ -77,7 +77,7 @@ const Partnercross = () => {
                                     <li className="f-14 white f-500 f-montserrat">4. Robust & Adaptable Mobile Application.</li>
                                 </ul>
 
-                                <Image quality={75} alt='BitsWits' src={native} className='img-fluid mt-2 mb-5' />
+                                <Image quality={75} alt='Appsters' src={native} className='img-fluid mt-2 mb-5' />
                                 <a href='javascript:window.replaceChat();' className={styles.arrowBtn}>
                                     <span className="f-poppins f-600 f-capitalize">LET'S CONNECT</span>
 
@@ -92,9 +92,9 @@ const Partnercross = () => {
                     <Slider {...prtnrSlider}>
                         <div className={styles.rightpadding}>
                             <h3 className="white f-30 f-playfair f-700 mb-3">Hybrid App Development </h3>
-                            <Image quality={75} alt='BitsWits' src={hybird} className='img-fluid mt-2 mb-5' />
+                            <Image quality={75} alt='Appsters' src={hybird} className='img-fluid mt-2 mb-5' />
                             <p className="f-16 white f-500 f-montserrat mb-4 ">
-                                BitsWits take pride in developing hybrid apps that are visually stunning and perform exceptionally well. Our team of skilled hybrid app developers leverages the latest technologies to create fast, secure, and user-friendly apps, ensuring your business stays ahead of the curve with:
+                                Appsters take pride in developing hybrid apps that are visually stunning and perform exceptionally well. Our team of skilled hybrid app developers leverages the latest technologies to create fast, secure, and user-friendly apps, ensuring your business stays ahead of the curve with:
                             </p>
 
                             <ul className='p-0'>
@@ -112,9 +112,9 @@ const Partnercross = () => {
                         </div>
                         <div className={styles.leftpadding}>
                             <h3 className="white f-30 f-playfair f-700 mb-3">Native App Development </h3>
-                            <Image quality={75} alt='BitsWits' src={native} className='img-fluid mt-2 mb-5' />
+                            <Image quality={75} alt='Appsters' src={native} className='img-fluid mt-2 mb-5' />
                             <p className="f-16 white f-500 f-montserrat mb-4 ">
-                                BitsWits specializes in creating native applications that provide users with the best experience. With our native app developers, we deeply understand the most popular operating systems and programming languages to ensure that any app developed with us will have professional performance. Our key focus includes:
+                                Appsters specializes in creating native applications that provide users with the best experience. With our native app developers, we deeply understand the most popular operating systems and programming languages to ensure that any app developed with us will have professional performance. Our key focus includes:
                             </p>
 
                             <ul className='p-0'>

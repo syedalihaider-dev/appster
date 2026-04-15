@@ -47,7 +47,7 @@ export default function mobileApplication() {
         title={
           <>
             <h4 className="font20 font-bold text-white text-center">
-              Why BitsWits?
+              Why Appsters?
             </h4>
           </>
         }
@@ -58,7 +58,7 @@ export default function mobileApplication() {
             </h2>
           </>
         }
-        sub1="Why Choose BitsWits for Building Mobile Applications?"
+        sub1="Why Choose Appsters for Building Mobile Applications?"
         sub2="Building your mobile app acts like a technological asset that improves the services of your business, attracting more customers, boosting its success, and letting you shape its trajectory."
         whyData={[
           {
@@ -162,10 +162,10 @@ export default function mobileApplication() {
             ),
           },
           {
-            question: "Does BitsWits offer hybrid and native app development?",
+            question: "Does Appsters offer hybrid and native app development?",
             answer: (
               <>
-                BitsWits has a team of the best mobile app developers expert in
+                Appsters has a team of the best mobile app developers expert in
                 providing customized development solutions, whether Hybrid or
                 Native mobile application development is required. Our
                 developers always come up with creative and innovative app ideas
@@ -175,10 +175,10 @@ export default function mobileApplication() {
           },
           {
             question:
-              "Why choose BitsWits as a mobile app development company?",
+              "Why choose Appsters as a mobile app development company?",
             answer: (
               <>
-                BitsWits is a top mobile app development company due to its
+                Appsters is a top mobile app development company due to its
                 decent clientele, commitment to excellence, and innovative
                 mobile app development solutions. We enjoy the top spot in the
                 application development industry with affordable packages and
@@ -190,7 +190,7 @@ export default function mobileApplication() {
             question: "Is there any customer support available?",
             answer: (
               <>
-                Yes, BitsWits offers 24/7 incredible customer support, even
+                Yes, Appsters offers 24/7 incredible customer support, even
                 post-mobile apps development USA. We do not let our customers
                 hang in the middle with any query that may bring trouble to
                 them.
@@ -203,7 +203,7 @@ export default function mobileApplication() {
               <>
                 Checking client portfolios, communicating your requirements
                 clearly, and considering the development cost will help you
-                choose the best mobile app development agency. BitsWits
+                choose the best mobile app development agency. Appsters
                 practices open communication so that the solution to your query
                 is answered adequately to provide you with the utmost
                 satisfaction.
@@ -211,10 +211,10 @@ export default function mobileApplication() {
             ),
           },
           {
-            question: "What industries does BitsWits cater to?",
+            question: "What industries does Appsters cater to?",
             answer: (
               <>
-                At BitsWits, we specialize in developing innovative and
+                At Appsters, we specialize in developing innovative and
                 efficient mobile applications for various industries across the
                 United States. We offer customized mobile solutions from
                 e-commerce to healthcare and gaming to meet each client's

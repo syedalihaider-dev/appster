@@ -63,7 +63,7 @@ const EstimatedCost = () => {
                                     </div>
                                 </div>
                                 <div className={styles.cardImage}>
-                                    <Image src={CardMobile} alt='Bitswits' className='img-fluid' />
+                                    <Image src={CardMobile} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                         </div>

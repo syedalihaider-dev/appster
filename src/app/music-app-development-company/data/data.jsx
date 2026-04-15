@@ -113,7 +113,7 @@ export const BannerData = {
 
 export const IndustryServiceContent = {
     title: "Music App Development Services We Offer",
-    text: "Whether you’re an entrepreneur or a business owner, we’re here to help you design next-gen music app. Groove to the musical experience of the future with BitsWits next-gen music application development.",
+    text: "Whether you’re an entrepreneur or a business owner, we’re here to help you design next-gen music app. Groove to the musical experience of the future with Appsters next-gen music application development.",
 }
 
 export const IndustryServiceList = [
@@ -127,7 +127,7 @@ export const IndustryServiceList = [
     },
     {
         title: (<>Custom Music Streaming <br />App Development</>),
-        txt: "BitsWits as a music app development company hinges over client satisfaction, and promises to deliver it via custom music streaming solutions.",
+        txt: "Appsters as a music app development company hinges over client satisfaction, and promises to deliver it via custom music streaming solutions.",
     },
     {
         title: (<>Live Music Streaming <br />App Development</>),
@@ -146,12 +146,12 @@ export const IndustryServiceList = [
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
     title: "Time to Build an Amazing Music App",
-    text: "BitsWits offers swift development for music streaming apps. Share your vision, and our team of talented developers will help you carry it to its ultimate destination.",
+    text: "Appsters offers swift development for music streaming apps. Share your vision, and our team of talented developers will help you carry it to its ultimate destination.",
 }
 
 export const IndustrySliderContent = {
     title: "Music Streaming Platforms for Fans and Artists",
-    text: "BitsWits is here to provide exceptional value with its music streaming software development for both fans and artists. Whether you want to create an app for rockstar bands, or simply launch a platform to reel in millions of music lovers for uninterrupted streaming and virtual concerts, we’ve got you covered. ",
+    text: "Appsters is here to provide exceptional value with its music streaming software development for both fans and artists. Whether you want to create an app for rockstar bands, or simply launch a platform to reel in millions of music lovers for uninterrupted streaming and virtual concerts, we’ve got you covered. ",
 }
 
 export const IndustrySliderList = [
@@ -163,7 +163,7 @@ export const IndustrySliderList = [
     {
         img: IndustrySliderIMG02,
         title: "Buffer-FREE Audio Streaming",
-        txt: "BitsWits as a music app development company ensures that our music applications feature the best quality of hardware and software, enabling users to stream music audio buffer-free. It makes up for a perfect streaming experience.",
+        txt: "Appsters as a music app development company ensures that our music applications feature the best quality of hardware and software, enabling users to stream music audio buffer-free. It makes up for a perfect streaming experience.",
     },
     {
         img: IndustrySliderIMG03,
@@ -199,7 +199,7 @@ export const ExpertiseList1 = [
     },
     {
         title: "Seamless Integration with Socials",
-        txt: "Let your users share their favorite music with peers, friends and family across social platforms. BitsWits builds music apps with seamless integration for social posting, and shares.",
+        txt: "Let your users share their favorite music with peers, friends and family across social platforms. Appsters builds music apps with seamless integration for social posting, and shares.",
     },
     {
         title: "Advanced Search Engine",
@@ -342,8 +342,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a music app development firm that pioneers in building custom, next-gen music streaming solutions for millions of users."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a music app development firm that pioneers in building custom, next-gen music streaming solutions for millions of users."
 }
 
 export const WhyChooseList1 = [
@@ -374,7 +374,7 @@ export const WhyChooseList2 = [
 
 export const OffersContent = {
     title: "Music Streaming App Development Solutions",
-    text: (<>BitsWits offers an exciting range of top-tier<Link href='/mobile-application-development-services'>mobile app development services</Link>tailored for music streaming. We build diverse solutions to meet your unique goals, ensuring they align with the need for cross-platform development and seamless support.</>),
+    text: (<>Appsters offers an exciting range of top-tier<Link href='/mobile-application-development-services'>mobile app development services</Link>tailored for music streaming. We build diverse solutions to meet your unique goals, ensuring they align with the need for cross-platform development and seamless support.</>),
 }
 
 export const OffersTabs = [
@@ -382,7 +382,7 @@ export const OffersTabs = [
         title: "Streaming Apps",
         content: {
             heading: "Streaming Apps",
-            description: (<>We pioneer in building high-end music streaming apps, equipping you with the expertise and support needed to enter the highly profitable streaming market. At BitsWits, we draw inspiration from the<Link href='/blog/free-offline-music-apps'>best music apps </Link> to build feature-rich applications using the most in-demand tech stack at an affordable cost. Launch your own music streaming app today and stay ahead of the competition.</>),
+            description: (<>We pioneer in building high-end music streaming apps, equipping you with the expertise and support needed to enter the highly profitable streaming market. At Appsters, we draw inspiration from the<Link href='/blog/free-offline-music-apps'>best music apps </Link> to build feature-rich applications using the most in-demand tech stack at an affordable cost. Launch your own music streaming app today and stay ahead of the competition.</>),
         },
     },
     {
@@ -403,7 +403,7 @@ export const OffersTabs = [
         title: "Music Mastery Apps",
         content: {
             heading: "Music Mastery Apps",
-            description: "There’s a massive audience of music lovers, and people who want to learn music. BitsWits as your music app development company empowers you to reel in those users by offering music mastery app. Provide users with lessons to play their favorite instruments, and connect with top talent from the industry to pass on the bliss of music mastery.",
+            description: "There’s a massive audience of music lovers, and people who want to learn music. Appsters as your music app development company empowers you to reel in those users by offering music mastery app. Provide users with lessons to play their favorite instruments, and connect with top talent from the industry to pass on the bliss of music mastery.",
         },
     },
     {
@@ -417,7 +417,7 @@ export const OffersTabs = [
 
 export const FuelingContent1 = {
     title: "Benefits of Custom Music Mobile App Development",
-    text: "BitsWits is known for building highly optimized custom music app solutions. Our music application development services have been touted for building robust solutions that have made millions for our respective clients.",
+    text: "Appsters is known for building highly optimized custom music app solutions. Our music application development services have been touted for building robust solutions that have made millions for our respective clients.",
     FuelingImg1: FuelingImg1
 }
 
@@ -463,26 +463,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -491,9 +491,9 @@ export const TestimonialSLIDES = [
 
 export const FuelingContent2 = {
     title: "Top-Tier Technologies for Music App Development",
-    text: "BitsWits utilizes a range of advanced technologies including cloud computing, blockchain, AI, IoT, Sound recognition features, and even intelligent gamification for our top-notch music streaming applications.",
+    text: "Appsters utilizes a range of advanced technologies including cloud computing, blockchain, AI, IoT, Sound recognition features, and even intelligent gamification for our top-notch music streaming applications.",
     subtitle: "Launch a Music Streaming App Today to Rake in Millions for Your Business Tomorrow",
-    subtext: "Build a blockbuster music streaming app to serve millions of music lovers around the globe with your partner, BitsWits.",
+    subtext: "Build a blockbuster music streaming app to serve millions of music lovers around the globe with your partner, Appsters.",
     FuelingImg: FuelingImg,
     FuelingImg1: FuelingImg1
 }
@@ -703,7 +703,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -776,15 +776,15 @@ export const FaqsList = [
     },
     {
         title: "How will you ensure the security of my music app?",
-        txt: "At BitsWits we build solid music app development solutions using robust security mechanisms. We use HTTPS for secure and safe data transmission, conduct regular code and security audits for sensitive data, and performance. Plus, we’re continuously testing layers of security for user authentication, storage and data transmission."
+        txt: "At Appsters we build solid music app development solutions using robust security mechanisms. We use HTTPS for secure and safe data transmission, conduct regular code and security audits for sensitive data, and performance. Plus, we’re continuously testing layers of security for user authentication, storage and data transmission."
     },
     {
         title: "How can I track the progress of my music streaming app development project?",
         txt: "We as your music streaming app development company ensure to maintain transparency in all our interactions. You are kept at the center of all dealings, and are updated on the progress of your music app project through periodic meetings with project managers. You can also reach out to the project team voluntarily to get status updates."
     },
     {
-        title: "Why should I choose BitsWits for my music streaming app project?",
-        txt: "BitsWits is a renowned music mobile app development company. Having completed 100+ projects in the app development domain, we’ve secured 4.5+ ratings across platforms like Clutch, Trust Pilot and others. This is what makes us a top choice among brands in the music industry."
+        title: "Why should I choose Appsters for my music streaming app project?",
+        txt: "Appsters is a renowned music mobile app development company. Having completed 100+ projects in the app development domain, we’ve secured 4.5+ ratings across platforms like Clutch, Trust Pilot and others. This is what makes us a top choice among brands in the music industry."
     },
 ];
 
@@ -798,14 +798,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02.src,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -813,7 +813,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03.src,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

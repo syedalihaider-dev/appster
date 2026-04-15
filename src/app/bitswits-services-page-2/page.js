@@ -108,7 +108,7 @@ const page = () => {
                         answer: "Development time varies by app intricacy and features. A simple application can take around 6 months to launch while a complex app with two or multiple interfaces can take 9-12 months."
                     },
                     {
-                        question: "04.   What is a mobile app support service, and does BitsWits offer it?",
+                        question: "04.   What is a mobile app support service, and does Appsters offer it?",
                         answer: "Yes, our hybrid app development services have excelled in creating apps that function on iOS and Android platforms. They often employ frameworks like Flutter and React Native to ensure optimum functionality and visual appeal."
                     }
                 ]}

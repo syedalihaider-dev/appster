@@ -13,15 +13,15 @@ import icon11 from '/public/newHomePageImages/done.png'
 const appFeatures = [
     {
         title: 'Innovation',
-        description: 'Our top app developers at BitsWits, focus on pushing boundaries and thinking outside the box to create amazing mobile applications that meet the user requirements. We are always looking for new ideas and technology to stay ahead of the competition.',
+        description: 'Our top app developers at Appsters, focus on pushing boundaries and thinking outside the box to create amazing mobile applications that meet the user requirements. We are always looking for new ideas and technology to stay ahead of the competition.',
     },
     {
         title: 'Quick Collaboration',
-        description: 'At BitsWits, top mobile app development services are offered with the help of teamwork and collaboration. Our professionals work closely with their clients throughout the development process while constantly seeking their feedback and input.',
+        description: 'At Appsters, top mobile app development services are offered with the help of teamwork and collaboration. Our professionals work closely with their clients throughout the development process while constantly seeking their feedback and input.',
     },
     {
         title: 'Dealing with Challenges',
-        description: 'At BitsWits, problems and complications aren’t problems but opportunities to grow and learn. Our mobile app development company and its team understand what failure is. We tend to find innovative solutions and deliver positive outcomes when dealing with any issue.',
+        description: 'At Appsters, problems and complications aren’t problems but opportunities to grow and learn. Our mobile app development company and its team understand what failure is. We tend to find innovative solutions and deliver positive outcomes when dealing with any issue.',
     },
     {
         title: 'Reliability and Security',
@@ -67,7 +67,7 @@ export default function AboutExpertapp(props) {
                     <Row className='align-items-center gy-4 gy-lg-0'>
                         <Col lg={12} >
                             <h3 className='white f-30 f-700 center'>Services</h3>
-                            <h2 className='white font50 f-700 center'>BitsWits: The Core Values!</h2>
+                            <h2 className='white font50 f-700 center'>Appsters: The Core Values!</h2>
                         </Col>
 
                         <Col xl={8}>
@@ -102,7 +102,7 @@ export default function AboutExpertapp(props) {
 
                         <Col xl={4}>
                             <div className={styles.tested1}>
-                                <Image quality={75} className='img-fluid w-75 mx-auto' src={icon11} alt='BitsWits' />
+                                <Image quality={75} className='img-fluid w-75 mx-auto' src={icon11} alt='Appsters' />
                             </div>
                         </Col>
 

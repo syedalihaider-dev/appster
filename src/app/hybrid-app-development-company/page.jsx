@@ -153,13 +153,13 @@ export default function Page() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://www.bitswits.co/",
+                item: "https://www.Appsters.co/",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Hybrid App Development Company",
-                item: "https://www.bitswits.co/hybrid-app-development-company",
+                item: "https://www.Appsters.co/hybrid-app-development-company",
               },
             ],
           }),
@@ -172,8 +172,8 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Hybrid App Development Company - BitsWits",
-            url: "https://www.bitswits.co/hybrid-app-development-company",
+            name: "Hybrid App Development Company - Appsters",
+            url: "https://www.Appsters.co/hybrid-app-development-company",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -189,10 +189,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Organization",
-            name: "Hybrid App Development Company - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/hybrid-app-development-company",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            name: "Hybrid App Development Company - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/hybrid-app-development-company",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+1 833 500-6007",
@@ -201,11 +201,11 @@ export default function Page() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -217,10 +217,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "LocalBusiness",
-            name: "Hybrid App Development Company - BitsWits",
+            name: "Hybrid App Development Company - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            url: "https://www.bitswits.co/hybrid-app-development-company",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            url: "https://www.Appsters.co/hybrid-app-development-company",
             telephone: "833 500-6007",
             address: {
               "@type": "PostalAddress",
@@ -249,11 +249,11 @@ export default function Page() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -265,15 +265,15 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Hybrid App Development Company - BitsWits",
+            name: "Hybrid App Development Company - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            url: "https://www.bitswits.co/hybrid-app-development-company",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            url: "https://www.Appsters.co/hybrid-app-development-company",
             description:
-              "Partner with a leading hybrid app development company like BitsWits to streamline operations for startups and SMEs with cost-effective mobile solutions!",
+              "Partner with a leading hybrid app development company like Appsters to streamline operations for startups and SMEs with cost-effective mobile solutions!",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             review: {
               "@type": "Review",
@@ -285,7 +285,7 @@ export default function Page() {
               author: {
                 "@type": "Organization",
                 name: "Clutch",
-                url: "https://clutch.co/profile/bitswits",
+                url: "https://clutch.co/profile/Appsters",
               },
             },
           }),

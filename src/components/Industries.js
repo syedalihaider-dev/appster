@@ -199,7 +199,7 @@ const Industries = ({ rtl }) => {
                   src={backgroundImage || sliderImages[0]}
                   width={1532}
                   height={842}
-                  alt='Bitswits'
+                  alt='Appsters'
                   loading='lazy'
                   sizes='100vw'
                 />
@@ -232,7 +232,7 @@ const Industries = ({ rtl }) => {
                           <span>
                             <Image
                               src={SliderArrow}
-                              alt='Bitswits'
+                              alt='Appsters'
                               loading='lazy'
                               sizes='100vw'
                               width={17}

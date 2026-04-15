@@ -212,7 +212,7 @@ export default function dubaidevelopmentcompany() {
     {
       para: (
         <>
-          BitsWits, as a premier app development company in Dallas offers custom
+          Appsters, as a premier app development company in Dallas offers custom
           solutions for every budget.{" "}
         </>
       ),
@@ -415,7 +415,7 @@ export default function dubaidevelopmentcompany() {
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -489,8 +489,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Mobile App Development Company in Dallas - BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-dallas",
+            name: "Mobile App Development Company in Dallas - Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-dallas",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -506,10 +506,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Mobile App Development Company in Dallas - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/mobile-app-development-company-dallas",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Mobile App Development Company in Dallas - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/mobile-app-development-company-dallas",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+18335006007",
@@ -518,11 +518,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -534,10 +534,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Mobile App Development Company in Dallas - BitsWits",
+            name: "Mobile App Development Company in Dallas - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
-            url: "https://www.bitswits.co/mobile-app-development-company-dallas",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
+            url: "https://www.Appsters.co/mobile-app-development-company-dallas",
             telephone: "+18335006007",
             priceRange: "$10000",
             address: {
@@ -567,11 +567,11 @@ export default function dubaidevelopmentcompany() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -583,14 +583,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Mobile App Development Company in Dallas - BitsWits",
+            name: "Mobile App Development Company in Dallas - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
             description:
               "Trust our leading mobile app development company in Dallas to deliver expert solutions meeting your business needs with top-notch app development services.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

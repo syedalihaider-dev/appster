@@ -217,8 +217,8 @@ export const IndustryServiceList = [
 
 export const IndustryCtaContent = {
   image: IndustryCtaImg,
-  title: "Build the Next Uber with BitsWits!",
-  text: "From booking accuracy to real-time tracking, BitsWits delivers taxi apps that optimize your operations and customer experiences.",
+  title: "Build the Next Uber with Appsters!",
+  text: "From booking accuracy to real-time tracking, Appsters delivers taxi apps that optimize your operations and customer experiences.",
 }
 
 export const IndustrySliderContent = {
@@ -240,7 +240,7 @@ export const IndustrySliderList = [
   {
     img: IndustrySliderIMG01,
     title: "Ride-Hailing/Ride-Sharing App",
-    txt: "BitsWits delivers ride-hailing and ride-sharing app solutions built like Uber. As a leading ride sharing app development company, we design apps to optimize ride requests, enhance passenger-driver interactions, and improve service efficiency in the competitive on-demand market.",
+    txt: "Appsters delivers ride-hailing and ride-sharing app solutions built like Uber. As a leading ride sharing app development company, we design apps to optimize ride requests, enhance passenger-driver interactions, and improve service efficiency in the competitive on-demand market.",
   },
   {
     img: IndustrySliderIMG02.src,
@@ -275,7 +275,7 @@ export const IndustrySliderList = [
   {
     img: IndustrySliderIMG08.src,
     title: "Hotel and Tourism Taxi App",
-    txt: "BitsWits offers hotel and tourism taxi app solutions that simplify transportation for travelers. Guests can easily book rides, making their travel experience smoother with instant access to transportation services.",
+    txt: "Appsters offers hotel and tourism taxi app solutions that simplify transportation for travelers. Guests can easily book rides, making their travel experience smoother with instant access to transportation services.",
   },
   {
     img: IndustrySliderIMG09.src,
@@ -478,8 +478,8 @@ export const ProcessTabs = [
 ]
 
 export const WhyChooseContent = {
-  title: "Why Partner with BitsWits for Your Taxi Booking App?",
-  text: "BitsWits is a leading taxi booking app development company that specializes in delivering innovative, scalable solutions built to meet the needs of modern transportation businesses.",
+  title: "Why Partner with Appsters for Your Taxi Booking App?",
+  text: "Appsters is a leading taxi booking app development company that specializes in delivering innovative, scalable solutions built to meet the needs of modern transportation businesses.",
 }
 
 export const WhyChooseList1 = [
@@ -998,7 +998,7 @@ export const BlogsList = [
     txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
     cat: "Mobile App Development",
     img: BlogsIMG01,
-    links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+    links: "https://www.Appsters.co/blog/mobile-app-development-cost",
     date: "August 29,2024",
   },
   {
@@ -1006,7 +1006,7 @@ export const BlogsList = [
     txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
     cat: "Mobile App Development",
     img: BlogsIMG02.src,
-    links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+    links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
     date: "August 13,2024",
   },
   {
@@ -1015,7 +1015,7 @@ export const BlogsList = [
     txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
     cat: "Mobile App Development",
     img: BlogsIMG03.src,
-    links: "https://www.bitswits.co/blog/application-development-life-cycle",
+    links: "https://www.Appsters.co/blog/application-development-life-cycle",
     date: "July 10,2024",
   },
 ]

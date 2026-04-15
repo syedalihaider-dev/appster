@@ -32,19 +32,19 @@ const Justbuildit = () => {
             <section className={router == '/mobile-application-duplicate' ? styles.slide1 : styles.slide}>
                 <Slider {...bannerslider} className='mt-5'>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={banImg1} className="img-fluid" />
+                        <Image alt="Appsters" src={banImg1} className="img-fluid" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={banImg2} className="img-fluid" />
+                        <Image alt="Appsters" src={banImg2} className="img-fluid" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={banImg3} className="img-fluid" />
+                        <Image alt="Appsters" src={banImg3} className="img-fluid" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={banImg4} className="img-fluid" />
+                        <Image alt="Appsters" src={banImg4} className="img-fluid" />
                     </div>
                     <div className={styles.strpImg}>
-                        <Image alt="BitsWits" src={banImg5} className="img-fluid" />
+                        <Image alt="Appsters" src={banImg5} className="img-fluid" />
                     </div>
                 </Slider>
             </section>

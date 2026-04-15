@@ -46,7 +46,7 @@ const Capabilitiesnft = () => {
                             <div className={styles.build}>
                                 <div>
                                     <h2>Creating Digital Magic: Tap Into the <br></br> Power of On-Demand NFT Game <br></br> Development</h2>
-                                    <p className='white'>BitsWits combine the power of blockchain technology with digital gaming to create innovative and captivating experiences. We uphold the mission of bringing a new kind of entertainment to the world—one that is safe, secure, and exciting! Whether NFT games for mobile, PC, and console platforms, our games feature dynamic gameplay, stunning graphics, and immersive storylines that captivate players. With cutting-edge technology and unbeatable artistry, we are transforming gaming into an entirely new experience.</p>
+                                    <p className='white'>Appsters combine the power of blockchain technology with digital gaming to create innovative and captivating experiences. We uphold the mission of bringing a new kind of entertainment to the world—one that is safe, secure, and exciting! Whether NFT games for mobile, PC, and console platforms, our games feature dynamic gameplay, stunning graphics, and immersive storylines that captivate players. With cutting-edge technology and unbeatable artistry, we are transforming gaming into an entirely new experience.</p>
                                 </div>
                                 <a className={styles.about} href='javascript:window.replaceChat();'>LET'S CONNECT</a>
                             </div>
@@ -74,7 +74,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon1} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon1} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -86,7 +86,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon2} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon2} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -98,7 +98,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon3} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon3} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -110,7 +110,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon4} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon4} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -124,7 +124,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon5} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon5} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -136,7 +136,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon6} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon6} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -148,7 +148,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon7} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon7} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -160,7 +160,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon8} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon8} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 
@@ -172,7 +172,7 @@ const Capabilitiesnft = () => {
                                 <Row>
                                     <Col xl={12}>
                                         <div>
-                                            <Image quality={75} src={icon9} alt='BitsWits' className='img-fluid' width={1000} height={1000} />
+                                            <Image quality={75} src={icon9} alt='Appsters' className='img-fluid' width={1000} height={1000} />
                                         </div>
                                     </Col>
 

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Axios from "axios";
-import styles from "@/styles/Bitswitspopup.module.css";
+import styles from "@/styles/Appsterspopup.module.css";
 import { usePathname } from "next/navigation";
 
 const Freequote = (props) => {
@@ -75,7 +75,7 @@ const Freequote = (props) => {
     };
     let bodyContent = JSON.stringify({
       IP: `${ip.ip} - ${ip.city} - ${ip.country}`,
-      Brand: "Bitswits",
+      Brand: "Appsters",
       Page: `${currentRoute}`,
       Date: currentdate,
       Time: currentdate,

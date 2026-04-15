@@ -172,7 +172,7 @@ export default function gamedevelopmentcompany() {
         }
         text={
           <>
-            BitsWits specializes in creating NFT games using smart contracts on
+            Appsters specializes in creating NFT games using smart contracts on
             Ethereum, EOS, Tron, and Cardano. <br /> Our team spends countless
             hours crafting unique storylines, artwork, and game mechanics that
             bring <br /> the world of NFTs to life.
@@ -354,7 +354,7 @@ export default function gamedevelopmentcompany() {
         sections={[
           {
             title: <> NFT Game <br /> Concept Design </>,
-            text: "We specialize in crafting engaging and entertaining NFT experiences through our unique approach to concept design and game mechanics. BitsWits is simply bridging the gap between concept and reality.",
+            text: "We specialize in crafting engaging and entertaining NFT experiences through our unique approach to concept design and game mechanics. Appsters is simply bridging the gap between concept and reality.",
             gameicon: gameicon1,
           },
           {
@@ -375,7 +375,7 @@ export default function gamedevelopmentcompany() {
         subTitle="Hire Developers"
         title={
           <>
-            Ready to Unleash Your NFT Gaming <br /> Potential? Choose BitsWits!
+            Ready to Unleash Your NFT Gaming <br /> Potential? Choose Appsters!
           </>
         }
         main={main}
@@ -473,7 +473,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "NFT Game Development Company",
-            "url": " https://www.bitswits.co/nft-game-development",
+            "url": " https://www.Appsters.co/nft-game-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -487,15 +487,15 @@ export default function gamedevelopmentcompany() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": " https://www.bitswits.co/nft-game-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": " https://www.Appsters.co/nft-game-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
            }                                                                                                               
         `}
@@ -506,8 +506,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "NFT Game Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnft.c8607501.png&w=1080&q=75",
-            "url": "https://www.bitswits.co/nft-game-development",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnft.c8607501.png&w=1080&q=75",
+            "url": "https://www.Appsters.co/nft-game-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -535,11 +535,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
            }                                                                                         
         `}
@@ -550,11 +550,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "NFT Game Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnft.c8607501.png&w=1080&q=75",
-            "description": "BitsWits specializes in creating NFT games using smart contracts on Ethereum, EOS, Tron, and Cardano. Our team spends countless hours crafting unique storylines, artwork, and game mechanics that bring the world of NFTs to life.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnft.c8607501.png&w=1080&q=75",
+            "description": "Appsters specializes in creating NFT games using smart contracts on Ethereum, EOS, Tron, and Cardano. Our team spends countless hours crafting unique storylines, artwork, and game mechanics that bring the world of NFTs to life.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

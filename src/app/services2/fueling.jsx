@@ -16,10 +16,10 @@ const Fueling = () => {
                             <div className={styles.fuelingBox}>
                                 <div className={styles.boxContent}>
                                     <h5>Reduce Risk and Validate Your Idea With a Fast MVP Launch!</h5>
-                                    <p>BitsWits takes a hands-on approach to guide your project, providing expertise and support at every stage!</p>
+                                    <p>Appsters takes a hands-on approach to guide your project, providing expertise and support at every stage!</p>
                                 </div>
                                 <div className={styles.boxImg}>
-                                    <Image src={IMG.src} alt="Bitswits Services" width={350} height={290} />
+                                    <Image src={IMG.src} alt="Appsters Services" width={350} height={290} />
                                 </div>
                             </div>
                             <CtaCommon
@@ -44,7 +44,7 @@ const Fueling = () => {
                             </div>
                             <div className={styles.sicktyItem}>
                                 <h5>Multi-device Synchronization</h5>
-                                <p>Hire mobile app developers from BitsWits to implement multi-device synchronization, allowing users to access data and continue activities seamlessly across devices. This approach enhances user convenience and engagement by providing a consistent experience across all platforms.</p>
+                                <p>Hire mobile app developers from Appsters to implement multi-device synchronization, allowing users to access data and continue activities seamlessly across devices. This approach enhances user convenience and engagement by providing a consistent experience across all platforms.</p>
                             </div>
                             <div className={styles.sicktyItem}>
                                 <h5>Chatbots</h5>

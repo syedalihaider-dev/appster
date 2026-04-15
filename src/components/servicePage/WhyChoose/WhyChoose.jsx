@@ -35,8 +35,8 @@ const WhyChoose = () => {
                 <Row className='align-items-center'>
                     <Col lg={5}>
                         <div className="txt">
-                            <h2 className='font-bold text-black manrope mb-md-3'>Why<span className='newfycolr'> Choose</span> BitsWits?</h2>
-                            <p className='font16 text-black font-medium manrope mb-3'>Our comprehensive project management ensures high quality, transparency, and scalability. Here’s why you should choose BitsWits for your game development needs:</p>
+                            <h2 className='font-bold text-black manrope mb-md-3'>Why<span className='newfycolr'> Choose</span> Appsters?</h2>
+                            <p className='font16 text-black font-medium manrope mb-3'>Our comprehensive project management ensures high quality, transparency, and scalability. Here’s why you should choose Appsters for your game development needs:</p>
                             <div className={styles.secBtn}>
                                 <a href="#href">
                                     Let’s Discuss Your Project

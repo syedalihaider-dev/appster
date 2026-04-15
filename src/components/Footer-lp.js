@@ -161,7 +161,7 @@ const Footerlp = () => {
                                     </li>
                                     <li className="fw-bold">
                                         <a href="tel:3123795987">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={call}
 
                                                 loading="lazy"
@@ -171,7 +171,7 @@ const Footerlp = () => {
                                     </li>
                                     <li className="fw-bold">
                                         <a href="tel:8335006007">
-                                            <Image alt="BitsWits" className='img-fluid'
+                                            <Image alt="Appsters" className='img-fluid'
                                                 src={call}
 
                                                 loading="lazy"
@@ -190,7 +190,7 @@ const Footerlp = () => {
                             <Col md={4} lg={3} className="mt-md-0 mt-4">
                                 <ul className={`${styles.socials} mb-0 p-0`}>
                                     <li>
-                                        <a href="https://www.facebook.com/officialBitsWits" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.facebook.com/officialAppsters" target="_blank" rel="noopener noreferrer">
                                             <Image alt="Appsters" className='img-fluid'
                                                 src={fb}
 
@@ -199,7 +199,7 @@ const Footerlp = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/officialBitsWits/" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.instagram.com/officialAppsters/" target="_blank" rel="noopener noreferrer">
                                             <Image alt="Appsters" className='img-fluid'
                                                 src={inta}
 
@@ -208,7 +208,7 @@ const Footerlp = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com/BitsWits_/" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://twitter.com/Appsters_/" target="_blank" rel="noopener noreferrer">
                                             <Image alt="Appsters" className='img-fluid'
                                                 src={tweet}
 
@@ -217,7 +217,7 @@ const Footerlp = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com/company/officialBitsWits" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/company/officialAppsters" target="_blank" rel="noopener noreferrer">
                                             <Image alt="Appsters" className='img-fluid'
                                                 src={linkedin}
 
@@ -226,7 +226,7 @@ const Footerlp = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.youtube.com/@officialBitsWits" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.youtube.com/@officialAppsters" target="_blank" rel="noopener noreferrer">
                                             <Image alt="Appsters" className='img-fluid'
                                                 src={youtube}
 

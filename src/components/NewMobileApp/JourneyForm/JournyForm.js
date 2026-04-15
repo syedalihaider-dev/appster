@@ -88,7 +88,7 @@ const JournyForm = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -193,7 +193,7 @@ const JournyForm = () => {
                                         <label className='form-check-label' htmlFor='flexCheckDefault'> Share Non Disclosure Agreement</label>
                                     </div>
                                     <button className={`${styles.value} pink bitsForm`} type='submit' disabled={isDisabled}>
-                                        <Image src={formImg} className='img-fluid' alt='BitsWits' />
+                                        <Image src={formImg} className='img-fluid' alt='Appsters' />
                                         {score}
                                     </button>
                                 </div>

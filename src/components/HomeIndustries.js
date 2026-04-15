@@ -71,7 +71,7 @@ const HomeIndustries = () => {
                         <Col lg={12}>
                             <Slider {...indusSlider} className={`${styles.indusSlider} indusSlider`}>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide1} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide1} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Healthcare</h5>
                                     </div>
@@ -82,13 +82,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide2} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide2} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Education</h5>
                                     </div>
@@ -99,13 +99,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide3} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide3} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Logistics</h5>
                                     </div>
@@ -115,13 +115,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide4} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide4} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Insurance</h5>
                                     </div>
@@ -132,13 +132,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide5} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide5} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Engineering Construction <br /> & Operations</h5>
                                     </div>
@@ -148,13 +148,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide6} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide6} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Social Media</h5>
                                     </div>
@@ -164,13 +164,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide7} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide7} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Gaming</h5>
                                     </div>
@@ -180,13 +180,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide8} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide8} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Real Estate</h5>
                                     </div>
@@ -196,13 +196,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide9} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide9} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>E-commerce</h5>
                                     </div>
@@ -212,13 +212,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide10} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide10} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Finance</h5>
                                     </div>
@@ -228,13 +228,13 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>
                                 </div>
                                 <div className={`${styles.indusSlide} indusSlide`}>
-                                    <Image src={slide11} alt='BitsWits' className='img-fluid' />
+                                    <Image src={slide11} alt='Appsters' className='img-fluid' />
                                     <div className={`${styles.head} head`}>
                                         <h5>Information Technology</h5>
                                     </div>
@@ -244,7 +244,7 @@ const HomeIndustries = () => {
                                         <a href='javascript:window.replaceChat();' className={styles.btn}>
                                             Learn More
                                             <span>
-                                                <Image src={arrow} alt='Bitswits' width={17} height={11} />
+                                                <Image src={arrow} alt='Appsters' width={17} height={11} />
                                             </span>
                                         </a>
                                     </div>

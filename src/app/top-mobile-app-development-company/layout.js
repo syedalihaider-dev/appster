@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "Top Mobile App Development Company | Top Mobile App Developers",
-  description: "BitsWits, A top mobile app development company is your go-to destination for top mobile app developers who can help you transform your ideas into extraordinary mobile experiences.",
+  description: "Appsters, A top mobile app development company is your go-to destination for top mobile app developers who can help you transform your ideas into extraordinary mobile experiences.",
   //===== OG Tags =====
   openGraph: {
     title: 'Top Mobile App Development Company | Top Mobile App Developers',
-    description: 'BitsWits, A top mobile app development company is your go-to destination for top mobile app developers who can help you transform your ideas into extraordinary mobile experiences.',
+    description: 'Appsters, A top mobile app development company is your go-to destination for top mobile app developers who can help you transform your ideas into extraordinary mobile experiences.',
     url: '/mobile-application-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

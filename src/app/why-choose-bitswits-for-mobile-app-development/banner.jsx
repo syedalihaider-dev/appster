@@ -9,7 +9,7 @@ const Banner = () => {
         <Row className="h-100">
           <Col lg={7} md={10} className="mx-auto mt-auto text-center">
             <h1>
-              About <span className="txtColor">BitsWits!</span>
+              About <span className="txtColor">Appsters!</span>
             </h1>
             <p>
               Dedicated to crafting digital solutions that simplify complexities

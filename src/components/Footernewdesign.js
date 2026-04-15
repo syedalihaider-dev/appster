@@ -115,8 +115,8 @@ const Footernewdesign = () => {
                 <p className={styles.more}>To learn more about our service offerings and industry expertise or to have a Consulting professional contact you directly, please fill out the form below or submit an email & contact number.</p>
                 <ul className="contacts my-links">
                   <li className="mb-1 color-s">
-                    <a href="mailto:info@BitsWits.co">
-                      <Image alt="BitsWits" className='img-fluid'
+                    <a href="mailto:info@Appsters.co">
+                      <Image alt="Appsters" className='img-fluid'
                         src={mail}
 
                         loading="lazy"
@@ -126,7 +126,7 @@ const Footernewdesign = () => {
                   </li>
                   <li className="font-bold color-s">
                     <a href="tel:3123795987">
-                      <Image alt="BitsWits" className='img-fluid'
+                      <Image alt="Appsters" className='img-fluid'
                         src={call}
 
                         loading="lazy"
@@ -148,28 +148,28 @@ const Footernewdesign = () => {
                 <ul className={styles.socials}>
                   <li className={styles.colorp}>Official Channels |</li>
                   <li>
-                    <a href="https://www.facebook.com/officialBitsWits" target="_blank" rel="noopener noreferrer">
-                      <Image width="22" height="22" alt="BitsWits" className="img-fluid" src={icon1} loading="lazy" />
+                    <a href="https://www.facebook.com/officialAppsters" target="_blank" rel="noopener noreferrer">
+                      <Image width="22" height="22" alt="Appsters" className="img-fluid" src={icon1} loading="lazy" />
                     </a>
                   </li>
                   <li>
-                    <a href="ttps://www.linkedin.com/company/officialBitsWits" target="_blank" rel="noopener noreferrer">
-                      <Image width="21" height="21" alt="BitsWits" className="img-fluid" src={icon2} loading="lazy" />
+                    <a href="ttps://www.linkedin.com/company/officialAppsters" target="_blank" rel="noopener noreferrer">
+                      <Image width="21" height="21" alt="Appsters" className="img-fluid" src={icon2} loading="lazy" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/@officialBitsWits" target="_blank" rel="noopener noreferrer">
-                      <Image width="21" height="21" alt="BitsWits" className="img-fluid" src={icon3} loading="lazy" />
+                    <a href="https://www.youtube.com/@officialAppsters" target="_blank" rel="noopener noreferrer">
+                      <Image width="21" height="21" alt="Appsters" className="img-fluid" src={icon3} loading="lazy" />
                     </a>
                   </li>
                   <li>
-                    <a href="hhttps://twitter.com/BitsWits_/" target="_blank" rel="noopener noreferrer">
-                      <Image width="21" height="21" alt="BitsWits" className="img-fluid" src={icon4} loading="lazy" />
+                    <a href="hhttps://twitter.com/Appsters_/" target="_blank" rel="noopener noreferrer">
+                      <Image width="21" height="21" alt="Appsters" className="img-fluid" src={icon4} loading="lazy" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/officialBitsWits/" target="_blank" rel="noopener noreferrer">
-                      <Image width="21" height="21" alt="BitsWits" className="img-fluid" src={icon5} loading="lazy" />
+                    <a href="https://www.instagram.com/officialAppsters/" target="_blank" rel="noopener noreferrer">
+                      <Image width="21" height="21" alt="Appsters" className="img-fluid" src={icon5} loading="lazy" />
                     </a>
                   </li>
                 </ul>
@@ -181,9 +181,9 @@ const Footernewdesign = () => {
               <div className="col-md-3 col-xl-3 col-lg-3">
                 <div className={styles.termsMain}>
                   <ul className={styles.termsCondition}>
-                    <li><Link href="https://BitsWits.co/terms-and-conditions/" className="text-white font-bold">Terms of Use . </Link></li>
+                    <li><Link href="https://Appsters.co/terms-and-conditions/" className="text-white font-bold">Terms of Use . </Link></li>
 
-                    <li><Link href="https://BitsWits.co/privacy-policy/" className="text-white font-bold"> Privacy
+                    <li><Link href="https://Appsters.co/privacy-policy/" className="text-white font-bold"> Privacy
                       Policy</Link></li>
                   </ul>
                 </div>
@@ -196,7 +196,7 @@ const Footernewdesign = () => {
             <div className="row justify-content-center align-items-center text-center">
               <div className="col-md-12 col-lg-12 col-xl-12">
                 <p className="font-15 text-white mb-0">
-                  Copyright © 2024 BitsWits. All Rights Reserved.
+                  Copyright © 2024 Appsters. All Rights Reserved.
                 </p>
               </div>
 

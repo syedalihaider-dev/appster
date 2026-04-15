@@ -124,7 +124,7 @@ export default function HybridMobile() {
         },
         {
           title: "Customized Flutter Development Solutions",
-          text: "Flutter app developers at BitsWits can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
+          text: "Flutter app developers at Appsters can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
           appclass: "app3",
           imgservice: appletvappdevelopment,
         },
@@ -136,7 +136,7 @@ export default function HybridMobile() {
         },
         {
           title: "Maintenance & Support Services",
-          text: "BitsWits offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
+          text: "Appsters offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
           appclass: "app5",
           imgservice: hybridiphone,
         },
@@ -149,7 +149,7 @@ export default function HybridMobile() {
         title={<> Flutter Mobile Apps Development Company </>}
         text={
           <>
-            BitsWits is an expert Flutter app development agency with years of
+            Appsters is an expert Flutter app development agency with years of
             experience creating innovative, powerful apps for businesses of all
             sizes. From startups to established corporate entities, we have the
             expertise and technology to turn your ideas into amazing apps.
@@ -215,7 +215,7 @@ export default function HybridMobile() {
                   appContent2={[
                     {
                       title: "Customized Flutter Development Solutions",
-                      text: "Flutter app developers at BitsWits can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
+                      text: "Flutter app developers at Appsters can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
                       appclass: "app3",
                     },
                   ]}
@@ -243,7 +243,7 @@ export default function HybridMobile() {
                           Maintenance & Support <br /> Services
                         </>
                       ),
-                      text: "BitsWits offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
+                      text: "Appsters offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
                       appclass: "app5",
                     },
                   ]}
@@ -505,7 +505,7 @@ export default function HybridMobile() {
                   appContent2={[
                     {
                       title: "Customized Flutter Development Solutions",
-                      text: "Flutter app developers at BitsWits can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
+                      text: "Flutter app developers at Appsters can make customized powerful apps that help your business grow and reach more people. Hire top-rated Flutter development services and skyrocket your business growth.",
                       appclass: "app3",
                     },
                   ]}
@@ -533,7 +533,7 @@ export default function HybridMobile() {
                           Maintenance & Support <br /> Services
                         </>
                       ),
-                      text: "BitsWits offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
+                      text: "Appsters offers maintenance and support services to keep your Flutter applications running smoothly after launch. Our experts provide top-notch services to ensure your applications remain in excellent condition for a long term, giving you peace of mind and ensuring the success of your business.",
                       appclass: "app5",
                     },
                   ]}
@@ -753,7 +753,7 @@ export default function HybridMobile() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Flutter Mobile Apps Development Company",
-            "url": "https://www.bitswits.co/flutter-mobile-development",
+            "url": "https://www.Appsters.co/flutter-mobile-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -767,15 +767,15 @@ export default function HybridMobile() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/flutter-mobile-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/flutter-mobile-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
            }                                                                                
         `}
@@ -786,8 +786,8 @@ export default function HybridMobile() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Flutter Mobile Apps Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/card3.e969d64c.png",
-            "url": "https://www.bitswits.co/flutter-mobile-development",
+            "image": "https://www.Appsters.co/_next/static/media/card3.e969d64c.png",
+            "url": "https://www.Appsters.co/flutter-mobile-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -815,11 +815,11 @@ export default function HybridMobile() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
           }                                                               
         `}
@@ -830,11 +830,11 @@ export default function HybridMobile() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Flutter Mobile Apps Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/card3.e969d64c.png",
-            "description": "BitsWits is an expert Flutter app development agency with years of experience creating innovative, powerful apps for businesses of all sizes. From startups to established corporate entities, we have the expertise and technology to turn your ideas into amazing apps.",
+            "image": "https://www.Appsters.co/_next/static/media/card3.e969d64c.png",
+            "description": "Appsters is an expert Flutter app development agency with years of experience creating innovative, powerful apps for businesses of all sizes. From startups to established corporate entities, we have the expertise and technology to turn your ideas into amazing apps.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

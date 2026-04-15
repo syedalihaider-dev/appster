@@ -211,7 +211,7 @@ export default function dubaidevelopmentcompany() {
     {
       para: (
         <>
-          BitsWits offers full-fledged{" "}
+          Appsters offers full-fledged{" "}
           <Link
             href="/mobile-application-development-services"
             className="fw600 text-black"
@@ -411,7 +411,7 @@ Skipping critical research or testing phases to rush a launch can result in stor
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -488,8 +488,8 @@ Skipping critical research or testing phases to rush a launch can result in stor
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Mobile App Development Company in Chicago - BitsWits",
-            url: "https://www.bitswits.co/app-development-chicago",
+            name: "Mobile App Development Company in Chicago - Appsters",
+            url: "https://www.Appsters.co/app-development-chicago",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -505,10 +505,10 @@ Skipping critical research or testing phases to rush a launch can result in stor
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Mobile App Development Company in Chicago - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/app-development-chicago",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "Mobile App Development Company in Chicago - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/app-development-chicago",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+18335006007",
@@ -517,11 +517,11 @@ Skipping critical research or testing phases to rush a launch can result in stor
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -533,11 +533,11 @@ Skipping critical research or testing phases to rush a launch can result in stor
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Mobile App Development Company in Chicago - BitsWits",
+            name: "Mobile App Development Company in Chicago - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicago.7c2c5608.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicago.7c2c5608.webp&w=1920&q=75",
             "@id": "",
-            url: "https://www.bitswits.co/app-development-chicago",
+            url: "https://www.Appsters.co/app-development-chicago",
             telephone: "+18335006007",
             priceRange: "$10000",
             address: {
@@ -567,11 +567,11 @@ Skipping critical research or testing phases to rush a launch can result in stor
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -583,14 +583,14 @@ Skipping critical research or testing phases to rush a launch can result in stor
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "Mobile App Development Company in Chicago - BitsWits",
+            name: "Mobile App Development Company in Chicago - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicago.7c2c5608.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicago.7c2c5608.webp&w=1920&q=75",
             description:
-              "BitsWits is an elite mobile app development company in Chicago with a focus on creating high-quality apps that drive growth and success for businesses.",
+              "Appsters is an elite mobile app development company in Chicago with a focus on creating high-quality apps that drive growth and success for businesses.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

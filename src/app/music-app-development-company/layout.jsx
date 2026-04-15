@@ -2,14 +2,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Music App Development Company - BitsWits",
+  title: "Music App Development Company - Appsters",
   description: "Expert music app development company delivering custom solutions for streaming, offline playback, user playlists, and seamless audio experiences.",
   //===== OG Tags =====
   openGraph: {
-    title: "Music App Development Company - BitsWits",
+    title: "Music App Development Company - Appsters",
     description: "Expert music app development company delivering custom solutions for streaming, offline playback, user playlists, and seamless audio experiences.",
     url: '/music-app-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",
@@ -18,7 +18,7 @@ export const metadata = {
   alternates: { canonical: '/music-app-development-company' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "music app development company - BitsWits",
+    "DC.title": "music app development company - Appsters",
     "geo.region": "US",
     "geo.placename": "Houston",
     "geo.position": "29.7372487; -95.4618603",

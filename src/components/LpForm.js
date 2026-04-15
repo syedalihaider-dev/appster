@@ -111,7 +111,7 @@ const LpForm = (props) => {
       };
       let bodyContent = JSON.stringify({
         IP: `${ip.ip} - ${ip.city} - ${ip.country}`,
-        Brand: "BitsWits",
+        Brand: "Appsters",
         Page: `${currentRoute}`,
         Date: currentdate,
         Time: currentdate,
@@ -267,7 +267,7 @@ const LpForm = (props) => {
 
           <div className={styles.para}>
             <p className="mb-0">
-              Welcome to our world of innovative app creation. At BitsWits, we
+              Welcome to our world of innovative app creation. At Appsters, we
               don't just create a mobile app, we transform your vision into a
               digital masterpiece. With a blend of creativity and technical
               skill, we're recognized as the best app making company dedicated

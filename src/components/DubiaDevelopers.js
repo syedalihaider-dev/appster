@@ -31,10 +31,10 @@ const DubiaDevelopers = ({ content }) => {
                         <Col lg={3}>
                             {position ?
                                 <div className={styles.buildingImage}>
-                                    <Image src={image} width={752} height={742} alt='Bitswits' className='d-xl-block d-none' />
+                                    <Image src={image} width={752} height={742} alt='Appsters' className='d-xl-block d-none' />
                                 </div> :
                                 <div className={styles.buildingImageTwo}>
-                                    <Image src={image} width={481} height={651} alt='Bitswits' className='d-xl-block d-none' />
+                                    <Image src={image} width={481} height={651} alt='Appsters' className='d-xl-block d-none' />
                                 </div>
                             }
                         </Col>

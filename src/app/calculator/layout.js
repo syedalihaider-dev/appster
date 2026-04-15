@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Calculator | BitsWits",
-  description: "Calculator | BitsWits",
+  title: "Calculator | Appsters",
+  description: "Calculator | Appsters",
   //===== OG Tags =====
   openGraph: {
-    title: 'Calculator | BitsWits',
-    description: 'Calculator | BitsWits',
+    title: 'Calculator | Appsters',
+    description: 'Calculator | Appsters',
     url: '/calculator',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

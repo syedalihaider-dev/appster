@@ -82,7 +82,7 @@ const GlobalPresence = () => {
                                 <div className={styles.cardContainer}>
                                     <div className={`${styles.card}`}>
                                         <div className={styles.cardImage}>
-                                            <Image src={SliderThree} alt='Bitswits' className='img-fluid' />
+                                            <Image src={SliderThree} alt='Appsters' className='img-fluid' />
                                         </div>
                                         <div className={styles.cardContent}>
                                             <h3 className='manrope'>HOUSTON</h3>
@@ -90,7 +90,7 @@ const GlobalPresence = () => {
                                     </div>
                                     <div className={`${styles.flipCard}`}>
                                         <div className={styles.time}>
-                                            <Image src={clock} alt='Bitswits' className='img-fluid' />
+                                            <Image src={clock} alt='Appsters' className='img-fluid' />
                                             <p className='manrope'>08 : 10 PM</p>
                                         </div>
                                         <div className={styles.adress}>
@@ -101,14 +101,14 @@ const GlobalPresence = () => {
                                         <div className={styles.emailOrphone}>
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Phone} alt='Bitswits' width={18} height={18} className='img-fluid' />
+                                                    <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
                                                     <span className='manrope ms-3'>+1 833 500 6007</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Email} alt='Bitswits' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@bitswits.co</span>
+                                                    <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
+                                                    <span className='manrope ms-3'>info@Appsters.co</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -124,7 +124,7 @@ const GlobalPresence = () => {
                                 <div className={styles.cardContainer}>
                                     <div className={`${styles.card}`}>
                                         <div className={styles.cardImage}>
-                                            <Image src={SliderTwo} alt='Bitswits' className='img-fluid' />
+                                            <Image src={SliderTwo} alt='Appsters' className='img-fluid' />
                                         </div>
                                         <div className={styles.cardContent}>
                                             <h3 className='manrope'>Dubai</h3>
@@ -132,7 +132,7 @@ const GlobalPresence = () => {
                                     </div>
                                     <div className={`${styles.flipCard} ${styles.cardFace} ${styles.cardBack}`}>
                                         <div className={styles.time}>
-                                            <Image src={clock} alt='Bitswits' className='img-fluid' />
+                                            <Image src={clock} alt='Appsters' className='img-fluid' />
                                             <p className='manrope'>08 : 10 PM</p>
                                         </div>
                                         <div className={styles.adress}>
@@ -143,14 +143,14 @@ const GlobalPresence = () => {
                                         <div className={styles.emailOrphone}>
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Phone} alt='Bitswits' width={18} height={18} className='img-fluid' />
+                                                    <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
                                                     <span className='manrope ms-3'>+1 833 500 6007</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Email} alt='Bitswits' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@bitswits.co</span>
+                                                    <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
+                                                    <span className='manrope ms-3'>info@Appsters.co</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -166,7 +166,7 @@ const GlobalPresence = () => {
                                 <div className={styles.cardContainer}>
                                     <div className={`${styles.card}`}>
                                         <div className={styles.cardImage}>
-                                            <Image src={SliderOne} alt='Bitswits' className='img-fluid' />
+                                            <Image src={SliderOne} alt='Appsters' className='img-fluid' />
                                         </div>
                                         <div className={styles.cardContent}>
                                             <h3 className='manrope'>CHICAGO</h3>
@@ -174,7 +174,7 @@ const GlobalPresence = () => {
                                     </div>
                                     <div className={`${styles.flipCard} ${styles.cardFace} ${styles.cardBack}`}>
                                         <div className={styles.time}>
-                                            <Image src={clock} alt='Bitswits' className='img-fluid' />
+                                            <Image src={clock} alt='Appsters' className='img-fluid' />
                                             <p className='manrope'>08 : 10 PM</p>
                                         </div>
                                         <div className={styles.adress}>
@@ -185,14 +185,14 @@ const GlobalPresence = () => {
                                         <div className={styles.emailOrphone}>
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Phone} alt='Bitswits' width={18} height={18} className='img-fluid' />
+                                                    <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
                                                     <span className='manrope ms-3'>+1 833 500 6007</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Email} alt='Bitswits' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@bitswits.co</span>
+                                                    <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
+                                                    <span className='manrope ms-3'>info@Appsters.co</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -208,7 +208,7 @@ const GlobalPresence = () => {
                                 <div className={styles.cardContainer}>
                                     <div className={`${styles.card}`}>
                                         <div className={styles.cardImage}>
-                                            <Image src={SliderFour} alt='Bitswits' className='img-fluid' />
+                                            <Image src={SliderFour} alt='Appsters' className='img-fluid' />
                                         </div>
                                         <div className={styles.cardContent}>
                                             <h3 className='manrope'>Dallas</h3>
@@ -216,7 +216,7 @@ const GlobalPresence = () => {
                                     </div>
                                     <div className={`${styles.flipCard} ${styles.cardFace} ${styles.cardBack}`}>
                                         <div className={styles.time}>
-                                            <Image src={clock} alt='Bitswits' className='img-fluid' />
+                                            <Image src={clock} alt='Appsters' className='img-fluid' />
                                             <p className='manrope'>08 : 10 PM</p>
                                         </div>
                                         <div className={styles.adress}>
@@ -227,14 +227,14 @@ const GlobalPresence = () => {
                                         <div className={styles.emailOrphone}>
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Phone} alt='Bitswits' width={18} height={18} className='img-fluid' />
+                                                    <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
                                                     <span className='manrope ms-3'>+1 833 500 6007</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Email} alt='Bitswits' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@bitswits.co</span>
+                                                    <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
+                                                    <span className='manrope ms-3'>info@Appsters.co</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -250,7 +250,7 @@ const GlobalPresence = () => {
                                 <div className={styles.cardContainer}>
                                     <div className={`${styles.card}`}>
                                         <div className={styles.cardImage}>
-                                            <Image src={SliderFive} alt='Bitswits' className='img-fluid' />
+                                            <Image src={SliderFive} alt='Appsters' className='img-fluid' />
                                         </div>
                                         <div className={styles.cardContent}>
                                             <h3 className='manrope'>NEW YORK</h3>
@@ -258,7 +258,7 @@ const GlobalPresence = () => {
                                     </div>
                                     <div className={`${styles.flipCard} ${styles.cardFace} ${styles.cardBack}`}>
                                         <div className={styles.time}>
-                                            <Image src={clock} alt='Bitswits' className='img-fluid' />
+                                            <Image src={clock} alt='Appsters' className='img-fluid' />
                                             <p className='manrope'>08 : 10 PM</p>
                                         </div>
                                         <div className={styles.adress}>
@@ -269,14 +269,14 @@ const GlobalPresence = () => {
                                         <div className={styles.emailOrphone}>
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Phone} alt='Bitswits' width={18} height={18} className='img-fluid' />
+                                                    <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
                                                     <span className='manrope ms-3'>+1 833 500 6007</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
-                                                    <Image src={Email} alt='Bitswits' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@bitswits.co</span>
+                                                    <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
+                                                    <span className='manrope ms-3'>info@Appsters.co</span>
                                                 </a>
                                             </div>
                                         </div>

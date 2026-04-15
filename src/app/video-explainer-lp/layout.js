@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Video Explainer | BitsWits",
-  description: "BitsWits.",
+  title: "Video Explainer | Appsters",
+  description: "Appsters.",
   //===== OG Tags =====
   openGraph: {
-    title: 'Video Explainer | BitsWits',
-    description: 'BitsWits.',
+    title: 'Video Explainer | Appsters',
+    description: 'Appsters.',
     url: '/video-explainer-lp',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

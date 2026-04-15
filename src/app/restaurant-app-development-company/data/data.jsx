@@ -405,7 +405,7 @@ export const OffersTabs = [
         title: "Apps Like Kahoot!",
         content: {
             heading: "Apps Like Kahoot!",
-            description: "BitsWits can develop apps like Kahoot! for you, which is a game-based learning platform, allowing educators and learners to create, share, and participate in interactive quizzes and learning games. These types of apps make education fun and engaging, transforming traditional learning into an interactive experience.",
+            description: "Appsters can develop apps like Kahoot! for you, which is a game-based learning platform, allowing educators and learners to create, share, and participate in interactive quizzes and learning games. These types of apps make education fun and engaging, transforming traditional learning into an interactive experience.",
         },
     },
 ];
@@ -810,14 +810,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01.src,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02.src,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -825,7 +825,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03.src,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

@@ -62,7 +62,7 @@ const Newsuccess = (props) => {
                 <Image
                   quality={75}
                   src={team1}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`${styles.befImg} img-fluid`}
                 />
               </div>
@@ -107,7 +107,7 @@ const Newsuccess = (props) => {
                 <Image
                   quality={75}
                   src={team1}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`${styles.befImg} img-fluid`}
                 />
               </div>

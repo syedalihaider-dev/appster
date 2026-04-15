@@ -79,7 +79,7 @@ const AppIdea = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -159,7 +159,7 @@ const AppIdea = () => {
                     <Row className='align-items-center'>
                         <Col lg={5}>
                             <div className={styles.image}>
-                                <Image src={AppIdeaMobile} alt='Bitswits' className='img-fluid d-lg-block d-none' />
+                                <Image src={AppIdeaMobile} alt='Appsters' className='img-fluid d-lg-block d-none' />
                             </div>
                         </Col>
                         <Col lg={7}>

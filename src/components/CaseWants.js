@@ -19,7 +19,7 @@ const CaseWants = (props) => {
                                     <h3 className='newchoose'>{section.title}</h3>
                                     {section.textArray.map((text, textIndex) => (
                                         <p key={textIndex}>
-                                            <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                            <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                             <span>{text}</span>
                                         </p>
                                     ))}
@@ -28,14 +28,14 @@ const CaseWants = (props) => {
                         </Col>
                         <Col lg={6}>
                             <div className={styles.wantImg}>
-                                <Image quality={90} src={props.wantImg1} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.wantImg1} alt="Appsters" className={`img-fluid`} />
                             </div>
                         </Col>
                     </Row>
                     <Row className={`${styles.midRow} align-items-center my-0 my-lg-5 py-5`}>
                         <Col lg={6}>
                             <div className={styles.wantImg2}>
-                                <Image quality={90} src={props.wantImg2} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.wantImg2} alt="Appsters" className={`img-fluid`} />
                             </div>
                         </Col>
                         <Col lg={6}>
@@ -44,7 +44,7 @@ const CaseWants = (props) => {
                                     <h3 className='newchoose'>{section.title}</h3>
                                     {section.textArray.map((text, textIndex) => (
                                         <p key={textIndex}>
-                                            <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                            <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                             <span>{text}</span>
                                         </p>
                                     ))}
@@ -59,7 +59,7 @@ const CaseWants = (props) => {
                                     <h3 className='newchoose'>{section.title}</h3>
                                     {section.textArray.map((text, textIndex) => (
                                         <p key={textIndex}>
-                                            <Image src={tick} width={20} alt="BitsWits" className={`img-fluid`} />
+                                            <Image src={tick} width={20} alt="Appsters" className={`img-fluid`} />
                                             <span>{text}</span>
                                         </p>
                                     ))}
@@ -68,7 +68,7 @@ const CaseWants = (props) => {
                         </Col>
                         <Col lg={6}>
                             <div className={styles.wantImg}>
-                                <Image quality={90} src={props.wantImg3} alt="BitsWits" className={`img-fluid`} />
+                                <Image quality={90} src={props.wantImg3} alt="Appsters" className={`img-fluid`} />
                             </div>
                         </Col>
                         <Col lg={11} className='mx-auto'>

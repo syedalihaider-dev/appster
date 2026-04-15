@@ -107,7 +107,7 @@ const LpFormprops = (props) => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -223,7 +223,7 @@ const LpFormprops = (props) => {
                                 {props.data.map((item, index) => (
                                     <div className='mt-5 mt-md-0'>
                                         <div className={styles.deve} key={index}>
-                                            <Image src={item.img2} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img2} className="img-fluid" alt="Appsters" />
                                             <div>
                                                 <h4 className="fontgilroybold white font_15">{item.title}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2 mb-0">{item.text}</p>
@@ -237,7 +237,7 @@ const LpFormprops = (props) => {
                                 {props.data.map((item, index) => (
                                     <Col lg={3}>
                                         <div className={styles.deve} key={index}>
-                                            <Image src={item.img2} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img2} className="img-fluid" alt="Appsters" />
                                             <div>
                                                 <h4 className="fontgilroybold white font_15">{item.title}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2 mb-0">{item.text}</p>

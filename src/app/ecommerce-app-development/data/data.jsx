@@ -117,13 +117,13 @@ const BlogsIMG03 = "/services/blogs/post-3.webp"
 
 export const BannerData = {
     title: "Scalable Ecommerce App Development Company for Expanding Online Markets",
-    content: "BitsWits is a leading ecommerce development company helping startups and SMBs build intuitive and scalable ecommerce apps for both iOS and Android. We offer UX-driven, custom ecommerce application development services, enabling clients to sell to a global audience and make data-driven decisions.",
+    content: "Appsters is a leading ecommerce development company helping startups and SMBs build intuitive and scalable ecommerce apps for both iOS and Android. We offer UX-driven, custom ecommerce application development services, enabling clients to sell to a global audience and make data-driven decisions.",
     BannerBg: BannerBg,
 }
 
 export const IndustryServiceContent = {
     title: "eCommerce App Development Services",
-    text: "We offer top-tier ecommerce app development services to help you achieve your business goals! Here are the types of ecommerce apps you can build by partnering with BitsWits:",
+    text: "We offer top-tier ecommerce app development services to help you achieve your business goals! Here are the types of ecommerce apps you can build by partnering with Appsters:",
 }
 
 export const IndustryServiceList = [
@@ -141,7 +141,7 @@ export const IndustryServiceList = [
     },
     {
         title: (<>eCommerce Integration Services</>),
-        txt: "The eCommerce app development team at BitsWits seamlessly connects your app with essential third-party tools and systems streamlining workflow.",
+        txt: "The eCommerce app development team at Appsters seamlessly connects your app with essential third-party tools and systems streamlining workflow.",
     },
     {
         title: (<>Custom eCommerce Analytics Solutions</>),
@@ -304,8 +304,8 @@ export const TechnologiesIcons = [
 ]
 
 export const ProcessContent = {
-    title: "eCommerce App Development Process at BitsWits",
-    text: "At BitsWits, we follow a scalable, agile development approach tailored for building high-performance ecommerce apps, ensuring seamless customer journeys and conversion optimization at every stage."
+    title: "eCommerce App Development Process at Appsters",
+    text: "At Appsters, we follow a scalable, agile development approach tailored for building high-performance ecommerce apps, ensuring seamless customer journeys and conversion optimization at every stage."
 }
 
 export const ProcessTabs = [
@@ -368,8 +368,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a leading ecommerce app development company with a strong portfolio of revenue-generating ecommerce apps with 3M+ combined downloads. "
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a leading ecommerce app development company with a strong portfolio of revenue-generating ecommerce apps with 3M+ combined downloads. "
 }
 
 export const WhyChooseList1 = [
@@ -381,7 +381,7 @@ export const WhyChooseList1 = [
     {
         Icon: <EcommerceIcon02 />,
         title: "Expert Team",
-        description: "The team at BitsWits builds multi-vendor marketplaces, subscription models, and inventory management, ensuring your app delivers seamless shopping experiences.",
+        description: "The team at Appsters builds multi-vendor marketplaces, subscription models, and inventory management, ensuring your app delivers seamless shopping experiences.",
     },
 ];
 
@@ -400,7 +400,7 @@ export const WhyChooseList2 = [
 
 export const OffersContent = {
     title: "Types of Ecommerce Apps We Can Create",
-    text: "At BitsWits, we deliver targeted eCommerce app development services for various business models, keeping scalability and user experience at the forefront.",
+    text: "At Appsters, we deliver targeted eCommerce app development services for various business models, keeping scalability and user experience at the forefront.",
 }
 
 export const OffersTabs = [
@@ -485,26 +485,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -513,7 +513,7 @@ export const TestimonialSLIDES = [
 
 export const FuelingContent2 = {
     title: "Integrating Cutting-Edge Technologies with Ecommerce App Development",
-    text: "Whether it’s AR/VR for unreal, mind-boggling user experience, or AI and ML for unmatched accuracy and data-driven decision-making, BitsWits leverages all the emerging tech to deliver ecommerce apps that wows the customers. ",
+    text: "Whether it’s AR/VR for unreal, mind-boggling user experience, or AI and ML for unmatched accuracy and data-driven decision-making, Appsters leverages all the emerging tech to deliver ecommerce apps that wows the customers. ",
     subtitle: "Discover the Future of eCommerce with Emerging Technologies",
     subtext: "Schedule a consultation today to explore how our cutting-edge solutions can transform your eCommerce business and boost sales.",
     FuelingImg: FuelingImg,
@@ -823,8 +823,8 @@ export const FaqsList = [
         txt: "Developing an eCommerce app typically takes three to six months. The timeline varies based on the app’s complexity, features, and the development team’s proficiency. Proactive planning and the use of agile development practices can streamline the development time to much shorter. Let’s connect and get a detailed app cost breakdown with turnaround time.",
     },
     {
-        title: "What eCommerce application development services does BitsWits offer?",
-        txt: "BitsWits offers comprehensive eCommerce application development services, including UI/UX design, backend development, payment integration, and ongoing support. Our ecommerce app developers focus on creating scalable, secure apps tailored to your business needs, delivering a seamless shopping experience.",
+        title: "What eCommerce application development services does Appsters offer?",
+        txt: "Appsters offers comprehensive eCommerce application development services, including UI/UX design, backend development, payment integration, and ongoing support. Our ecommerce app developers focus on creating scalable, secure apps tailored to your business needs, delivering a seamless shopping experience.",
     }
 ];
 
@@ -838,14 +838,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -853,7 +853,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

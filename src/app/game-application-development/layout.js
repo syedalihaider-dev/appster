@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "Game Application Development Company | Hire Top Game Developers",
-  description: "Embark on a gaming journey like no other with BitsWits, a premium game application development company, executed by a team of skilled game developers.",
+  description: "Embark on a gaming journey like no other with Appsters, a premium game application development company, executed by a team of skilled game developers.",
   //===== OG Tags =====
   openGraph: {
     title: 'Game Application Development Company | Hire Top Game Developers',
-    description: 'Embark on a gaming journey like no other with BitsWits, a premium game application development company, executed by a team of skilled game developers.',
+    description: 'Embark on a gaming journey like no other with Appsters, a premium game application development company, executed by a team of skilled game developers.',
     url: '/game-application-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

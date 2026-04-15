@@ -27,7 +27,7 @@ const BlockchainBanner = (props) => {
               <div className={`${styles.banImg} mt-4`}>
                 <Image
                   quality={75}
-                  alt="BitsWits"
+                  alt="Appsters"
                   src={props.BannerImage}
                   className={`img-fluid`}
                 />

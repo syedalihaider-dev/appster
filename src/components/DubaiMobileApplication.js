@@ -32,9 +32,9 @@ const DubaiMobileApplication = ({ content }) => {
                         </Col>
                         <Col lg={6}>
                             <div className={styles.reviewMain}>
-                                <Image src={DubaiImage} alt='Bitswits' width={743} height={610} className='img-fluid' />
-                                <Image src={review1} alt='Bitswits' className={`${styles.review1} img-fluid`} />
-                                <Image src={review2} alt='Bitswits' className={`${styles.review2} img-fluid`} />
+                                <Image src={DubaiImage} alt='Appsters' width={743} height={610} className='img-fluid' />
+                                <Image src={review1} alt='Appsters' className={`${styles.review1} img-fluid`} />
+                                <Image src={review2} alt='Appsters' className={`${styles.review2} img-fluid`} />
                             </div>
                         </Col>
                     </Row>

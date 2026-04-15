@@ -28,7 +28,7 @@ const Startaproject = () => {
                             </div>
                             <div className="col-lg-6 col-xl-6 ">
                                 <div className={styles.start}>
-                                    <Image src={badgelogo} width="554" height="358" className={styles.startproject} alt="BitsWits" />
+                                    <Image src={badgelogo} width="554" height="358" className={styles.startproject} alt="Appsters" />
                                 </div>
                             </div>
                         </div>

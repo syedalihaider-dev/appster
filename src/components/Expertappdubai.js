@@ -19,7 +19,7 @@ import 'slick-carousel/slick/slick-theme.css';
 const appData = [
     {
         title: 'Blockchain',
-        description: 'At BitsWits, we implement cutting-edge blockchain solutions to safeguard your data. Our advanced encryption techniques and robust security protocols ensure that your information remains invulnerable to cyber threats and unauthorized access, providing you with peace of mind and regulatory compliance.',
+        description: 'At Appsters, we implement cutting-edge blockchain solutions to safeguard your data. Our advanced encryption techniques and robust security protocols ensure that your information remains invulnerable to cyber threats and unauthorized access, providing you with peace of mind and regulatory compliance.',
         imageSrc: banImg1,
     },
     {
@@ -34,17 +34,17 @@ const appData = [
     },
     {
         title: 'AR/VR (Augmented Reality/Virtual Reality)',
-        description: 'BitsWits redefines customer engagement through immersive AR/VR applications. We create experiences that captivate your audience, drive conversions, and establish your brand as an innovator, leaving a lasting impression on your customers.',
+        description: 'Appsters redefines customer engagement through immersive AR/VR applications. We create experiences that captivate your audience, drive conversions, and establish your brand as an innovator, leaving a lasting impression on your customers.',
         imageSrc: banImg4,
     },
     {
         title: 'Cloud Computing',
-        description: (<> Leveraging the cloud's power, we optimize your operations. Our cloud solutions enhance security, scalability, and performance, ensuring uninterrupted operations at any scale. With BitsWits, you can focus on your core business while we take care of your cloud infrastructure.</>),
+        description: (<> Leveraging the cloud's power, we optimize your operations. Our cloud solutions enhance security, scalability, and performance, ensuring uninterrupted operations at any scale. With Appsters, you can focus on your core business while we take care of your cloud infrastructure.</>),
         imageSrc: banImg5,
     },
     {
         title: 'Staff Augmentation',
-        description: (<> We offer flexible staffing solutions, allowing you to scale your team up or down as needed. With BitsWits, you have access to a pool of skilled professionals, ensuring that you always have the right talent to drive your projects forward, no matter the size or complexity. </>),
+        description: (<> We offer flexible staffing solutions, allowing you to scale your team up or down as needed. With Appsters, you have access to a pool of skilled professionals, ensuring that you always have the right talent to drive your projects forward, no matter the size or complexity. </>),
         imageSrc: banImg6,
     },
 ];
@@ -75,22 +75,22 @@ export default function Expertappdubai(props) {
 
                             <h2 className='white font50 f-700 center mb-5'>Cutting-edge technology Solutions by  <br></br> Mobile Application Developers in Dubai</h2>
 
-                            <p className="font16 font-normal white text-center mb-5">BitsWits, a leading mobile application development company in Dubai, offers a comprehensive range of cutting-edge <br /> technology solutions to empower entrepreneurs and businesses. Our diverse toolkit includes:</p>
+                            <p className="font16 font-normal white text-center mb-5">Appsters, a leading mobile application development company in Dubai, offers a comprehensive range of cutting-edge <br /> technology solutions to empower entrepreneurs and businesses. Our diverse toolkit includes:</p>
 
                         </Col>
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg1} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg1} className='img-fluid' />
                                     <h3 className=' white fw700'>Blockchain</h3>
                                 </div>
-                                <p className=' white fw400 m-0'>At BitsWits, we implement cutting-edge blockchain solutions to safeguard your data. Our advanced encryption techniques and robust security protocols ensure that your information remains invulnerable to cyber threats and unauthorized access, providing you with peace of mind and regulatory compliance.</p>
+                                <p className=' white fw400 m-0'>At Appsters, we implement cutting-edge blockchain solutions to safeguard your data. Our advanced encryption techniques and robust security protocols ensure that your information remains invulnerable to cyber threats and unauthorized access, providing you with peace of mind and regulatory compliance.</p>
                             </div>
                         </Col>
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg2} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg2} className='img-fluid' />
                                     <h3 className=' white fw700'>IoT (Internet of Things)</h3>
 
                                 </div>
@@ -100,7 +100,7 @@ export default function Expertappdubai(props) {
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg3} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg3} className='img-fluid' />
                                     <h3 className=' white fw700'>AI/ML (Artificial Intelligence/Machine Learning)</h3>
 
                                 </div>
@@ -110,31 +110,31 @@ export default function Expertappdubai(props) {
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg4} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg4} className='img-fluid' />
                                     <h3 className=' white fw700'>AR/VR (Augmented Reality/Virtual Reality)</h3>
 
                                 </div>
-                                <p className=' white fw400 m-0'>BitsWits redefines customer engagement through immersive AR/VR applications. We create experiences that captivate your audience, drive conversions, and establish your brand as an innovator, leaving a lasting impression on your customers.</p>
+                                <p className=' white fw400 m-0'>Appsters redefines customer engagement through immersive AR/VR applications. We create experiences that captivate your audience, drive conversions, and establish your brand as an innovator, leaving a lasting impression on your customers.</p>
                             </div>
                         </Col>
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg5} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg5} className='img-fluid' />
                                     <h3 className=' white fw700'>Cloud Computing</h3>
 
                                 </div>
-                                <p className=' white fw400 m-0'>Leveraging the cloud's power, we optimize your operations. Our cloud solutions enhance security, scalability, and performance, ensuring uninterrupted operations at any scale. With BitsWits, you can focus on your core business while we take care of your cloud infrastructure.</p>
+                                <p className=' white fw400 m-0'>Leveraging the cloud's power, we optimize your operations. Our cloud solutions enhance security, scalability, and performance, ensuring uninterrupted operations at any scale. With Appsters, you can focus on your core business while we take care of your cloud infrastructure.</p>
                             </div>
                         </Col>
                         <Col lg={4}>
                             <div className={styles.app}>
                                 <div className={styles.copy}>
-                                    <Image alt='BitsWits' src={banImg6} className='img-fluid' />
+                                    <Image alt='Appsters' src={banImg6} className='img-fluid' />
                                     <h3 className=' white fw700'>Staff Augmentation</h3>
 
                                 </div>
-                                <p className=' white fw400 m-0'>We offer flexible staffing solutions, allowing you to scale your team up or down as needed. With BitsWits, you have access to a pool of skilled professionals, ensuring that you always have the right talent to drive your projects forward, no matter the size or complexity.</p>
+                                <p className=' white fw400 m-0'>We offer flexible staffing solutions, allowing you to scale your team up or down as needed. With Appsters, you have access to a pool of skilled professionals, ensuring that you always have the right talent to drive your projects forward, no matter the size or complexity.</p>
                             </div>
                         </Col>
 
@@ -153,7 +153,7 @@ export default function Expertappdubai(props) {
                                 <Col lg={4} key={index}>
                                     <div className={styles.app}>
                                         <div className={styles.copy}>
-                                            <Image alt='BitsWits' src={app.imageSrc} className='img-fluid mb-3' />
+                                            <Image alt='Appsters' src={app.imageSrc} className='img-fluid mb-3' />
                                             <h3 className=' white fw700'>{app.title}</h3>
                                         </div>
                                         <p className=' white fw400 m-0'>{app.description}</p>

@@ -48,14 +48,14 @@ const ServicesFaqs = (props) => {
                           quality={75}
                           src={open}
                           className="img-fluid"
-                          alt="Bitswits"
+                          alt="Appsters"
                         />
                       ) : (
                         <Image
                           quality={75}
                           src={close}
                           className="img-fluid"
-                          alt="Bitswits"
+                          alt="Appsters"
                         />
                       )}
                     </h3>

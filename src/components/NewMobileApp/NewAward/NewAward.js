@@ -79,7 +79,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider2} alt="Bitswits" className='mx-auto' />
+                                                <Image src={Slider2} alt="Appsters" className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Dot Comm</h6>
@@ -90,7 +90,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider3} alt="Bitswits" className='mx-auto' />
+                                                <Image src={Slider3} alt="Appsters" className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>INC. 5000</h6>
@@ -101,7 +101,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider1} alt="Bitswits" className='mx-auto' />
+                                                <Image src={Slider1} alt="Appsters" className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Horizon Award</h6>
@@ -112,7 +112,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider5} alt="Bitswits" width={120} height={100} className='mx-auto' />
+                                                <Image src={Slider5} alt="Appsters" width={120} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Horizon Award</h6>
@@ -124,7 +124,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider6} alt="Bitswits" width={123} height={100} className='mx-auto' />
+                                                <Image src={Slider6} alt="Appsters" width={123} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Clutch</h6>
@@ -136,7 +136,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider7} alt="Bitswits" width={90} height={100} className='mx-auto' />
+                                                <Image src={Slider7} alt="Appsters" width={90} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Right firms</h6>
@@ -147,7 +147,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider12} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                                                <Image src={Slider12} alt="Appsters" width={100} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>The Manifest</h6>
@@ -158,7 +158,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider13} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                                                <Image src={Slider13} alt="Appsters" width={100} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>The Manifest</h6>
@@ -169,7 +169,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider8} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                                                <Image src={Slider8} alt="Appsters" width={102} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Top Developers</h6>
@@ -181,7 +181,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider9} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                                                <Image src={Slider9} alt="Appsters" width={102} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Expertise</h6>
@@ -193,7 +193,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider10} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                                                <Image src={Slider10} alt="Appsters" width={100} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Top Rated</h6>
@@ -204,7 +204,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider1} alt="Bitswits" className='mx-auto' />
+                                                <Image src={Slider1} alt="Appsters" className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Horizon Award</h6>
@@ -215,7 +215,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider2} alt="Bitswits" className='mx-auto' />
+                                                <Image src={Slider2} alt="Appsters" className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Dot Comm</h6>
@@ -226,7 +226,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider3} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                                                <Image src={Slider3} alt="Appsters" width={100} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>INC. 5000</h6>
@@ -237,7 +237,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider5} alt="Bitswits" width={120} height={100} className='mx-auto' />
+                                                <Image src={Slider5} alt="Appsters" width={120} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Horizon Award</h6>
@@ -249,7 +249,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider6} alt="Bitswits" width={123} height={100} className='mx-auto' />
+                                                <Image src={Slider6} alt="Appsters" width={123} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Clutch</h6>
@@ -261,7 +261,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider7} alt="Bitswits" width={90} height={100} className='mx-auto' />
+                                                <Image src={Slider7} alt="Appsters" width={90} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Right firms</h6>
@@ -272,7 +272,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider8} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                                                <Image src={Slider8} alt="Appsters" width={102} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Top Developers</h6>
@@ -284,7 +284,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider9} alt="Bitswits" width={102} height={100} className='mx-auto' />
+                                                <Image src={Slider9} alt="Appsters" width={102} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Expertise</h6>
@@ -296,7 +296,7 @@ const NewAward = ({ content, contentTwo, onAnchorClick }) => {
                                     <div className='px-2 px-lg-1'>
                                         <div className={styles.sliderCards}>
                                             <div className={styles.imageDiv}>
-                                                <Image src={Slider10} alt="Bitswits" width={100} height={100} className='mx-auto' />
+                                                <Image src={Slider10} alt="Appsters" width={100} height={100} className='mx-auto' />
                                             </div>
                                             <div className={styles.sliderTxt}>
                                                 <h6>Top Rated</h6>

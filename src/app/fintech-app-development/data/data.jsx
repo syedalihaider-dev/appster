@@ -97,7 +97,7 @@ import Link from "next/link";
 
 export const BannerData = {
     title: "Leading Fintech App Development Company for Scalable Financial Solutions",
-    content: `BitsWits is a top-grade fintech app development company that builds industry-leading fintech applications. Our tried-and-true fintech app development services help entrepreneurs and financial institutions create super-fast, intuitive, and user-centered fintech apps with impregnable security. `,
+    content: `Appsters is a top-grade fintech app development company that builds industry-leading fintech applications. Our tried-and-true fintech app development services help entrepreneurs and financial institutions create super-fast, intuitive, and user-centered fintech apps with impregnable security. `,
     BannerBg: BannerBg,
 }
 
@@ -136,12 +136,12 @@ export const IndustryServiceList = [
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
     title: "Transform Your Financial Services with Custom Fintech Apps!",
-    text: "Partner with BitsWits to build secure, user-friendly apps that streamline payments, investments, and transactions, boosting your business efficiency and customer trust.",
+    text: "Partner with Appsters to build secure, user-friendly apps that streamline payments, investments, and transactions, boosting your business efficiency and customer trust.",
 }
 
 export const IndustrySliderContent = {
     title: "Fintech App Development Solutions for Banks, Investors, and Financial Institutions",
-    text: "At BitsWits, we create fintech apps that drive innovation and efficiency in the financial industry. Our apps empower banks, wealth managers, and consumers to manage their finances effortlessly, providing real-time access to critical financial data and services.",
+    text: "At Appsters, we create fintech apps that drive innovation and efficiency in the financial industry. Our apps empower banks, wealth managers, and consumers to manage their finances effortlessly, providing real-time access to critical financial data and services.",
 }
 
 export const IndustrySliderList = [
@@ -289,7 +289,7 @@ export const TechnologiesIcons = [
 
 export const ProcessContent = {
     title: "Efficient Fintech App Development Process for Rapid Market Entry",
-    text: (<>At BitsWits, we follow a practical and efficient <Link href='/blog/application-development-life-cycle'>app development lifecycle</Link> to create fintech apps that meet modern financial needs, with a focus on scalability and usability.</>),
+    text: (<>At Appsters, we follow a practical and efficient <Link href='/blog/application-development-life-cycle'>app development lifecycle</Link> to create fintech apps that meet modern financial needs, with a focus on scalability and usability.</>),
 }
 
 export const ProcessTabs = [
@@ -356,8 +356,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a leading fintech app development company, trusted for building secure, scalable, and regulation-compliant financial solutions that drive both innovation and market growth."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a leading fintech app development company, trusted for building secure, scalable, and regulation-compliant financial solutions that drive both innovation and market growth."
 }
 
 export const WhyChooseList1 = [
@@ -388,7 +388,7 @@ export const WhyChooseList2 = [
 
 export const OffersContent = {
     title: "Custom FinTech Application Development for Industry Compliance",
-    text: "BitsWits, as a leading fintech app development company, helps financial organizations create top-notch applications that meet industry compliance standards and keep a strong check on security and operational integrity.",
+    text: "Appsters, as a leading fintech app development company, helps financial organizations create top-notch applications that meet industry compliance standards and keep a strong check on security and operational integrity.",
 }
 
 export const OffersTabs = [
@@ -435,8 +435,8 @@ export const OffersTabs = [
 ];
 
 export const FuelingContent1 = {
-    title: "Benefits of Building a Fintech App with BitsWits",
-    text: "When you choose BitsWits for your fintech app development, you unlock several key benefits that can truly transform your financial operations. Here’s what you can expect:",
+    title: "Benefits of Building a Fintech App with Appsters",
+    text: "When you choose Appsters for your fintech app development, you unlock several key benefits that can truly transform your financial operations. Here’s what you can expect:",
     FuelingImg1: FuelingImg1
 }
 
@@ -486,26 +486,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -514,9 +514,9 @@ export const TestimonialSLIDES = [
 
 export const FuelingContent2 = {
     title: "Integrating Advanced Technologies in Fintech App Development",
-    text: "Whether it's AI for financial analytics, blockchain for secure transactions, or cloud integration for a scalable and sustainable app architecture, BitsWits is a strong advocate of using the emerging technology to build stellar, industry-leading fintech applications. ",
+    text: "Whether it's AI for financial analytics, blockchain for secure transactions, or cloud integration for a scalable and sustainable app architecture, Appsters is a strong advocate of using the emerging technology to build stellar, industry-leading fintech applications. ",
     subtitle: "Our Risk-Free MVP Development Approach to Build Your App",
-    subtext: "BitsWits strongly believes in the MVP development model and encourages clients to adapt this risk-free app development approach and scale as they gain traction. ",
+    subtext: "Appsters strongly believes in the MVP development model and encourages clients to adapt this risk-free app development approach and scale as they gain traction. ",
     FuelingImg: FuelingImg,
     FuelingImg1: FuelingImg1
 }
@@ -707,7 +707,7 @@ export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -820,14 +820,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -835,7 +835,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

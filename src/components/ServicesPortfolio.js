@@ -59,7 +59,7 @@ const ServicesPortfolio = (props) => {
                         {visibleItems.map((item) => (
                             <Col lg={4} md={6} key={item.id}>
                                 <div className={`${styles.poliBox} ${styles[`poliBox${item.id}`]}`}>
-                                    <Image quality={75} src={item.image} alt="BitsWits" className={`img-fluid`} />
+                                    <Image quality={75} src={item.image} alt="Appsters" className={`img-fluid`} />
                                     <div className={styles.polioTxt}>
                                         <Link href={item.link} className={styles.sucssBtn}>
                                             View case study

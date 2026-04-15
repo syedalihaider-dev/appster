@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Affordable Top Mobile App Development Services',
     description: ' We provide app development services to help you emerge as the market leader with tailored mobile apps that accelerate ROI for your business. ',
     url: '/lp/mobile-app-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },

@@ -230,7 +230,7 @@ export default function mobileApplication() {
             ),
           },
         ]}
-        video={<Image src={web} className="img-fluid" alt="bitswits" />}
+        video={<Image src={web} className="img-fluid" alt="Appsters" />}
       />
       <CustomCards
         assignClass="notSame"
@@ -342,7 +342,7 @@ export default function mobileApplication() {
             ),
           },
         ]}
-        video={<Image src={customWeb} className="img-fluid" alt="bitswits" />}
+        video={<Image src={customWeb} className="img-fluid" alt="Appsters" />}
       />
       <BICards
         flexRow="displayFlex"
@@ -484,7 +484,7 @@ export default function mobileApplication() {
           },
           {
             question:
-              "Does Bitswits Offers Hybrid and Native Application Development?",
+              "Does Appsters Offers Hybrid and Native Application Development?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -497,7 +497,7 @@ export default function mobileApplication() {
           },
           {
             question:
-              "Why Choose Bitswits as a Mobile Application Development Company?",
+              "Why Choose Appsters as a Mobile Application Development Company?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -533,7 +533,7 @@ export default function mobileApplication() {
             ),
           },
           {
-            question: "What industries does BitsWits cater do?",
+            question: "What industries does Appsters cater do?",
             answer: (
               <>
                 It is a long established fact that a reader will be distracted
@@ -553,7 +553,7 @@ export default function mobileApplication() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Business Intelligence Software Development",
-            "url": "https://www.bitswits.co/business-intelligence-software-development",
+            "url": "https://www.Appsters.co/business-intelligence-software-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -567,15 +567,15 @@ export default function mobileApplication() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/business-intelligence-software-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/business-intelligence-software-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }                                                
         `}
@@ -586,8 +586,8 @@ export default function mobileApplication() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Business Intelligence Software Development",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbussiness-intelligence.3ae5ec13.png&w=3840&q=75",
-            "url": "https://www.bitswits.co/business-intelligence-software-development",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbussiness-intelligence.3ae5ec13.png&w=3840&q=75",
+            "url": "https://www.Appsters.co/business-intelligence-software-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -615,11 +615,11 @@ export default function mobileApplication() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
           }                                  
         `}
@@ -630,11 +630,11 @@ export default function mobileApplication() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Business Intelligence Software Development",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbussiness-intelligence.3ae5ec13.png&w=3840&q=75",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbussiness-intelligence.3ae5ec13.png&w=3840&q=75",
             "description": "As Business Intelligence (BI) developers push the boundaries of technology to automate crucial business decisions, enterprises neglecting investment risk falling behind their more modern competitors. We specialize in proficiently programming and implementing BI solutions for market forecasting, trend analysis, and operations optimization.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

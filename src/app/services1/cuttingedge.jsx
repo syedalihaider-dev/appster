@@ -24,7 +24,7 @@ const data = [
     },
     {
         title: (<>Mobile Web Apps<br />Development Services</>),
-        txt: "BitsWits helps businesses achieve 2X conversion rates with high-performance web solutions. We deliver scalable web portals, enterprise apps for better management, and customer-facing applications, including analytics apps and B2B eCommerce solutions, to enhance business growth and efficiency.",
+        txt: "Appsters helps businesses achieve 2X conversion rates with high-performance web solutions. We deliver scalable web portals, enterprise apps for better management, and customer-facing applications, including analytics apps and B2B eCommerce solutions, to enhance business growth and efficiency.",
         links: "",
     },
     {

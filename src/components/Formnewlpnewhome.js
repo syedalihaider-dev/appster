@@ -86,7 +86,7 @@ const Formnewlpnewhome = () => {
         };
         let bodyContent = JSON.stringify({
             "IP": `${ip.ip} - ${ip.city} - ${ip.country}`,
-            "Brand": "Bitswits",
+            "Brand": "Appsters",
             "Page": `${currentRoute}`,
             "Date": currentdate,
             "Time": currentdate,
@@ -190,7 +190,7 @@ const Formnewlpnewhome = () => {
 
                     </Row>
                     <div className={styles.ipsun}>
-                        <Image src={badgelogo} alt='BitsWits' className='img-fluid' />
+                        <Image src={badgelogo} alt='Appsters' className='img-fluid' />
                     </div>
                     <div className={styles.appli}>
                         <p className="mb-0">No#1 Top Application Development Company</p>

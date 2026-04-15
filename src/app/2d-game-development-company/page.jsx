@@ -95,7 +95,7 @@ export default function gamedevelopmentcompany() {
           text: `Our team is well versed in various technologies such as C++,
           Unity, Unreal Engine, HTML5, and more to provide a seamless
           single-player gaming experience across different platforms.
-          BitsWits guarantee bug-free code, easy navigation, intuitive
+          Appsters guarantee bug-free code, easy navigation, intuitive
           controls, and perfect performance in our games so players can
           enjoy their experience without frustration. Whether you're
           looking for a complex 2D game or an old-school classic
@@ -223,7 +223,7 @@ export default function gamedevelopmentcompany() {
                   Our team is well versed in various technologies such as C++,
                   Unity, Unreal Engine, HTML5, and more to provide a seamless
                   single-player gaming experience across different platforms.
-                  BitsWits guarantee bug-free code, easy navigation, intuitive
+                  Appsters guarantee bug-free code, easy navigation, intuitive
                   controls, and perfect performance in our games so players can
                   enjoy their experience without frustration. Whether you're
                   looking for a complex 2D game or an old-school classic
@@ -300,7 +300,7 @@ export default function gamedevelopmentcompany() {
                 iOS 2D <br /> Game Development{" "}
               </>
             ),
-            text: "We offer top-notch iOS 2D game development services that combine top-of-the-line technology and creative designs. BitsWits is a master at creating visually compelling games with captivating storylines, vibrant characters, and intense levels. From conceptualization to design and launch, our team ensures you get a complete gaming experience that stands out from the crowd.",
+            text: "We offer top-notch iOS 2D game development services that combine top-of-the-line technology and creative designs. Appsters is a master at creating visually compelling games with captivating storylines, vibrant characters, and intense levels. From conceptualization to design and launch, our team ensures you get a complete gaming experience that stands out from the crowd.",
             gameicon: gameicon1,
           },
           {
@@ -310,7 +310,7 @@ export default function gamedevelopmentcompany() {
                 Android 2D <br /> Game Development{" "}
               </>
             ),
-            text: "BitsWits is the go-to destination for all your Android 2D game development needs. From creating solid and user-friendly architecture to stunning visuals and fast loading times, we ensure the outcome is exceptional. With our expertise in Java language and open-source platforms like Unity 2D & Unreal Engine, we provide high-end services for game development, design & testing.",
+            text: "Appsters is the go-to destination for all your Android 2D game development needs. From creating solid and user-friendly architecture to stunning visuals and fast loading times, we ensure the outcome is exceptional. With our expertise in Java language and open-source platforms like Unity 2D & Unreal Engine, we provide high-end services for game development, design & testing.",
             gameicon: gameicon2,
           },
           {
@@ -320,7 +320,7 @@ export default function gamedevelopmentcompany() {
                 2D Games <br /> For Consoles And PCs{" "}
               </>
             ),
-            text: "BitsWits provides the best 2D games for PCs and consoles. With our expansive library of titles, you can get your hands on classic console and arcade games and explore new worlds full of adventure, excitement, and challenge. We create intricate storylines with captivating characters that draw players in from start to finish. We also work closely with our partners to develop world-class titles for platforms such as Xbox, PlayStation, Nintendo Switch, and Windows PC.",
+            text: "Appsters provides the best 2D games for PCs and consoles. With our expansive library of titles, you can get your hands on classic console and arcade games and explore new worlds full of adventure, excitement, and challenge. We create intricate storylines with captivating characters that draw players in from start to finish. We also work closely with our partners to develop world-class titles for platforms such as Xbox, PlayStation, Nintendo Switch, and Windows PC.",
             gameicon: gameicon3,
           },
         ]}
@@ -331,13 +331,13 @@ export default function gamedevelopmentcompany() {
         title="Compelling Reasons To Enlist Our 2D Game Development Company"
         main={main}
         heading1="Customized Solutions"
-        text1="BitsWits provides tailor-made 2D games development services tailored to each client's needs and requirements. This helps create an engaging gaming experience for the user, which can be further modified according to their preferences."
+        text1="Appsters provides tailor-made 2D games development services tailored to each client's needs and requirements. This helps create an engaging gaming experience for the user, which can be further modified according to their preferences."
         engIcon1={engIcon1}
         heading2="Innovative Solutions"
-        text2="BitsWits is always looking for new and innovative ways to develop 2D games that provide a unique and immersive gaming experience. We use the latest technologies and techniques to ensure that the users enjoy the best gaming experience."
+        text2="Appsters is always looking for new and innovative ways to develop 2D games that provide a unique and immersive gaming experience. We use the latest technologies and techniques to ensure that the users enjoy the best gaming experience."
         engIcon2={engIcon2}
         heading3="Experienced Professionals"
-        text3="The team at BitsWits consists of experienced professionals with years of experience in 2D game development. This ensures that the games developed are efficient and bug-free, providing a fantastic gaming experience to the users."
+        text3="The team at Appsters consists of experienced professionals with years of experience in 2D game development. This ensures that the games developed are efficient and bug-free, providing a fantastic gaming experience to the users."
         engIcon3={engIcon3}
         heading4="Exclusive Client Service"
         text4="We are also proud to offer exclusive client services, including game beta testing and post-release support. We guarantee a smooth launch for your game and ensure your players have the best experience possible."
@@ -511,7 +511,7 @@ export default function gamedevelopmentcompany() {
               "@context": "https://schema.org/",
               "@type": "WebSite",
               "name": "2D Game Development Company",
-              "url": "https://www.bitswits.co/2d-game-development-company",
+              "url": "https://www.Appsters.co/2d-game-development-company",
               "potentialAction": {
                 "@type": "SearchAction",
                 "target": "{search_term_string}",
@@ -521,23 +521,23 @@ export default function gamedevelopmentcompany() {
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "BitsWits",
-              "url": "https://www.bitswits.co/2d-game-development-company",
-              "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "name": "Appsters",
+              "url": "https://www.Appsters.co/2d-game-development-company",
+              "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://twitter.com/BitsWits_/",
-                "https://www.youtube.com/@officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://www.linkedin.com/company/officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://twitter.com/Appsters_/",
+                "https://www.youtube.com/@officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://www.linkedin.com/company/officialAppsters"
               ]
             },
             {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               "name": "2D Game Development Company",
-              "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbann.35180669.png&w=1920&q=75",
-              "url": "https://www.bitswits.co/2d-game-development-company",
+              "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbann.35180669.png&w=1920&q=75",
+              "url": "https://www.Appsters.co/2d-game-development-company",
               "telephone": "+1 713 565 7656",
               "priceRange": "$10000",
               "address": {
@@ -560,22 +560,22 @@ export default function gamedevelopmentcompany() {
                 "closes": "06:00"
               },
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://twitter.com/BitsWits_/",
-                "https://www.linkedin.com/company/officialBitsWits",
-                "https://www.youtube.com/@officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://twitter.com/Appsters_/",
+                "https://www.linkedin.com/company/officialAppsters",
+                "https://www.youtube.com/@officialAppsters"
               ]
             },
             {
               "@context": "https://schema.org/",
               "@type": "Product",
               "name": "2D Game Development Company",
-              "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbann.35180669.png&w=1920&q=75",
+              "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbann.35180669.png&w=1920&q=75",
               "description": "Take your gaming experience to the next level with our award-winning 2D game developers! We craft innovative games with superior graphics, sounds, and controls.",
               "brand": {
                 "@type": "Brand",
-                "name": "BitsWits"
+                "name": "Appsters"
               },
               "aggregateRating": {
                 "@type": "AggregateRating",

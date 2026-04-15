@@ -19,7 +19,7 @@ const PopUp = (props) => {
                 <Container className="h-100">
                     <Row className="h-100">
                         <Col lg={6} md={6} className="my-auto">
-                            <Image src={BGIMG.src} alt="Bitswits Popup IMG" width={1862} height={1152} />
+                            <Image src={BGIMG.src} alt="Appsters Popup IMG" width={1862} height={1152} />
                         </Col>
                         <Col lg={6} md={6}>
                             <div className={styles.fromPopup}>

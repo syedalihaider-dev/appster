@@ -44,7 +44,7 @@ const Client = () => {
                                     <span className={styles.quoteLeft}>
                                         <FaQuoteLeft />
                                     </span>
-                                    <p>From start to finish, the process was incredibly easy. It was a pleasure to work with the BitsWits squad. </p>
+                                    <p>From start to finish, the process was incredibly easy. It was a pleasure to work with the Appsters squad. </p>
 
                                     <div className={styles.cardBottom}>
                                         <div className="img">
@@ -124,7 +124,7 @@ const Client = () => {
                                     <span className={styles.quoteLeft}>
                                         <FaQuoteLeft />
                                     </span>
-                                    <p>From start to finish, the process was incredibly easy. It was a pleasure to work with the BitsWits squad. </p>
+                                    <p>From start to finish, the process was incredibly easy. It was a pleasure to work with the Appsters squad. </p>
 
                                     <div className={styles.cardBottom}>
                                         <div className="img">
@@ -207,7 +207,7 @@ const Client = () => {
                             <div className={styles.txt}>
                                 <h2 className='text-black mb-3 mb-lg-5'>Our Clients</h2>
                             </div>
-                            <Image src={clientImage} alt='Bitswits' className='d-block mx-auto' />
+                            <Image src={clientImage} alt='Appsters' className='d-block mx-auto' />
                         </Col>
                     </Row>
                 </div>

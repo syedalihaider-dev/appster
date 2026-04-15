@@ -69,43 +69,43 @@ const Nextproject = () => {
                         <Col>
                             <h2 className='fontf font-bold white font65'>A Glimpse Of What’s  <br></br>
                             About To Come </h2>
-                            <h2 className='fontf font-bold font75 grdiant'>At BitsWits!</h2>
+                            <h2 className='fontf font-bold font75 grdiant'>At Appsters!</h2>
                             <a className={styles.project} href="tel:(833) 500-6007">(833) 500-6007</a>
                         </Col>
                     </Row>
                     <div className={styles.nextalign}>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon1} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon1} className="img-fluid" />
                             <h3>Enterprise</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon2} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon2} className="img-fluid" />
                             <h3>MObile App Daily</h3>
                             <p>Top Mobile Application Development Company</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon3} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon3} className="img-fluid" />
                             <h3>App Futura</h3>
                             <p>Top Application Development Company</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon4} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon4} className="img-fluid" />
                             <h3>Clutch</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon5} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon5} className="img-fluid" />
                             <h3>Clutch</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon6} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon6} className="img-fluid" />
                             <h3>Good Firms</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon7} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon7} className="img-fluid" />
                             <h3>INC.5000</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
@@ -116,37 +116,37 @@ const Nextproject = () => {
                     <Slider {...awardslogo} className={` ${styles.nextalign1} proclass `}>
                     
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon1} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon1} className="img-fluid" />
                             <h3>Enterprise</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon2} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon2} className="img-fluid" />
                             <h3>MObile App Daily</h3>
                             <p>Top Mobile Application Development Company</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon3} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon3} className="img-fluid" />
                             <h3>App Futura</h3>
                             <p>Top Application Development Company</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon4} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon4} className="img-fluid" />
                             <h3>Clutch</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon5} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon5} className="img-fluid" />
                             <h3>Clutch</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon6} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon6} className="img-fluid" />
                             <h3>Good Firms</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>
                         <div className={styles.mobile}>
-                            <Image  alt="BitsWits"      src={icon7} className="img-fluid" />
+                            <Image  alt="Appsters"      src={icon7} className="img-fluid" />
                             <h3>INC.5000</h3>
                             <p>Best Mobile Application Developers 2022</p>
                         </div>

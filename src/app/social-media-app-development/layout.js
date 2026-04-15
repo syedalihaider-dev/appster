@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Social Media App Development Company | Social Media App Developers',
     description: 'Experience the epitome of social media innovation with our top-notch app development company, delivering exceptional results for businesses worldwide.',
     url: '/social-media-app-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

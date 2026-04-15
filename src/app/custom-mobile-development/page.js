@@ -109,12 +109,12 @@ export default function CustomMobile() {
   return (
     <>
       <ServicesBanner
-        subtitle="BitsWits Is Your One-Stop Shop For"
+        subtitle="Appsters Is Your One-Stop Shop For"
         title={<> Custom Mobile Application Development for Businesses </>}
         text={
           <>
 
-            BitsWits is your ultimate destination for custom mobile application
+            Appsters is your ultimate destination for custom mobile application
             development for businesses. We provide comprehensive solutions for
             companies seeking tailored mobile apps to boost their operations and
             customer engagement
@@ -315,7 +315,7 @@ export default function CustomMobile() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Custom Mobile App Development Company",
-            "url": "https://www.bitswits.co/custom-mobile-development",
+            "url": "https://www.Appsters.co/custom-mobile-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -329,15 +329,15 @@ export default function CustomMobile() {
            {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/custom-mobile-development",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/custom-mobile-development",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ] 
            }                                                               
         `}
@@ -348,8 +348,8 @@ export default function CustomMobile() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Custom Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner_image.47c629c5.png&w=1080&q=75",
-            "url": "https://www.bitswits.co/custom-mobile-development",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner_image.47c629c5.png&w=1080&q=75",
+            "url": "https://www.Appsters.co/custom-mobile-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -377,11 +377,11 @@ export default function CustomMobile() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
           }                                                
         `}
@@ -392,11 +392,11 @@ export default function CustomMobile() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Custom Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner_image.47c629c5.png&w=1080&q=75",
-            "description": "BitsWits is your ultimate destination for custom mobile application development for businesses. We provide comprehensive solutions for companies seeking tailored mobile apps to boost their operations and customer engagement",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner_image.47c629c5.png&w=1080&q=75",
+            "description": "Appsters is your ultimate destination for custom mobile application development for businesses. We provide comprehensive solutions for companies seeking tailored mobile apps to boost their operations and customer engagement",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

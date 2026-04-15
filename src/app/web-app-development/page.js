@@ -37,7 +37,7 @@ export default function gamedevelopmentcompany() {
         title={<> Where Imagination Meets Creativity </>}
         text={
           <>
-            BitsWits is a future-forward, human-centered, and client-focused web
+            Appsters is a future-forward, human-centered, and client-focused web
             development company that revolutionizes the way businesses appear on
             the online paradigm. We build dynamic, multi-purpose, secure, and
             highly-performing websites that help brands gain online traction in
@@ -192,7 +192,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Web App Development Company",
-            "url": "https://www.bitswits.co/web-app-development",
+            "url": "https://www.Appsters.co/web-app-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -206,15 +206,15 @@ export default function gamedevelopmentcompany() {
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "BitsWits",
-              "url": "https://www.bitswits.co/web-app-development",
-              "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "name": "Appsters",
+              "url": "https://www.Appsters.co/web-app-development",
+              "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://twitter.com/BitsWits_/",
-                "https://www.youtube.com/@officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://www.linkedin.com/company/officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://twitter.com/Appsters_/",
+                "https://www.youtube.com/@officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://www.linkedin.com/company/officialAppsters"
               ] 
             }                     
         `}
@@ -225,8 +225,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Web App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/web-app-development",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/web-app-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -254,11 +254,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
            }                                                                                                                
         `}
@@ -269,11 +269,11 @@ export default function gamedevelopmentcompany() {
               "@context": "https://schema.org/", 
               "@type": "Product", 
               "name": "Web App Development Company",
-              "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-              "description": "BitsWits is a future-forward, human-centered, and client-focused web development company that revolutionizes the way businesses appear on the online paradigm. We build dynamic, multi-purpose, secure, and highly-performing websites that help brands gain online traction in no time.",
+              "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "description": "Appsters is a future-forward, human-centered, and client-focused web development company that revolutionizes the way businesses appear on the online paradigm. We build dynamic, multi-purpose, secure, and highly-performing websites that help brands gain online traction in no time.",
               "brand": {
                 "@type": "Brand",
-                "name": "BitsWits"
+                "name": "Appsters"
               },
               "aggregateRating": {
                 "@type": "AggregateRating",

@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "Leading Mobile App Development Company in Toronto  ",
-  description: "BitsWits is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.",
+  description: "Appsters is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.",
   //===== OG Tags =====
   openGraph: {
     title: 'Leading Mobile App Development Company in Toronto',
-    description: 'BitsWits is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.',
+    description: 'Appsters is a top-grade mobile app development company in Toronto that specializes in creating UX-driven mobile apps for startups and Fortune 500 companies.',
     url: '/app-development-company-toronto',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },

@@ -104,12 +104,12 @@ export default function Transformideaslp6(props) {
                                     <h3>Why Choose Us</h3>
                                     <h2>For Your Mobile App Development
                                         Needs?</h2>
-                                    <p className='mt-4'>Our <span>mobile app development services</span> turn your innovative ideas into success stories by crafting apps that stand out in the market. While you <span>focus on your business</span>, Bitswits will handle the technical aspects of developing your app.</p>
-                                    <p>Did you know that a <span>poorly developed app</span> can negatively impact your brand's reputation? That's a risk you don't want to take. But with Bitswits, there's no need to worry. We ensure your app functions seamlessly and enhances your brand's digital presence.</p>
+                                    <p className='mt-4'>Our <span>mobile app development services</span> turn your innovative ideas into success stories by crafting apps that stand out in the market. While you <span>focus on your business</span>, Appsters will handle the technical aspects of developing your app.</p>
+                                    <p>Did you know that a <span>poorly developed app</span> can negatively impact your brand's reputation? That's a risk you don't want to take. But with Appsters, there's no need to worry. We ensure your app functions seamlessly and enhances your brand's digital presence.</p>
                                     <p>Unlike <span>Mobile app development firms</span>, we don't believe in a one-size-fits-all approach. We understand that the reason behind an underperforming app often lies in its development and user experience. That's where our expertise comes into play. With a <span>team of seasoned mobile app developers</span>, the latest technological resources, and a bespoke development strategy.</p>
                                     <p className='mt-4 mb-4'>Every app we develop undergoes thorough quality checks to ensure <span>IT'S NOT JUST GOOD, BUT GREAT</span>.</p>
                                     <div className={styles.ourt}>
-                                        <a href="tel:8335006007" className={styles.dus}>Choose Expertise, Choose Bitswits – Let's Get Started </a>
+                                        <a href="tel:8335006007" className={styles.dus}>Choose Expertise, Choose Appsters – Let's Get Started </a>
                                     </div>
                                 </Col>
                             </Row>
@@ -121,7 +121,7 @@ export default function Transformideaslp6(props) {
                                 {items.map((item, index) => (
 
                                     <div className={styles.post}>
-                                        <Image alt='BitsWits' src={item.image} className='img-fluid mb-3 m-auto pt-5' />
+                                        <Image alt='Appsters' src={item.image} className='img-fluid mb-3 m-auto pt-5' />
                                         <p>{item.text}</p>
                                     </div>
 
@@ -140,12 +140,12 @@ export default function Transformideaslp6(props) {
                                 <h3>Why Choose Us</h3>
                                 <h2>For Your Mobile App Development
                                     Needs?</h2>
-                                <p className='mt-4'>Our <span>mobile app development services</span> turn your innovative ideas into success stories by crafting apps that stand out in the market. While you <span>focus on your business</span>, Bitswits will handle the technical aspects of developing your app.</p>
-                                <p>Did you know that a <span>poorly developed app</span> can negatively impact your brand's reputation? That's a risk you don't want to take. But with Bitswits, there's no need to worry. We ensure your app functions seamlessly and enhances your brand's digital presence.</p>
+                                <p className='mt-4'>Our <span>mobile app development services</span> turn your innovative ideas into success stories by crafting apps that stand out in the market. While you <span>focus on your business</span>, Appsters will handle the technical aspects of developing your app.</p>
+                                <p>Did you know that a <span>poorly developed app</span> can negatively impact your brand's reputation? That's a risk you don't want to take. But with Appsters, there's no need to worry. We ensure your app functions seamlessly and enhances your brand's digital presence.</p>
                                 <p>Unlike <span>Mobile app development firms</span>, we don't believe in a one-size-fits-all approach. We understand that the reason behind an underperforming app often lies in its development and user experience. That's where our expertise comes into play. With a <span>team of seasoned mobile app developers</span>, the latest technological resources, and a bespoke development strategy.</p>
                                 <p className='mt-4 mb-4'>Every app we develop undergoes thorough quality checks to ensure <span>IT'S NOT JUST GOOD, BUT GREAT</span>.</p>
                                 <div className={styles.ourt}>
-                                    <a href="tel:8335006007" className={styles.dus}>Choose Expertise, Choose Bitswits – Let's Get Started </a>
+                                    <a href="tel:8335006007" className={styles.dus}>Choose Expertise, Choose Appsters – Let's Get Started </a>
                                 </div>
                             </Col>
                             <Col lg={6}>
@@ -154,7 +154,7 @@ export default function Transformideaslp6(props) {
                                         {items.map((item, index) => (
                                             <Col key={index} md={6} lg={4}>
                                                 <div className={styles.post}>
-                                                    <Image alt='BitsWits' src={item.image} className='img-fluid mb-3' />
+                                                    <Image alt='Appsters' src={item.image} className='img-fluid mb-3' />
                                                     <p>{item.text}</p>
                                                 </div>
                                             </Col>

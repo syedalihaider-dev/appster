@@ -419,7 +419,7 @@ const ScreenCalculator = () => {
                             id: "premium",
                             img: setup1,
                             label: 'Premium Setup',
-                            description: 'BitsWits’s signature package covers every small detail you need to get a high quality app published to the world.',
+                            description: 'Appsters’s signature package covers every small detail you need to get a high quality app published to the world.',
                             cost: '000',
                             checked: false,
                             mockupsData: [
@@ -480,7 +480,7 @@ const ScreenCalculator = () => {
                             id: "signature",
                             img: setup2,
                             label: 'Signature Setup',
-                            description: 'BitsWits’s signature package covers every small detail you need to get a high quality app published to the world.',
+                            description: 'Appsters’s signature package covers every small detail you need to get a high quality app published to the world.',
                             cost: '000',
                             checked: false,
                             mockupsData: [
@@ -577,77 +577,77 @@ const ScreenCalculator = () => {
     const renderImage = () => {
         switch (true) {
             case selectedFeatures.includes('Google Android'):
-                return <Image quality={90} loading='lazy' src={screen1} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen1} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Apple iOS'):
-                return <Image quality={90} loading='lazy' src={screen2} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen2} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Progressive Web App (PWA)'):
-                return <Image quality={90} loading='lazy' src={screen3} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen3} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('See or Book Calendar Events'):
-                return <Image quality={90} loading='lazy' src={screen4} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen4} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Map & Location'):
-                return <Image quality={90} loading='lazy' src={screen5} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen5} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Weather'):
-                return <Image quality={90} loading='lazy' src={screen6} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen6} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Host Documents'):
-                return <Image quality={90} loading='lazy' src={screen7} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen7} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Manage Tasks and Checklists'):
-                return <Image quality={90} loading='lazy' src={screen8} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen8} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Scheduled Content'):
-                return <Image quality={90} loading='lazy' src={screen9} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen9} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Flash Cards'):
-                return <Image quality={90} loading='lazy' src={screen10} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen10} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Chat and Message Boards'):
-                return <Image quality={90} loading='lazy' src={screen11} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen11} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Social Media'):
-                return <Image quality={90} loading='lazy' src={screen12} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen12} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Weight Tracker'):
-                return <Image quality={90} loading='lazy' src={screen13} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen13} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Stream Video'):
-                return <Image quality={90} loading='lazy' src={screen14} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen14} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Stream Audio'):
-                return <Image quality={90} loading='lazy' src={screen15} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen15} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Image Gallery'):
-                return <Image quality={90} loading='lazy' src={screen16} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen16} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Forms'):
-                return <Image quality={90} loading='lazy' src={screen17} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen17} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Quizzez and Surveys'):
-                return <Image quality={90} loading='lazy' src={screen18} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen18} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Book Appointments and Reservations'):
-                return <Image quality={90} loading='lazy' src={screen19} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen19} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('Email'):
-                return <Image quality={90} loading='lazy' src={screen20} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen20} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Social (Facebook, Twitter, ...etc)'):
-                return <Image quality={90} loading='lazy' src={screen21} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen21} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Single Sign On (SSO)'):
-                return <Image quality={90} loading='lazy' src={screen22} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen22} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('Camera'):
-                return <Image quality={90} loading='lazy' src={screen23} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen23} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Geo-Fences'):
-                return <Image quality={90} loading='lazy' src={screen24} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen24} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Bluetooth'):
-                return <Image quality={90} loading='lazy' src={screen25} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen25} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('Up-front Cost'):
-                return <Image quality={90} loading='lazy' src={screen26} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen26} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('In-App Purchases'):
-                return <Image quality={90} loading='lazy' src={screen27} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen27} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Free'):
-                return <Image quality={90} loading='lazy' src={screen28} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen28} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('Enterprise'):
-                return <Image quality={90} loading='lazy' src={screen29} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen29} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Business'):
-                return <Image quality={90} loading='lazy' src={screen30} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen30} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Growth'):
-                return <Image quality={90} loading='lazy' src={screen31} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen31} alt='Appsters' className='img-fluid' />;
             // ======================= //
             case selectedFeatures.includes('Premium Setup'):
-                return <Image quality={90} loading='lazy' src={screen32} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen32} alt='Appsters' className='img-fluid' />;
             case selectedFeatures.includes('Signature Setup'):
-                return <Image quality={90} loading='lazy' src={screen33} alt='BitsWits' className='img-fluid' />;
+                return <Image quality={90} loading='lazy' src={screen33} alt='Appsters' className='img-fluid' />;
             default:
                 return null;
         }
@@ -667,49 +667,49 @@ const ScreenCalculator = () => {
                                 <div className={styles.progressBar}>
                                     <div className={`${styles.bar} ${currentStep >= 0 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>START</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 1 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>FEATURES</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 2 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>USERS</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 3 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>INTEGRATIONS</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 4 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>MONETIZATION</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 5 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>MAINTENANCE <br /> & HOSTING</p>
                                     </div>
                                     <div className={`${styles.bar} ${currentStep >= 6 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>BUILDFIRE <br /> SERVICES</p>
                                     </div>
                                     <div className={`${styles.bar} ${styles.barLast} ${currentStep >= 7 ? styles.active : ''}`}>
                                         <span>
-                                            <Image quality={90} loading='lazy' src={check} alt='BitsWits' className={`${styles.check} img-fluid`} />
+                                            <Image quality={90} loading='lazy' src={check} alt='Appsters' className={`${styles.check} img-fluid`} />
                                         </span>
                                         <p>ESTIMATION</p>
                                     </div>
@@ -737,7 +737,7 @@ const ScreenCalculator = () => {
                                                                         />
                                                                         <label htmlFor={`checkbox-${id}`} className={styles.checkboxLabel}>
                                                                             <div className={styles.imgBox}>
-                                                                                <Image src={img} alt='BitsWits' className={`img-fluid`} />
+                                                                                <Image src={img} alt='Appsters' className={`img-fluid`} />
                                                                             </div>
                                                                             <div className={styles.costBox2}>
                                                                                 <p className={styles.cost}>
@@ -763,7 +763,7 @@ const ScreenCalculator = () => {
                                                                                     <div key={index} className={styles.costBox4}>
                                                                                         <div className={styles.listBox}>
                                                                                             <div className={styles.headBox}>
-                                                                                                <Image src={mockImg} alt='BitsWits' className={`img-fluid`} />
+                                                                                                <Image src={mockImg} alt='Appsters' className={`img-fluid`} />
                                                                                                 <h5>{heading}</h5>
                                                                                             </div>
                                                                                             <ul>

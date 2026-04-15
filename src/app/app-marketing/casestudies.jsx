@@ -13,7 +13,7 @@ const options = { align: 'start', loop: "true" }
 const data = {
     subtitle: "Case Studies",
     title: "Our App Marketing Success Stories",
-    content: "BitsWits app marketing success stories showcase how our strategies as a leading mobile app advertising agency drive user acquisition, boost engagement, and deliver measurable growth—setting us apart among top app marketing companies."
+    content: "Appsters app marketing success stories showcase how our strategies as a leading mobile app advertising agency drive user acquisition, boost engagement, and deliver measurable growth—setting us apart among top app marketing companies."
 }
 
 
@@ -21,13 +21,13 @@ const caseStudies = [
     {
         title: "Vifty",
         roi: "+300% Increase in ROI",
-        description: "BitsWits developed Vifty, a multi-functional platform allowing users to list gigs, book online consultations, and interact socially. The app includes reels, a booking module, rating and review systems, video calling, and one-to-one chat. Vifty also supports social posts and external sharing for enhanced user engagement.",
+        description: "Appsters developed Vifty, a multi-functional platform allowing users to list gigs, book online consultations, and interact socially. The app includes reels, a booking module, rating and review systems, video calling, and one-to-one chat. Vifty also supports social posts and external sharing for enhanced user engagement.",
         image: Case01.src,
     },
     {
         title: "SoulScribe",
         roi: "+50% Increase in Vifty's Key KPIs",
-        description: "SoulScribe is a social media platform where users manage posts, maintain memory journals with beneficiaries, and connect with friends.BitsWits integrated features like search and filter, in-app messaging, group management, and social interactions, making it a comprehensive tool for personal journaling and building meaningful connections.",
+        description: "SoulScribe is a social media platform where users manage posts, maintain memory journals with beneficiaries, and connect with friends.Appsters integrated features like search and filter, in-app messaging, group management, and social interactions, making it a comprehensive tool for personal journaling and building meaningful connections.",
         image: Case02.src,
     }
 ];

@@ -6,7 +6,7 @@ import Image from "next/image"
 
 export const data = {
     subTitle: "A Glimpse Of What's About To Come",
-    title: "At BitsWits!",
+    title: "At Appsters!",
     text: "Let Our eCommerce Website Developers Can Develop Your Online Store From Scratch By Working On These Top Platforms.",
 }
 

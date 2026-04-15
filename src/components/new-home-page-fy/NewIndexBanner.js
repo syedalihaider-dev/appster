@@ -111,7 +111,7 @@ const NewIndex2Banner = () => {
                                     Where Exceptional Apps Are Just The Beginning.
                                 </h2>
                                 <p className=" font-regular text-white font16 mt-3">
-                                    As a top-rated mobile app development company, Bitswits excels
+                                    As a top-rated mobile app development company, Appsters excels
                                     in transforming ideas into engaging, high-performance apps.
                                     Trust us to deliver solutions that combine innovation with a
                                     seamless user experience, propelling your business to new
@@ -173,10 +173,10 @@ const NewIndex2Banner = () => {
                 </ul>
                 <div className={styles.nav}>
                     <div className={`${styles.btn} prev`} onClick={activate}>
-                        <Image src={prev} alt="BitsWits" className="img-fluid prev" />
+                        <Image src={prev} alt="Appsters" className="img-fluid prev" />
                     </div>
                     <div className={`${styles.btn} next`} onClick={activate}>
-                        <Image src={next} alt="BitsWits" className="img-fluid next" />
+                        <Image src={next} alt="Appsters" className="img-fluid next" />
                     </div>
                 </div>
             </section>

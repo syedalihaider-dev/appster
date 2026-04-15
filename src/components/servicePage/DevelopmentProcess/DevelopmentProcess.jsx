@@ -69,7 +69,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -89,7 +89,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -109,7 +109,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -129,7 +129,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -149,7 +149,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -169,7 +169,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>
@@ -189,7 +189,7 @@ const DevelopmentProcess = () => {
                                     </Col>
                                     <Col lg={5}>
                                         <div className="tabImage d-md-block d-none">
-                                            <Image src={Tab1} alt='Bitswits' className='img-fluid' />
+                                            <Image src={Tab1} alt='Appsters' className='img-fluid' />
                                         </div>
                                     </Col>
                                 </Row>

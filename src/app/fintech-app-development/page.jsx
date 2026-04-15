@@ -65,13 +65,13 @@ export default function Page() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://www.bitswits.co/"
+              "item": "https://www.Appsters.co/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Custom Fintech App Development Services",
-              "item": "https://www.bitswits.co/fintech-app-development"
+              "item": "https://www.Appsters.co/fintech-app-development"
             }
           ]
         }),
@@ -83,7 +83,7 @@ export default function Page() {
           "@context": "https://schema.org/",
           "@type": "WebSite",
           "name": "Custom Fintech App Development Services",
-          "url": "https://www.bitswits.co/fintech-app-development",
+          "url": "https://www.Appsters.co/fintech-app-development",
           "potentialAction": {
             "@type": "SearchAction",
             "target": "{search_term_string}",
@@ -98,9 +98,9 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "Organization",
           "name": "Custom Fintech App Development Services",
-          "alternateName": "BitsWits",
-          "url": "https://www.bitswits.co/fintech-app-development",
-          "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+          "alternateName": "Appsters",
+          "url": "https://www.Appsters.co/fintech-app-development",
+          "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
           "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+1 833 500-6007",
@@ -109,11 +109,11 @@ export default function Page() {
             "availableLanguage": "en"
           },
           "sameAs": [
-            "https://www.facebook.com/officialBitsWits",
-            "https://twitter.com/BitsWits_/",
-            "https://www.instagram.com/officialBitsWits/",
-            "https://www.youtube.com/@officialBitsWits",
-            "https://www.linkedin.com/company/officialBitsWits"
+            "https://www.facebook.com/officialAppsters",
+            "https://twitter.com/Appsters_/",
+            "https://www.instagram.com/officialAppsters/",
+            "https://www.youtube.com/@officialAppsters",
+            "https://www.linkedin.com/company/officialAppsters"
           ]
         }),
       }} />
@@ -124,9 +124,9 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Custom Fintech App Development Services",
-          "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+          "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
           "@id": "",
-          "url": "https://www.bitswits.co/fintech-app-development",
+          "url": "https://www.Appsters.co/fintech-app-development",
           "telephone": "+1 833 500-6007",
           "address": {
             "@type": "PostalAddress",
@@ -155,11 +155,11 @@ export default function Page() {
             "closes": "23:59"
           },
           "sameAs": [
-            "https://www.facebook.com/officialBitsWits",
-            "https://twitter.com/BitsWits_/",
-            "https://www.instagram.com/officialBitsWits/",
-            "https://www.youtube.com/@officialBitsWits",
-            "https://www.linkedin.com/company/officialBitsWits"
+            "https://www.facebook.com/officialAppsters",
+            "https://twitter.com/Appsters_/",
+            "https://www.instagram.com/officialAppsters/",
+            "https://www.youtube.com/@officialAppsters",
+            "https://www.linkedin.com/company/officialAppsters"
           ]
         }),
       }} />
@@ -172,12 +172,12 @@ export default function Page() {
             "@context": "https://schema.org",
             "@type": "Product",
             "name": "Custom FIntech App Development Services",
-            "image": " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/fintech-app-development",
-            "description": "As a leading fintech app development company, BitsWits delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
+            "image": " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/fintech-app-development",
+            "description": "As a leading fintech app development company, Appsters delivers scalable, industry-leading financial app solutions for fintech entrepreneurs and businesses.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "review": {
               "@type": "Review",
@@ -189,7 +189,7 @@ export default function Page() {
               "author": {
                 "@type": "Organization",
                 "name": "Clutch",
-                "url": "https://clutch.co/profile/bitswits"
+                "url": "https://clutch.co/profile/Appsters"
               }
             }
           }),

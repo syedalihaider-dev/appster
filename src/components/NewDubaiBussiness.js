@@ -35,7 +35,7 @@ const NewDubaiBussiness = ({ content }) => {
                         </Col>
                         <Col lg={4}>
                             <div className={styles.bussinessImage}>
-                                <Image src={Bussiness} alt='Bitswits' width={579} height={488} className='img-fluid d-xl-block d-none' />
+                                <Image src={Bussiness} alt='Appsters' width={579} height={488} className='img-fluid d-xl-block d-none' />
                             </div>
                         </Col>
                     </Row>

@@ -9,7 +9,7 @@ const ScrollingSection = ({data}) => {
                 <Row>
                     <Col lg={12} md={12}>
                         <div className={styles.scrollingImg}>
-                            <Image src={data?.image} alt="Bitswits Scrolling Image" width={1314} height={4292} />
+                            <Image src={data?.image} alt="Appsters Scrolling Image" width={1314} height={4292} />
                         </div>
                     </Col>
                 </Row>

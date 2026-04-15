@@ -33,40 +33,40 @@ const Clients = () => {
                     <Col>
                         <div className={styles.clientsBox}>
                             <div className={styles.clientsItem}>
-                                <Image src={Client01} alt="Bitswits Clients" width={254} height={130} />
+                                <Image src={Client01} alt="Appsters Clients" width={254} height={130} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client02} alt="Bitswits Clients" width={204} height={194} />
+                                <Image src={Client02} alt="Appsters Clients" width={204} height={194} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client03} alt="Bitswits Clients" width={336} height={126} />
+                                <Image src={Client03} alt="Appsters Clients" width={336} height={126} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client04} alt="Bitswits Clients" width={182} height={168} />
+                                <Image src={Client04} alt="Appsters Clients" width={182} height={168} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client05} alt="Bitswits Clients" width={242} height={186} />
+                                <Image src={Client05} alt="Appsters Clients" width={242} height={186} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client06} alt="Bitswits Clients" width={158} height={170} />
+                                <Image src={Client06} alt="Appsters Clients" width={158} height={170} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client07} alt="Bitswits Clients" width={334} height={136} />
+                                <Image src={Client07} alt="Appsters Clients" width={334} height={136} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client08} alt="Bitswits Clients" width={320} height={212} />
+                                <Image src={Client08} alt="Appsters Clients" width={320} height={212} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client09} alt="Bitswits Clients" width={320} height={258} />
+                                <Image src={Client09} alt="Appsters Clients" width={320} height={258} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client10} alt="Bitswits Clients" width={182} height={196} />
+                                <Image src={Client10} alt="Appsters Clients" width={182} height={196} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client11} alt="Bitswits Clients" width={330} height={208} />
+                                <Image src={Client11} alt="Appsters Clients" width={330} height={208} />
                             </div>
                             <div className={styles.clientsItem}>
-                                <Image src={Client12} alt="Bitswits Clients" width={316} height={216} />
+                                <Image src={Client12} alt="Appsters Clients" width={316} height={216} />
                             </div>
                         </div>
                     </Col>

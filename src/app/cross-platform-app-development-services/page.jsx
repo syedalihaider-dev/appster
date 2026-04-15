@@ -70,13 +70,13 @@ export default function Page() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.bitswits.co/",
+                "item": "https://www.Appsters.co/",
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Cross-Platform App Development Services",
-                "item": "https://www.bitswits.co/cross-platform-app-development-services",
+                "item": "https://www.Appsters.co/cross-platform-app-development-services",
               },
             ],
           }),
@@ -90,8 +90,8 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "name": "Cross-Platform App Development Services | BitsWits",
-            "url": "https://www.bitswits.co/cross-platform-app-development-services",
+            "name": "Cross-Platform App Development Services | Appsters",
+            "url": "https://www.Appsters.co/cross-platform-app-development-services",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -108,10 +108,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Cross-Platform App Development Services | BitsWits",
-            "alternateName": "BitsWits",
-            "url": "https://www.bitswits.co/cross-platform-app-development-services",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            "name": "Cross-Platform App Development Services | Appsters",
+            "alternateName": "Appsters",
+            "url": "https://www.Appsters.co/cross-platform-app-development-services",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+1 833 500-6007",
@@ -120,11 +120,11 @@ export default function Page() {
               "availableLanguage": "en",
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -137,9 +137,9 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Cross-Platform App Development Services | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/cross-platform-app-development-services",
+            "name": "Cross-Platform App Development Services | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/cross-platform-app-development-services",
             "telephone": "833 500-6007",
             "address": {
               "@type": "PostalAddress",
@@ -168,11 +168,11 @@ export default function Page() {
               "closes": "23:59",
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -185,14 +185,14 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "Cross-Platform App Development Services | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/cross-platform-app-development-services",
+            "name": "Cross-Platform App Development Services | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/cross-platform-app-development-services",
             "description":
               "Expert cross-platform app development services for seamless, high-performing apps on iOS, Android, and web. Boost engagement with cost-effective solutions.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits",
+              "name": "Appsters",
             },
             "review": {
               "@type": "Review",
@@ -204,7 +204,7 @@ export default function Page() {
               "author": {
                 "@type": "Organization",
                 "name": "Clutch",
-                "url": "https://clutch.co/profile/bitswits",
+                "url": "https://clutch.co/profile/Appsters",
               },
             },
           }),

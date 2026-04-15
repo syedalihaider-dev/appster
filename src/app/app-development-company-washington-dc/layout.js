@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "App Development Company Washington DC| BitsWits",
-  description: "Create custom mobile apps with the top mobile app development company in DC. BitsWits offers professional app development services that boost your business.",
+  title: "App Development Company Washington DC| Appsters",
+  description: "Create custom mobile apps with the top mobile app development company in DC. Appsters offers professional app development services that boost your business.",
   //===== OG Tags =====
   openGraph: {
-    title: 'App Development Company Washington DC| BitsWits',
-    description: 'Create custom mobile apps with the top mobile app development company in DC. BitsWits offers professional app development services that boost your business.',
+    title: 'App Development Company Washington DC| Appsters',
+    description: 'Create custom mobile apps with the top mobile app development company in DC. Appsters offers professional app development services that boost your business.',
     url: '/app-development-company-washington-dc',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },

@@ -73,7 +73,7 @@ export default function gamedevelopmentcompany() {
   // Who We Are Content
   const WhoWeAre = {
     title: "Who We Are",
-    desc: <>Discover excellence in app innovation with Bitswits, a leading <span>mobile app development company.</span> We turn your ideas into impactful <span>mobile app solutions.</span> Our expertise isn't just in coding; it's about understanding your needs and delivering an app that resonates with your audience. Experience the <span>Bitswits</span> difference: where expertise meets excellence, and your vision becomes a reality.
+    desc: <>Discover excellence in app innovation with Appsters, a leading <span>mobile app development company.</span> We turn your ideas into impactful <span>mobile app solutions.</span> Our expertise isn't just in coding; it's about understanding your needs and delivering an app that resonates with your audience. Experience the <span>Appsters</span> difference: where expertise meets excellence, and your vision becomes a reality.
     </>,
     subtitleOne: "Soul Scribe ",
     subDescOne: "Soul Scribe is a groundbreaking social networking app which functions as digital diary, and you can enlist your loved ones to be part of you online journal. The app operates by using the freemium subscription model, providing a complimentary family room option that enables users to welcome someone from their circle of friends to share their memories. Users have the privilege to create and share profound moments with their loved ones. This makes Soul Scribe a social media experience that is different and personal.",
@@ -133,7 +133,7 @@ export default function gamedevelopmentcompany() {
               para={
                 <>
                   <h3 className={stylesjust.develop}>
-                    Design, Develop, and Grow with BitsWits.
+                    Design, Develop, and Grow with Appsters.
                   </h3>
                 </>
               }
@@ -167,7 +167,7 @@ export default function gamedevelopmentcompany() {
               para={
                 <>
                   <h3 className={stylesjust.develop}>
-                    Design, Develop, and Grow with BitsWits.
+                    Design, Develop, and Grow with Appsters.
                   </h3>
                 </>
               }
@@ -187,7 +187,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Top Mobile App Development Company",
-            "url": "https://www.bitswits.co/top-mobile-app-development-company",
+            "url": "https://www.Appsters.co/top-mobile-app-development-company",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -201,15 +201,15 @@ export default function gamedevelopmentcompany() {
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "BitsWits",
-              "url": "https://www.bitswits.co/top-mobile-app-development-company",
-              "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "name": "Appsters",
+              "url": "https://www.Appsters.co/top-mobile-app-development-company",
+              "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://twitter.com/BitsWits_/",
-                "https://www.youtube.com/@officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://www.linkedin.com/company/officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://twitter.com/Appsters_/",
+                "https://www.youtube.com/@officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://www.linkedin.com/company/officialAppsters"
               ]
             }              
         `}
@@ -220,8 +220,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Top Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.c29e3673.png&w=384&q=75",
-            "url": "https://www.bitswits.co/top-mobile-app-development-company",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.c29e3673.png&w=384&q=75",
+            "url": "https://www.Appsters.co/top-mobile-app-development-company",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -249,11 +249,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ] 
            }                                                                                                       
         `}
@@ -264,11 +264,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Top Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.c29e3673.png&w=384&q=75",
-            "description": "Our mobile app development services turn your innovative ideas into success stories by crafting apps that stand out in the market. While you focus on your business, Bitswits will handle the technical aspects of developing your app.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.c29e3673.png&w=384&q=75",
+            "description": "Our mobile app development services turn your innovative ideas into success stories by crafting apps that stand out in the market. While you focus on your business, Appsters will handle the technical aspects of developing your app.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

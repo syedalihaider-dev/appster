@@ -32,7 +32,7 @@ const NewHouston = ({ content }) => {
                     <Row>
                         <Col lg={6} className='px-sm-0'>
                             <nav className={styles.applicationlong}>
-                                <Image src={appLong} alt="Bitswits" className="img-fluid d-lg-block d-none" />
+                                <Image src={appLong} alt="Appsters" className="img-fluid d-lg-block d-none" />
                                 <ul className="d-lg-block d-none">
                                     {menus.map((tab, index) => (
                                         <li key={index}
@@ -62,7 +62,7 @@ const NewHouston = ({ content }) => {
                                                 <div className={styles.btn}>
                                                     <a href="#form" className="d-flex gap-3 pink">
                                                         Free Consultation
-                                                        <Image src={BtnArrow} alt="Bitswits" width={24} height={12} />
+                                                        <Image src={BtnArrow} alt="Appsters" width={24} height={12} />
                                                     </a>
                                                 </div>
                                             </div>

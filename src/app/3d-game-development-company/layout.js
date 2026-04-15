@@ -8,7 +8,7 @@ export const metadata = {
     title: '3D Games Development Company | 3D Games Developers',
     description: 'Bring your game to life with graphics and gameplay. Our 3D game application developers specialize in crafting games that offer a realistic experience.',
     url: '/3d-game-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

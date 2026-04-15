@@ -83,36 +83,36 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon1} className='img-fluid' />
                                         <p>Ios</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon2} className='img-fluid' />
                                         <p>Android</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon3} className='img-fluid' />
                                         <p>React native</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon4} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon4} className='img-fluid' />
                                         <p>Flutter</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon5} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon5} className='img-fluid' />
                                         <p>Ionic</p>
                                     </div>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon6} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon6} className='img-fluid' />
                                         <p>Swift</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon7} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon7} className='img-fluid' />
                                         <p>Kotlin</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={icon8} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={icon8} className='img-fluid' />
                                         <p>Objectivec</p>
                                     </div>
 
@@ -130,28 +130,28 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend1} className='img-fluid' />
                                         <p>Angular js</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend2} className='img-fluid' />
                                         <p>React js</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend3} className='img-fluid' />
                                         <p>Typescript</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend4} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend4} className='img-fluid' />
                                         <p>Vue</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend5} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend5} className='img-fluid' />
                                         <p>Wpf</p>
                                     </div>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={frontend6} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={frontend6} className='img-fluid' />
                                         <p>Html5</p>
                                     </div>
 
@@ -166,28 +166,28 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database1} className='img-fluid' />
                                         <p>Mongo db</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database2} className='img-fluid' />
                                         <p>Mysql</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database3} className='img-fluid' />
                                         <p>Mssql</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database4} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database4} className='img-fluid' />
                                         <p>Firebase</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database5} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database5} className='img-fluid' />
                                         <p>Dynamodb</p>
                                     </div>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={database6} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={database6} className='img-fluid' />
                                         <p>Redis</p>
                                     </div>
 
@@ -204,15 +204,15 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={php1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={php1} className='img-fluid' />
                                         <p>Php</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={php2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={php2} className='img-fluid' />
                                         <p>Java</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={php3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={php3} className='img-fluid' />
                                         <p>Node .js</p>
                                     </div>
 
@@ -227,15 +227,15 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={cms1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={cms1} className='img-fluid' />
                                         <p>Wordpress</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={cms2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={cms2} className='img-fluid' />
                                         <p>Magento</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={cms3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={cms3} className='img-fluid' />
                                         <p>Shopify</p>
                                     </div>
 
@@ -250,40 +250,40 @@ const Technologieswe = () => {
                                 <div className={styles.newyork}>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev1} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev1} className='img-fluid' />
                                         <p>Aws</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev2} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev2} className='img-fluid' />
                                         <p>Gradle</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev3} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev3} className='img-fluid' />
                                         <p>Jenkins</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev4} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev4} className='img-fluid' />
                                         <p>Appium</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev5} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev5} className='img-fluid' />
                                         <p>Selenium</p>
                                     </div>
 
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev6} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev6} className='img-fluid' />
                                         <p>Azure</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev7} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev7} className='img-fluid' />
                                         <p>Digital ocean</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev8} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev8} className='img-fluid' />
                                         <p>Rackspace</p>
                                     </div>
                                     <div>
-                                        <Image quality={75} alt='BitsWits' src={dev9} className='img-fluid' />
+                                        <Image quality={75} alt='Appsters' src={dev9} className='img-fluid' />
                                         <p>Linode</p>
                                     </div>
 

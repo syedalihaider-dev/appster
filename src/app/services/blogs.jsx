@@ -39,9 +39,9 @@ const Blogs = () => {
 
                                             {post.featuredImage
                                                 ?
-                                                <Image src={`https://inhouse.pulse-force.com/wordpress/bitswits/wp-content/uploads/${post.featuredImage.node.mediaDetails.file}`} alt={post.title} fill />
+                                                <Image src={`https://inhouse.pulse-force.com/wordpress/Appsters/wp-content/uploads/${post.featuredImage.node.mediaDetails.file}`} alt={post.title} fill />
                                                 :
-                                                <Image src={`https://inhouse.pulse-force.com/wordpress/bitswits/wp-content/uploads/2023/08/moz-brand-authority-768x439-1.png`} alt={post.title} fill />
+                                                <Image src={`https://inhouse.pulse-force.com/wordpress/Appsters/wp-content/uploads/2023/08/moz-brand-authority-768x439-1.png`} alt={post.title} fill />
 
 
                                             }

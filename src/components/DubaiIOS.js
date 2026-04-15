@@ -14,7 +14,7 @@ const DubaiIOS = ({ content }) => {
                 <div className='container'>
                     <Row className='align-items-center'>
                         <Col lg={7}>
-                            <Image src={AppleStore} width={60} height={60} alt='Bitswits' />
+                            <Image src={AppleStore} width={60} height={60} alt='Appsters' />
                             <h2>{title}</h2>
                             {desc.map((item, index) => (
                                 <div key={index}>
@@ -26,7 +26,7 @@ const DubaiIOS = ({ content }) => {
                         </Col>
                         <Col lg={5}>
                             <div className={styles.iosImage}>
-                                <Image src={IOSmobile} width={627} height={555} alt='Bitswits' className='d-lg-block d-none' />
+                                <Image src={IOSmobile} width={627} height={555} alt='Appsters' className='d-lg-block d-none' />
                             </div>
                         </Col>
                     </Row>

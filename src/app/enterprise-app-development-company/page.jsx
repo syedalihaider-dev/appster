@@ -71,12 +71,12 @@ export default function Home() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://www.bitswits.co/"
+              "item": "https://www.Appsters.co/"
             }, {
               "@type": "ListItem",
               "position": 2,
               "name": "Mobile App Development Services",
-              "item": "https://www.bitswits.co/mobile-application-development-services"
+              "item": "https://www.Appsters.co/mobile-application-development-services"
             }]
           }),
         }}
@@ -89,8 +89,8 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "name": "Top Mobile App Development Services | BitsWits",
-            "url": "https://www.bitswits.co/mobile-application-development-services",
+            "name": "Top Mobile App Development Services | Appsters",
+            "url": "https://www.Appsters.co/mobile-application-development-services",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -107,10 +107,10 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Top Mobile App Development Services | BitsWits",
-            "alternateName": "BitsWits",
-            "url": "https://www.bitswits.co/mobile-application-development-services",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            "name": "Top Mobile App Development Services | Appsters",
+            "alternateName": "Appsters",
+            "url": "https://www.Appsters.co/mobile-application-development-services",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+1 833 500-6007",
@@ -119,11 +119,11 @@ export default function Home() {
               "availableLanguage": "en"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }),
         }}
@@ -136,10 +136,10 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Top Mobile App Development Services | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Top Mobile App Development Services | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "@id": "",
-            "url": "https://www.bitswits.co/mobile-application-development-services",
+            "url": "https://www.Appsters.co/mobile-application-development-services",
             "telephone": "+1 833 500-6007",
             "address": {
               "@type": "PostalAddress",
@@ -168,11 +168,11 @@ export default function Home() {
               "closes": "23:59"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }),
         }}
@@ -185,13 +185,13 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "Top Mobile App Development Services | BitsWits",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/mobile-application-development-services",
-            "description": "BitsWits delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
+            "name": "Top Mobile App Development Services | Appsters",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/mobile-application-development-services",
+            "description": "Appsters delivers best mobile app development services with the top app developers, offering customized solutions across industries for impactful results!",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "review": {
               "@type": "Review",
@@ -203,7 +203,7 @@ export default function Home() {
               "author": {
                 "@type": "Organization",
                 "name": "Clutch",
-                "url": "https://clutch.co/profile/bitswits"
+                "url": "https://clutch.co/profile/Appsters"
               }
             }
           }),

@@ -41,16 +41,16 @@ const CaseGlamic = (props) => {
             {/* {isMobile ? (
               <Slider {...awardslogo} className={` ${styles.nextalign1}`}>
                 <div className={styles.SecImg}>
-                  <Image quality={90} src={props.slide1} alt="BitsWits" className={`img-fluid`} />
+                  <Image quality={90} src={props.slide1} alt="Appsters" className={`img-fluid`} />
                 </div>
                 <div className={styles.SecImg}>
-                  <Image quality={90} src={props.slide2} alt="BitsWits" className={`img-fluid`} />
+                  <Image quality={90} src={props.slide2} alt="Appsters" className={`img-fluid`} />
                 </div>
                 <div className={styles.SecImg}>
-                  <Image quality={90} src={props.slide3} alt="BitsWits" className={`img-fluid`} />
+                  <Image quality={90} src={props.slide3} alt="Appsters" className={`img-fluid`} />
                 </div>
                 <div className={styles.SecImg}>
-                  <Image quality={90} src={props.slide4} alt="BitsWits" className={`img-fluid`} />
+                  <Image quality={90} src={props.slide4} alt="Appsters" className={`img-fluid`} />
                 </div>
               </Slider>
             ) : (
@@ -59,25 +59,25 @@ const CaseGlamic = (props) => {
                   <Image
                     quality={90}
                     src={props.slide1}
-                    alt="BitsWits"
+                    alt="Appsters"
                     className={`img-fluid`}
                   />
                   <Image
                     quality={90}
                     src={props.slide2}
-                    alt="BitsWits"
+                    alt="Appsters"
                     className={`img-fluid`}
                   />
                   <Image
                     quality={90}
                     src={props.slide3}
-                    alt="BitsWits"
+                    alt="Appsters"
                     className={`img-fluid`}
                   />
                   <Image
                     quality={90}
                     src={props.slide4}
-                    alt="BitsWits"
+                    alt="Appsters"
                     className={`img-fluid`}
                   />
                 </div>
@@ -88,25 +88,25 @@ const CaseGlamic = (props) => {
                 <Image
                   quality={90}
                   src={props.slide1}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`img-fluid`}
                 />
                 <Image
                   quality={90}
                   src={props.slide2}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`img-fluid`}
                 />
                 <Image
                   quality={90}
                   src={props.slide3}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`img-fluid`}
                 />
                 <Image
                   quality={90}
                   src={props.slide4}
-                  alt="BitsWits"
+                  alt="Appsters"
                   className={`img-fluid`}
                 />
               </div>

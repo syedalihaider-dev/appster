@@ -129,13 +129,13 @@ const LpChoose = (props) => {
                 Our <span>mobile app development services</span> turn your
                 innovative ideas into success stories by crafting apps that
                 stand out in the market. While you{" "}
-                <span>focus on your business</span>, Bitswits will handle the
+                <span>focus on your business</span>, Appsters will handle the
                 technical aspects of developing your app.
               </p>
               <p>
                 Did you know that a <span>poorly developed app</span> can
                 negatively impact your brand's reputation? That's a risk you
-                don't want to take. But with Bitswits, there's no need to worry.
+                don't want to take. But with Appsters, there's no need to worry.
                 We ensure your app functions seamlessly and enhances your
                 brand's digital presence.
               </p>
@@ -162,7 +162,7 @@ const LpChoose = (props) => {
                   }
                 }}
               >
-                Choose Expertise, Choose Bitswits – Let's Get Started
+                Choose Expertise, Choose Appsters – Let's Get Started
               </a>
             </Col>
             <Col lg={6} className="d-none d-lg-block">
@@ -172,7 +172,7 @@ const LpChoose = (props) => {
                     <Col key={index} lg={4} sm={4}>
                       <div className={styles.post}>
                         <Image
-                          alt="BitsWits"
+                          alt="Appsters"
                           src={item.image}
                           className="img-fluid mb-3"
                         />
@@ -193,7 +193,7 @@ const LpChoose = (props) => {
                   <div className={styles.cart} key={index}>
                     <div className={styles.post}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={item.image}
                         className="img-fluid mb-3"
                       />

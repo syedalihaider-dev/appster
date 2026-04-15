@@ -57,7 +57,7 @@ const EcommerceService = () => {
                             <h2 className="font220 text-white font-bold mb-3 mb-md-0">
                                 <span className='grdiant'>Ecommerce App </span>
                                 Development Service</h2>
-                            <p className='text-white font15'>BitsWits is trusted for shopping app design, development, and <br /> integration on ecommerce platforms. Our team transforms your <br /> visionary designs into flawless, standout apps. We go beyond the <br /> ordinary, adding various functionalities that make your app stand out <br /> among competition and provide an enjoyable user experience to your <br /> customers.</p>
+                            <p className='text-white font15'>Appsters is trusted for shopping app design, development, and <br /> integration on ecommerce platforms. Our team transforms your <br /> visionary designs into flawless, standout apps. We go beyond the <br /> ordinary, adding various functionalities that make your app stand out <br /> among competition and provide an enjoyable user experience to your <br /> customers.</p>
                             <p className='text-white font15'>Ready to dominate the app store with our eCommerce app<br /> development? Let's Connect and Make It Happen!</p>
                             <div className={`d-flex align-items-center pt-2 gap-2 pb-4 ${styles.btns}`}>
                                 <a href="tel:8335006007" className="px-4">
@@ -211,7 +211,7 @@ const EcommerceService = () => {
                                 <h4 className='grdiant font70 font-bold text-center'>
                                     1200+
                                 </h4>
-                                <p className='text-white font15 text-center'>BitsWits, the best eCommerce app development<br /> company in the US has helped more than twelve<br /> hundred ecommerce businesses to double their<br /> revenue with our web and app design, development,<br /> and integration services.</p>
+                                <p className='text-white font15 text-center'>Appsters, the best eCommerce app development<br /> company in the US has helped more than twelve<br /> hundred ecommerce businesses to double their<br /> revenue with our web and app design, development,<br /> and integration services.</p>
                             </div>
                         </Col>
                     </Row>

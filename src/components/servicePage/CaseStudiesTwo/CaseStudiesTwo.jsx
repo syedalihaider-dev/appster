@@ -34,22 +34,22 @@ const CaseStudies = () => {
                 <Col lg={12}>
                     <Slider {...caseSlider} className="caseSlider">
                         <div>
-                            <Image src={CaseOne} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseOne} alt='Appsters' className='img-fluid w-100' />
                         </div>
                         <div>
-                            <Image src={CaseTwo} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseTwo} alt='Appsters' className='img-fluid w-100' />
                         </div>
                         <div>
-                            <Image src={CaseThree} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseThree} alt='Appsters' className='img-fluid w-100' />
                         </div>
                         <div>
-                            <Image src={CaseFour} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseFour} alt='Appsters' className='img-fluid w-100' />
                         </div>
                         <div>
-                            <Image src={CaseFive} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseFive} alt='Appsters' className='img-fluid w-100' />
                         </div>
                         <div>
-                            <Image src={CaseSix} alt='Bitswits' className='img-fluid w-100' />
+                            <Image src={CaseSix} alt='Appsters' className='img-fluid w-100' />
                         </div>
                     </Slider>
                 </Col>

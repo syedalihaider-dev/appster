@@ -8,7 +8,7 @@ export const metadata = {
     title: 'Top-Rated Web App Development Company | Web App Developers',
     description: 'Looking for a top-rated web app development company? Our team of skilled web app developers specializes in crafting high-quality and customized web applications.',
     url: '/web-app-development',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

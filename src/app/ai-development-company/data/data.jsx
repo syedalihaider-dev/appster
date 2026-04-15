@@ -398,7 +398,7 @@ export const TestimonialSLIDES = [
 ]
 
 export const RisksContent = {
-    title: (<>Take No Risks <Image src={RisksIMG01} alt="Bitswits Services" width={228} height={85} /> Create An MVP & Be Confident On <Image src={RisksIMG02} alt="Bitswits Services" width={228} height={85} />  Your App!</>),
+    title: (<>Take No Risks <Image src={RisksIMG01} alt="Appsters Services" width={228} height={85} /> Create An MVP & Be Confident On <Image src={RisksIMG02} alt="Appsters Services" width={228} height={85} />  Your App!</>),
     text: "Validate Your AI Vision with MVP Development & Save Big on Time & Money!"
 }
 
@@ -801,14 +801,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -816,7 +816,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

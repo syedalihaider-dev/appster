@@ -143,21 +143,21 @@ const HireBenifitsMbl = () => {
                                 {leftData.map((benefit, index) => (
                                     <div className={styles.beniftIcon} key={index}>
                                         <h5>{benefit.title}</h5>
-                                        <Image src={benefit.imageSrc} alt='BitsWits' className='img-fluid' />
+                                        <Image src={benefit.imageSrc} alt='Appsters' className='img-fluid' />
                                     </div>
                                 ))}
                             </div>
                         </Col>
                         <Col lg={4}>
                             <div className='text-center'>
-                                <Image quality={75} alt='BitsWits' src={secImg} className={styles.secImage} />
+                                <Image quality={75} alt='Appsters' src={secImg} className={styles.secImage} />
                             </div>
                         </Col>
                         <Col lg={4}>
                             <div className={styles.right}>
                                 {rightData.map((benefit, index) => (
                                     <div className={styles.beniftIcon} key={index}>
-                                        <Image src={benefit.imageSrc} alt='BitsWits' className='img-fluid' />
+                                        <Image src={benefit.imageSrc} alt='Appsters' className='img-fluid' />
                                         <h5>{benefit.title}</h5>
                                     </div>
                                 ))}
@@ -183,7 +183,7 @@ const HireBenifitsMbl = () => {
                                         <div key={index}>
                                             <div className={styles.beniftIcon}>
                                                 <h5>{benefit.title}</h5>
-                                                <Image src={benefit.imageSrc} alt='BitsWits' className='img-fluid' />
+                                                <Image src={benefit.imageSrc} alt='Appsters' className='img-fluid' />
                                             </div>
                                         </div>
                                     ))}
@@ -192,7 +192,7 @@ const HireBenifitsMbl = () => {
                         </Col>
                         <Col lg={4}>
                             <div className='text-center'>
-                                <Image quality={75} alt='BitsWits' src={secImg} className={styles.secImage} />
+                                <Image quality={75} alt='Appsters' src={secImg} className={styles.secImage} />
                             </div>
                         </Col>
                     </Row>

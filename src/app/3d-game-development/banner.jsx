@@ -14,7 +14,7 @@ const Banner = ({ data }) => {
                         <h1>{data?.title}</h1>
                         <p>{data?.content}</p>
                         <div className={styles.bannerLogos}>
-                            <Image src={data?.BannerLogos} alt="Bitswits Services" width={757} height={82} />
+                            <Image src={data?.BannerLogos} alt="Appsters Services" width={757} height={82} />
                         </div>
                         <div className={styles.btnFlex}>
                             <ButtonCommon txt="Free Consultation" />

@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Mobile App Development Company in Dallas - BitsWits",
+  title: "Mobile App Development Company in Dallas - Appsters",
   description: "Trust our leading mobile app development company in Dallas to deliver expert solutions meeting your business needs with top-notch app development services.",
   //===== OG Tags =====
   openGraph: {
-    title: 'Mobile App Development Company in Dallas - BitsWits',
+    title: 'Mobile App Development Company in Dallas - Appsters',
     description: 'Trust our leading mobile app development company in Dallas to deliver expert solutions meeting your business needs with top-notch app development services.',
     url: '/mobile-app-development-company-dallas',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },
@@ -16,7 +16,7 @@ export const metadata = {
   alternates: { canonical: '/mobile-app-development-company-dallas' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "Mobile App Development Company in Dallas - BitsWits",
+    "DC.title": "Mobile App Development Company in Dallas - Appsters",
     "geo.region": "US-TX",
     "geo.placename": "Dallas",
     "geo.position": "32.8219006, -96.8662865",

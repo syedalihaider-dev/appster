@@ -66,12 +66,12 @@ export default function Page() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://www.bitswits.co/"
+              "item": "https://www.Appsters.co/"
             }, {
               "@type": "ListItem",
               "position": 2,
               "name": "Taxi App Development Company",
-              "item": "https://www.bitswits.co/taxi-app-development-company"
+              "item": "https://www.Appsters.co/taxi-app-development-company"
             }]
           })
         }}
@@ -84,8 +84,8 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "name": "Taxi Booking App Development Company | BitsWits",
-            "url": "https://www.bitswits.co/taxi-app-development-company",
+            "name": "Taxi Booking App Development Company | Appsters",
+            "url": "https://www.Appsters.co/taxi-app-development-company",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -102,10 +102,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Taxi Booking App Development Company - BitsWits",
-            "alternateName": "BitsWits",
-            "url": "https://www.bitswits.co/taxi-app-development-company",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            "name": "Taxi Booking App Development Company - Appsters",
+            "alternateName": "Appsters",
+            "url": "https://www.Appsters.co/taxi-app-development-company",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+1 833 500-6007",
@@ -114,11 +114,11 @@ export default function Page() {
               "availableLanguage": "en"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           })
         }}
@@ -131,10 +131,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Taxi Booking App Development Company - BitsWits",
-            "image": " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75 ",
+            "name": "Taxi Booking App Development Company - Appsters",
+            "image": " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75 ",
             "@id": "",
-            "url": "https://www.bitswits.co/taxi-app-development-company",
+            "url": "https://www.Appsters.co/taxi-app-development-company",
             "telephone": "+1 833 500-6007",
             "address": {
               "@type": "PostalAddress",
@@ -163,11 +163,11 @@ export default function Page() {
               "closes": "23:59"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           })
         }}
@@ -180,13 +180,13 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "Taxi Booking App Development Company - BitsWits",
-            "image": " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co/taxi-app-development-company",
-            "description": "BitsWits is a leading taxi app development company that builds taxi apps to boost fleet efficiency, reduce idle time, and increase bookings efficiently.",
+            "name": "Taxi Booking App Development Company - Appsters",
+            "image": " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co/taxi-app-development-company",
+            "description": "Appsters is a leading taxi app development company that builds taxi apps to boost fleet efficiency, reduce idle time, and increase bookings efficiently.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "review": {
               "@type": "Review",
@@ -198,7 +198,7 @@ export default function Page() {
               "author": {
                 "@type": "Organization",
                 "name": "Clutch",
-                "url": "https://clutch.co/profile/bitswits"
+                "url": "https://clutch.co/profile/Appsters"
               }
             }
           })
@@ -263,10 +263,10 @@ export default function Page() {
               },
               {
                 "@type": "Question",
-                "name": "What makes BitsWits a reliable taxi app development company?",
+                "name": "What makes Appsters a reliable taxi app development company?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "BitsWits stands out as a leading Android and iOS taxi app development company due to our expertise in building secure, scalable, and user-friendly taxi apps. Our team delivers high-quality solutions tailored to meet your business needs, ensuring long-term success."
+                  "text": "Appsters stands out as a leading Android and iOS taxi app development company due to our expertise in building secure, scalable, and user-friendly taxi apps. Our team delivers high-quality solutions tailored to meet your business needs, ensuring long-term success."
                 }
               },
               {

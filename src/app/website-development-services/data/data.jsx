@@ -94,27 +94,27 @@ export const TestimonialContent = {
 
 export const TestimonialSLIDES = [
     {
-        text: "The team’s deep understanding of our business’s nature was truly impressive. Their technical knowledge was evident in ensuring the app functioned smoothly, and their attention to every detail exceeded our expectations. BitsWits delivered a seamless and reliable app experience.",
+        text: "The team’s deep understanding of our business’s nature was truly impressive. Their technical knowledge was evident in ensuring the app functioned smoothly, and their attention to every detail exceeded our expectations. Appsters delivered a seamless and reliable app experience.",
         designation: "CTO / Pronftdesign.com",
         name: "Joseph D’Amora",
     },
     {
-        text: "BitsWits transformed my vision into a stunning, user-friendly app with an intuitive design that perfectly meets our needs. Their professionalism, dedication, and ability to turn ideas into reality were outstanding. I couldn’t be happier with the results and their ongoing support.",
+        text: "Appsters transformed my vision into a stunning, user-friendly app with an intuitive design that perfectly meets our needs. Their professionalism, dedication, and ability to turn ideas into reality were outstanding. I couldn’t be happier with the results and their ongoing support.",
         designation: "CTO / Pronftdesign.com",
         name: "Ryan Jaden",
     },
     {
-        text: "A heartfelt thank you to BitsWits for their outstanding support and dedication. Their responsiveness was truly remarkable, and they delivered exactly what we had envisioned. Without a doubt, we will engage BitsWits again for our upcoming project. They exceeded all our expectations.",
+        text: "A heartfelt thank you to Appsters for their outstanding support and dedication. Their responsiveness was truly remarkable, and they delivered exactly what we had envisioned. Without a doubt, we will engage Appsters again for our upcoming project. They exceeded all our expectations.",
         designation: "CTO / Pronftdesign.com",
         name: "Maya Powell",
     },
     {
-        text: "I approached BitsWits for a custom software solution for my business, and I couldn’t be happier with the result. Their team was professional, timely, and provided exceptional support throughout the entire process. The final product exceeded my expectations. Highly recommend BitsWits!",
+        text: "I approached Appsters for a custom software solution for my business, and I couldn’t be happier with the result. Their team was professional, timely, and provided exceptional support throughout the entire process. The final product exceeded my expectations. Highly recommend Appsters!",
         designation: "CTO / Pronftdesign.com",
         name: "Raoul Deslys",
     },
     {
-        text: "The mobile app has drastically increased my sales, and I feel directly connected to my clients through it. BitsWits and their team did an outstanding job. The app is user-friendly, offers brilliant performance, and has made a huge impact on my business. I highly recommend BitsWits!",
+        text: "The mobile app has drastically increased my sales, and I feel directly connected to my clients through it. Appsters and their team did an outstanding job. The app is user-friendly, offers brilliant performance, and has made a huge impact on my business. I highly recommend Appsters!",
         designation: "CTO / Pronftdesign.com",
         name: "Abigail Smith",
     },

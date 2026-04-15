@@ -101,7 +101,7 @@ export default function Expertapphome(props) {
                                         <p className='font12 white fw400'>We bring your iOS app ideas to life by using our comprehensive approach to development, combining UI/UX app design.</p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg1} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg1} className='img-fluid' />
                                     </div>
                                 </div>
 
@@ -112,7 +112,7 @@ export default function Expertapphome(props) {
                                         <p className='font12 white fw400'>We take Android app development to the next level by following a comprehensive approach, from ideation to launch. </p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg2} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg2} className='img-fluid' />
                                     </div>
                                 </div>
 
@@ -120,20 +120,20 @@ export default function Expertapphome(props) {
                                 <div className={styles.app} data-scroll data-scroll-speed="0.3">
                                     <div className={styles.copy} >
                                         <h3 className='font15 white fw700'>React NativeApp Development</h3>
-                                        <p className='font12 white fw400'>Our team of expert Flutter app developers at BitsWits use the latest tools and techniques to build cross-platform mobile apps tailored to your business needs. </p>
+                                        <p className='font12 white fw400'>Our team of expert Flutter app developers at Appsters use the latest tools and techniques to build cross-platform mobile apps tailored to your business needs. </p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg3} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg3} className='img-fluid' />
                                     </div>
                                 </div>
 
                                 <div className={styles.app} data-scroll data-scroll-speed="0.8">
                                     <div className={styles.copy} >
                                         <h3 className='font15 white fw700'>Flutter App Development</h3>
-                                        <p className='font12 white fw400'>Our team of expert Flutter app developers at BitsWits use the latest tools and techniques.</p>
+                                        <p className='font12 white fw400'>Our team of expert Flutter app developers at Appsters use the latest tools and techniques.</p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg4} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg4} className='img-fluid' />
                                     </div>
                                 </div>
 
@@ -144,7 +144,7 @@ export default function Expertapphome(props) {
                                         <p className='font12 white fw400'>We prioritize creating seamless user experiences in cross-platform app development.</p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg5} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg5} className='img-fluid' />
                                     </div>
                                 </div>
 
@@ -154,7 +154,7 @@ export default function Expertapphome(props) {
                                         <p className='font12 white fw400'>We offer end-to-end web app development company. Our team of skilled web app developers utilizes the latest technologies.</p>
                                     </div>
                                     <div>
-                                        <Image alt='BitsWits' src={banImg6} className='img-fluid' />
+                                        <Image alt='Appsters' src={banImg6} className='img-fluid' />
                                     </div>
                                 </div>
 
@@ -169,7 +169,7 @@ export default function Expertapphome(props) {
                                             <p className='font12 white fw400'>We bring your iOS app ideas to life by using our comprehensive approach to development, combining UI/UX app design.</p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg1} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg1} className='img-fluid' />
                                         </div>
                                     </div>
 
@@ -181,7 +181,7 @@ export default function Expertapphome(props) {
                                             <p className='font12 white fw400'>We take Android app development to the next level by following a comprehensive approach, from ideation to launch. </p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg2} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg2} className='img-fluid' />
                                         </div>
                                     </div>
 
@@ -190,10 +190,10 @@ export default function Expertapphome(props) {
                                     <div className={styles.app} data-scroll data-scroll-speed="0.3">
                                         <div className={styles.copy} >
                                             <h3 className='font15 white fw700'>React NativeApp Development</h3>
-                                            <p className='font12 white fw400'>Our team of expert Flutter app developers at BitsWits use the latest tools and techniques to build cross-platform mobile apps tailored to your business needs. </p>
+                                            <p className='font12 white fw400'>Our team of expert Flutter app developers at Appsters use the latest tools and techniques to build cross-platform mobile apps tailored to your business needs. </p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg3} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg3} className='img-fluid' />
                                         </div>
                                     </div>
 
@@ -202,10 +202,10 @@ export default function Expertapphome(props) {
                                     <div className={styles.app} data-scroll data-scroll-speed="0.8">
                                         <div className={styles.copy} >
                                             <h3 className='font15 white fw700'>Flutter App Development</h3>
-                                            <p className='font12 white fw400'>Our team of expert Flutter app developers at BitsWits use the latest tools and techniques.</p>
+                                            <p className='font12 white fw400'>Our team of expert Flutter app developers at Appsters use the latest tools and techniques.</p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg4} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg4} className='img-fluid' />
                                         </div>
                                     </div>
 
@@ -217,7 +217,7 @@ export default function Expertapphome(props) {
                                             <p className='font12 white fw400'>We prioritize creating seamless user experiences in cross-platform app development.</p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg5} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg5} className='img-fluid' />
                                         </div>
                                     </div>
                                 </Col>
@@ -228,7 +228,7 @@ export default function Expertapphome(props) {
                                             <p className='font12 white fw400'>We offer end-to-end web app development company. Our team of skilled web app developers utilizes the latest technologies.</p>
                                         </div>
                                         <div>
-                                            <Image alt='BitsWits' src={banImg6} className='img-fluid' />
+                                            <Image alt='Appsters' src={banImg6} className='img-fluid' />
                                         </div>
                                     </div>
                                 </Col>

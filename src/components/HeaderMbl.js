@@ -59,7 +59,7 @@ const HeaderMbl = () => {
                 <div className={styles.navLogo}>
                     <Link href="/">
                         <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             className='img-fluid'
                             src={logo}
                         />
@@ -69,7 +69,7 @@ const HeaderMbl = () => {
                     <ul className={isActive ? `${styles.menu} ${styles.active}` : `${styles.menu}`}>
                         <div className={`${styles.navLogo} ${styles.mblLogo}`}>
                             <Link href="/">
-                                <Image alt="bitswits" className='img-fluid'
+                                <Image alt="Appsters" className='img-fluid'
                                     src={mbllogo}
                                 />
                             </Link>
@@ -86,7 +86,7 @@ const HeaderMbl = () => {
                             </Link>
                             <div className={megamenu3 ? `${styles.megaMenu3} ${styles.opnMenu3}` : `${styles.megaMenu3}`}>
                                 <div className={styles.backArrow}>
-                                    <Image alt="bitswits"
+                                    <Image alt="Appsters"
                                         src={backarrow}
                                     />
                                 </div>
@@ -95,7 +95,7 @@ const HeaderMbl = () => {
                                         <Row className={styles.megaRow}>
                                             <Col lg={12}>
                                                 <Link href="/">
-                                                    <Image alt="bitswits" className='img-fluid w-50'
+                                                    <Image alt="Appsters" className='img-fluid w-50'
                                                         src={mbllogo}
                                                     />
                                                 </Link>
@@ -108,7 +108,7 @@ const HeaderMbl = () => {
                                                                 <ul className='mb-0 mt-0'>
                                                                     <div className={styles.listHeading}>
                                                                         <div className={styles.megaIcon}>
-                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                 src={apps} />
                                                                         </div>
                                                                         <h5 className='font12 fontf font-semibold mb-0'>Mobile App Development</h5>
@@ -167,7 +167,7 @@ const HeaderMbl = () => {
                                                                                 <ul className={` ${styles.megpost} mb-0 mt-0 `}>
                                                                                     <div className={styles.listHeading}>
                                                                                         <div className={styles.megaIcon}>
-                                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                                 src={games}
                                                                                             />
                                                                                         </div>
@@ -222,7 +222,7 @@ const HeaderMbl = () => {
                                                                 <ul className={` ${styles.megpost} mb-0 mt-0 `}>
                                                                     <div className={styles.listHeading}>
                                                                         <div className={styles.megaIcon}>
-                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                 src={web}
                                                                             />
                                                                         </div>
@@ -301,7 +301,7 @@ const HeaderMbl = () => {
                                                                             <Col md={12}>
                                                                                 <ul className='mb-0 mt-0'>
                                                                                     <li>
-                                                                                        <Image quality={75} src={newImg} alt='BitsWits' className='img-fluid' />
+                                                                                        <Image quality={75} src={newImg} alt='Appsters' className='img-fluid' />
                                                                                     </li>
                                                                                 </ul>
                                                                             </Col>
@@ -325,14 +325,14 @@ const HeaderMbl = () => {
                             </Link>
                             <div className={megamenu4 ? `${styles.megaMenu4} ${styles.opnMenu4}` : `${styles.megaMenu4}`}>
                                 <div className={styles.backArrow}>
-                                    <Image alt="bitswits"
+                                    <Image alt="Appsters"
                                         src={backarrow}
                                     />
                                 </div>
                                 <Row className={`${styles.megaRow} mt-lg-0`}>
                                     <Col lg={12}>
                                         <Link href="/">
-                                            <Image alt="bitswits" className='img-fluid w-50'
+                                            <Image alt="Appsters" className='img-fluid w-50'
                                                 src={mbllogo}
                                             />
                                         </Link>
@@ -341,7 +341,7 @@ const HeaderMbl = () => {
                                         <div className={styles.boxSpace}>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={fitnowimg}
                                                     className="img-fluid"
                                                 />
@@ -353,7 +353,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={`${styles.workBox}`}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={ecommerceimg}
                                                     className="img-fluid"
                                                 />
@@ -365,7 +365,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={scribeimg}
                                                     className="img-fluid"
                                                 />
@@ -377,7 +377,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={readyappimg}
                                                     className="img-fluid"
                                                 />
@@ -389,7 +389,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={`${styles.workBox}`}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={greepeimg}
                                                     className="img-fluid"
                                                 />
@@ -401,7 +401,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={cruveimg}
                                                     className="img-fluid"
                                                 />
@@ -413,7 +413,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={`${styles.workBox}`}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={beatsimg}
                                                     className="img-fluid"
                                                 />
@@ -425,7 +425,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={travelimg}
                                                     className="img-fluid"
                                                 />
@@ -437,7 +437,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={sponserdimg}
                                                     className="img-fluid"
                                                 />
@@ -449,7 +449,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={`${styles.workBox}`}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={realestateimgg}
                                                     className="img-fluid"
                                                 />
@@ -461,7 +461,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={homeconnctimg}
                                                     className="img-fluid"
                                                 />
@@ -473,7 +473,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={styles.workBox}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={healthimg}
                                                     className="img-fluid"
                                                 />
@@ -485,7 +485,7 @@ const HeaderMbl = () => {
                                             </div>
                                             <div className={`${styles.workBox} ${styles.lastBox}`}>
                                                 <Image
-                                                    alt="bitswits"
+                                                    alt="Appsters"
                                                     src={riderimg}
                                                     className="img-fluid"
                                                 />
@@ -518,8 +518,8 @@ const HeaderMbl = () => {
                                             <BsFillEnvelopeFill size={20} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf text-lowercase' href="mailto:info@bitswits.co" onClick={handleMenu}>
-                                                info@bitswits.co
+                                            <a className='font15 font-medium white fontf text-lowercase' href="mailto:info@Appsters.co" onClick={handleMenu}>
+                                                info@Appsters.co
                                             </a>
                                         </div>
                                     </div>

@@ -216,7 +216,7 @@ export default function dubaidevelopmentcompany() {
     {
       para: (
         <>
-          At BitsWits, a basic project begins with just <span>$20,000</span>{" "}
+          At Appsters, a basic project begins with just <span>$20,000</span>{" "}
           with limited features & functionalities. However, if your app needs to
           revolve around complex technicalities,
           <br className="d-xl-block d-none" /> you can expect the price to be
@@ -429,7 +429,7 @@ export default function dubaidevelopmentcompany() {
       <Justbuilditlpdubai
         title1="Just"
         title="Build It."
-        para="Design, Develop, and Grow with BitsWits."
+        para="Design, Develop, and Grow with Appsters."
         slide="slide1lp"
         href="tel:+971 55 503 1266"
       />
@@ -503,8 +503,8 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "App Development Company Washington DC| BitsWits",
-            url: "https://www.bitswits.co/app-development-company-washington-dc",
+            name: "App Development Company Washington DC| Appsters",
+            url: "https://www.Appsters.co/app-development-company-washington-dc",
             potentialAction: {
               "@type": "SearchAction",
               target: "{search_term_string}",
@@ -520,10 +520,10 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "App Development Company Washington DC| BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/app-development-company-washington-dc",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            name: "App Development Company Washington DC| Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/app-development-company-washington-dc",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+3022168231",
@@ -532,11 +532,11 @@ export default function dubaidevelopmentcompany() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -548,14 +548,14 @@ export default function dubaidevelopmentcompany() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "Product",
-            name: "App Development Company Washington DC| BitsWits",
+            name: "App Development Company Washington DC| Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwashington.85ad1652.webp&w=1920&q=75",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwashington.85ad1652.webp&w=1920&q=75",
             description:
-              "Create custom mobile apps with the top mobile app development company in DC. BitsWits offers professional app development services that boost your business",
+              "Create custom mobile apps with the top mobile app development company in DC. Appsters offers professional app development services that boost your business",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",

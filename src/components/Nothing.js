@@ -121,7 +121,7 @@ export default function Nothing(props) {
                 width={869}
                 height={855}
                 src={banImg1}
-                alt="BitsWits"
+                alt="Appsters"
                 className={`${styles.mapImg} img-fluid`}
               />
             </Col>
@@ -131,12 +131,12 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news1}
                         className="img-fluid  "
                       />
                       <p className="white font12 mt-4 mb-1 fontf font-regular">
-                        Bitswits' development of the ProEYE project, a wallet
+                        Appsters' development of the ProEYE project, a wallet
                         analytics and search engine platform on blockchain, was
                         exceptional. Their comprehensive work, from requirement
                         analysis to deployment, resulted in a highly functional,
@@ -157,7 +157,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>
@@ -168,16 +168,16 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news2}
                         className="img-fluid  "
                       />
                       <p className="white font12 mt-4 mb-1">
-                        Bitswits excelled in developing our custom CRM system,
+                        Appsters excelled in developing our custom CRM system,
                         perfectly aligning it with our SEO firm's workflow.
                         Their team delivered an efficient, user-friendly
                         solution with impressive attention to detail. We highly
-                        recommend Bitswits for their professionalism and app
+                        recommend Appsters for their professionalism and app
                         development expertise.
                       </p>
                       <div className="d-flex align-items-center gap-2 my-1">
@@ -193,7 +193,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>
@@ -204,12 +204,12 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news3}
                         className="img-fluid "
                       />
                       <p className="white font12 mt-4 mb-1">
-                        Bitswits delivered an efficient solution that
+                        Appsters delivered an efficient solution that
                         significantly improved processing speed, productivity,
                         and accuracy. Their proactive engagement, soliciting of
                         feedback, and implementing improvements ensured a
@@ -227,7 +227,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>
@@ -238,12 +238,12 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news4}
                         className="img-fluid  "
                       />
                       <p className="white font12 mt-4 mb-1">
-                        We decided to hire app developers from Bitswits on their
+                        We decided to hire app developers from Appsters on their
                         hourly package and it turned out to be a perfect fit for
                         our project's needs. Their team's expertise and
                         efficiency were impressive, delivering high-quality work
@@ -262,7 +262,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>
@@ -273,12 +273,12 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news1}
                         className="img-fluid  "
                       />
                       <p className="white font12 mt-4 mb-1">
-                        Bitswits' development of the ProEYE project, a wallet
+                        Appsters' development of the ProEYE project, a wallet
                         analytics and search engine platform on blockchain, was
                         exceptional. Their comprehensive work, from requirement
                         analysis to deployment, resulted in a highly functional,
@@ -299,7 +299,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>
@@ -310,12 +310,12 @@ export default function Nothing(props) {
                   <swiper-slide>
                     <div className={styles.strpImg}>
                       <Image
-                        alt="BitsWits"
+                        alt="Appsters"
                         src={news5}
                         className="img-fluid  "
                       />
                       <p className="white font12 mt-4 mb-1">
-                        Working with Bitswits was a game-changer for our retail
+                        Working with Appsters was a game-changer for our retail
                         chain. They developed an AI-assisted inventory
                         management system that automates stock level tracking
                         and predictive ordering. The accuracy and efficiency it
@@ -336,7 +336,7 @@ export default function Nothing(props) {
                             src={verified}
                             width={15}
                             height={15}
-                            alt="BitsWits"
+                            alt="Appsters"
                             className={`img-fluid ${styles.verifiedImage}`}
                           />
                           <p className="white font12 mb-0">Verified</p>

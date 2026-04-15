@@ -10,7 +10,7 @@ import { RiArrowDropRightLine } from "react-icons/ri";
 import { RxCross2 } from "react-icons/rx";
 //
 import ActiveLink from "./ActiveLink";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 // images
 import logo from "/public/images/icons/footerlogo.webp";
 import discount from "/public/headerbits/discount.jpg";
@@ -173,7 +173,7 @@ const HeaderNewDesign = () => {
       <header className={`${styles.headernew} ${isScrolled ? styles.bgColor : styles.transparent}`}>
         <div className={styles.logo}>
           <Link href="/">
-            <Image alt="bitswits" loading="lazy" src={logo} className="img-fluid" />
+            <Image alt="Appsters" loading="lazy" src={logo} className="img-fluid" />
           </Link>
         </div>
         <nav>
@@ -186,7 +186,7 @@ const HeaderNewDesign = () => {
           >
             <div className={`${styles.navLogo} ${styles.mblLogo}`}>
               <Link href="/">
-                <Image alt="bitswits" className="img-fluid" src={mbllogo} />
+                <Image alt="Appsters" className="img-fluid" src={mbllogo} />
               </Link>
             </div>
             <li>
@@ -226,7 +226,7 @@ const HeaderNewDesign = () => {
                                   Mobile App <br /> Development
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={mblApp}
                                   className="img-fluid"
                                 />
@@ -245,7 +245,7 @@ const HeaderNewDesign = () => {
                                   Game <br /> Development
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={andriod}
                                   className="img-fluid"
                                 />
@@ -266,7 +266,7 @@ const HeaderNewDesign = () => {
                                   Blockchain <br /> Development{" "}
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={blockchainIcon}
                                   className="img-fluid"
                                 />
@@ -285,7 +285,7 @@ const HeaderNewDesign = () => {
                                   Artificial <br /> Intelligence (Ai){" "}
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={AI}
                                   className="img-fluid"
                                 />
@@ -306,7 +306,7 @@ const HeaderNewDesign = () => {
                                   Web App <br /> Development
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={WebApp}
                                   className="img-fluid"
                                 />
@@ -325,7 +325,7 @@ const HeaderNewDesign = () => {
                                   Business <br /> Intelligence{" "}
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Augment}
                                   className="img-fluid"
                                 />
@@ -346,7 +346,7 @@ const HeaderNewDesign = () => {
                                   Web <br /> Development
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Programming}
                                   className="img-fluid"
                                 />
@@ -365,7 +365,7 @@ const HeaderNewDesign = () => {
                                   UI/UX App <br /> Design{" "}
                                 </h4>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={UIUX}
                                   className="img-fluid"
                                 />
@@ -382,7 +382,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={mblApp}
                                   className="img-fluid"
                                 />
@@ -397,7 +397,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={IOS}
                                   className="img-fluid"
                                 />
@@ -412,7 +412,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={andriod}
                                   guardicon
                                   className="img-fluid"
@@ -428,7 +428,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Flutter}
                                   className="img-fluid"
                                 />
@@ -443,7 +443,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={ReactNative}
                                   className="img-fluid"
                                 />
@@ -458,7 +458,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Cross}
                                   className="img-fluid"
                                 />
@@ -479,7 +479,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={andriod}
                                   className="img-fluid"
                                 />
@@ -494,7 +494,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={TwodIcon}
                                   className="img-fluid"
                                 />
@@ -509,7 +509,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={ThreedIcon}
                                   guardicon
                                   className="img-fluid"
@@ -525,7 +525,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={NFT}
                                   className="img-fluid"
                                 />
@@ -540,7 +540,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={blockchainIcon}
                                   className="img-fluid"
                                 />
@@ -562,7 +562,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={blockServ}
                                   className="img-fluid"
                                 />
@@ -577,7 +577,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={blockchainIcon}
                                   className="img-fluid"
                                 />
@@ -592,7 +592,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={AI}
                                   className="img-fluid"
                                 />
@@ -607,7 +607,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={WebApp}
                                   className="img-fluid"
                                 />
@@ -622,7 +622,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Augment}
                                   className="img-fluid"
                                 />
@@ -643,7 +643,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={AI}
                                   className="img-fluid"
                                 />
@@ -658,7 +658,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={Augment}
                                   className="img-fluid"
                                 />
@@ -673,7 +673,7 @@ const HeaderNewDesign = () => {
                             <li className={styles.imgpost}>
                               <div className={styles.dsicon}>
                                 <Image
-                                  alt="bitswits"
+                                  alt="Appsters"
                                   src={blockchainIcon}
                                   className="img-fluid"
                                 />
@@ -1047,7 +1047,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.newbits}>
                           <a href='javascript:window.replaceChat();'>
                             <Image
-                              alt="bitswits"
+                              alt="Appsters"
                               src={discount}
                               className="img-fluid"
                             />
@@ -1090,7 +1090,7 @@ const HeaderNewDesign = () => {
                           <p className="pb-0 mb-0">
                             <a href='javascript:window.replaceChat();'>
                               <Image
-                                alt="bitswits"
+                                alt="Appsters"
                                 className="img-fluid"
                                 src={cta3}
                                 loading="lazy"
@@ -1128,7 +1128,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>FITNESS APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={fitnowimg}
                             className="img-fluid"
                           />
@@ -1142,7 +1142,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>ECOMMERCE APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={ecommerceimg}
                             className="img-fluid"
                           />
@@ -1156,7 +1156,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>SOCIAL MEDIA APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={scribeimg}
                             className="img-fluid"
                           />
@@ -1170,7 +1170,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>HIRING APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={readyappimg}
                             className="img-fluid"
                           />
@@ -1184,7 +1184,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>AUTOMOBILE REPAIR APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={greepeimg}
                             className="img-fluid"
                           />
@@ -1198,7 +1198,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>FOOD DELIVERY APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={cruveimg}
                             className="img-fluid"
                           />
@@ -1212,7 +1212,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>MUSIC APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={beatsimg}
                             className="img-fluid"
                           />
@@ -1226,7 +1226,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>TRAVEL APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={travelimg}
                             className="img-fluid"
                           />
@@ -1240,7 +1240,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>INFLUENCER MARKETING APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={sponserdimg}
                             className="img-fluid"
                           />
@@ -1254,7 +1254,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>REAL ESTATE APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={realestateimgg}
                             className="img-fluid"
                           />
@@ -1268,7 +1268,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>HANDYMAN APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={homeconnctimg}
                             className="img-fluid"
                           />
@@ -1282,7 +1282,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>HEALTH CARE APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={healthimg}
                             className="img-fluid"
                           />
@@ -1296,7 +1296,7 @@ const HeaderNewDesign = () => {
                         <div className={styles.polo1}>
                           <h4>RIDE APP</h4>
                           <Image
-                            alt="bitswits"
+                            alt="Appsters"
                             src={riderimg}
                             className="img-fluid"
                           />
@@ -1307,7 +1307,7 @@ const HeaderNewDesign = () => {
                       <div>
                         {activeTab2 == "tab1" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={fitnow} className="img-fluid" />
+                            <Image alt="Appsters" src={fitnow} className="img-fluid" />
                             <h5>Fitness App</h5>
                             <p>Fitnow is the most effective fitness app available, a product of hard work and creativity. We've made the process easy: select your workout, establish your goals, and work for them under the direction of renowned fitness experts. It's a simple, easy way to achieve your fitness goals.</p>
                             <div>
@@ -1322,7 +1322,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab2" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={ecommerce} className="img-fluid" />
+                            <Image alt="Appsters" src={ecommerce} className="img-fluid" />
                             <h5>Clothing Marketplace App</h5>
                             <p>Wisu Clothing Marketplace App is your one-stop destination for fashion enthusiasts. This sleek and intuitive platform connects you to an extensive array of clothing, offering both top brands and independent designers. Wisu's smart recommendation system ensures that your style preferences are catered to ensuring confident fashion choices.</p>
                             <div>
@@ -1337,7 +1337,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab3" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={scribe} className="img-fluid" />
+                            <Image alt="Appsters" src={scribe} className="img-fluid" />
                             <h5>Social Networking App</h5>
                             <p>Soul Scribe is a social networking app that works as a digital diary. Its unique feature is to invite friends and family to be part of your online journal. The app operates on a freemium subscription model, offering a complimentary family room option that allows users to invite peers to contribute to their memories.</p>
                             <div>
@@ -1352,7 +1352,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab4" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={ready} className="img-fluid" />
+                            <Image alt="Appsters" src={ready} className="img-fluid" />
                             <h5>Hiring App</h5>
                             <p>Ready App is the ultimate mobile solution for drivers and HR professionals. For drivers, it offers a platform to list themselves and gain visibility, while HRs can effortlessly find and hire the right talent. With features like secure messaging, custom matching, and real-time updates, Ready App streamlines the recruitment process, making it efficient and effective for both drivers and HRs, all within a secure and diverse community.</p>
                             <div>
@@ -1367,7 +1367,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab5" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={greepe} className="img-fluid" />
+                            <Image alt="Appsters" src={greepe} className="img-fluid" />
                             <h5>Automobile Repair App</h5>
                             <p>Grease Monkey is your automotive innovation platform that provides a thorough answer to all your car repair needs. From services and prices to locations and client reviews, we help you make informed decisions for your vehicle.</p>
                             <div>
@@ -1382,9 +1382,9 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab6" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={crave} className="img-fluid" />
+                            <Image alt="Appsters" src={crave} className="img-fluid" />
                             <h5>Food Delivery App</h5>
-                            <p>Crave Courier, a BitsWits creation, is a food delivery app. It streamlines the process: select from local eateries, place your order, and savor restaurant-quality dishes brought straight to you. A convenient, fuss-free solution for your dining desires.</p>
+                            <p>Crave Courier, a Appsters creation, is a food delivery app. It streamlines the process: select from local eateries, place your order, and savor restaurant-quality dishes brought straight to you. A convenient, fuss-free solution for your dining desires.</p>
                             <div>
                               <ActiveLink href="/food-delivery-app-development-case-study" text="Read More"
                                 handle={() => isToggleCloseMeg((prev) => !prev)}
@@ -1397,7 +1397,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab7" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={beats} className="img-fluid" />
+                            <Image alt="Appsters" src={beats} className="img-fluid" />
                             <h5>Music App</h5>
                             <p>Beats, a music app, showcases music albums, lets users collaborate with other application users, and brings together a community of music enthusiasts, all within our vibrant and supportive platform.</p>
                             <div>
@@ -1412,7 +1412,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab8" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={travel} className="img-fluid" />
+                            <Image alt="Appsters" src={travel} className="img-fluid" />
                             <h5>Travel App</h5>
                             <p>Tourista is your premium travel app, simplifying every aspect of your journeys. From trip planning and interactive maps to local insights and seamless booking integration, Tourista has you covered.</p>
                             <div>
@@ -1427,7 +1427,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab9" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={sponserd} className="img-fluid" />
+                            <Image alt="Appsters" src={sponserd} className="img-fluid" />
                             <h5>Marketing Partnership App</h5>
                             <p>Sponsor'D is a platform that connects brands, businesses, and creators for mutually beneficial collaborations. Our main goal is to reinvent influencer marketing and foster healthy collaborations.</p>
                             <div>
@@ -1442,7 +1442,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab10" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={estate} className="img-fluid" />
+                            <Image alt="Appsters" src={estate} className="img-fluid" />
                             <h5>Real Estate App</h5>
                             <p>Dream Home, a real estate app designed to make your property search a breeze. If you're looking for your dream home, this user-friendly app offers a seamless and efficient experience. With a sleek interface, powerful search filters, and a vast database of listings, Dream Home helps you find the perfect property in no time.</p>
                             <div>
@@ -1457,7 +1457,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab11" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={home} className="img-fluid" />
+                            <Image alt="Appsters" src={home} className="img-fluid" />
                             <h5>Handyman App</h5>
                             <p>HomePro Connect is an on-demand handyman services application that connects users with skilled professionals at any time and in any location. With HomePro Connect, users can bid farewell to the stress of locating reliable assistance for commercial and home maintenance tasks.</p>
                             <div>
@@ -1472,7 +1472,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab12" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={health} className="img-fluid" />
+                            <Image alt="Appsters" src={health} className="img-fluid" />
                             <h5>Health App</h5>
                             <p>Health Care, an innovative app designed to empower individuals to take control of their health and well-being. This innovative mobile application offers a user-friendly platform for tracking, managing, and optimizing your health, all in one place. Health Care, your path to a healthier you start here.</p>
                             <div>
@@ -1487,7 +1487,7 @@ const HeaderNewDesign = () => {
                         )}
                         {activeTab2 == "tab13" && (
                           <div className={styles.caseTabs}>
-                            <Image alt="bitswits" src={rider} className="img-fluid" />
+                            <Image alt="Appsters" src={rider} className="img-fluid" />
                             <h5>Ride App</h5>
                             <p>Ride Me is your trusted ride-sharing app, designed for effortless daily commuting. Whether it's work, exploration, or a quick ride, Ride Me has your back. With a focus on safety, reliability, and clear pricing, Ride Me offers a smooth transportation experience.</p>
                             <div>
@@ -1507,26 +1507,26 @@ const HeaderNewDesign = () => {
                         <div className={styles.newbits}>
                           <a href='javascript:window.replaceChat();'>
                             <Image
-                              alt="bitswits"
+                              alt="Appsters"
                               src={discount}
                               className="img-fluid"
                             />
                           </a>
                         </div>
                         <div className={styles.proper}>
-                          <h4>Crafting Success with Bitswits</h4>
+                          <h4>Crafting Success with Appsters</h4>
                           <h3>
                             Your Vision, Our Expertise
                           </h3>
                           <p>
-                            At Bitswits, we place your project at the center of our world. Our team approaches each endeavor with a deep respect for your vision, combining it with our extensive expertise to turn ambitious ideas into tangible successes. We understand that behind every project is a dream, a goal, and a unique set of challenges, and we're committed to honoring that with the highest level of skill, care, and dedication. Here, your project isn't just another task—it's a mission fueled by our passion to see you thrive.
+                            At Appsters, we place your project at the center of our world. Our team approaches each endeavor with a deep respect for your vision, combining it with our extensive expertise to turn ambitious ideas into tangible successes. We understand that behind every project is a dream, a goal, and a unique set of challenges, and we're committed to honoring that with the highest level of skill, care, and dedication. Here, your project isn't just another task—it's a mission fueled by our passion to see you thrive.
                           </p>
                         </div>
                         <div className={styles.slaes}>
                           <p className="pb-0 mb-0">
                             <a href="tel:8335006007">
                               <Image
-                                alt="bitswits"
+                                alt="Appsters"
                                 className="img-fluid"
                                 src={cta1}
                                 loading="lazy"
@@ -1535,9 +1535,9 @@ const HeaderNewDesign = () => {
                             </a>
                           </p>
                           <p className="pb-0 mb-0">
-                            <a href="mailto:info@BitsWits.co" className={styles.saleEmail}>
+                            <a href="mailto:info@Appsters.co" className={styles.saleEmail}>
                               <Image
-                                alt="bitswits"
+                                alt="Appsters"
                                 className="img-fluid"
                                 src={cta2}
                                 loading="lazy"
@@ -1550,7 +1550,7 @@ const HeaderNewDesign = () => {
                           <p className="pb-0 mb-0">
                             <a href='javascript:window.replaceChat();'>
                               <Image
-                                alt="bitswits"
+                                alt="Appsters"
                                 className="img-fluid"
                                 src={cta3}
                                 loading="lazy"
@@ -1627,7 +1627,7 @@ const HeaderNewDesign = () => {
         <Modal show={show} onHide={closemodal} className={styles.modalnew}>
           <Modal.Body>
             {" "}
-            <Bitswitspopup formsaspire="popquote" />{" "}
+            <Appsterspopup formsaspire="popquote" />{" "}
             <span onClick={closemodal} className={styles.cross}>
               {" "}
               <RxCross2 />{" "}

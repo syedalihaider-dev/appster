@@ -88,7 +88,7 @@ const ServiceEngage = (props) => {
                 <div className={styles.longline}>
                   <div className={styles.expertise}>
                     <Image
-                      alt="BitsWits"
+                      alt="Appsters"
                       quality={80}
                       src={props.engIcon1}
                       className="img-fluid"
@@ -102,7 +102,7 @@ const ServiceEngage = (props) => {
                 <div className={styles.longline2}>
                   <div className={styles.expertise}>
                     <Image
-                      alt="BitsWits"
+                      alt="Appsters"
                       quality={80}
                       src={props.engIcon3}
                       className="img-fluid"
@@ -117,7 +117,7 @@ const ServiceEngage = (props) => {
               <Col xl={4}>
                 <div className={`${styles.offers} ${props.css}`}>
                   <Image
-                    alt="BitsWits"
+                    alt="Appsters"
                     quality={80}
                     src={props.main}
                     className={`img-fluid  `}
@@ -128,7 +128,7 @@ const ServiceEngage = (props) => {
                 <div className={`${styles.longline3}`}>
                   <div className={styles.expertise1}>
                     <Image
-                      alt="BitsWits"
+                      alt="Appsters"
                       quality={80}
                       src={props.engIcon2}
                       className="img-fluid"
@@ -142,7 +142,7 @@ const ServiceEngage = (props) => {
                 <div className={`${styles.longline1}`}>
                   <div className={styles.expertise1}>
                     <Image
-                      alt="BitsWits"
+                      alt="Appsters"
                       quality={80}
                       src={props.engIcon4}
                       className="img-fluid"

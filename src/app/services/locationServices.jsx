@@ -33,145 +33,145 @@ const LocationList = [
         state: "Houston",
         add: "2800 Post Oak Blvd STE 4100, Houston, TX 77056, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Houston.src,
         pin: "https://maps.app.goo.gl/onTtH6csSWJu2gAb7",
-        alt: "BitsWits mobile app development company Houston"
+        alt: "Appsters mobile app development company Houston"
     },
     {
         state: "Chicago",
         add: "141 W Jackson Blvd STE 300 A, Chicago, IL 60604, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Chicago.src,
         pin: "https://maps.app.goo.gl/VH6Dkp1J2wtNvLBC6",
-        alt: "BitsWits mobile app development company Chicago"
+        alt: "Appsters mobile app development company Chicago"
     },
     {
         state: "Dubai",
         add: "Office 1402, JBC 3 Cluster Y, Jumeirah Lake Towers Dubai UAE",
         phone: "+971 55 503 1266",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Dubai.src,
         pin: "https://maps.app.goo.gl/NzJaVuqgdpLYyaT28",
-        alt: "BitsWits mobile app development company Dubai"
+        alt: "Appsters mobile app development company Dubai"
     },
     // {
     //     state: "Karachi",
     //     add: "12 Floor، Caeser's tower, Shahrah-e-Faisal Rd, Karachi , Pakistan",
     //     phone: "+92 346 8280101",
-    //     email: "info@bitswits.co",
+    //     email: "info@Appsters.co",
     //     img: Karachi.src,
     //     pin: "https://maps.app.goo.gl/NzJaVuqgdpLYyaT28",
-    //     alt: "BitsWits mobile app development company Karachi"
+    //     alt: "Appsters mobile app development company Karachi"
     // },
     {
         state: "Los Angeles",
         add: "1425 Flower St, Los Angeles, CA 90015, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: LosAngeles.src,
         pin: "https://maps.app.goo.gl/ot7knKM1rXFFjpKMA",
-        alt: "BitsWits mobile app development company Los Angeles"
+        alt: "Appsters mobile app development company Los Angeles"
     },
     {
         state: "Miami",
         add: "601 Brickell Key Dr #700, Miami, FL 33131, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Miami.src,
         pin: "https://maps.app.goo.gl/sZDSxoSewEBHY1z27",
-        alt: "BitsWits mobile app development company Miami"
+        alt: "Appsters mobile app development company Miami"
     },
     {
         state: "New York",
         add: "26 Broadway Suite 934, New York, NY 10004, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: NewYork.src,
         pin: "https://maps.app.goo.gl/CPdXRcRzGxGRAuNU8",
-        alt: "BitsWits mobile app development company New York"
+        alt: "Appsters mobile app development company New York"
     },
     {
         state: "San Francisco",
         add: "488 Folsom St, San Francisco, CA 94105, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: SanFrancisco.src,
         pin: "https://maps.app.goo.gl/SzwvHzAKoLgiwWPm7",
-        alt: "BitsWits mobile app development company San Francisco"
+        alt: "Appsters mobile app development company San Francisco"
     },
     {
         state: "Toronto",
         add: "512 Wellington St W, Toronto, ON M5V 1E3, Canada",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Toronto.src,
         pin: "https://maps.app.goo.gl/dhULjcCFCiZ9fNyQ7",
-        alt: "BitsWits mobile app development company Toronto"
+        alt: "Appsters mobile app development company Toronto"
     },
     {
         state: "Dallas",
         add: "1341 W Mockingbird Ln, Dallas, TX 75247, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Dallas.src,
         pin: "https://maps.app.goo.gl/i76RsaokYHwn47vU9",
-        alt: "BitsWits mobile app development company Dallas"
+        alt: "Appsters mobile app development company Dallas"
     },
     {
         state: "Qatar",
         add: "51 Al Miqdad St, Doha, Qatar",
         phone: "+971 55 503 1266",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Qatar.src,
         pin: "https://maps.app.goo.gl/qimC1ofuhhu3z512A",
-        alt: "BitsWits mobile app development company Qatar"
+        alt: "Appsters mobile app development company Qatar"
     },
     {
         state: "Bahrain",
         add: "2139 Hoora Ave, Manama 973, Bahrain",
         phone: "+971 55 503 1266",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Bahrain.src,
         pin: "https://maps.app.goo.gl/N52TCmfz7GQbH35m8",
-        alt: "BitsWits mobile app development company Bahrain"
+        alt: "Appsters mobile app development company Bahrain"
     },
     {
         state: "Pierre",
         add: "124 W Dakota Ave, Pierre, SD 57501, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Pierre.src,
         pin: "https://maps.app.goo.gl/YEEuBJKd9GvXuMk18",
-        alt: "BitsWits mobile app development company Pierre"
+        alt: "Appsters mobile app development company Pierre"
     },
     {
         state: "Sharjah",
         add: "office #101 32 St Al Majarra Mughaidir Suburb Sharjah UAE",
         phone: "+971 55 503 1266",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Sharjah.src,
         pin: "https://maps.app.goo.gl/nbce4oEJoivkzVnt5",
-        alt: "BitsWits mobile app development company Sharjah"
+        alt: "Appsters mobile app development company Sharjah"
     },
     {
         state: "Denver",
         add: "1035 Cherokee St, Denver, CO 80204, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Denver.src,
         pin: "https://maps.app.goo.gl/sYmX44iWw2fmkVD1A",
-        alt: "BitsWits mobile app development company Denver GMB"
+        alt: "Appsters mobile app development company Denver GMB"
     },
     {
         state: "Austin",
         add: "500 W 2nd St Suite 133, Austin, TX 78701, United States",
         phone: "+(209) 727-6325",
-        email: "info@bitswits.co",
+        email: "info@Appsters.co",
         img: Austin.src,
         pin: "https://maps.app.goo.gl/WPQzX6HGBgE6h4mZA",
-        alt: "BitsWits mobile app development company Denver GMB"
+        alt: "Appsters mobile app development company Denver GMB"
     },
 ]
 

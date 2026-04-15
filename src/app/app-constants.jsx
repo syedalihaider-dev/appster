@@ -31,42 +31,42 @@ export function WhiteLogo() {
 
 export function NewSolutionIco1() {
     return (
-        <Image src={SolutionIco1} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco1} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco2() {
     return (
-        <Image src={SolutionIco2} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco2} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco3() {
     return (
-        <Image src={SolutionIco3} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco3} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco4() {
     return (
-        <Image src={SolutionIco4} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco4} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco5() {
     return (
-        <Image src={SolutionIco5} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco5} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco6() {
     return (
-        <Image src={SolutionIco6} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco6} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco7() {
     return (
-        <Image src={SolutionIco7} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco7} width={100} height={100} alt="Appsters"></Image>
     );
 }
 export function NewSolutionIco8() {
     return (
-        <Image src={SolutionIco8} width={100} height={100} alt="BitsWits"></Image>
+        <Image src={SolutionIco8} width={100} height={100} alt="Appsters"></Image>
     );
 }
 
@@ -80,7 +80,7 @@ export function MobileIcon() {
 
 export function MobileAppBannerImg() {
     return (
-        <Image src={MobileAppIco} width={500} height={500} alt="BitsWits" />
+        <Image src={MobileAppIco} width={500} height={500} alt="Appsters" />
     )
 }
 

@@ -71,7 +71,7 @@ export default function gamedevelopmentcompany() {
           text: (
             <>
 
-              BitsWits specializes in creating technology that can recognize and
+              Appsters specializes in creating technology that can recognize and
               respond to your movements. Our systems understand gestures like
               hand waves or nods, allowing you to control devices effortlessly
               through simple motions.
@@ -108,7 +108,7 @@ export default function gamedevelopmentcompany() {
         },
         {
           title: <> Web Conferencing </>,
-          text: "At BitsWits, we use smart technology to make online meetings better. Our system has features like automatic note-taking, language translation, and clear video, making virtual meetings easier and more effective.",
+          text: "At Appsters, we use smart technology to make online meetings better. Our system has features like automatic note-taking, language translation, and clear video, making virtual meetings easier and more effective.",
           appclass: "app5",
           imgservice: hybridiphone,
         },
@@ -126,11 +126,11 @@ export default function gamedevelopmentcompany() {
   return (
     <>
       <ServicesBanner
-        subtitle="BitsWits is a Home to All Your Demands Regarding"
+        subtitle="Appsters is a Home to All Your Demands Regarding"
         title={<> Artificial Intelligence Development and Advancement </>}
         text={
           <>
-            BitsWits welcomes you to the one-stop destination for innovative
+            Appsters welcomes you to the one-stop destination for innovative
             mobile applications development with artificial intelligence. Our
             skilled developers and designers provide forward-thinking solutions
             for all your AI development and integration requirements.
@@ -162,7 +162,7 @@ export default function gamedevelopmentcompany() {
               text: (
                 <>
 
-                  BitsWits specializes in creating technology that can recognize
+                  Appsters specializes in creating technology that can recognize
                   and respond to your movements. Our systems understand gestures
                   like hand waves or nods, allowing you to control devices
                   effortlessly through simple motions.
@@ -199,7 +199,7 @@ export default function gamedevelopmentcompany() {
             },
             {
               title: <> Web Conferencing </>,
-              text: "At BitsWits, we use smart technology to make online meetings better. Our system has features like automatic note-taking, language translation, and clear video, making virtual meetings easier and more effective.",
+              text: "At Appsters, we use smart technology to make online meetings better. Our system has features like automatic note-taking, language translation, and clear video, making virtual meetings easier and more effective.",
               appclass: "app5",
             },
           ]}
@@ -276,18 +276,18 @@ export default function gamedevelopmentcompany() {
       <ServicesFaqs
         faqsData={[
           {
-            question: "What AI services does BitsWits offer?",
+            question: "What AI services does Appsters offer?",
             answer: (
               <>
 
-                BitsWits provides AI consulting, custom AI solutions
+                Appsters provides AI consulting, custom AI solutions
                 development, and AI integration services.
               </>
             ),
           },
           {
             question:
-              "How long does AI development with BitsWits usually take?",
+              "How long does AI development with Appsters usually take?",
             answer: (
               <>
 
@@ -298,22 +298,22 @@ export default function gamedevelopmentcompany() {
           },
           {
             question:
-              "What kind of support does BitsWits offer post-deployment?",
+              "What kind of support does Appsters offer post-deployment?",
             answer: (
               <>
 
-                BitsWits provides ongoing support and maintenance to ensure the
+                Appsters provides ongoing support and maintenance to ensure the
                 smooth functioning and optimal performance of AI solutions.
               </>
             ),
           },
           {
             question:
-              "What industries does BitsWits specialize in for AI development?",
+              "What industries does Appsters specialize in for AI development?",
             answer: (
               <>
 
-                BitsWits has extensive experience in providing AI solutions for
+                Appsters has extensive experience in providing AI solutions for
                 industries such as healthcare, finance, retail, and
                 manufacturing, among others.
               </>
@@ -321,22 +321,22 @@ export default function gamedevelopmentcompany() {
           },
           {
             question:
-              "Does BitsWits offer AI maintenance services after the project is completed?",
+              "Does Appsters offer AI maintenance services after the project is completed?",
             answer: (
               <>
 
-                Yes, BitsWits provides ongoing AI maintenance services,
+                Yes, Appsters provides ongoing AI maintenance services,
                 including updates and optimizations for continued performance.
               </>
             ),
           },
           {
             question:
-              "Can BitsWits help in the integration of AI-driven analytics for data insights?",
+              "Can Appsters help in the integration of AI-driven analytics for data insights?",
             answer: (
               <>
 
-                Absolutely, BitsWits specializes in integrating AI-driven
+                Absolutely, Appsters specializes in integrating AI-driven
                 analytics to provide valuable data insights for informed
                 decision-making and improved business strategies.
               </>
@@ -352,7 +352,7 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Artificial Intelligence Development Company",
-            "url": "https://www.bitswits.co/artificial-intelligence-development-company",
+            "url": "https://www.Appsters.co/artificial-intelligence-development-company",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -366,15 +366,15 @@ export default function gamedevelopmentcompany() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/artificial-intelligence-development-company",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/artificial-intelligence-development-company",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }                        
         `}
@@ -385,8 +385,8 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Artificial Intelligence Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai.7f124f53.png&w=1080&q=75",
-            "url": "https://www.bitswits.co/artificial-intelligence-development-company",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai.7f124f53.png&w=1080&q=75",
+            "url": "https://www.Appsters.co/artificial-intelligence-development-company",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -414,11 +414,11 @@ export default function gamedevelopmentcompany() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
           }              
         `}
@@ -430,11 +430,11 @@ export default function gamedevelopmentcompany() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Artificial Intelligence Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai.7f124f53.png&w=1080&q=75",
-            "description": "BitsWits welcomes you to the one-stop destination for innovative mobile applications development with artificial intelligence. Our skilled developers and designers provide forward-thinking solutions for all your AI development and integration requirements.",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai.7f124f53.png&w=1080&q=75",
+            "description": "Appsters welcomes you to the one-stop destination for innovative mobile applications development with artificial intelligence. Our skilled developers and designers provide forward-thinking solutions for all your AI development and integration requirements.",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

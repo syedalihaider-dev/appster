@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "The Professional Mobile App Development Company NewYork - BitsWits.",
-  description: "From iOS to Android and beyond BitsWits is a team of highly skilled and experienced mobile app developers who specialize in creating innovative mobile solutions.",
+  title: "The Professional Mobile App Development Company NewYork - Appsters.",
+  description: "From iOS to Android and beyond Appsters is a team of highly skilled and experienced mobile app developers who specialize in creating innovative mobile solutions.",
   //===== OG Tags =====
   openGraph: {
-    title: 'The Professional Mobile App Development Company NewYork - BitsWits.',
-    description: 'From iOS to Android and beyond BitsWits is a team of highly skilled and experienced mobile app developers who specialize in creating innovative mobile solutions.',
+    title: 'The Professional Mobile App Development Company NewYork - Appsters.',
+    description: 'From iOS to Android and beyond Appsters is a team of highly skilled and experienced mobile app developers who specialize in creating innovative mobile solutions.',
     url: '/app-development-company-new-york',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

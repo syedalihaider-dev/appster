@@ -76,7 +76,7 @@ const isDarkHeader = [
   "/hybrid-app-development-company",
   "/lp/mobile-application-development-services",
   "/contact-us",
-  "/bitswits-services-page-1",
+  "/Appsters-services-page-1",
   "/lp/mobile-app-development-services",
   "/thank-you",
   "/blog/",

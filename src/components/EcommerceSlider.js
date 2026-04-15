@@ -74,7 +74,7 @@ const EcommerceSlider = () => {
                                             <div className="card testimonialscard">
                                                 <img quality={95}
                                                     src={testimonial.img1fold}
-                                                    alt='bitswits'
+                                                    alt='Appsters'
                                                 />
                                             </div>
                                         </div>

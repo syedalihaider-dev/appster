@@ -54,7 +54,7 @@ const Intelligence = (props) => {
                         <Col lg={12}>
                             <h2 className="font_30 fontsfheavy newfycolr">Custom Blockchain Applications</h2>
                             <h2 className="newchoose letterspace_1 font-bold white">We Build Custom Blockchain Applications</h2>
-                            <p className="font_17 white fontsfregular pt-2 pb-2">Bitswits designs and integrates custom Blockchain Applications into existing enterprise systems for businesses to leverage a safe, <br /> secure environment for diverse business transactions.</p>
+                            <p className="font_17 white fontsfregular pt-2 pb-2">Appsters designs and integrates custom Blockchain Applications into existing enterprise systems for businesses to leverage a safe, <br /> secure environment for diverse business transactions.</p>
                         </Col>
 
                         {isSliderActive ?
@@ -66,7 +66,7 @@ const Intelligence = (props) => {
                                 <Slider {...awardslogo} className="pt-4">
                                     <div className={styles.blocknew}>
                                         <div className="mb-4">
-                                            <Image src={bestgloba11} alt="bitswits" />
+                                            <Image src={bestgloba11} alt="Appsters" />
                                         </div>
                                         <div>
                                             <h3 className="font_20 newfycolr font-bold pb-2">Strengthen Security</h3>
@@ -75,7 +75,7 @@ const Intelligence = (props) => {
                                     </div>
                                     <div className={styles.blocknew}>
                                         <div className="mb-4">
-                                            <Image src={bestgloba12} alt="bitswits" />
+                                            <Image src={bestgloba12} alt="Appsters" />
                                         </div>
                                         <div>
                                             <h3 className="font_20 newfycolr font-bold pb-2">Bust Operational Bottlenecks</h3>
@@ -84,7 +84,7 @@ const Intelligence = (props) => {
                                     </div>
                                     <div className={styles.blocknew}>
                                         <div className="mb-4">
-                                            <Image src={bestgloba13} alt="bitswits" />
+                                            <Image src={bestgloba13} alt="Appsters" />
                                         </div>
                                         <div>
                                             <h3 className="font_20 newfycolr font-bold pb-2">Cut Intermediary Costs</h3>
@@ -101,7 +101,7 @@ const Intelligence = (props) => {
 
                                 <div className={styles.blocknew}>
                                     <div>
-                                        <Image src={bestgloba11} alt="bitswits" />
+                                        <Image src={bestgloba11} alt="Appsters" />
                                     </div>
                                     <div>
                                         <h3 className="font_20 newfycolr font-bold pb-2">Strengthen Security</h3>
@@ -110,7 +110,7 @@ const Intelligence = (props) => {
                                 </div>
                                 <div className={styles.blocknew}>
                                     <div>
-                                        <Image src={bestgloba12} alt="bitswits" />
+                                        <Image src={bestgloba12} alt="Appsters" />
                                     </div>
                                     <div>
                                         <h3 className="font_20 newfycolr font-bold pb-2">Bust Operational Bottlenecks</h3>
@@ -119,7 +119,7 @@ const Intelligence = (props) => {
                                 </div>
                                 <div className={styles.blocknew}>
                                     <div>
-                                        <Image src={bestgloba13} alt="bitswits" />
+                                        <Image src={bestgloba13} alt="Appsters" />
                                     </div>
                                     <div>
                                         <h3 className="font_20 newfycolr font-bold pb-2">Cut Intermediary Costs</h3>
@@ -130,7 +130,7 @@ const Intelligence = (props) => {
                         }
                         <Col lg={5}>
                             <div className={styles.longimg}>
-                                <Image src={videopic} alt="bitswits" className="img-fluid" />
+                                <Image src={videopic} alt="Appsters" className="img-fluid" />
                             </div>
                         </Col>
                     </Row>

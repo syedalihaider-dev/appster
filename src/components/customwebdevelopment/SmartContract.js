@@ -84,7 +84,7 @@ const SmartContract = (props) => {
                                                 <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2">{item.para4}</p>
                                             </div>
-                                            <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                         </div>
 
 
@@ -102,7 +102,7 @@ const SmartContract = (props) => {
                                                 <h4 className="fontgilroybold white font_15">{item.title3}</h4>
                                                 <p className="font_13 white fontsfregular linehight_2">{item.para4}</p>
                                             </div>
-                                            <Image src={item.img1} className="img-fluid" alt="bitswits" />
+                                            <Image src={item.img1} className="img-fluid" alt="Appsters" />
                                         </div>
 
 

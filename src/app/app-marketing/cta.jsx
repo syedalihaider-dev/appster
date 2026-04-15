@@ -5,7 +5,7 @@ import ctaImg from 'media/app-marketing/cta/cta-img.webp'
 import Image from "next/image"
 
 export const data = {
-    subTitle: "Create High-Impact Campaigns with BitsWits for ",
+    subTitle: "Create High-Impact Campaigns with Appsters for ",
     title: "App Success!",
     text: "Schedule a free call to learn how our marketing approach fuels your app’s growth and engagement.",
 }

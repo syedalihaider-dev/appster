@@ -24,7 +24,7 @@ const ProjectProcessLp6 = (props) => {
               `,
                 }}
               />
-              <Image src={banImg1} alt="BitsWits" className="img-fluid mt-4 mt-lg-5" />
+              <Image src={banImg1} alt="Appsters" className="img-fluid mt-4 mt-lg-5" />
             </Col>
           </Row>
         </Container>

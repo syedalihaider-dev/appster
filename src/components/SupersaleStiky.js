@@ -70,7 +70,7 @@ const SupersaleStiky = () => {
               <Image src={googlereview} alt="google" width="48" height="48" />
             </div>
             <div className="colCustom">
-              <h5>BitsWits Google Rating</h5>
+              <h5>Appsters Google Rating</h5>
               <div>
                 <span>5.0</span>
                 <Image src={googlestar} alt="google" width="110" height="20" />
@@ -94,7 +94,7 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   Thoughtfully integrating consumer feedback to improve the
-                  UX/UI, BitsWits has developed a series of consistently
+                  UX/UI, Appsters has developed a series of consistently
                   improved mobile app iterations. Their competitive pricing
                   structure pairs value with cost savings. The project manager
                   was exceptionally skilled and communicative.
@@ -115,7 +115,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  BitsWits is dependable and responsive to clients' requests.
+                  Appsters is dependable and responsive to clients' requests.
                   Always easy and convenient to communicate with them for any
                   issues and support. Gladly recommend them to anyone who wants
                   to build ideas into actual products.
@@ -136,7 +136,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Users have reviewed the app positively. Bitswits was
+                  Users have reviewed the app positively. Appsters was
                   responsive and provided excellent support. Their follow-up is
                   particularly noteworthy.
                 </p>
@@ -156,13 +156,13 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Discovering Bitswits is no doubt one of the highlights of my
+                  Discovering Appsters is no doubt one of the highlights of my
                   2018. They took my idea and brought it to life, beautifully.
                   The team assigned to me was diligent, responsive &amp;
                   patient. They did not try to rush the process so that they
                   could quickly jump onto a new client, instead they treated my
                   app with care as if it was their own. I would highly recommend
-                  Bitswits to anyone looking to build something special.
+                  Appsters to anyone looking to build something special.
                 </p>
               </div>
             </div>
@@ -180,7 +180,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  To the teams of Bitswits - excellent job done with very smooth
+                  To the teams of Appsters - excellent job done with very smooth
                   and responsive communication! The teams are very knowledgeable
                   and had given us lots of valuable advices.
                 </p>
@@ -200,7 +200,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  BitsWits has been professional, communicative, and
+                  Appsters has been professional, communicative, and
                   understanding throughout this partnership, and their mobile
                   apps have received very positive feedback from users, who note
                   that it is much nicer and more user-friendly than others of
@@ -241,8 +241,8 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  It was great to work with the BitsWits team on my website and
-                  application which is “ Kathleen Jasper “.BitsWits not only
+                  It was great to work with the Appsters team on my website and
+                  application which is “ Kathleen Jasper “.Appsters not only
                   outshine my expectations but they provided me with innovative
                   ways to scale my business. Their communication and flexibility
                   have been excellent. Highly recommended!
@@ -263,7 +263,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  It was a fantastic experience working with BitsWits and will
+                  It was a fantastic experience working with Appsters and will
                   partner with them again. I have worked with them for a couple
                   of months on my application and it was a good experience.
                   Highly recommended.
@@ -303,7 +303,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Bitswits is a fantastic company to work with. Their
+                  Appsters is a fantastic company to work with. Their
                   understanding of vision and being able to turn that into
                   reality is quite amazing. They add a lot of value by adding
                   new functionalities to ideas that we put forward.
@@ -325,7 +325,7 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   Taking the time to understand the client's requirements,
-                  Bitswits has provided high-quality service during the Mobile
+                  Appsters has provided high-quality service during the Mobile
                   App Design &amp; development with CRM Integration. I have not
                   come across a challenge they couldn't resolve with their
                   development &amp; communication skills.
@@ -367,7 +367,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Bitswits accommodated requests, using their tech stack,
+                  Appsters accommodated requests, using their tech stack,
                   adjusting to the project management tools, and communicating
                   issues that might impact the timeline. In the end, they
                   delivered a quality product.
@@ -389,7 +389,7 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   Though the app has yet to be launched, internal stakeholders
-                  are satisfied with Bitswits’s services, noting that major
+                  are satisfied with Appsters’s services, noting that major
                   requirements have been fulfilled.
                 </p>
               </div>
@@ -412,7 +412,7 @@ const SupersaleStiky = () => {
                   taking into consideration all the ideas or features that are
                   presented to them. Our website &amp; app is extraordinary
                   because of them. I am very happy about the experience and I
-                  intend to colCustomlaborate with Bitswits for many other
+                  intend to colCustomlaborate with Appsters for many other
                   future projects
                 </p>
               </div>
@@ -462,7 +462,7 @@ const SupersaleStiky = () => {
               <Image src={facebookreview} alt="google" width="48" height="48" />
             </div>
             <div className="colCustom">
-              <h5>BitsWits Facebook Rating</h5>
+              <h5>Appsters Facebook Rating</h5>
               <div>
                 <span>5.0</span>
                 <Image
@@ -490,7 +490,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  “Bitswits is a team of professionals. They improve their
+                  “Appsters is a team of professionals. They improve their
                   skills every day and use only the best and most reliable
                   technologies. I am proud to say, that we learned many useful
                   things from them, and it is the best team I have ever worked
@@ -512,7 +512,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Bitswits flexibility and willingness to work quickly despite
+                  Appsters flexibility and willingness to work quickly despite
                   all issues resulted in a successful product upon the first
                   review. They produced good work, and the end product has
                   positive reviews and no major crashes.
@@ -577,7 +577,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Fantastic work from Bitswits. They did the work to the exact
+                  Fantastic work from Appsters. They did the work to the exact
                   specifications and gave me great suggestions as well. They are
                   highly skilled developers and I highly recommend them.
                 </p>
@@ -597,7 +597,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Hired Bitswits to build a very complex mobile app for Amazon
+                  Hired Appsters to build a very complex mobile app for Amazon
                   sellers. They built the app from the ground up using React
                   Native. They saw the project through until the end and were
                   attentive to all my requests and suggestions. Very good work.
@@ -619,7 +619,7 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   It has been a great overall experience working with the team
-                  at Bitswits. The quality of work is top notch and they put in
+                  at Appsters. The quality of work is top notch and they put in
                   their level best in helping us to launch the project within
                   short time frame. Although there was a little issue with the
                   full understanding on the requirements, it was quickly
@@ -644,7 +644,7 @@ const SupersaleStiky = () => {
                   I have been in the gaming industry for over a decade, and I
                   have seen many companies come and go. However, this game
                   development company has consistently stood out as a leader in
-                  the field. Their bitswits approach to game design, combined
+                  the field. Their Appsters approach to game design, combined
                   with their technical expertise and business acumen, has
                   enabled them to create some of the most successful games in
                   recent years. I have the utmost respect for their team and
@@ -689,7 +689,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  One of the favorite aspects of working with bitswits is the
+                  One of the favorite aspects of working with Appsters is the
                   core competencies and thoroughness with which they executed
                   the project. The partnership have meant the timely deployment.
                   It has led us to a tremendous final product.
@@ -711,9 +711,9 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   It was great to see the commitment, dedication & emotion as
-                  well from Bitswits. I was very impressed with the dedication
+                  well from Appsters. I was very impressed with the dedication
                   to get the project over the line. I look forward to adding
-                  more features for the web & the app with Bitswits...
+                  more features for the web & the app with Appsters...
                 </p>
               </div>
             </div>
@@ -731,10 +731,10 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  The team of Bitswits is very knowledgeable in Android
+                  The team of Appsters is very knowledgeable in Android
                   development. I recently hired them for my Android project and
                   they delivered me just what I wanted. I strongly recommend
-                  Bitswits for best Android development.
+                  Appsters for best Android development.
                 </p>
               </div>
             </div>
@@ -753,11 +753,11 @@ const SupersaleStiky = () => {
                     height="20"
                   />{" "}
                   I have dealt with 50+ Service providers on nearly 100
-                  projects. Bitswits was with a doubt the most professional and
+                  projects. Appsters was with a doubt the most professional and
                   knowledgeable provider that I have dealt with. He managed to
                   give us answers in 5 minutes that 10+ other providers couldn’t
                   give us in 5 weeks! What a breath of fresh air! Thank you very
-                  much Bitswits!!!
+                  much Appsters!!!
                 </p>
               </div>
             </div>
@@ -775,7 +775,7 @@ const SupersaleStiky = () => {
                     width="110"
                     height="20"
                   />{" "}
-                  Bitswits work has successfully reached the beta version,
+                  Appsters work has successfully reached the beta version,
                   receiving overwhelmingly positive feedback from initial users.
                   Their communicative and transparent approach results in a
                   seamless colCustomlaboration. On top of their positive
@@ -800,10 +800,10 @@ const SupersaleStiky = () => {
                   />{" "}
                   We’ve worked with multiple software engineering firms on many
                   internal enterprise applications throughout the years. There
-                  is a major difference with Bitswits, though. Their production
+                  is a major difference with Appsters, though. Their production
                   quality is first rate, and their pricing is transparent. With
                   other companies we’ve experienced poorly estimated work that
-                  ultimately results in additional costs. bitswits,
+                  ultimately results in additional costs. Appsters,
                   on-the-other-hand, gives thorough estimates that reflect true
                   final costs.
                 </p>

@@ -93,7 +93,7 @@ export default function HomePro() {
             title: <>The <span>Starting</span> Point</>,
             text: [
               <>HomePro Connect was created because Brandon, the founding member, had trouble finding good and fast help for fixing things at home. He wanted to make it easier for people to find reliable professionals for home repairs and thought everyone should be able to get help quickly, no matter where they were.</>,
-              <>So, He hired BitsWits to create HomePro Connect from concept to design, development and deployment to connect people and professionals easily, anytime and anywhere.</>,
+              <>So, He hired Appsters to create HomePro Connect from concept to design, development and deployment to connect people and professionals easily, anytime and anywhere.</>,
             ],
           },
         ]}
@@ -140,11 +140,11 @@ export default function HomePro() {
           },
         ]}
         wantImg3={tackling}
-        lastPara={<> Through proactive troubleshooting and a strong focus on overcoming the challenges , our team at BitsWits successfully tackled complex challenges during HomePro's development and ensured that the application became a top choice for handyman services. </>}
+        lastPara={<> Through proactive troubleshooting and a strong focus on overcoming the challenges , our team at Appsters successfully tackled complex challenges during HomePro's development and ensured that the application became a top choice for handyman services. </>}
       />
       <CaseGoal
         golImg={goalImg}
-        title={<> Start Your App Development Journey <br /> Effortlessly; Let <span>Bitswits Be Your <br /> Savior</span> With A Quick Tap! </>}
+        title={<> Start Your App Development Journey <br /> Effortlessly; Let <span>Appsters Be Your <br /> Savior</span> With A Quick Tap! </>}
         goalClass='homepro'
       />
       <CaseOvercoming
@@ -159,7 +159,7 @@ export default function HomePro() {
           },
           {
             title: (<> On-Time Delivery - <br /> Every Time </>),
-            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.',
+            description: 'Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.',
           },
           {
             title: (<> Erasing <br /> Time-zone Barriers </>),
@@ -167,11 +167,11 @@ export default function HomePro() {
           },
           {
             title: (<> Efficient <br /> Communication </>),
-            description: 'BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
+            description: 'Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.',
           },
           {
             title: (<> Addressing <br /> Payment Disputes </>),
-            description: (<> At BitsWits, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
+            description: (<> At Appsters, we rely on the Stripe payment method for all transactions. We've developed an automated dispute resolution portal to efficiently manage payment issues. Our portal also provides clear visibility into the different stages of reported payment disputes and their current statuses. </>),
           },
         ]}
       />
@@ -192,7 +192,7 @@ export default function HomePro() {
         service5={service5}
       />
       <CaseChoose
-        title={<> <span>Why Trust <br /> BitsWits</span> with App <br /> Development? </>}
+        title={<> <span>Why Trust <br /> Appsters</span> with App <br /> Development? </>}
         text1={<> We stand as the primary choice for mobile app development, exemplifying excellence in a dynamic field. Our team combines creativity and the most suitable tech stack to develop customized app solutions. </>}
         text2={<> Our track record of delivering on time and within budget, coupled with a commitment to staying ahead of industry trends, sets us apart as the best partner for mobile app development. </>}
         items={[

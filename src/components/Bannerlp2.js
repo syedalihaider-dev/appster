@@ -29,9 +29,9 @@ const Bannerlp2 = (props) => {
                                 <a href='javascript:window.replaceChat();' className={styles.deliver}>Take The First Step - Sign Up Now!</a>
                             </div>
                             <div className={styles.comple}>
-                                <Image alt='BitsWits' src={banImg1} className='img-fluid w-25' />
+                                <Image alt='Appsters' src={banImg1} className='img-fluid w-25' />
                                 <div className={styles.comple1}>
-                                    <Image alt='BitsWits' src={star} className='img-fluid' />
+                                    <Image alt='Appsters' src={star} className='img-fluid' />
                                     <p className='mb-0'>4.8 out of 5 (review rating) <br></br>
                                         Over 1,200+ reviews</p>
                                 </div>
@@ -39,14 +39,14 @@ const Bannerlp2 = (props) => {
 
                             <div className={styles.posty}>
                                 <div className={styles.comple3}>
-                                    <Image alt='BitsWits' src={star2} className='img-fluid' />
+                                    <Image alt='Appsters' src={star2} className='img-fluid' />
                                     <div className={styles.comple5}>
                                         <p className='mb-0'>US TOP 3 BEST RATED</p>
                                         <p className='mb-0'>App & Software Development Company</p>
                                     </div>
                                 </div>
                                 <div className={styles.comple3}>
-                                    <Image alt='BitsWits' src={star1} className='img-fluid' />
+                                    <Image alt='Appsters' src={star1} className='img-fluid' />
                                     <div className={styles.comple5}>
                                         <p className='mb-0'>HIGH PERFORMER</p>
                                         <p className='mb-0'>Top App Development Company</p>
@@ -58,7 +58,7 @@ const Bannerlp2 = (props) => {
                         </Col>
                         <Col xl={6}>
                             <div className={styles.postimg}>
-                                <Image alt='BitsWits' src={BannerImage} className='img-fluid' />
+                                <Image alt='Appsters' src={BannerImage} className='img-fluid' />
                             </div>
                         </Col>
                     </Row>

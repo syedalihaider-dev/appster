@@ -14,7 +14,7 @@ const DeliveredDuplicate = ({ content }) => {
                 <Container>
                     <Row>
                         <Col lg={12}>
-                            <Image src={SecImage} width={58} height={60} alt='BitsWits' className='mx-auto d-block mb-3' />
+                            <Image src={SecImage} width={58} height={60} alt='Appsters' className='mx-auto d-block mb-3' />
                             <h2>{title}</h2>
                             {desc.map((item, index) => (
                                 <div key={index}>

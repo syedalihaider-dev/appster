@@ -135,7 +135,7 @@ export default function Home() {
         },
         {
           title: "Artificial Intelligence (Ai)",
-          text: "Hire BitsWits as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.",
+          text: "Hire Appsters as your trusted ally for AI development, and experience the revolution of your project through Artificial Intelligence that raises its potential.",
           appclass: "app3",
           imgservice: appletvappdevelopment,
         },
@@ -153,7 +153,7 @@ export default function Home() {
         },
         {
           title: "AR/VR",
-          text: "BitsWits serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.",
+          text: "Appsters serves as your AR/VR portal. We specialize in creating imaginative concepts into compelling digital realities that captivate, entertain, and inspire your audience.",
           appclass: "app6",
           imgservice: appSeven,
         },
@@ -204,7 +204,7 @@ export default function Home() {
                           quality={95}
                           className={styles.newmob}
                           src="/images/industry/1n.png"
-                          alt="bitswits"
+                          alt="Appsters"
                           width={166}
                           height={129}
                         />
@@ -220,7 +220,7 @@ export default function Home() {
                           quality={95}
                           className={styles.newmob}
                           src="/images/industry/2n.png"
-                          alt="bitswits"
+                          alt="Appsters"
                           width={120}
                           height={130}
                         />
@@ -236,7 +236,7 @@ export default function Home() {
                           quality={95}
                           className={styles.newmob}
                           src="/images/industry/3n.png"
-                          alt="bitswits"
+                          alt="Appsters"
                           width={148}
                           height={130}
                         />
@@ -252,7 +252,7 @@ export default function Home() {
                           quality={95}
                           className={styles.newmob}
                           src="/images/industry/4n.png"
-                          alt="bitswits"
+                          alt="Appsters"
                           width={130}
                           height={129}
                         />
@@ -349,7 +349,7 @@ export default function Home() {
           title2={<> Trusted Development Company For Tech Solutions </>}
           text={
             <>
-              We, at BitsWits, are dedicated to being innovative and making our
+              We, at Appsters, are dedicated to being innovative and making our
               clients happy.
               <br />
               We specialize in customizing services for digital business
@@ -373,7 +373,7 @@ export default function Home() {
               "@context": "https://schema.org/",
               "@type": "WebSite",
               "name": "App Development Company",
-              "url": "https://www.bitswits.co",
+              "url": "https://www.Appsters.co",
               "potentialAction": {
                 "@type": "SearchAction",
                 "target": "{search_term_string}",
@@ -387,15 +387,15 @@ export default function Home() {
           {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "BitsWits",
-              "url": "https://www.bitswits.co",
-              "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "name": "Appsters",
+              "url": "https://www.Appsters.co",
+              "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://twitter.com/BitsWits_/",
-                "https://www.youtube.com/@officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://www.linkedin.com/company/officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://twitter.com/Appsters_/",
+                "https://www.youtube.com/@officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://www.linkedin.com/company/officialAppsters"
               ]                      
           }
         `}
@@ -406,8 +406,8 @@ export default function Home() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "App Development Company",
-            "image": " https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "url": "https://www.bitswits.co ",
+            "image": " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "url": "https://www.Appsters.co ",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -435,11 +435,11 @@ export default function Home() {
               "closes": "06:00"
             },
             "sameAs": [
-            "https://www.facebook.com/officialBitsWits",
-            "https://www.instagram.com/officialBitsWits/",
-            "https://twitter.com/BitsWits_/",
-            "https://www.linkedin.com/company/officialBitsWits",
-            "https://www.youtube.com/@officialBitsWits"
+            "https://www.facebook.com/officialAppsters",
+            "https://www.instagram.com/officialAppsters/",
+            "https://twitter.com/Appsters_/",
+            "https://www.linkedin.com/company/officialAppsters",
+            "https://www.youtube.com/@officialAppsters"
             ]
           }
         `}
@@ -450,11 +450,11 @@ export default function Home() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "App Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            "description": "As a top-rated mobile app development company, Bitswits excels in transforming ideas into engaging, high-performance apps. Trust us to deliver solutions that combine innovation with a seamless user experience, propelling your business to new heights",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "description": "As a top-rated mobile app development company, Appsters excels in transforming ideas into engaging, high-performance apps. Trust us to deliver solutions that combine innovation with a seamless user experience, propelling your business to new heights",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

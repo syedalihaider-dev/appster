@@ -71,14 +71,14 @@ export default function mobileApplication() {
       heading: {
         subtitle: "Our Services Are Where Innovation Meets Play",
         title1: "Blockchain Gaming Engineering Services",
-        text: `From creating multiplayer games to providing secure in-game asset exchange options, BitsWits leverages blockchain technology for game development.
+        text: `From creating multiplayer games to providing secure in-game asset exchange options, Appsters leverages blockchain technology for game development.
         Our services include creating next-generation games using the latest technology and tools, such as Unity 3D engine for VR/AR gaming experiences,
         Augmented Reality (AR) support for games, low-latency gameplay features, HoloLens integration, and blockchain-backed matchmaking.`,
       },
       serdata: [
         {
           title: "Ethereum Dapp Game Development",
-          text: "BitsWits specializes in creating innovative, high-quality Ethereum dapps for businesses and entrepreneurs. All thanks to our dedicated team of developers, we provide reliable solutions to help enterprises to increase their profits and maximize user engagement.",
+          text: "Appsters specializes in creating innovative, high-quality Ethereum dapps for businesses and entrepreneurs. All thanks to our dedicated team of developers, we provide reliable solutions to help enterprises to increase their profits and maximize user engagement.",
           appclass: "app",
           imgservice: customios,
         },
@@ -94,7 +94,7 @@ export default function mobileApplication() {
         {
           title: "Solana Blockchain Development",
           text: `Solana Blockchain game development is all the rage right now,
-          and BitsWits is leading the charge. We specialize in creating
+          and Appsters is leading the charge. We specialize in creating
           powerful, high-volume games with a wide range of features – from
           fast-paced action to deep strategic play.`,
           appclass: "app2",
@@ -102,7 +102,7 @@ export default function mobileApplication() {
         },
         {
           title: "EOS Dapp Game Development",
-          text: "BitsWits offers comprehensive services for developing high-performance and secure blockchain games using the EOS platform. Get in touch to create engaging, user-friendly and intuitive dapps with unique features that help you stand out from the competition.",
+          text: "Appsters offers comprehensive services for developing high-performance and secure blockchain games using the EOS platform. Get in touch to create engaging, user-friendly and intuitive dapps with unique features that help you stand out from the competition.",
           appclass: "app3",
           imgservice: appletvappdevelopment,
         },
@@ -130,7 +130,7 @@ export default function mobileApplication() {
         },
         {
           title: "BSC Game Development",
-          text: `BSC Game Development by BitsWits is a complete suite of game
+          text: `BSC Game Development by Appsters is a complete suite of game
             development tools designed for professionals and enthusiasts
             alike. With its powerful engine, integrated asset library,
             intuitive interface, and comprehensive visual toolsets,
@@ -150,13 +150,13 @@ export default function mobileApplication() {
         },
         {
           title: "In-Game Asset & Token Creation",
-          text: "BitsWits specializes in providing bespoke in-game asset and token creation services. We offer various services tailored to suit your specific requirements: from creating 3D or 2D assets to programming custom tokenization systems and blockchain integration.",
+          text: "Appsters specializes in providing bespoke in-game asset and token creation services. We offer various services tailored to suit your specific requirements: from creating 3D or 2D assets to programming custom tokenization systems and blockchain integration.",
           appclass: "app5",
           imgservice: flutter,
         },
         {
           title: "Smart Contract Dapp Game Development",
-          text: "BitsWits provides comprehensive smart-contract solutions for games that operate on blockchain networks. Contact us to bring your notion of a modern and decentralized gaming experience into reality.",
+          text: "Appsters provides comprehensive smart-contract solutions for games that operate on blockchain networks. Contact us to bring your notion of a modern and decentralized gaming experience into reality.",
           appclass: "app5",
           imgservice: python,
         },
@@ -182,7 +182,7 @@ export default function mobileApplication() {
         }
         text={
           <>
-            BitsWits is an up-and-coming blockchain game development company
+            Appsters is an up-and-coming blockchain game development company
             that produces cutting-edge blockchain games <br /> for the global
             gaming market. We create next-generation games based on distributed
             ledger technology (DLT).
@@ -245,7 +245,7 @@ export default function mobileApplication() {
             <>
 
               From creating multiplayer games to providing secure in-game asset
-              exchange options, BitsWits leverages blockchain technology for
+              exchange options, Appsters leverages blockchain technology for
               game development.
               <br /> Our services include creating next-generation games using
               the latest technology and tools, such as Unity 3D engine for VR/AR
@@ -264,7 +264,7 @@ export default function mobileApplication() {
                   Ethereum Dapp <br /> Game Development
                 </>
               ),
-              text: "BitsWits specializes in creating innovative, high-quality Ethereum dapps for businesses and entrepreneurs. All thanks to our dedicated team of developers, we provide reliable solutions to help enterprises to increase their profits and maximize user engagement.",
+              text: "Appsters specializes in creating innovative, high-quality Ethereum dapps for businesses and entrepreneurs. All thanks to our dedicated team of developers, we provide reliable solutions to help enterprises to increase their profits and maximize user engagement.",
               appclass: "app",
             },
             {
@@ -296,7 +296,7 @@ export default function mobileApplication() {
                 <>
 
                   Solana Blockchain game development is all the rage right now,
-                  and BitsWits is leading the charge. We specialize in creating
+                  and Appsters is leading the charge. We specialize in creating
                   powerful, high-volume games with a wide range of features –
                   from fast-paced action to deep strategic play.
                 </>
@@ -307,7 +307,7 @@ export default function mobileApplication() {
           appContent2={[
             {
               title: "EOS Dapp Game Development",
-              text: "BitsWits offers comprehensive services for developing high-performance and secure blockchain games using the EOS platform. Get in touch to create engaging, user-friendly and intuitive dapps with unique features that help you stand out from the competition.",
+              text: "Appsters offers comprehensive services for developing high-performance and secure blockchain games using the EOS platform. Get in touch to create engaging, user-friendly and intuitive dapps with unique features that help you stand out from the competition.",
               appclass: "app3",
             },
           ]}
@@ -346,7 +346,7 @@ export default function mobileApplication() {
               text: (
                 <>
 
-                  BSC Game Development by BitsWits is a complete suite of game
+                  BSC Game Development by Appsters is a complete suite of game
                   development tools designed for professionals and enthusiasts
                   alike. With its powerful engine, integrated asset library,
                   intuitive interface, and comprehensive visual toolsets,
@@ -375,13 +375,13 @@ export default function mobileApplication() {
           appContent7={[
             {
               title: "In-Game Asset & Token Creation",
-              text: "BitsWits specializes in providing bespoke in-game asset and token creation services. We offer various services tailored to suit your specific requirements: from creating 3D or 2D assets to programming custom tokenization systems and blockchain integration.",
+              text: "Appsters specializes in providing bespoke in-game asset and token creation services. We offer various services tailored to suit your specific requirements: from creating 3D or 2D assets to programming custom tokenization systems and blockchain integration.",
               appclass: "app4",
               addclass: "app08",
             },
             {
               title: "Smart Contract Dapp Game Development",
-              text: "BitsWits provides comprehensive smart-contract solutions for games that operate on blockchain networks. Contact us to bring your notion of a modern and decentralized gaming experience into reality.",
+              text: "Appsters provides comprehensive smart-contract solutions for games that operate on blockchain networks. Contact us to bring your notion of a modern and decentralized gaming experience into reality.",
               appclass: "app5",
               addclass: "app09",
             },
@@ -395,7 +395,7 @@ export default function mobileApplication() {
         addClass="gameBlckChain"
         subTitle="Solutions"
         title="Take Your Gaming Experience to the Blockchain!"
-        text="BitsWits is at the cutting edge of blockchain game development, offering a suite of products to help businesses create fully featured games with all the security and transparency benefits of distributed ledger technology."
+        text="Appsters is at the cutting edge of blockchain game development, offering a suite of products to help businesses create fully featured games with all the security and transparency benefits of distributed ledger technology."
         Solution={Solution}
       />
       <GameCapabilities />
@@ -409,13 +409,13 @@ export default function mobileApplication() {
         }
         main={main}
         heading1="Business Value-driven Solutions"
-        text1="BitsWits offers multiple platform support for blockchain game development, meaning your game will reach a much wider audience."
+        text1="Appsters offers multiple platform support for blockchain game development, meaning your game will reach a much wider audience."
         engIcon1={engIcon1}
         heading2="Agile Methodology"
         text2="With our agile development process, you can be sure that we will release your game quickly without compromising quality. You can be sure of the quality games with no glitches!"
         engIcon2={engIcon2}
         heading3="Smooth User Experience"
-        text3="BitsWits understands that the success of any blockchain game depends on its ability to provide secure transactions in a safe environment. Hence, we take extra care to ensure that our solutions are secure and reliable, ensuring a smooth user experience."
+        text3="Appsters understands that the success of any blockchain game depends on its ability to provide secure transactions in a safe environment. Hence, we take extra care to ensure that our solutions are secure and reliable, ensuring a smooth user experience."
         engIcon3={engIcon3}
         heading4="Multi-platforms Game Development"
         text4="Our team of experienced developers has the capacity to craft custom blockchain games for any platform—from mobile, desktop, console, and web to virtual reality."
@@ -501,7 +501,7 @@ export default function mobileApplication() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Blockchain Games Development Company",
-            "url": "https://www.bitswits.co/blockchain-game-development",
+            "url": "https://www.Appsters.co/blockchain-game-development",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -515,15 +515,15 @@ export default function mobileApplication() {
           {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "BitsWits",
-            "url": "https://www.bitswits.co/blockchain-game-development ",
-            "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            "name": "Appsters",
+            "url": "https://www.Appsters.co/blockchain-game-development ",
+            "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.linkedin.com/company/officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.linkedin.com/company/officialAppsters"
             ]
           }                                        
         `}
@@ -534,8 +534,8 @@ export default function mobileApplication() {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Blockchain Games Development Company",
-          "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblockchainbanner.d2e8a13c.png&w=1080&q=75",
-          "url": "https://www.bitswits.co/blockchain-game-development",
+          "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblockchainbanner.d2e8a13c.png&w=1080&q=75",
+          "url": "https://www.Appsters.co/blockchain-game-development",
           "telephone": "+1 713 565 7656",
           "address": {
             "@type": "PostalAddress",
@@ -563,11 +563,11 @@ export default function mobileApplication() {
             "closes": "06:00"
           },
           "sameAs": [
-            "https://www.facebook.com/officialBitsWits",
-            "https://www.instagram.com/officialBitsWits/",
-            "https://twitter.com/BitsWits_/",
-            "https://www.linkedin.com/company/officialBitsWits",
-            "https://www.youtube.com/@officialBitsWits"
+            "https://www.facebook.com/officialAppsters",
+            "https://www.instagram.com/officialAppsters/",
+            "https://twitter.com/Appsters_/",
+            "https://www.linkedin.com/company/officialAppsters",
+            "https://www.youtube.com/@officialAppsters"
           ] 
          }                           
         `}
@@ -578,11 +578,11 @@ export default function mobileApplication() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "Blockchain Games Development Company",
-            "image": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblockchainbanner.d2e8a13c.png&w=1080&q=75",
-            "description": "BitsWits is an up-and-coming blockchain game development company that produces cutting-edge blockchain games for the global gaming market. We create next-generation games based on distributed ledger technology (DLT).",
+            "image": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblockchainbanner.d2e8a13c.png&w=1080&q=75",
+            "description": "Appsters is an up-and-coming blockchain game development company that produces cutting-edge blockchain games for the global gaming market. We create next-generation games based on distributed ledger technology (DLT).",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

@@ -38,7 +38,7 @@ const SmallBanner = () => {
                                 <div className='number'>
                                     <a href="tel:833-666-6684" className={styles.number}>
                                         <span>
-                                            <Image src={flagIcon} alt='Bitswits' className='me-2' />
+                                            <Image src={flagIcon} alt='Appsters' className='me-2' />
                                         </span>
                                         +1-833-666-6684
                                     </a>

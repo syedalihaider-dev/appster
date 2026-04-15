@@ -83,7 +83,7 @@ import Link from "next/link"
 export const BannerData = {
     subtitle: "Quickly – Efficiently – Effortlessly",
     title: "3D Game Development Company",
-    content: "BitsWits is a premium-grade 3D game development company that creates immersive 3D games for PC, consoles, mobile, and VR/AR. Utilizing Unity and Unreal Engine, our results-driven 3D game development services ensure exceptional visuals and implement monetization strategies to boost engagement and drive ROI by 30%.",
+    content: "Appsters is a premium-grade 3D game development company that creates immersive 3D games for PC, consoles, mobile, and VR/AR. Utilizing Unity and Unreal Engine, our results-driven 3D game development services ensure exceptional visuals and implement monetization strategies to boost engagement and drive ROI by 30%.",
     BannerLogos: BannerLogos,
     BannerBg: BannerBg,
     ImgBanner: "yes"
@@ -91,7 +91,7 @@ export const BannerData = {
 
 export const ProjectdiscussContent = {
     title: "Let’s Make Your 3D Game Project a Success Story!",
-    text: "BitsWits assembles top 3D animators, expert designers, project managers, and game writers to develop your 3D game with precision and creativity!",
+    text: "Appsters assembles top 3D animators, expert designers, project managers, and game writers to develop your 3D game with precision and creativity!",
 }
 
 export const ServicesContent = {
@@ -153,26 +153,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -188,7 +188,7 @@ export const GameCtaContent = {
 export const ContentSecContent = {
     title: "Hire World-Class 3D Game Development Company ",
     text: (<>
-        <p>Our team at BitsWits understands that building a game is about more than just technology—it’s about creating an experience that resonates with players and leaves a lasting impact.</p>
+        <p>Our team at Appsters understands that building a game is about more than just technology—it’s about creating an experience that resonates with players and leaves a lasting impact.</p>
         <p>As a leading 3D game development company in the USA, we bring a wealth of experience to the table.Our team is skilled in the latest technologies and game engines, allowing us to push the boundaries of what’s possible in gaming.</p>
         <p>Partner with the best 3D game development company to turn your ideas into the best immersive experiences in high- quality games that captivate players and raise the bar in the gaming industry.</p>
     </>),
@@ -273,8 +273,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Choose BitsWits?",
-    text: "Our comprehensive project management ensures high quality, transparency, and scalability. Here’s why you should choose BitsWits for your game development needs:"
+    title: "Why Choose Appsters?",
+    text: "Our comprehensive project management ensures high quality, transparency, and scalability. Here’s why you should choose Appsters for your game development needs:"
 }
 
 export const WhyChooseList1 = [
@@ -646,14 +646,14 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     }, {
         title: "Most Popular Mobile App Development Frameworks",
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -661,7 +661,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

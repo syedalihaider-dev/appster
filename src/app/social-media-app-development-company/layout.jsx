@@ -2,14 +2,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Best Social Media App Development Company - BitsWits",
-  description: "BitsWits is a leading social media app development company that creates feature-rich social media apps, connecting communities and driving brand success!",
+  title: "Best Social Media App Development Company - Appsters",
+  description: "Appsters is a leading social media app development company that creates feature-rich social media apps, connecting communities and driving brand success!",
   //===== OG Tags =====
   openGraph: {
-    title: "Best Social Media App Development Company - BitsWits",
-    description: "BitsWits is a leading social media app development company that creates feature-rich social media apps, connecting communities and driving brand success!",
+    title: "Best Social Media App Development Company - Appsters",
+    description: "Appsters is a leading social media app development company that creates feature-rich social media apps, connecting communities and driving brand success!",
     url: '/social-media-app-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",
@@ -18,7 +18,7 @@ export const metadata = {
   alternates: { canonical: '/social-media-app-development-company' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "Best Social Media App Development Company - BitsWits",
+    "DC.title": "Best Social Media App Development Company - Appsters",
     "geo.region": "US",
     "geo.placename": "Houston",
     "geo.position": "29.7372487; -95.4618603",

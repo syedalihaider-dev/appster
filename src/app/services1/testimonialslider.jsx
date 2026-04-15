@@ -36,7 +36,7 @@ const TestimonialSlider = (props) => {
                                 </div>
                                 <div className={styles.testProfile}>
                                     <div className={styles.ImgBox}>
-                                        <Image src={item.img} alt="Bitswits Reviews" width={80} height={80} />
+                                        <Image src={item.img} alt="Appsters Reviews" width={80} height={80} />
                                     </div>
                                     <div className={styles.ImgTitle}>
                                         {item.name}

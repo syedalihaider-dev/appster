@@ -51,7 +51,7 @@ const Faqs = ({ content }) => {
                             ))}
                         </Col>
                         <Col lg={5}>
-                            <Image src={FaqsImage} alt='Bitswits' className='img-fluid' />
+                            <Image src={FaqsImage} alt='Appsters' className='img-fluid' />
                         </Col>
                     </Row>
                 </div>

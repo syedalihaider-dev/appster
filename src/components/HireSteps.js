@@ -43,7 +43,7 @@ const HireSteps = (props) => {
                             <Col lg={3} md={6} key={index}>
                                 <div className={styles.stepBox}>
                                     <h5>{stepItem.step}</h5>
-                                    <Image src={stepItem.imageSrc} alt='BitsWits' className='img-fluid' />
+                                    <Image src={stepItem.imageSrc} alt='Appsters' className='img-fluid' />
                                     <h6>{stepItem.description}</h6>
                                 </div>
                             </Col>
@@ -68,7 +68,7 @@ const HireSteps = (props) => {
                                 <Col lg={3} md={6} key={index}>
                                     <div className={styles.stepBox}>
                                         <h5>{stepItem.step}</h5>
-                                        <Image src={stepItem.imageSrc} alt="BitsWits" className="img-fluid" />
+                                        <Image src={stepItem.imageSrc} alt="Appsters" className="img-fluid" />
                                         <h6>{stepItem.description}</h6>
                                     </div>
                                 </Col>

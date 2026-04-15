@@ -101,13 +101,13 @@ const BlogsIMG03 = "/services/blogs/post-3.webp"
 
 export const BannerData = {
     title: "Pro Sports App Development Company for On and Off-Field Excellence!",
-    content: "BitsWits is a leading sports app development company creating tech-driven solutions for sports clubs, leagues, and fitness brands. Our sports app developers design engaging apps that enhance productivity, expand reach, and boost viewership for millions of athletes, coaches, and fans worldwide.",
+    content: "Appsters is a leading sports app development company creating tech-driven solutions for sports clubs, leagues, and fitness brands. Our sports app developers design engaging apps that enhance productivity, expand reach, and boost viewership for millions of athletes, coaches, and fans worldwide.",
     BannerBg: BannerBg,
 }
 
 export const IndustryServiceContent = {
     title: "Versatile Sports App Development Services for Every Sports Experience",
-    text: "BitsWits offers versatile sports app development services, providing solutions for athletes, teams, and sports enthusiasts. As a leading sports app development company, we utilize cutting-edge tech to enhance every aspect of the sports experience.",
+    text: "Appsters offers versatile sports app development services, providing solutions for athletes, teams, and sports enthusiasts. As a leading sports app development company, we utilize cutting-edge tech to enhance every aspect of the sports experience.",
 }
 
 export const IndustryServiceList = [
@@ -140,8 +140,8 @@ export const IndustryServiceList = [
 
 export const IndustryCtaContent = {
     image: IndustryCtaImg,
-    title: "Create a Winning Sports App with BitsWits!",
-    text: "From training to fan engagement, BitsWits designs apps that meet the demands of sports teams, leagues, and fitness brands.",
+    title: "Create a Winning Sports App with Appsters!",
+    text: "From training to fan engagement, Appsters designs apps that meet the demands of sports teams, leagues, and fitness brands.",
 }
 
 export const IndustrySliderContent = {
@@ -369,8 +369,8 @@ export const ProcessTabs = [
 ];
 
 export const WhyChooseContent = {
-    title: "Why Partner with BitsWits for Your Next Project?",
-    text: "BitsWits is a leading sports app development company, delivering advanced solutions to boost athletic performance, fan engagement, and team management."
+    title: "Why Partner with Appsters for Your Next Project?",
+    text: "Appsters is a leading sports app development company, delivering advanced solutions to boost athletic performance, fan engagement, and team management."
 }
 
 export const WhyChooseList1 = [
@@ -491,26 +491,26 @@ export const TestimonialSLIDES = [
         img: Joseph,
     },
     {
-        txt: "BitsWits transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
+        txt: "Appsters transformed my vision into a stunning, user-friendly app. I couldn’t be happier with the result and their professionalism.",
         name: "Ryan Jaden",
         position: "Technical Team Lead",
         img: RyanJaden,
     },
     {
-        txt: "I am thoroughly satisfied with the project management provided by BitsWits. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
+        txt: "I am thoroughly satisfied with the project management provided by Appsters. Their attention to detail and seamless communication made the entire process stress-free and efficient!",
         name: "Kaylee Slone",
         position: "Digital Marketing Manager",
         img: KayleeSlone,
     }
     ,
     {
-        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. BitsWits exceeded all our expectations!",
+        txt: "Their tireless efforts in making the app not only responsive but also visually stunning were truly remarkable. Appsters exceeded all our expectations!",
         name: "Mauryo Jones",
         position: "VP Safety, Health & Security",
         img: MauryoJones,
     },
     {
-        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. BitsWits truly understands how to turn ideas into successful apps!",
+        txt: "They not only listened attentively to our needs but also provided valuable insights and suggestions. Appsters truly understands how to turn ideas into successful apps!",
         name: "James Moss",
         position: "EVP Business Development",
         img: KateBullock,
@@ -521,7 +521,7 @@ export const FuelingContent2 = {
     title: "Innovative Technologies for Transformative Sports App Development",
     text: "As a leading sports app development company, we use cutting-edge technology to deliver impactful sports solutions, embedding advanced features that elevate athlete performance, enhance fan engagement, and optimize team management.",
     subtitle: "Bring the Stadium to Mobile with a Powerful Sports App!",
-    subtext: "Join hands with BitsWits to develop apps that integrate advanced technology, supporting athletes, teams, and fans through every aspect of the sports experience.",
+    subtext: "Join hands with Appsters to develop apps that integrate advanced technology, supporting athletes, teams, and fans through every aspect of the sports experience.",
     FuelingImg: FuelingImg,
     FuelingImg1: FuelingImg1
 }
@@ -702,14 +702,14 @@ export const TechStackTabs = [
 
 export const IndustriesContent = {
     title: "Other Industries We Serve",
-    text: "At BitsWits, our expertise extends beyond healthcare, delivering standout app development solutions across a range of industries. Here’s how we bring innovation and efficiency to diverse sectors:",
+    text: "At Appsters, our expertise extends beyond healthcare, delivering standout app development solutions across a range of industries. Here’s how we bring innovation and efficiency to diverse sectors:",
 }
 
 export const IndustriesList = [
     {
         icon: <EcommerceSVG />,
         title: "Ecommerce",
-        txt: "We at BitsWits create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
+        txt: "We at Appsters create powerful e-commerce apps, transforming your business with seamless shopping experiences and robust sales platforms.",
         url: "/ecommerce-app-development",
         img: Ecommerce,
     },
@@ -843,7 +843,7 @@ export const BlogsList = [
         txt: "Ever noticed how there’s an app for almost everything? To be precise, there are over four million apps available across iOS and Android platforms, extending to a wide range of sub-genres and niches.",
         cat: "Mobile App Development",
         img: BlogsIMG01,
-        links: "https://www.bitswits.co/blog/mobile-app-development-cost",
+        links: "https://www.Appsters.co/blog/mobile-app-development-cost",
         date: "August 29,2024"
     },
     {
@@ -851,7 +851,7 @@ export const BlogsList = [
         txt: "You know how people are glued to their phones these days? Apps are like, everywhere. From booking a cab to buying movie tickets, chatting with friends, and nearly everything else in between, we just can’t do without apps.",
         cat: "Mobile App Development",
         img: BlogsIMG02.src,
-        links: "https://www.bitswits.co/blog/mobile-app-development-frameworks",
+        links: "https://www.Appsters.co/blog/mobile-app-development-frameworks",
         date: "August 13,2024"
     }
     , {
@@ -859,7 +859,7 @@ export const BlogsList = [
         txt: "Frustration with clunky interfaces is a thing of the past. The seamless apps that you are using today for food delivery, banking, or even socializing are created after a well-worked-up development process.",
         cat: "Mobile App Development",
         img: BlogsIMG03.src,
-        links: "https://www.bitswits.co/blog/application-development-life-cycle",
+        links: "https://www.Appsters.co/blog/application-development-life-cycle",
         date: "July 10,2024"
     }
 ]

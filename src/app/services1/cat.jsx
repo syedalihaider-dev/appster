@@ -23,7 +23,7 @@ const CtaEstimated = ({ setModalShow }) => {
                                 <ButtonCommon txt="Free Consultation" setModalShow={setModalShow} />
                             </div>
                             <div className={styles.ctaImg}>
-                                <Image src={IMG.src} alt="Bitswits Services" fill />
+                                <Image src={IMG.src} alt="Appsters Services" fill />
                             </div>
                         </div>
                     </Col>

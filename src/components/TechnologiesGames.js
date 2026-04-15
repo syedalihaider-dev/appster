@@ -47,7 +47,7 @@ const TechnologiesGames = (props) => {
                                         <div key={index}>
                                             <Image
                                                 quality={75}
-                                                alt="BitsWits"
+                                                alt="Appsters"
                                                 src={platform.icon}
                                                 className="img-fluid"
                                             />

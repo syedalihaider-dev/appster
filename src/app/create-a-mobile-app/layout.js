@@ -2,13 +2,13 @@
 export const metadata = {
   //===== Meta Tags =====
   title: "Create a Mobile App | Custom Solutions from Concept to Launch",
-  description: "Create a Mobile App with Bitswits. Where Innovation Meets Excellence | Bitswits.co",
+  description: "Create a Mobile App with Appsters. Where Innovation Meets Excellence | Appsters.co",
   //===== OG Tags =====
   openGraph: {
     title: 'Create a Mobile App | Custom Solutions from Concept to Launch',
-    description: 'Create a Mobile App with Bitswits. Where Innovation Meets Excellence | Bitswits.co',
+    description: 'Create a Mobile App with Appsters. Where Innovation Meets Excellence | Appsters.co',
     url: '/mobile-application-development-services',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",

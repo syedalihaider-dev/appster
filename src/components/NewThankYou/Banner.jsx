@@ -76,49 +76,49 @@ const Banner = () => {
                         </div>
                         <Slider {...bannerSlider} className='thankyouSlider'>
                             <div>
-                                <Image src={Slide1} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide1} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide2} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide2} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide3} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide3} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide4} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide4} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide5} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide5} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide6} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide6} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide7} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide7} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide8} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide8} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide9} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide9} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide10} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide10} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide11} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide11} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide12} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide12} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide13} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide13} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide14} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide14} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                             <div>
-                                <Image src={Slide15} alt='BitswitsSlides' className='img-fluid mx-auto' />
+                                <Image src={Slide15} alt='AppstersSlides' className='img-fluid mx-auto' />
                             </div>
                         </Slider>
                     </Col>

@@ -108,7 +108,7 @@ const MySwiperComponent = () => {
                       <div className="card">
                         <img quality={95}
                           src={testimonial.avatar}
-                          alt='bitswits'
+                          alt='Appsters'
                         />
                       </div>
                     </div>

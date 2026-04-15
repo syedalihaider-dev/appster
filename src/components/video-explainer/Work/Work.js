@@ -14,7 +14,7 @@ const Work = () => {
                         <Col lg={12}>
                             <h2>How We Work</h2>
                             <p>We've simplified our video production process as much as possible thanks to our years of experience. We have got field experts in each process of video making.</p>
-                            <Image src={WorkImage} alt='Bitswits' />
+                            <Image src={WorkImage} alt='Appsters' />
                         </Col>
                     </Row>
                 </div>

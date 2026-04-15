@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Container, Row, Col, Modal } from "react-bootstrap";
-import Bitswitspopup from "../components/Bitswitspopup";
+import Appsterspopup from "../components/Appsterspopup";
 import { RxCross2 } from "react-icons/rx";
 import styles from "@/styles/Faqsdubia.module.css";
 //
@@ -65,14 +65,14 @@ const Faqdubai = (props) => {
                             quality={75}
                             src={open}
                             className='img-fluid'
-                            alt='Bitswits'
+                            alt='Appsters'
                           />
                         ) : (
                           <Image
                             quality={75}
                             src={close}
                             className='img-fluid'
-                            alt='Bitswits'
+                            alt='Appsters'
                           />
                         )}
                       </h3>
@@ -97,7 +97,7 @@ const Faqdubai = (props) => {
       {/* Modal Start*/}
       <Modal show={show} onHide={closemodal} className={styles.modalnew}>
         <Modal.Body>
-          <Bitswitspopup formsaspire='popquote' />
+          <Appsterspopup formsaspire='popquote' />
           <span onClick={closemodal} className={styles.cross}>
             <RxCross2 />
           </span>

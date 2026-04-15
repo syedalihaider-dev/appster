@@ -123,7 +123,7 @@ export default function SoulScribe() {
                 Soul Scribe's founders saw the need for an approachable platform
                 that not only let users journal their experiences but also
                 included friends and family in their personal story. This app by
-                BitsWits is an excellent place to begin interacting because this
+                Appsters is an excellent place to begin interacting because this
                 platform allows you to create and cherish your memories with a
                 style.{" "}
               </>,
@@ -205,7 +205,7 @@ export default function SoulScribe() {
           <>
             Start Your App Development Journey <br /> Effortlessly; Let
             <span>
-              Bitswits Be Your <br /> Savior
+              Appsters Be Your <br /> Savior
             </span>
             With A Quick Tap!
           </>
@@ -247,7 +247,7 @@ export default function SoulScribe() {
               </>
             ),
             description:
-              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.",
+              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.",
           },
           {
             title: (
@@ -273,7 +273,7 @@ export default function SoulScribe() {
               </>
             ),
             description:
-              "BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
+              "Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
           },
           {
             title: (
@@ -283,7 +283,7 @@ export default function SoulScribe() {
             ),
             description: (
               <>
-                At BitsWits, we rely on the Stripe payment method for all
+                At Appsters, we rely on the Stripe payment method for all
                 transactions. We've developed an automated dispute resolution
                 portal to efficiently manage payment issues. Our portal also
                 provides clear visibility into the different stages of reported
@@ -317,7 +317,7 @@ export default function SoulScribe() {
         title={
           <>
             <span>
-              Why Trust <br /> BitsWits
+              Why Trust <br /> Appsters
             </span>
             with App <br /> Development?
           </>

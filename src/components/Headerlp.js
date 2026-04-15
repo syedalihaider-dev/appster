@@ -37,7 +37,7 @@ import sponsord from '/public/images/icons/sponsord.png'
 import newImg from '/public/images/1.jpg'
 import call from '/public/images/icons/phone-icon.webp'
 //
-import Bitswitspopup from '../components/Appsterspopup'
+import Appsterspopup from '../components/Appsterspopup'
 
 
 const Header = () => {
@@ -88,7 +88,7 @@ const Header = () => {
             <header className={path ? `${styles.header}` : `${styles.header} header`}>
                 <div className={styles.navLogo}>
                     <Link href="/">
-                        <Image alt="bitswits" className='img-fluid'
+                        <Image alt="Appsters" className='img-fluid'
                             src={logo}
                         />
                     </Link>
@@ -97,7 +97,7 @@ const Header = () => {
                     <ul className={isActive ? `${styles.menu} ${styles.active}` : `${styles.menu}`}>
                         <div className={`${styles.navLogo} ${styles.mblLogo}`}>
                             <Link href="/">
-                                <Image alt="bitswits" className='img-fluid'
+                                <Image alt="Appsters" className='img-fluid'
                                     src={mbllogo}
                                 />
                             </Link>
@@ -116,7 +116,7 @@ const Header = () => {
                             </Link>
                             <div className={megamenu3 ? `${styles.megaMenu3} ${styles.opnMenu3}` : `${styles.megaMenu3}`}>
                                 <div className={styles.backArrow}>
-                                    <Image alt="bitswits"
+                                    <Image alt="Appsters"
                                         src={backarrow}
                                     />
                                 </div>
@@ -133,7 +133,7 @@ const Header = () => {
 
                                                                     <div className={styles.listHeading}>
                                                                         <div className={styles.megaIcon}>
-                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                 src={apps} />
                                                                         </div>
                                                                         <h5 className='font14 fontf font-semibold mb-0'>APP</h5>
@@ -203,7 +203,7 @@ const Header = () => {
 
                                                                     <div className={styles.listHeading}>
                                                                         <div className={styles.megaIcon}>
-                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                 src={web}
                                                                             />
                                                                         </div>
@@ -240,7 +240,7 @@ const Header = () => {
 
                                                                     <div className={`${styles.listHeading} ${styles.neuport}`}>
                                                                         <div className={styles.megaIcon}>
-                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                 src={hosting}
                                                                             />
                                                                         </div>
@@ -277,7 +277,7 @@ const Header = () => {
 
                                                                                     <div className={styles.listHeading}>
                                                                                         <div className={styles.megaIcon}>
-                                                                                            <Image alt="bitswits" className='img-fluid'
+                                                                                            <Image alt="Appsters" className='img-fluid'
                                                                                                 src={games}
                                                                                             />
                                                                                         </div>
@@ -358,7 +358,7 @@ const Header = () => {
                                                                             <Col md={12}>
                                                                                 <ul className='mb-0 mt-0'>
                                                                                     <li>
-                                                                                        <Image quality={75} src={newImg} alt='BitsWits' className='img-fluid' />
+                                                                                        <Image quality={75} src={newImg} alt='Appsters' className='img-fluid' />
                                                                                     </li>
                                                                                 </ul>
                                                                             </Col>
@@ -382,7 +382,7 @@ const Header = () => {
                             </Link>
                             <div className={megamenu2 ? `${styles.megaMenu2} ${styles.opnMenu2}` : `${styles.megaMenu2}`}>
                                 <div className={styles.backArrow}>
-                                    <Image alt="bitswits"
+                                    <Image alt="Appsters"
                                         src={backarrow}
 
                                     />
@@ -395,7 +395,7 @@ const Header = () => {
                                                 <ul className='mb-0 mt-0'>
                                                     <div className={styles.listHeading}>
                                                         <div className={styles.megaIcon}>
-                                                            <Image alt="bitswits" className='img-fluid'
+                                                            <Image alt="Appsters" className='img-fluid'
                                                                 src={about}
                                                             />
                                                         </div>
@@ -423,7 +423,7 @@ const Header = () => {
 
                                                             <div className={styles.listHeading}>
                                                                 <div className={styles.megaIcon}>
-                                                                    <Image alt="bitswits" className='img-fluid'
+                                                                    <Image alt="Appsters" className='img-fluid'
                                                                         src={company}
                                                                     />
                                                                 </div>
@@ -445,7 +445,7 @@ const Header = () => {
                                     <Col lg={6}>
                                         <div className={styles.listMain}>
                                             <div className={styles.listImg}>
-                                                <Image alt="bitswits" className='img-fluid'
+                                                <Image alt="Appsters" className='img-fluid'
                                                     src={ourbg}
                                                 />
                                             </div>
@@ -461,7 +461,7 @@ const Header = () => {
                             </Link>
                             <div className={megamenu4 ? `${styles.megaMenu4} ${styles.opnMenu4}` : `${styles.megaMenu4}`}>
                                 <div className={styles.backArrow}>
-                                    <Image alt="bitswits"
+                                    <Image alt="Appsters"
                                         src={backarrow}
 
                                     />
@@ -470,7 +470,7 @@ const Header = () => {
                                     <Col lg={4}>
                                         <div className={styles.boxSpace}>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={travel}
 
                                                 />
@@ -484,7 +484,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={`${styles.workBox}`}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={estate}
 
                                                 />
@@ -498,7 +498,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={wisu}
 
                                                 />
@@ -512,7 +512,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={scribe}
 
                                                 />
@@ -526,7 +526,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={`${styles.workBox} ${styles.lastBox}`}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={grease}
 
                                                 />
@@ -544,7 +544,7 @@ const Header = () => {
                                     <Col lg={4}>
                                         <div className={styles.boxSpace}>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={sponsord}
 
                                                 />
@@ -558,7 +558,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={`${styles.workBox}`}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={health}
 
                                                 />
@@ -572,7 +572,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={ride}
 
                                                 />
@@ -586,7 +586,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={fit}
 
                                                 />
@@ -600,7 +600,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={`${styles.workBox} ${styles.lastBox}`}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={ready}
 
                                                 />
@@ -618,7 +618,7 @@ const Header = () => {
                                     <Col lg={4}>
                                         <div className={styles.boxSpace}>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={foods}
 
                                                 />
@@ -632,7 +632,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={styles.workBox}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={homeconnect}
 
                                                 />
@@ -646,7 +646,7 @@ const Header = () => {
                                                 </div>
                                             </div>
                                             <div className={`${styles.workBox}`}>
-                                                <Image alt="bitswits"
+                                                <Image alt="Appsters"
                                                     src={music}
                                                 />
                                                 <div className={styles.ourWork}>
@@ -699,7 +699,7 @@ const Header = () => {
                         </li>
 
                         <li className={`${styles.navList} ${styles.inqBtn}`} >
-                            <a href='tel:8335006007' className={styles.befLink}> <Image src={call} alt='BitsWits' className='img-fluid' /> +1 833 500 6007</a>
+                            <a href='tel:8335006007' className={styles.befLink}> <Image src={call} alt='Appsters' className='img-fluid' /> +1 833 500 6007</a>
                         </li>
                         <li>
                             <div className={styles.mbInq}>
@@ -709,8 +709,8 @@ const Header = () => {
                                             <BsFillEnvelopeFill size={20} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="mailto:info@bitswits.co" onClick={handleMenu}>
-                                                info@bitswits.co
+                                            <a className='font15 font-medium white fontf' href="mailto:info@Appsters.co" onClick={handleMenu}>
+                                                info@Appsters.co
                                             </a>
                                         </div>
                                     </div>
@@ -746,7 +746,7 @@ const Header = () => {
                 </nav>
 
                 <Modal show={show} onHide={closemodal} className={styles.modalnew}>
-                    <Modal.Body> <Bitswitspopup formsaspire='popquote' /> <span onClick={closemodal} className={styles.cross}> <RxCross2 /> </span> </Modal.Body>
+                    <Modal.Body> <Appsterspopup formsaspire='popquote' /> <span onClick={closemodal} className={styles.cross}> <RxCross2 /> </span> </Modal.Body>
 
 
                 </Modal>

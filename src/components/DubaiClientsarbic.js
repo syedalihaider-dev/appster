@@ -68,7 +68,7 @@ const DubaiClientArbic = ({ content }) => {
                     <div className='d-flex align-items-center'>
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -76,7 +76,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -84,7 +84,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -92,7 +92,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -100,7 +100,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -134,7 +134,7 @@ const DubaiClientArbic = ({ content }) => {
                     <div className='d-flex align-items-center'>
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -142,7 +142,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -150,7 +150,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -158,7 +158,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -166,7 +166,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -200,7 +200,7 @@ const DubaiClientArbic = ({ content }) => {
                     <div className='d-flex align-items-center'>
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -208,7 +208,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -216,7 +216,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -224,7 +224,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -232,7 +232,7 @@ const DubaiClientArbic = ({ content }) => {
                       />
                       <Image
                         src={Star}
-                        alt='Bitswits'
+                        alt='Appsters'
                         loading='lazy'
                         sizes='100vw'
                         width={13}
@@ -260,7 +260,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -272,7 +272,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -280,7 +280,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -288,7 +288,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -296,7 +296,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -304,7 +304,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -315,7 +315,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        كان العمل مع BitsWits نقطة تحول لشركتنا الناشئة. حولوا
+                        كان العمل مع Appsters نقطة تحول لشركتنا الناشئة. حولوا
                         فكرتنا البسيطة إلى تطبيق كامل الوظائف بتصميم سهل
                         الاستخدام وأداء سلس. فهم فريقهم رؤيتنا منذ اليوم الأول
                         وقدموا نتائج تجاوزت توقعاتنا.
@@ -335,7 +335,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -347,7 +347,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -355,7 +355,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -363,7 +363,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -371,7 +371,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -379,7 +379,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -390,7 +390,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        ساعدتنا BitsWits على تحسين عمليات أعمالنا من خلال إنشاء
+                        ساعدتنا Appsters على تحسين عمليات أعمالنا من خلال إنشاء
                         تطبيق مؤسسي قوي. الاهتمام بالتفاصيل، والتحديثات
                         المستمرة، والتواصل السلس جعل عملية التطوير خالية من
                         التوتر. مستخدمونا يستمتعون بالتجربة!
@@ -410,7 +410,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -422,7 +422,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -430,7 +430,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -438,7 +438,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -446,7 +446,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -454,7 +454,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -465,7 +465,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        من الفكرة حتى الإطلاق، قدمت لنا BitsWits الإرشاد في كل
+                        من الفكرة حتى الإطلاق، قدمت لنا Appsters الإرشاد في كل
                         خطوة. التطبيق الذي طوروه قوي، آمن، وسهل الاستخدام
                         للغاية. خبرتهم في تطوير تطبيقات الجوال ساعدتنا على تحقيق
                         أهداف أعمالنا أسرع مما كنا نتوقع.
@@ -485,7 +485,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -497,7 +497,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -505,7 +505,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -513,7 +513,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -521,7 +521,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -529,7 +529,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -540,7 +540,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        BitsWits transformed our app vision into reality
+                        Appsters transformed our app vision into reality
                         seamlessly. Their expertise and professionalism exceeded
                         our expectations. Highly recommend their services for
                         anyone seeking top-notch app development.
@@ -560,7 +560,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -572,7 +572,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -580,7 +580,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -588,7 +588,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -596,7 +596,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -604,7 +604,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -615,7 +615,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        Working with BitsWits was a game-changer for our
+                        Working with Appsters was a game-changer for our
                         business. Their commitment to excellence and innovative
                         approach ensured a successful app launch. We couldn't be
                         happier with the results!
@@ -635,7 +635,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center mb-1'>
                           <Image
                             src={ClientIcon}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             className={`icon ${styles.icon}`}
@@ -647,7 +647,7 @@ const DubaiClientArbic = ({ content }) => {
                         <div className='d-flex align-items-center'>
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -655,7 +655,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -663,7 +663,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -671,7 +671,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -679,7 +679,7 @@ const DubaiClientArbic = ({ content }) => {
                           />
                           <Image
                             src={Star}
-                            alt='Bitswits'
+                            alt='Appsters'
                             loading='lazy'
                             sizes='100vw'
                             width={18}
@@ -690,7 +690,7 @@ const DubaiClientArbic = ({ content }) => {
                     </div>
                     <div className={styles.cardBottom}>
                       <p className='fontsfregular'>
-                        BitsWits truly understands their clients' needs. Their
+                        Appsters truly understands their clients' needs. Their
                         tailored approach and attention to detail resulted in an
                         app that surpassed our expectations. Highly recommend
                         their services for anyone looking for top-tier app

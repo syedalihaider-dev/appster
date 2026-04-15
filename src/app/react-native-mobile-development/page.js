@@ -146,7 +146,7 @@ export default function ReactNativeMobile() {
   return (
     <>
       <ServicesBanner
-        subtitle="BitsWits Is Your One-Stop Shop For"
+        subtitle="Appsters Is Your One-Stop Shop For"
         title={<> React Native App Development </>}
         text={
           <>
@@ -364,13 +364,13 @@ export default function ReactNativeMobile() {
                     <>
                       The answer is YES! We can convert React web apps to mobile apps.
                       With a little know-how, you can turn your website into an app in
-                      no time. Here at BitsWits, we are experts in taking websites and
+                      no time. Here at Appsters, we are experts in taking websites and
                       transforming them into mobile experiences that engage users and
                       drive conversions. Our team of experienced developers will take
                       your website and convert it into the ultimate mobile app
                       experience. We use React Native to create apps that are fast,
                       reliable, and user-friendly, so you can trust your website is in
-                      good hands. Get in touch today and let BitsWits, the best React
+                      good hands. Get in touch today and let Appsters, the best React
                       Native development company turn your web React app into a mobile
                       masterpiece!
                     </>
@@ -382,7 +382,7 @@ export default function ReactNativeMobile() {
                     <>
                       The answer is YES! We can convert React web apps to mobile apps.
                       With a little know-how, you can turn your website into an app in
-                      no time. Here at BitsWits, we are experts in taking websites and
+                      no time. Here at Appsters, we are experts in taking websites and
                       transforming them into mobile experiences that engage users and
                       drive conversions. Our team of experienced developers will take
                       your website and convert it into the ultimate mobile app
@@ -439,10 +439,10 @@ export default function ReactNativeMobile() {
                 },
                 {
                   question:
-                    "Why is BitsWits the perfect company for native app development services?",
+                    "Why is Appsters the perfect company for native app development services?",
                   answer: (
                     <>
-                      BitsWits offers the best React Native app development services.
+                      Appsters offers the best React Native app development services.
                       With our experienced team of developers, your project will be
                       completed quickly and efficiently. We are experts in developing
                       applications for both iOS and Android platforms, so you can rest
@@ -663,13 +663,13 @@ export default function ReactNativeMobile() {
                     <>
                       The answer is YES! We can convert React web apps to mobile apps.
                       With a little know-how, you can turn your website into an app in
-                      no time. Here at BitsWits, we are experts in taking websites and
+                      no time. Here at Appsters, we are experts in taking websites and
                       transforming them into mobile experiences that engage users and
                       drive conversions. Our team of experienced developers will take
                       your website and convert it into the ultimate mobile app
                       experience. We use React Native to create apps that are fast,
                       reliable, and user-friendly, so you can trust your website is in
-                      good hands. Get in touch today and let BitsWits, the best React
+                      good hands. Get in touch today and let Appsters, the best React
                       Native development company turn your web React app into a mobile
                       masterpiece!
                     </>
@@ -681,7 +681,7 @@ export default function ReactNativeMobile() {
                     <>
                       The answer is YES! We can convert React web apps to mobile apps.
                       With a little know-how, you can turn your website into an app in
-                      no time. Here at BitsWits, we are experts in taking websites and
+                      no time. Here at Appsters, we are experts in taking websites and
                       transforming them into mobile experiences that engage users and
                       drive conversions. Our team of experienced developers will take
                       your website and convert it into the ultimate mobile app
@@ -738,10 +738,10 @@ export default function ReactNativeMobile() {
                 },
                 {
                   question:
-                    "Why is BitsWits the perfect company for native app development services?",
+                    "Why is Appsters the perfect company for native app development services?",
                   answer: (
                     <>
-                      BitsWits offers the best React Native app development services.
+                      Appsters offers the best React Native app development services.
                       With our experienced team of developers, your project will be
                       completed quickly and efficiently. We are experts in developing
                       applications for both iOS and Android platforms, so you can rest
@@ -773,7 +773,7 @@ export default function ReactNativeMobile() {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": " React Native Mobile App Development Company ",
-            "url": " https://www.bitswits.co/react-native-mobile-development ",
+            "url": " https://www.Appsters.co/react-native-mobile-development ",
             "potentialAction": {
               "@type": "SearchAction",
               "target": "{search_term_string}",
@@ -787,15 +787,15 @@ export default function ReactNativeMobile() {
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "BitsWits",
-              "url": " https://www.bitswits.co/react-native-mobile-development ",
-              "logo": "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+              "name": "Appsters",
+              "url": " https://www.Appsters.co/react-native-mobile-development ",
+              "logo": "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
               "sameAs": [
-                "https://www.facebook.com/officialBitsWits",
-                "https://twitter.com/BitsWits_/",
-                "https://www.youtube.com/@officialBitsWits",
-                "https://www.instagram.com/officialBitsWits/",
-                "https://www.linkedin.com/company/officialBitsWits"
+                "https://www.facebook.com/officialAppsters",
+                "https://twitter.com/Appsters_/",
+                "https://www.youtube.com/@officialAppsters",
+                "https://www.instagram.com/officialAppsters/",
+                "https://www.linkedin.com/company/officialAppsters"
               ] 
             }     
         `}
@@ -806,8 +806,8 @@ export default function ReactNativeMobile() {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": " React Native Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/card1.fc7177be.png",
-            "url": " https://www.bitswits.co/react-native-mobile-development",
+            "image": "https://www.Appsters.co/_next/static/media/card1.fc7177be.png",
+            "url": " https://www.Appsters.co/react-native-mobile-development",
             "telephone": "+1 713 565 7656",
             "address": {
               "@type": "PostalAddress",
@@ -835,11 +835,11 @@ export default function ReactNativeMobile() {
               "closes": "06:00"
             },
             "sameAs": [
-              "https://www.facebook.com/officialBitsWits",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://twitter.com/BitsWits_/",
-              "https://www.linkedin.com/company/officialBitsWits",
-              "https://www.youtube.com/@officialBitsWits"
+              "https://www.facebook.com/officialAppsters",
+              "https://www.instagram.com/officialAppsters/",
+              "https://twitter.com/Appsters_/",
+              "https://www.linkedin.com/company/officialAppsters",
+              "https://www.youtube.com/@officialAppsters"
             ]
            }                                                                                                 
         `}
@@ -850,11 +850,11 @@ export default function ReactNativeMobile() {
             "@context": "https://schema.org/", 
             "@type": "Product", 
             "name": "React Native Mobile App Development Company",
-            "image": "https://www.bitswits.co/_next/static/media/card1.fc7177be.png",
+            "image": "https://www.Appsters.co/_next/static/media/card1.fc7177be.png",
             "description": "With our React Native experts, you can effortlessly create powerful, engaging mobile applications that perform optimally across multiple platforms. Our developers focus on leveraging the best of both worlds - the SPEED and AGILITY of native development with the flexibility",
             "brand": {
               "@type": "Brand",
-              "name": "BitsWits"
+              "name": "Appsters"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

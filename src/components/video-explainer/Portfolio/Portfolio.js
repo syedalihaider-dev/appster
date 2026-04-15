@@ -255,7 +255,7 @@ const Portfolio = () => {
                                                     {tabContents[activeTab].map((item, index) => (
                                                         <Link key={index} href={item.video} datafancybox="gallery" className='overflow-hidden'>
                                                             <div className={styles.overlayMain}>
-                                                                <Image src={item.thumbnail} alt="Bitswits" width={468} height={263} className={styles.thumbnailImage} />
+                                                                <Image src={item.thumbnail} alt="Appsters" width={468} height={263} className={styles.thumbnailImage} />
                                                                 <div className={styles.overlay}>
                                                                     <Image src={PlayIcon} alt='Play-icon' />
                                                                 </div>
@@ -278,7 +278,7 @@ const Portfolio = () => {
                                                 {tabContents[activeTab].map((item, index) => (
                                                     <Link key={index} href={item.video} datafancybox="gallery" className='overflow-hidden'>
                                                         <div className={styles.overlayMain}>
-                                                            <Image src={item.thumbnail} alt="Bitswits" width={468} height={263} className={styles.thumbnailImage} />
+                                                            <Image src={item.thumbnail} alt="Appsters" width={468} height={263} className={styles.thumbnailImage} />
                                                             <div className={styles.overlay}>
                                                                 <Image src={PlayIcon} alt='Play-icon' />
                                                             </div>

@@ -10,7 +10,7 @@ const faqs = [
         txt: "Development time varies by complexity. Simple apps can take 1-3 months, while complex ones may require 6-12 months or longer, depending on features, design, and testing requirements."
     },
     {
-        title: "How can I monitor the progress of my outsourced project with BitsWits?",
+        title: "How can I monitor the progress of my outsourced project with Appsters?",
         txt: "We provide regular updates, progress reports, and access to project management tools. You'll have a dedicated project manager for clear communication and visibility throughout the development process."
     },
     {

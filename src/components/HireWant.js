@@ -45,7 +45,7 @@ const HireWant = (props) => {
                                             <ul>
                                                 {columns.map((item, itemIndex) => (
                                                     <li key={itemIndex}>
-                                                        <Image src={tick} alt="BitsWits" className={`img-fluid`} />
+                                                        <Image src={tick} alt="Appsters" className={`img-fluid`} />
                                                         <span>{item.text}</span>
                                                     </li>
                                                 ))}
@@ -78,7 +78,7 @@ const HireWant = (props) => {
                                             </div>
                                             <a href='javascript:window.replaceChat();'>
                                                 <span>Hire Now</span>
-                                                <Image src={arrow} alt="BitsWits" className={`img-fluid`} />
+                                                <Image src={arrow} alt="Appsters" className={`img-fluid`} />
                                             </a>
                                         </div>
                                     </Col>
@@ -108,7 +108,7 @@ const HireWant = (props) => {
                                                 </div>
                                                 <a href='javascript:window.replaceChat();'>
                                                     <span>Hire Now</span>
-                                                    <Image src={arrow} alt="BitsWits" className="img-fluid" />
+                                                    <Image src={arrow} alt="Appsters" className="img-fluid" />
                                                 </a>
                                             </div>
                                         </Col>

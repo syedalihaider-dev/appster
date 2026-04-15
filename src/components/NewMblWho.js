@@ -22,14 +22,14 @@ const NewHomeWho = () => {
                                     We build greater futures through innovation and collective knowledge.
                                 </p>
                                 <p className={`${styles.width} font14`}>
-                                    BitsWits is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 10+ years.
+                                    Appsters is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 10+ years.
                                 </p>
                             </div>
                             <div className={styles.sec_btn}>
                                 <Link href='javascript:window.replaceChat();' className={`${styles.btn_txt} font-extrabold`}>
                                     Get to know us
                                     <span>
-                                        <Image quality={75} alt='BitsWits' src={ButtonIcon} width={15} height={15} />
+                                        <Image quality={75} alt='Appsters' src={ButtonIcon} width={15} height={15} />
                                     </span>
                                 </Link>
                             </div>
@@ -37,7 +37,7 @@ const NewHomeWho = () => {
 
                         <Col lg={10}>
                             <div className={`${styles.secImagebg} text-center pt-4`}>
-                                <Image quality={75} alt='BitsWits' src={WhoImage} className={`${styles.secImage} img-fluid`} />
+                                <Image quality={75} alt='Appsters' src={WhoImage} className={`${styles.secImage} img-fluid`} />
                             </div>
                         </Col>
                     </Row>

@@ -57,11 +57,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                     <p>Industry Leading Clients Vouch for Us</p>
                                 </div>
                                 <div className={`${styles.btnImage} clutch`}>
-                                    <Image src={Clutch} alt='Bitswits' className={`img-fluid d-block mt-4 ms-md-auto ${styles.clutch}`} />
+                                    <Image src={Clutch} alt='Appsters' className={`img-fluid d-block mt-4 ms-md-auto ${styles.clutch}`} />
                                     <div className={styles.btn}>
                                         <a href="#href" onClick={onAnchorClick} className='gap-4 pink'>
                                             Free Consultation
-                                            <Image src={Arrow} alt='Bitswits' width={24} height={15} />
+                                            <Image src={Arrow} alt='Appsters' width={24} height={15} />
                                         </a>
                                     </div>
                                 </div>
@@ -73,11 +73,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                     <div className={`${styles.cardNegative}`}>
                                         <div className={`${styles.card}`}>
                                             <div className="cardTop">
-                                                <p>As a long-time client of BitsWits <span className={styles.blue}>mobile app development company</span>, I'm consistently impressed by their quality <span>cross-platform app development services</span> Their innovative approach has improved our businesses across the board.</p>
+                                                <p>As a long-time client of Appsters <span className={styles.blue}>mobile app development company</span>, I'm consistently impressed by their quality <span>cross-platform app development services</span> Their innovative approach has improved our businesses across the board.</p>
                                             </div>
                                             <div className={styles.cardBottom}>
                                                 <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                    {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                    {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                     <div className="txt">
                                                         <h3>Hal Jordan</h3>
                                                         <h6>Chief Operating Officer</h6>
@@ -85,7 +85,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                                 </div>
                                                 <div className="review d-flex align-items-center gap-2">
                                                     <p className='mb-0'>4.9/5.0</p>
-                                                    <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                    <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                                 </div>
                                             </div>
                                         </div>
@@ -98,7 +98,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                         </div>
                                         <div className={styles.cardBottom}>
                                             <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                 <div className="txt">
                                                     <h3>Ethan Fatu</h3>
                                                     <h6>Marketing Manager</h6>
@@ -106,7 +106,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                             </div>
                                             <div className="review d-flex align-items-center gap-2">
                                                 <p className='mb-0'>4.9/5.0</p>
-                                                <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                             </div>
                                         </div>
                                     </div>
@@ -115,11 +115,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                     <div className={`${styles.cardNegative}`}>
                                         <div className={` ${styles.card}`}>
                                             <div className="cardTop">
-                                                <p>Choosing BitsWits for <span className={styles.green}>Android app development services</span> was the best decision we could’ve made. The custom app they developed not only met but exceeded my expectations, showcasing their expertise as a top software developer.</p>
+                                                <p>Choosing Appsters for <span className={styles.green}>Android app development services</span> was the best decision we could’ve made. The custom app they developed not only met but exceeded my expectations, showcasing their expertise as a top software developer.</p>
                                             </div>
                                             <div className={styles.cardBottom}>
                                                 <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                    {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                    {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                     <div className="txt">
                                                         <h3>Samantha Ervine</h3>
                                                         <h6>Social Media Influencer</h6>
@@ -127,7 +127,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                                 </div>
                                                 <div className="review d-flex align-items-center gap-2">
                                                     <p className='mb-0'>4.9/5.0</p>
-                                                    <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                    <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                                 </div>
                                             </div>
                                         </div>
@@ -140,7 +140,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                         </div>
                                         <div className={styles.cardBottom}>
                                             <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                 <div className="txt">
                                                     <h3>Mark Maron</h3>
                                                     <h6>Healthcare Expert</h6>
@@ -148,7 +148,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                             </div>
                                             <div className="review d-flex align-items-center gap-2">
                                                 <p className='mb-0'>4.9/5.0</p>
-                                                <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                             </div>
                                         </div>
                                     </div>
@@ -161,7 +161,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                             </div>
                                             <div className={styles.cardBottom}>
                                                 <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                    {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                    {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                     <div className="txt">
                                                         <h3>Suzie Milton</h3>
                                                         <h6>Game Developer</h6>
@@ -169,7 +169,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                                 </div>
                                                 <div className="review d-flex align-items-center gap-2">
                                                     <p className='mb-0'>4.9/5.0</p>
-                                                    <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                    <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                                 </div>
                                             </div>
                                         </div>
@@ -178,11 +178,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                 <div className='px-2'>
                                     <div className={styles.card}>
                                         <div className="cardTop">
-                                            <p>I did extensive research to narrow down and determine the foremost <span className={styles.red}>mobile app development services in US,</span> by far BitsWits stood out on all spectrums. My ROI has gone through the roof.</p>
+                                            <p>I did extensive research to narrow down and determine the foremost <span className={styles.red}>mobile app development services in US,</span> by far Appsters stood out on all spectrums. My ROI has gone through the roof.</p>
                                         </div>
                                         <div className={styles.cardBottom}>
                                             <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                 <div className="txt">
                                                     <h3>Antonio Botticelli</h3>
                                                     <h6>Fashion Designer</h6>
@@ -190,7 +190,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                             </div>
                                             <div className="review d-flex align-items-center gap-2">
                                                 <p className='mb-0'>4.9/5.0</p>
-                                                <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                             </div>
                                         </div>
                                     </div>
@@ -199,11 +199,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                     <div className={`${styles.cardNegative}`}>
                                         <div className={`${styles.card}`}>
                                             <div className="cardTop">
-                                                <p>I was in dire need of <span className={styles.green}>Flutter app development services, </span>a friend of mine told me about this company he had worked with. BitsWits’ work was flawless, and my return on Investment far exceeded what I had hoped for.</p>
+                                                <p>I was in dire need of <span className={styles.green}>Flutter app development services, </span>a friend of mine told me about this company he had worked with. Appsters’ work was flawless, and my return on Investment far exceeded what I had hoped for.</p>
                                             </div>
                                             <div className={styles.cardBottom}>
                                                 <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                    {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                    {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                     <div className="txt">
                                                         <h3>Mehtab Sheikh </h3>
                                                         <h6>Hotelier</h6>
@@ -211,7 +211,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                                 </div>
                                                 <div className="review d-flex align-items-center gap-2">
                                                     <p className='mb-0'>4.9/5.0</p>
-                                                    <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                    <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                                 </div>
                                             </div>
                                         </div>
@@ -220,11 +220,11 @@ const Conviced = ({ content, onAnchorClick }) => {
                                 <div className='px-2'>
                                     <div className={styles.card}>
                                         <div className="cardTop">
-                                            <p>Exclusivity is the name of the game. I wanted immaculate <span className={styles.red}>Android app development services</span>. BitsWits claimed they were a premier <span className={styles.red}>Android app development company</span> and they certainly lived up to their word.</p>
+                                            <p>Exclusivity is the name of the game. I wanted immaculate <span className={styles.red}>Android app development services</span>. Appsters claimed they were a premier <span className={styles.red}>Android app development company</span> and they certainly lived up to their word.</p>
                                         </div>
                                         <div className={styles.cardBottom}>
                                             <div className="client d-flex align-items-center gap-1 gap-xxl-3">
-                                                {/* <Image src={Client1} alt='Bitswits' width={45} height={45} /> */}
+                                                {/* <Image src={Client1} alt='Appsters' width={45} height={45} /> */}
                                                 <div className="txt">
                                                     <h3>Heather Feinstein</h3>
                                                     <h6>Art Enthusiast</h6>
@@ -232,7 +232,7 @@ const Conviced = ({ content, onAnchorClick }) => {
                                             </div>
                                             <div className="review d-flex align-items-center gap-2">
                                                 <p className='mb-0'>4.9/5.0</p>
-                                                <Image src={ClientImage} alt='Bitswits' width={21} height={24} />
+                                                <Image src={ClientImage} alt='Appsters' width={21} height={24} />
                                             </div>
                                         </div>
                                     </div>

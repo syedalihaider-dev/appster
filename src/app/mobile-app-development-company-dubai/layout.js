@@ -1,14 +1,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "Mobile App Development Company in Dubai - BitsWits",
-  description: "Partner with BitsWits, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.",
+  title: "Mobile App Development Company in Dubai - Appsters",
+  description: "Partner with Appsters, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.",
   //===== OG Tags =====
   openGraph: {
-    title: 'Mobile App Development Company in Dubai - BitsWits',
-    description: 'Partner with BitsWits, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.',
+    title: 'Mobile App Development Company in Dubai - Appsters',
+    description: 'Partner with Appsters, your reliable mobile app development company in Dubai, for exceptional app development services perfectly suited to your needs.',
     url: '/mobile-app-development-company-dubai',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
   },
@@ -16,17 +16,17 @@ export const metadata = {
   alternates: { canonical: '/mobile-app-development-company-dubai' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "Mobile App Development Company in Dubai - BitsWits",
+    "DC.title": "Mobile App Development Company in Dubai - Appsters",
     "geo.region": "AE",
     "geo.position": "25.0782658, -55.1537371",
     "ICBM": " 25.0782658, -55.1537371",
     //==========
-    "DC.title": "Mobile App Development Company in Dubai - BitsWits",
+    "DC.title": "Mobile App Development Company in Dubai - Appsters",
     "geo.region": "AE-DU",
     "geo.position": "25.0782658, -55.1537371",
     "ICBM": "25.0782658, -55.1537371",
     //==========
-    "DC.title": "Mobile App Development Company in Dubai - BitsWits",
+    "DC.title": "Mobile App Development Company in Dubai - Appsters",
     "geo.region": "AE-DU",
     "geo.placename": "Dubai",
     "geo.position": "25.0782658, -55.1537371",

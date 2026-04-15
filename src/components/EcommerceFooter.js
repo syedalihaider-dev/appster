@@ -143,7 +143,7 @@ const EcommerceFooter = () => {
                                     <Link href="/contact-us" className='font12 lightgrey'>Contact Us</Link>
                                 </li>
                                 <li className='mb-2'>
-                                    <a href="mailto:info@BitsWits.co" className='font12 lightgrey'>
+                                    <a href="mailto:info@Appsters.co" className='font12 lightgrey'>
                                         <Image src={Envelop} alt='Envelope' />
                                         <span className='font12 lightgrey ms-2'>Contact Email</span>
                                     </a>
@@ -168,10 +168,10 @@ const EcommerceFooter = () => {
                             <p className={`mb-0 font15   font-bold ${styles.borderRight}`}>Official Channels</p>
 
                             <div className='d-flex align-items-center gap-2'>
-                                <a href='https://www.linkedin.com/company/officialBitsWits'><Image alt='Icons' src={LinkedIn} /> </a>
-                                <a href='https://twitter.com/BitsWits_/'><Image alt='Icons' src={Twitter} /> </a>
-                                <a href='https://www.youtube.com/@officialBitsWits'><Image alt='Icons' src={Youtube} /> </a>
-                                <a href='https://www.instagram.com/officialBitsWits/'><Image alt='Icons' src={Instagram} /> </a>
+                                <a href='https://www.linkedin.com/company/officialAppsters'><Image alt='Icons' src={LinkedIn} /> </a>
+                                <a href='https://twitter.com/Appsters_/'><Image alt='Icons' src={Twitter} /> </a>
+                                <a href='https://www.youtube.com/@officialAppsters'><Image alt='Icons' src={Youtube} /> </a>
+                                <a href='https://www.instagram.com/officialAppsters/'><Image alt='Icons' src={Instagram} /> </a>
                                 <Link href='#'><Image alt='Icons' src={Pinterest} /> </Link>
                             </div>
 
@@ -186,7 +186,7 @@ const EcommerceFooter = () => {
                 </Container>
             </section>
             <section className={`${styles.copyright} ${styles.official} d-flex align-items-center justify-content-center`}>
-                <p className='text-white font14 font-medium mb-0 me-2'>Copyright © 2026 BitsWits.</p>
+                <p className='text-white font14 font-medium mb-0 me-2'>Copyright © 2026 Appsters.</p>
             </section>
         </>
     )

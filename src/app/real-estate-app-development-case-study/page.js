@@ -191,7 +191,7 @@ export default function RealState() {
         wantImg3={tackling}
         lastPara={
           <>
-            BitsWits, a renowned app development company, brought "Dream Home"
+            Appsters, a renowned app development company, brought "Dream Home"
             to life through its expertise in real estate technology. Leveraging
             cutting-edge development techniques and a focus on user
             satisfaction, we created an app that redefines the real estate
@@ -206,7 +206,7 @@ export default function RealState() {
           <>
             Start Your App Development Journey <br /> Effortlessly; Let
             <span>
-              Bitswits Be Your <br /> Savior
+              Appsters Be Your <br /> Savior
             </span>
             With A Quick Tap!
           </>
@@ -248,7 +248,7 @@ export default function RealState() {
               </>
             ),
             description:
-              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at BitsWits use tools to track progress and ensure the project remains on schedule.",
+              "Completing tasks within a timeframe is a reflection of our professionalism, reliability, and dedication to client satisfaction. Upon onboarding, we set realistic and achievable deadlines, define clear milestones, and allocate resources accordingly. Project managers at Appsters use tools to track progress and ensure the project remains on schedule.",
           },
           {
             title: (
@@ -274,7 +274,7 @@ export default function RealState() {
               </>
             ),
             description:
-              "BitsWits offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
+              "Appsters offers round-the-clock, efficient communication to clients through instant chat, messages, and calls. Our commitment to 24/7 availability ensures that clients can reach out at their convenience. Our instant chat is equipped with end-to-end encryption, ensuring privacy and safeguarding sensitive information in every interaction.",
           },
           {
             title: (
@@ -284,7 +284,7 @@ export default function RealState() {
             ),
             description: (
               <>
-                At BitsWits, we rely on the Stripe payment method for all
+                At Appsters, we rely on the Stripe payment method for all
                 transactions. We've developed an automated dispute resolution
                 portal to efficiently manage payment issues. Our portal also
                 provides clear visibility into the different stages of reported
@@ -318,7 +318,7 @@ export default function RealState() {
         title={
           <>
             <span>
-              Why Trust <br /> BitsWits
+              Why Trust <br /> Appsters
             </span>
             with App <br /> Development?
           </>

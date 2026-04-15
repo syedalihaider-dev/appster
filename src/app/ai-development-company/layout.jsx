@@ -2,14 +2,14 @@
 //===== Meta Data =====
 export const metadata = {
   //===== Meta Tags =====
-  title: "AI Development Company - BitsWits",
-  description: "BitsWits is a top-tier AI app development company building products for the future-ready enterprises using cutting-edge AI development services.",
+  title: "AI Development Company - Appsters",
+  description: "Appsters is a top-tier AI app development company building products for the future-ready enterprises using cutting-edge AI development services.",
   //===== OG Tags =====
   openGraph: {
-    title: "AI Development Company - BitsWits",
-    description: "BitsWits is a top-tier AI app development company building products for the future-ready enterprises using cutting-edge AI development services.",
+    title: "AI Development Company - Appsters",
+    description: "Appsters is a top-tier AI app development company building products for the future-ready enterprises using cutting-edge AI development services.",
     url: '/ai-development-company',
-    siteName: 'BitsWits',
+    siteName: 'Appsters',
     locale: 'en_US',
     type: 'website',
     images: "/public/images/icons/footerlogo.png",
@@ -18,7 +18,7 @@ export const metadata = {
   alternates: { canonical: '/ai-development-company' },
   //===== GEO Tags =====
   other: {
-    "DC.title": "AI Development Company - BitsWits",
+    "DC.title": "AI Development Company - Appsters",
     "geo.region": "US",
     "geo.placename": "Houston",
     "geo.position": "29.7372487; -95.4618603",

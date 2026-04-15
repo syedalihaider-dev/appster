@@ -59,7 +59,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success1} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success1} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -84,7 +84,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success2} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success2} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -107,7 +107,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success3} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success3} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -130,7 +130,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success4} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success4} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -153,7 +153,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success5} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success5} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -176,7 +176,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success1} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success1} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -201,7 +201,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success2} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success2} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -224,7 +224,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success3} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success3} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -247,7 +247,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success4} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success4} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>
@@ -270,7 +270,7 @@ const SuccessfulApp = () => {
                             <div className={styles.card}>
                                 <div className={styles.image}>
                                     <div className={styles.imageOne}>
-                                        <Image src={Success5} alt='Bitswits' className='img-fluid' />
+                                        <Image src={Success5} alt='Appsters' className='img-fluid' />
                                     </div>
                                 </div>
                                 <div className={styles.content}>

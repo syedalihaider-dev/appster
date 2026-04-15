@@ -16,12 +16,12 @@ const People = (props) => {
           <div className={styles.flot}>
             <div className={styles.comple}>
               <Image
-                alt="BitsWits"
+                alt="Appsters"
                 src={banImg1}
                 className="img-fluid d-none d-lg-block"
               />
               <div className={styles.comple1}>
-                <Image alt="BitsWits" src={star} className="img-fluid" />
+                <Image alt="Appsters" src={star} className="img-fluid" />
                 <p className="mb-0">
                   4.8 out of 5 (review rating) <br></br>
                   Over 1,200+ reviews
@@ -30,7 +30,7 @@ const People = (props) => {
             </div>
             <div className={styles.comple3}>
               <Image
-                alt="BitsWits"
+                alt="Appsters"
                 src={star1}
                 className="img-fluid d-none d-lg-block"
               />
@@ -41,7 +41,7 @@ const People = (props) => {
             </div>
             <div className={styles.comple3}>
               <Image
-                alt="BitsWits"
+                alt="Appsters"
                 src={star2}
                 className="img-fluid d-none d-lg-block"
               />

@@ -51,7 +51,7 @@ const Bussiness = () => {
           <Row className="">
             <Col lg={12} className="p-0">
               <h2 className={styles.qtech}>Our Business Associates on Working <br />
-                with Bitswits</h2>
+                with Appsters</h2>
 
               <Slider {...clientsthink} className={`${styles.clintSlider}`}>
                 <div className={styles.shoot}>

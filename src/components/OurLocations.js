@@ -86,11 +86,11 @@ const OurLocations = () => {
                                     <div className={styles.title}>
                                         <h6>{location.name}</h6>
                                         <a href={location.href}>
-                                            <Image src={arrow} alt='Bitswits' className='img-fluid' />
+                                            <Image src={arrow} alt='Appsters' className='img-fluid' />
                                         </a>
                                     </div>
                                     <div className={styles.para}>
-                                        <Image src={circle} alt='Bitswits' className='img-fluid' />
+                                        <Image src={circle} alt='Appsters' className='img-fluid' />
                                         <p className='mb-0'>{location.description}</p>
                                     </div>
                                 </div>

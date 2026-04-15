@@ -100,7 +100,7 @@ export default function Page() {
         name: "How much does Flutter app builder cost?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "The cost of building a Flutter app varies widely, typically ranging from $15,000 to $200,000, based on the project’s complexity and requirements. Simple Flutter apps usually cost between $15,000 and $60,000. More complex apps can range from $60,000 to $150,000, while highly advanced Flutter apps can cost anywhere from $150,000 to $300,000. As a leading Flutter application development company, BitsWits offers competitive pricing from $30,000 to $200,000 to build your game-changing app!",
+          text: "The cost of building a Flutter app varies widely, typically ranging from $15,000 to $200,000, based on the project’s complexity and requirements. Simple Flutter apps usually cost between $15,000 and $60,000. More complex apps can range from $60,000 to $150,000, while highly advanced Flutter apps can cost anywhere from $150,000 to $300,000. As a leading Flutter application development company, Appsters offers competitive pricing from $30,000 to $200,000 to build your game-changing app!",
         },
       },
       {
@@ -161,13 +161,13 @@ export default function Page() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://www.bitswits.co/",
+                item: "https://www.Appsters.co/",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Flutter App Development Company",
-                item: "https://www.bitswits.co/flutter-app-development",
+                item: "https://www.Appsters.co/flutter-app-development",
               },
             ],
           }),
@@ -181,12 +181,12 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            name: "Flutter App Development Company - BitsWits",
-            url: "https://www.bitswits.co/flutter-app-development",
+            name: "Flutter App Development Company - Appsters",
+            url: "https://www.Appsters.co/flutter-app-development",
             potentialAction: {
               "@type": "SearchAction",
               target:
-                "https://www.bitswits.co/flutter-app-development/?s={search_term_string}",
+                "https://www.Appsters.co/flutter-app-development/?s={search_term_string}",
               "query-input": "required name=search_term_string",
             },
           }),
@@ -200,10 +200,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "Flutter App Development Company - BitsWits",
-            alternateName: "BitsWits",
-            url: "https://www.bitswits.co/flutter-app-development",
-            logo: "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
+            name: "Flutter App Development Company - Appsters",
+            alternateName: "Appsters",
+            url: "https://www.Appsters.co/flutter-app-development",
+            logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             contactPoint: {
               "@type": "ContactPoint",
               telephone: "+1 833 500-6007",
@@ -212,11 +212,11 @@ export default function Page() {
               availableLanguage: "en",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -229,10 +229,10 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Flutter App Development Company - BitsWits",
+            name: "Flutter App Development Company - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            url: "https://www.bitswits.co/flutter-app-development",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            url: "https://www.Appsters.co/flutter-app-development",
             telephone: "+1 833 500-6007",
             address: {
               "@type": "PostalAddress",
@@ -261,11 +261,11 @@ export default function Page() {
               closes: "23:59",
             },
             sameAs: [
-              "https://www.facebook.com/officialBitsWits",
-              "https://twitter.com/BitsWits_",
-              "https://www.instagram.com/officialBitsWits/",
-              "https://www.youtube.com/@officialBitsWits",
-              "https://www.linkedin.com/company/officialBitsWits",
+              "https://www.facebook.com/officialAppsters",
+              "https://twitter.com/Appsters_",
+              "https://www.instagram.com/officialAppsters/",
+              "https://www.youtube.com/@officialAppsters",
+              "https://www.linkedin.com/company/officialAppsters",
             ],
           }),
         }}
@@ -278,15 +278,15 @@ export default function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            name: "Flutter App Development Company - BitsWits",
+            name: "Flutter App Development Company - Appsters",
             image:
-              "https://www.bitswits.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
-            url: "https://www.bitswits.co/flutter-app-development",
+              "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
+            url: "https://www.Appsters.co/flutter-app-development",
             description:
-              "BitsWits empowers SMBs and entrepreneurs with mobile app development, delivering solutions across 10+ industries to drive business success and growth.",
+              "Appsters empowers SMBs and entrepreneurs with mobile app development, delivering solutions across 10+ industries to drive business success and growth.",
             brand: {
               "@type": "Brand",
-              name: "BitsWits",
+              name: "Appsters",
             },
             aggregateRating: {
               "@type": "AggregateRating",
@@ -303,7 +303,7 @@ export default function Page() {
               author: {
                 "@type": "Organization",
                 name: "Clutch",
-                url: "https://clutch.co/profile/bitswits",
+                url: "https://clutch.co/profile/Appsters",
               },
             },
           }),

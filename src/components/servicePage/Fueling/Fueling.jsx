@@ -17,10 +17,10 @@ const Fueling = () => {
                             <div className={styles.ideaPart}>
                                 <div className={styles.content}>
                                     <h3 className='manrope font-bold text-white mb-3'>No Risks With An MVP! Launch Your IDEA To See How They Like It! </h3>
-                                    <p className='mb-0 manrope font-medium font16 text-white'>BitsWits believes in taking a creative, hands-on approach to mobile application development because we know it’s not just</p>
+                                    <p className='mb-0 manrope font-medium font16 text-white'>Appsters believes in taking a creative, hands-on approach to mobile application development because we know it’s not just</p>
                                 </div>
                                 <div className={styles.image}>
-                                    <Image src={estimate} alt='Bitswits' className='img-fluid' />
+                                    <Image src={estimate} alt='Appsters' className='img-fluid' />
                                 </div>
                             </div>
                             <div className={styles.secBtn}>
