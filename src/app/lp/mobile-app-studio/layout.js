@@ -51,21 +51,7 @@ export default function RootLayout({ children }) {
   return (
     <div className={`${montserrat.variable} ${dmSans.variable}`}>
        {children}
-       {/* Google Tag (gtag.js) */}
-        <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=AW-16476280714"
-        />
 
-        <Script id="google-ads-tag" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'AW-16476280714');
-          `}
-        </Script>
 
        {/* Zendesk Chat Snippet */}
        <Script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=239dfa05-01f6-4362-bfb9-4f75a7455e10" strategy="afterInteractive" />

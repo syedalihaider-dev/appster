@@ -18,10 +18,5 @@ export default function AfterLoadScripts() {
 
   if (!isReady) return null;
 
-  return (
-    <>
-      {/* ✅ Google Analytics - ONLY GA4 ID */}
-      <GoogleAnalytics gaId="AW-16476280714" />
-    </>
-  );
+  return null;
 }

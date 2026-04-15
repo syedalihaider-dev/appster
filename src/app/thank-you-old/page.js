@@ -21,14 +21,16 @@ export default function ThankYou() {
 
   return (
     <>
-      {pageLoaded &&
         <>
           {/* <!-- Event snippet for Website lead conversion page --> */}
-          <Script id="gtag-conversion-new">
-            {`gtag('event', 'conversion', {'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'});`}
+          <Script id="gtag-conversion-new" strategy="afterInteractive">
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('event', 'conversion', {'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'});
+            `}
           </Script>
         </>
-      }
 
       <main>
         <section className={styles.thankYou}>

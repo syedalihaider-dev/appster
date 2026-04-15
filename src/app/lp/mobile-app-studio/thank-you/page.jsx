@@ -19,11 +19,11 @@ export default function ThankYou() {
             {/* Event snippet for conversion */}
             <Script id="google-conversion" strategy="afterInteractive">
                 {`
-                if (typeof gtag !== "undefined") {
-                    gtag('event', 'conversion', {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('event', 'conversion', {
                     'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'
-                    });
-                }
+                });
                 `}
             </Script>
             <div className="container">

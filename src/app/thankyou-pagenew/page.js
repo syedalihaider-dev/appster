@@ -10,12 +10,16 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 const page = () => {
     return (
         <>
-            <Script strategy="lazyOnload" src="https://www.googletagmanager.com/gtag/js?id=AW-16476280714"></Script>
-            <GoogleAnalytics gaId="AW-16476280714" />
+            {/* Event snippet for Website lead conversion page */}
             <Script
                 id="gtag-conversion-new"
+                strategy="afterInteractive"
                 dangerouslySetInnerHTML={{
-                    __html: `gtag('event', 'conversion', {'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'});`,
+                    __html: `
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('event', 'conversion', {'send_to': 'AW-16476280714/MD9mCJjo2ZkcEIqvwLA9'});
+                    `,
                 }}
             />
             <Banner />
