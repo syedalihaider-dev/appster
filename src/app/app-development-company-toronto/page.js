@@ -457,8 +457,8 @@ export default function dubaidevelopmentcompany() {
   // Global Conten
   const global = {
     address: "512 Wellington St W, Toronto, ON M5V 1E3, Canada",
-    number: "(833) 500-6007",
-    href: "tel:+8335006007",
+    number: "855 799 1171",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/dhULjcCFCiZ9fNyQ7",
   };
@@ -740,7 +740,7 @@ export default function dubaidevelopmentcompany() {
             logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
-              telephone: "+18335006007",
+              telephone: "+18557991171",
               contactType: "customer service",
               areaServed: "CA",
               availableLanguage: "en",
@@ -767,7 +767,7 @@ export default function dubaidevelopmentcompany() {
               " https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoronto.568b0dc8.webp&w=1920&q=75",
             "@id": "",
             url: "https://www.Appsters.co/app-development-company-toronto",
-            telephone: "+18335006007",
+            telephone: "+18557991171",
             priceRange: "$10000",
             address: {
               "@type": "PostalAddress",
@@ -832,3 +832,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

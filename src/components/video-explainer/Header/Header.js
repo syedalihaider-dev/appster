@@ -20,15 +20,15 @@ const VideoHeader = () => {
                         </div>
                         <div className={`d-flex align-items-center gap-lg-4`}>
                             <div>
-                                <a href="mailto:info@appsters.io" className={`${styles.btn} d-lg-flex align-items-center d-none`}>
+                                <a href="mailto:support@appsters.io" className={`${styles.btn} d-lg-flex align-items-center d-none`}>
                                     <Image src={Mail} alt='Appsters' className='me-2' />
-                                    info@appsters.io
+                                    support@appsters.io
                                 </a>
                             </div>
                             <div>
-                                <a href="tel:8335006007" className={`${styles.btn} d-flex align-items-center`}>
+                                <a href="tel:8557991171" className={`${styles.btn} d-flex align-items-center`}>
                                     <Image src={flagIcon} alt='US Flag' className='me-2 d-sm-block d-none   ' />
-                                    +1 833 500 6007
+                                    +1 855 799 1171
                                 </a>
                             </div>
                             <div>
@@ -49,3 +49,4 @@ const VideoHeader = () => {
 }
 
 export default VideoHeader
+

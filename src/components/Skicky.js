@@ -198,7 +198,7 @@ const Skicky = () => {
                         <span className="icon">
                             <Image width="30" height="30" alt="Appsters" className="img-fluid" src={call} loading="lazy" />
                             <div className="txtBody">
-                                <a href="tel:8335006007">(833) 500-6007</a>
+                                <a href="tel:8557991171">855 799 1171</a>
                             </div>
                         </span>
                     </div>
@@ -241,3 +241,4 @@ const Skicky = () => {
 }
 
 export default Skicky
+

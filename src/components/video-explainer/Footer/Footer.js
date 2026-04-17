@@ -191,13 +191,13 @@ const VideoFooter = () => {
                             <div className={styles.address_detail}>
                                 <ul>
                                     <li>
-                                        <a href="tel:833 500 6007">
-                                            <FaPhoneAlt className={styles.footerIcons} /> 833 500 6007
+                                        <a href="tel:855 799 1171">
+                                            <FaPhoneAlt className={styles.footerIcons} /> 855 799 1171
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="mailto:info@appsters.io">
-                                            <FaEnvelope className={styles.footerIcons} /> info@appsters.io
+                                        <a href="mailto:support@appsters.io">
+                                            <FaEnvelope className={styles.footerIcons} /> support@appsters.io
                                         </a>
                                     </li>
                                     <li>
@@ -229,3 +229,4 @@ const VideoFooter = () => {
 }
 
 export default VideoFooter
+

@@ -84,8 +84,8 @@ const HeaderMbl = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:18335006007" onClick={handleMenu}>
-                                                +1 833 500 6007
+                                            <a className='font15 font-medium white fontf' href="tel:18557991171" onClick={handleMenu}>
+                                                +1 855 799 1171
                                             </a>
                                         </div>
                                     </div>
@@ -105,3 +105,4 @@ const HeaderMbl = () => {
 }
 
 export default HeaderMbl
+

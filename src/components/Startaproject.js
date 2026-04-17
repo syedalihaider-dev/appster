@@ -20,7 +20,7 @@ const Startaproject = () => {
                                         Project?</h4>
 
                                    <div className={styles.home}>
-                                   <a href="tel:8335006007" className={styles.number}>Call Now: (833) 500-6007</a>
+                                   <a href="tel:8557991171" className={styles.number}>Call Now: 855 799 1171</a>
                                     <a href='javascript:window.replaceChat();' className={styles.live}>Start Iive
                                         Chat</a>
                                    </div>
@@ -40,3 +40,4 @@ const Startaproject = () => {
 }
 
 export default Startaproject
+

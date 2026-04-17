@@ -33,8 +33,8 @@ const LocationList = [
     {
         state: "Houston",
         add: "2800 Post Oak Blvd STE 4100, Houston, TX 77056, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Houston.src,
         pin: "https://maps.app.goo.gl/onTtH6csSWJu2gAb7",
         alt: "Appsters mobile app development company Houston"
@@ -42,8 +42,8 @@ const LocationList = [
     {
         state: "Chicago",
         add: "141 W Jackson Blvd STE 300 A, Chicago, IL 60604, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Chicago.src,
         pin: "https://maps.app.goo.gl/VH6Dkp1J2wtNvLBC6",
         alt: "Appsters mobile app development company Chicago"
@@ -51,8 +51,8 @@ const LocationList = [
     {
         state: "Dubai",
         add: "Office 1402, JBC 3 Cluster Y, Jumeirah Lake Towers Dubai UAE",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Dubai.src,
         pin: "https://maps.app.goo.gl/NzJaVuqgdpLYyaT28",
         alt: "Appsters mobile app development company Dubai"
@@ -60,8 +60,8 @@ const LocationList = [
     // {
     //     state: "Karachi",
     //     add: "12 Floor، Caeser's tower, Shahrah-e-Faisal Rd, Karachi , Pakistan",
-    //     phone: "+1 833 500 6007",
-    //     email: "info@appsters.co",
+    //     phone: "+1 855 799 1171",
+    //     email: "support@appsters.io",
     //     img: Karachi.src,
     //     pin: "https://maps.app.goo.gl/NzJaVuqgdpLYyaT28",
     //     alt: "Appsters mobile app development company Karachi"
@@ -69,8 +69,8 @@ const LocationList = [
     {
         state: "Los Angeles",
         add: "1425 Flower St, Los Angeles, CA 90015, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: LosAngeles.src,
         pin: "https://maps.app.goo.gl/ot7knKM1rXFFjpKMA",
         alt: "Appsters mobile app development company Los Angeles"
@@ -78,8 +78,8 @@ const LocationList = [
     {
         state: "Miami",
         add: "601 Brickell Key Dr #700, Miami, FL 33131, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Miami.src,
         pin: "https://maps.app.goo.gl/sZDSxoSewEBHY1z27",
         alt: "Appsters mobile app development company Miami"
@@ -87,8 +87,8 @@ const LocationList = [
     {
         state: "New York",
         add: "26 Broadway Suite 934, New York, NY 10004, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: NewYork.src,
         pin: "https://maps.app.goo.gl/CPdXRcRzGxGRAuNU8",
         alt: "Appsters mobile app development company New York"
@@ -96,8 +96,8 @@ const LocationList = [
     {
         state: "San Francisco",
         add: "488 Folsom St, San Francisco, CA 94105, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: SanFrancisco.src,
         pin: "https://maps.app.goo.gl/SzwvHzAKoLgiwWPm7",
         alt: "Appsters mobile app development company San Francisco"
@@ -105,8 +105,8 @@ const LocationList = [
     {
         state: "Toronto",
         add: "512 Wellington St W, Toronto, ON M5V 1E3, Canada",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Toronto.src,
         pin: "https://maps.app.goo.gl/dhULjcCFCiZ9fNyQ7",
         alt: "Appsters mobile app development company Toronto"
@@ -114,8 +114,8 @@ const LocationList = [
     {
         state: "Dallas",
         add: "1341 W Mockingbird Ln, Dallas, TX 75247, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Dallas.src,
         pin: "https://maps.app.goo.gl/i76RsaokYHwn47vU9",
         alt: "Appsters mobile app development company Dallas"
@@ -123,8 +123,8 @@ const LocationList = [
     {
         state: "Washington",
         add: "1826 Park Rd NW, Washington, DC 20010, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Washington.src,
         pin: "https://g.page/r/CYImmDo1OETvEBM",
         alt: "Appsters mobile app development company Washington DC"
@@ -132,8 +132,8 @@ const LocationList = [
     {
         state: "Qatar",
         add: "51 Al Miqdad St, Doha, Qatar",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Qatar.src,
         pin: "https://maps.app.goo.gl/qimC1ofuhhu3z512A",
         alt: "Appsters mobile app development company Qatar"
@@ -141,8 +141,8 @@ const LocationList = [
     {
         state: "Bahrain",
         add: "2139 Hoora Ave, Manama 973, Bahrain",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Bahrain.src,
         pin: "https://maps.app.goo.gl/N52TCmfz7GQbH35m8",
         alt: "Appsters mobile app development company Bahrain"
@@ -150,8 +150,8 @@ const LocationList = [
     {
         state: "Pierre",
         add: "124 W Dakota Ave, Pierre, SD 57501, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Pierre.src,
         pin: "https://maps.app.goo.gl/YEEuBJKd9GvXuMk18",
         alt: "Appsters mobile app development company Pierre"
@@ -159,8 +159,8 @@ const LocationList = [
     {
         state: "Sharjah",
         add: "office #101 32 St Al Majarra Mughaidir Suburb Sharjah UAE",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Sharjah.src,
         pin: "https://maps.app.goo.gl/nbce4oEJoivkzVnt5",
         alt: "Appsters mobile app development company Sharjah"
@@ -168,8 +168,8 @@ const LocationList = [
     {
         state: "Denver",
         add: "1035 Cherokee St, Denver, CO 80204, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Denver.src,
         pin: "https://maps.app.goo.gl/sYmX44iWw2fmkVD1A",
         alt: "Appsters mobile app development company Denver GMB"
@@ -177,8 +177,8 @@ const LocationList = [
     {
         state: "Austin",
         add: "500 W 2nd St Suite 133, Austin, TX 78701, United States",
-        phone: "+1 833 500 6007",
-        email: "info@appsters.co",
+        phone: "+1 855 799 1171",
+        email: "support@appsters.io",
         img: Austin.src,
         pin: "https://maps.app.goo.gl/WPQzX6HGBgE6h4mZA",
         alt: "Appsters mobile app development company Denver GMB"
@@ -255,3 +255,4 @@ const Location = ({ bg }) => {
 }
 
 export default Location
+

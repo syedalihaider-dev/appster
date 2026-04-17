@@ -49,12 +49,12 @@ const HomeLocationlp = () => {
                                                             8 The Green STE 300, Dover DE 19901.
                                                         </p>
                                                         <a className="f-16 f-500 white"
-                                                            href="tel:8335006007">
-                                                            +1 833 500 6007
+                                                            href="tel:8557991171">
+                                                            +1 855 799 1171
                                                         </a><br />
                                                         <a className="f-16 f-500 white"
-                                                            href="tel:3123795987">
-                                                            +1 312 379 5987
+                                                            href="tel:8557991171">
+                                                            +1 855 799 1171
                                                         </a>
                                                     </div>
                                                     <div className={`${styles.detail}`}>
@@ -135,12 +135,12 @@ const HomeLocationlp = () => {
                                                                 8 The Green STE 300, Dover DE 19901.
                                                             </p>
                                                             <a className="f-16 f-500 white"
-                                                                href="tel:8335006007">
-                                                                +1 833 500 6007
+                                                                href="tel:8557991171">
+                                                                +1 855 799 1171
                                                             </a><br />
                                                             <a className="f-16 f-500 white"
-                                                                href="tel:3123795987">
-                                                                +1 312 379 5987
+                                                                href="tel:8557991171">
+                                                                +1 855 799 1171
                                                             </a>
                                                         </div>
 
@@ -218,3 +218,5 @@ const HomeLocationlp = () => {
 }
 
 export default HomeLocationlp
+
+

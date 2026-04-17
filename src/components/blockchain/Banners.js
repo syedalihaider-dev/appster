@@ -189,7 +189,7 @@ function Banners() {
                                 <div className={`${style.ctac} mt-2`}>
                                     <div className='d-flex justify-content-start'>
                                         <a href='javascript:window.replaceChat();' className={style.btnpri}><i></i> <FaComment /> Live Chat</a>
-                                        <a href='tel:8335006007' className={style.btnpri1}><Image quality={75} src={phone} alt='logo' width={20} />  +1 312 379 5987
+                                        <a href='tel:8557991171' className={style.btnpri1}><Image quality={75} src={phone} alt='logo' width={20} />  +1 855 799 1171
                                         </a>
                                     </div>
                                 </div>
@@ -288,3 +288,5 @@ function Banners() {
     );
 }
 export default Banners;
+
+

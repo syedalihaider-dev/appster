@@ -12,8 +12,8 @@ const SolutionIco8 = "/home/new-solution-ico-8.webp"
 const MobileAppIco = "/home/mobile-app.png"
 import Image from "next/image";
 
-export const PHONE_NUMBER = "(209) 727-6325";
-export const EMAIL_ADDRESS = "info@appsters.io";
+export const PHONE_NUMBER = "855 799 1171";
+export const EMAIL_ADDRESS = "support@appsters.io";
 
 
 

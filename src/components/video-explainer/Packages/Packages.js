@@ -56,9 +56,9 @@ const Packages = () => {
                                 </div>
                                 <div className={`${styles.card_bottom}`}>
                                     <div className={styles.cardBtns}>
-                                        <a href="tel:833 500 6007">
+                                        <a href="tel:855 799 1171">
                                             speak with us
-                                            <span>833 500 6007</span>
+                                            <span>855 799 1171</span>
                                         </a>
                                         <a href='javascript:window.replaceChat();'>
                                             Want to Discuss
@@ -108,9 +108,9 @@ const Packages = () => {
                                 </div>
                                 <div className={`${styles.card_bottom}`}>
                                     <div className={styles.cardBtns}>
-                                        <a href="tel:833 500 6007">
+                                        <a href="tel:855 799 1171">
                                             speak with us
-                                            <span>833 500 6007</span>
+                                            <span>855 799 1171</span>
                                         </a>
                                         <a href='javascript:window.replaceChat();'>
                                             Want to Discuss
@@ -160,9 +160,9 @@ const Packages = () => {
                                 </div>
                                 <div className={`${styles.card_bottom}`}>
                                     <div className={styles.cardBtns}>
-                                        <a href="tel:833 500 6007">
+                                        <a href="tel:855 799 1171">
                                             speak with us
-                                            <span>833 500 6007</span>
+                                            <span>855 799 1171</span>
                                         </a>
                                         <a href='javascript:window.replaceChat();'>
                                             Want to Discuss
@@ -188,3 +188,4 @@ const Packages = () => {
     )
 }
 export default Packages
+

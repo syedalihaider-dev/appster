@@ -220,7 +220,7 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
                                     <p>We aim to provide the best value for money through quality provisions. ROI’s that far exceed expectations.</p>
 
                                     <div className={styles.blackBtn}>
-                                        <a href="tel:1 833 500 6007" className='d-flex align-items-center gap-4 blackPulse'>
+                                        <a href="tel:1 855 799 1171" className='d-flex align-items-center gap-4 blackPulse'>
                                             Free Consultation
                                             <Image src={rightArrow} alt='Appsters' width={24} height={12} />
                                         </a>
@@ -281,3 +281,4 @@ const HomeCaseStudies = ({ content, onAnchorClick }) => {
 }
 
 export default HomeCaseStudies
+

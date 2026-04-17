@@ -359,7 +359,7 @@ export default function dubaidevelopmentcompany() {
   const global = {
     address: "601 Brickell Key Dr #700, Miami, FL 33131",
     number: "(833) 500 6007",
-    href: "tel:+8335006007",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://goo.gl/maps/JxwLW37aq8F43imv9",
   };
@@ -557,3 +557,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

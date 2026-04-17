@@ -61,7 +61,7 @@ const Justbuilditlpdubai = (props) => {
               <div className={styles.pont}>
                 <Link
                   rel='preload'
-                  href='tel:8335006007'
+                  href='tel:8557991171'
                   className={`blueShade ${styles.about1}`}
                 >
                   {props?.rtl ? "اتصل الآن" : "Call Now"}
@@ -145,3 +145,4 @@ const Justbuilditlpdubai = (props) => {
 };
 
 export default Justbuilditlpdubai;
+

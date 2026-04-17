@@ -349,7 +349,7 @@ Skipping critical research or testing phases to rush a launch can result in stor
   const global = {
     address: "141 W Jackson Blvd STE 300 A, Chicago, IL 60604",
     number: "(833) 500 6007",
-    href: "tel:+8335006007",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/feu6gtSx2PXwBqdB8",
   };
@@ -511,7 +511,7 @@ Skipping critical research or testing phases to rush a launch can result in stor
             logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
-              telephone: "+18335006007",
+              telephone: "+18557991171",
               contactType: "customer service",
               areaServed: "US",
               availableLanguage: "en",
@@ -538,7 +538,7 @@ Skipping critical research or testing phases to rush a launch can result in stor
               "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicago.7c2c5608.webp&w=1920&q=75",
             "@id": "",
             url: "https://www.Appsters.co/app-development-chicago",
-            telephone: "+18335006007",
+            telephone: "+18557991171",
             priceRange: "$10000",
             address: {
               "@type": "PostalAddress",
@@ -603,3 +603,4 @@ Skipping critical research or testing phases to rush a launch can result in stor
     </>
   );
 }
+

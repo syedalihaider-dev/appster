@@ -59,7 +59,7 @@ const Homenextproject = (props) => {
                   <h3 className='newchoose'>{props.title}</h3>
                 </div>
                 <div>
-                  <a href='tel:(833) 500-6007'>LET'S CONNECT</a>
+                  <a href='tel:855 799 1171'>LET'S CONNECT</a>
                 </div>
               </div>
             </Col>
@@ -96,3 +96,4 @@ const Homenextproject = (props) => {
 }
 
 export default Homenextproject
+

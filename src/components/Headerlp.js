@@ -665,8 +665,8 @@ const Header = () => {
                                                             <BsFillEnvelopeFill size={20} className={styles.email} />
                                                         </div>
                                                         <div>
-                                                            <a className='font15 font-medium white fontf' href="mailto:info@appsters.io" onClick={handleMenu}>
-                                                                info@appsters.io
+                                                            <a className='font15 font-medium white fontf' href="mailto:support@appsters.io" onClick={handleMenu}>
+                                                                support@appsters.io
                                                             </a>
                                                         </div>
                                                     </div>
@@ -675,8 +675,8 @@ const Header = () => {
                                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                                         </div>
                                                         <div>
-                                                            <a className='font15 font-medium white fontf' href="tel:3123795987" onClick={handleMenu}>
-                                                                +1 312 379 5987
+                                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                                +1 855 799 1171
                                                             </a>
                                                         </div>
                                                     </div>
@@ -685,8 +685,8 @@ const Header = () => {
                                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                                         </div>
                                                         <div>
-                                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
-                                                                +1 833 500 6007
+                                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                                +1 855 799 1171
                                                             </a>
                                                         </div>
                                                     </div>
@@ -699,7 +699,7 @@ const Header = () => {
                         </li>
 
                         <li className={`${styles.navList} ${styles.inqBtn}`} >
-                            <a href='tel:8335006007' className={styles.befLink}> <Image src={call} alt='Appsters' className='img-fluid' /> +1 833 500 6007</a>
+                            <a href='tel:8557991171' className={styles.befLink}> <Image src={call} alt='Appsters' className='img-fluid' /> +1 855 799 1171</a>
                         </li>
                         <li>
                             <div className={styles.mbInq}>
@@ -709,8 +709,8 @@ const Header = () => {
                                             <BsFillEnvelopeFill size={20} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="mailto:info@Appsters.co" onClick={handleMenu}>
-                                                info@Appsters.co
+                                            <a className='font15 font-medium white fontf' href="mailto:support@appsters.io" onClick={handleMenu}>
+                                                support@appsters.io
                                             </a>
                                         </div>
                                     </div>
@@ -719,8 +719,8 @@ const Header = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:3123795987" onClick={handleMenu}>
-                                                +1 312 379 5987
+                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                +1 855 799 1171
                                             </a>
                                         </div>
                                     </div>
@@ -729,8 +729,8 @@ const Header = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
-                                                +1 833 500 6007
+                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                +1 855 799 1171
                                             </a>
                                         </div>
                                     </div>
@@ -758,3 +758,5 @@ const Header = () => {
 }
 
 export default Header
+
+

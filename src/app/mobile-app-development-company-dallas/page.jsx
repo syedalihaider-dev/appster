@@ -342,7 +342,7 @@ export default function dubaidevelopmentcompany() {
   const global = {
     address: "1341 W Mockingbird Ln, Dallas, TX 75247",
     number: "(833) 500 6007",
-    href: "tel:+8335006007",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/Koam3m3q4DXPCDg49",
   };
@@ -512,7 +512,7 @@ export default function dubaidevelopmentcompany() {
             logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             contactPoint: {
               "@type": "ContactPoint",
-              telephone: "+18335006007",
+              telephone: "+18557991171",
               contactType: "customer service",
               areaServed: "US",
               availableLanguage: "en",
@@ -538,7 +538,7 @@ export default function dubaidevelopmentcompany() {
             image:
               "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdallas.783ee556.webp&w=1920&q=75",
             url: "https://www.Appsters.co/mobile-app-development-company-dallas",
-            telephone: "+18335006007",
+            telephone: "+18557991171",
             priceRange: "$10000",
             address: {
               "@type": "PostalAddress",
@@ -603,3 +603,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

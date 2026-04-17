@@ -106,7 +106,7 @@ export default function Home() {
             logo: "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1920&q=75",
             contactPoint: {
               "@type": "ContactPoint",
-              telephone: "18335006007",
+              telephone: "18557991171",
               contactType: "customer service",
               contactOption: "TollFree",
               areaServed: "US",
@@ -135,7 +135,7 @@ export default function Home() {
               "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.6d359c19.webp&w=1080&q=75",
             "@id": "https://www.Appsters.co/web3-game-development-company",
             url: "https://www.Appsters.co/web3-game-development-company",
-            telephone: "+1 833 500 6007",
+            telephone: "+1 855 799 1171",
             priceRange: "12,000",
             address: {
               "@type": "PostalAddress",
@@ -177,3 +177,4 @@ export default function Home() {
     </>
   )
 }
+

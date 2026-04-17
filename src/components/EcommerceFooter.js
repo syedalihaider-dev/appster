@@ -143,21 +143,21 @@ const EcommerceFooter = () => {
                                     <Link href="/contact-us" className='font12 lightgrey'>Contact Us</Link>
                                 </li>
                                 <li className='mb-2'>
-                                    <a href="mailto:info@Appsters.co" className='font12 lightgrey'>
+                                    <a href="mailto:support@appsters.io" className='font12 lightgrey'>
                                         <Image src={Envelop} alt='Envelope' />
                                         <span className='font12 lightgrey ms-2'>Contact Email</span>
                                     </a>
                                 </li>
                                 <li className='mb-2'>
-                                    <a href="tel:3123795987" className='font12 lightgrey'>
+                                    <a href="tel:8557991171" className='font12 lightgrey'>
                                         <Image src={Phone} alt='Phone' className='mb-2' />
-                                        <span className='font12 lightgrey ms-2'>+1 312 379 5987</span>
+                                        <span className='font12 lightgrey ms-2'>+1 855 799 1171</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:8335006007" className='font12 lightgrey'>
+                                    <a href="tel:8557991171" className='font12 lightgrey'>
                                         <Image src={Phone} alt='Phone' className='mb-2' />
-                                        <span className='font12 lightgrey ms-2'>+1 833 500 6007</span>
+                                        <span className='font12 lightgrey ms-2'>+1 855 799 1171</span>
                                     </a>
                                 </li>
                             </ul>
@@ -193,3 +193,5 @@ const EcommerceFooter = () => {
 }
 
 export default EcommerceFooter
+
+

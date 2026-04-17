@@ -27,17 +27,17 @@ const Footer = () => {
                             <ul>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={email} alt="Blockchain" className="img-fluid" />
-                                    <span><a className="d-block mb-1" href="mailto:info@Appsters.co"> CONTACT EMAIL</a> </span>
+                                    <span><a className="d-block mb-1" href="mailto:support@appsters.io"> CONTACT EMAIL</a> </span>
                                 </li>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={usa} alt="Blockchain" className="img-fluid" />
-                                    <p><a className="d-block mb-1" href="tel:3123795987"> +1 833 500 6007</a>
-                                        <a className="d-block" href="tel:3123795987">+1 312 379 5987</a>
+                                    <p><a className="d-block mb-1" href="tel:8557991171"> +1 855 799 1171</a>
+                                        <a className="d-block" href="tel:8557991171">+1 855 799 1171</a>
                                     </p>
                                 </li>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={uae} alt="Blockchain" className="img-fluid" />
-                                    <p><a href="tel:3123795987"> +97 155 503 1266</a></p>
+                                    <p><a href="tel:8557991171"> +97 155 503 1266</a></p>
                                 </li>
                                 <li className={style.IconText}>
                                     <Image quality={75} src={pakistan} alt="Blockchain" className="img-fluid" />
@@ -281,3 +281,5 @@ const Footer = () => {
 }
 
 export default Footer;
+
+

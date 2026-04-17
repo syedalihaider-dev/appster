@@ -15,7 +15,7 @@ const WorkBanner = () => {
                                 <h1>Our Portfolio</h1>
                                 <p>We help our clients grow with cutting-edging technologies, extravagant <br /> designs, and innovative software solutions.</p>
                                 <div className={styles.pont}>
-                                    <a className={styles.about} href="tel:8335006007">LET'S CONNECT</a>
+                                    <a className={styles.about} href="tel:8557991171">LET'S CONNECT</a>
                                 </div>
                             </div>
                         </Col>
@@ -27,3 +27,4 @@ const WorkBanner = () => {
 }
 
 export default WorkBanner
+

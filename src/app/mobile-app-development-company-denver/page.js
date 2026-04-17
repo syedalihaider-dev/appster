@@ -273,7 +273,7 @@ export default function dubaidevelopmentcompany() {
   const global = {
     address: "1035 Cherokee St, Denver, CO 80204, United States",
     number: "(833) 500 6007",
-    href: "tel:+8335006007",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/1vs3Y5N9dVNXfbVS6",
   };
@@ -459,7 +459,7 @@ export default function dubaidevelopmentcompany() {
             "@id":
               "https://www.Appsters.co/mobile-app-development-company-denver",
             url: "https://www.Appsters.co/mobile-app-development-company-denver",
-            telephone: "+18335006007",
+            telephone: "+18557991171",
             priceRange: "$12,000",
             address: {
               "@type": "PostalAddress",
@@ -525,3 +525,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

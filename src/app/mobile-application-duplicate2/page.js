@@ -127,7 +127,7 @@ export default function mobileApplication() {
               title: "Build An MVP",
               text: "Contact us without obligation by email or phone and secure your free consultation.",
               buttonText: "Call Now!",
-              link: "tel:8335006007",
+              link: "tel:8557991171",
             },
           ]}
         />
@@ -220,3 +220,4 @@ export default function mobileApplication() {
     </>
   );
 }
+

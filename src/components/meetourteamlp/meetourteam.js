@@ -21,7 +21,7 @@ const meetourteamlp = () => {
       email: "gavin@Appsters.co",
       href1: "mailto:gavin@Appsters.co",
       phone1: "+1-833-500-6007",
-      href2: "tel:8335006007",
+      href2: "tel:8557991171",
       phone2: "+92-321-8920913",
       href3: "tel:+92-321-8920913",
     },
@@ -33,7 +33,7 @@ const meetourteamlp = () => {
       email: "neal.kenneth@Appsters.co",
       href1: "mailto:neal.kenneth@Appsters.co",
       phone1: "+1-833-500-6007",
-      href2: "tel:8335006007",
+      href2: "tel:8557991171",
       phone2: "+92-320-8869696",
       href3: "tel:+92-320-8869696",
     },
@@ -46,7 +46,7 @@ const meetourteamlp = () => {
       email: "austin.patrick@bitwits.co",
       href1: "mailto:austin.patrick@bitwits.co",
       phone1: "+1-833-500-6007",
-      href2: "tel:8335006007",
+      href2: "tel:8557991171",
       phone2: "+92-334-3932952",
       href3: "tel:+92-334-3932952",
 
@@ -142,3 +142,4 @@ const meetourteamlp = () => {
 }
 
 export default meetourteamlp
+

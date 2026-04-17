@@ -99,7 +99,7 @@ const GlobalPresence = () => {
                                             <Image src="/mobile-app-studio/email.png" alt="email" width={20} height={16} className={styles.icon} />
                                             <div className={styles.details}>
                                                 <span className={styles.label}>Email Us</span>
-                                                <a href="mailto:info@appsters.co" className={styles.text}>info@appsters.co</a>
+                                                <a href="mailto:support@appsters.io" className={styles.text}>support@appsters.io</a>
                                             </div>
                                         </div>
                                     </div>
@@ -114,3 +114,4 @@ const GlobalPresence = () => {
 };
 
 export default GlobalPresence;
+

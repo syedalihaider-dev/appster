@@ -23,8 +23,8 @@ const Location = () => {
                                     <span className={styles.address}>2800 Post Oak Blvd STE 4100, <br className='d-none d-lg-block' /> Houston, TX 77056, United States 6</span>
                                     <div className={styles.number}>
                                         <FaPhoneAlt className='me-2' size={12} />
-                                        <a href="tel:1 833 500 6007">
-                                            +1 833 500 6007
+                                        <a href="tel:1 855 799 1171">
+                                            +1 855 799 1171
                                         </a>
                                     </div>
                                 </div>
@@ -34,8 +34,8 @@ const Location = () => {
                                     <span className={styles.address}>141 W Jackson Blvd STE 300 A, <br className='d-none d-lg-block' /> Chicago, IL 60604, United States </span>
                                     <div className={styles.number}>
                                         <FaPhoneAlt className='me-2' size={12} />
-                                        <a href="tel:1 833 500 6007">
-                                            +1 833 500 6007
+                                        <a href="tel:1 855 799 1171">
+                                            +1 855 799 1171
                                         </a>
                                     </div>
                                 </div>
@@ -45,8 +45,8 @@ const Location = () => {
                                     <span className={styles.address}>1341 W Mockingbird Ln, Dallas, <br className='d-none d-lg-block' /> TX 75247, United States </span>
                                     <div className={styles.number}>
                                         <FaPhoneAlt className='me-2' size={12} />
-                                        <a href="tel:1 833 500 6007">
-                                            +1 833 500 6007
+                                        <a href="tel:1 855 799 1171">
+                                            +1 855 799 1171
                                         </a>
                                     </div>
                                 </div>
@@ -56,8 +56,8 @@ const Location = () => {
                                     <span className={styles.address}>26 Broadway Suite 934, New York, <br className='d-none d-lg-block' /> NY 10004, United States </span>
                                     <div className={styles.number}>
                                         <FaPhoneAlt className='me-2' size={12} />
-                                        <a href="tel:1 833 500 6007">
-                                            +1 833 500 6007
+                                        <a href="tel:1 855 799 1171">
+                                            +1 855 799 1171
                                         </a>
                                     </div>
                                 </div>
@@ -82,3 +82,4 @@ const Location = () => {
 }
 
 export default Location
+

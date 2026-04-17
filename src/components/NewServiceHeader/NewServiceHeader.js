@@ -1064,7 +1064,7 @@ const NewServiceHeader = () => {
                                                 </div>
                                                 <div className={styles.slaes}>
                                                     <p className="pb-0 mb-0">
-                                                        <a href="tel:8335006007">
+                                                        <a href="tel:8557991171">
                                                             <Image
                                                                 alt="Appsters"
                                                                 className="img-fluid"
@@ -1075,7 +1075,7 @@ const NewServiceHeader = () => {
                                                         </a>
                                                     </p>
                                                     <p className="pb-0 mb-0">
-                                                        <a href="mailto:info@Appsters.co" className={styles.saleEmail}>
+                                                        <a href="mailto:support@appsters.io" className={styles.saleEmail}>
                                                             <Image
                                                                 alt="Appsters"
                                                                 className="img-fluid"
@@ -1524,7 +1524,7 @@ const NewServiceHeader = () => {
                                                 </div>
                                                 <div className={styles.slaes}>
                                                     <p className="pb-0 mb-0">
-                                                        <a href="tel:8335006007">
+                                                        <a href="tel:8557991171">
                                                             <Image
                                                                 alt="Appsters"
                                                                 className="img-fluid"
@@ -1535,7 +1535,7 @@ const NewServiceHeader = () => {
                                                         </a>
                                                     </p>
                                                     <p className="pb-0 mb-0">
-                                                        <a href="mailto:info@Appsters.co" className={styles.saleEmail}>
+                                                        <a href="mailto:support@appsters.io" className={styles.saleEmail}>
                                                             <Image
                                                                 alt="Appsters"
                                                                 className="img-fluid"
@@ -1640,3 +1640,4 @@ const NewServiceHeader = () => {
 };
 
 export default NewServiceHeader;
+

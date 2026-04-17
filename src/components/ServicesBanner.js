@@ -26,7 +26,7 @@ const ServiceBanner = (props) => {
                 {props.text}
               </p>
               <div className={styles.pont}>
-                <a className={styles.book} href="tel:8335006007">
+                <a className={styles.book} href="tel:8557991171">
                   BOOK A CALL
                 </a>
 
@@ -64,3 +64,4 @@ const ServiceBanner = (props) => {
 };
 
 export default ServiceBanner;
+

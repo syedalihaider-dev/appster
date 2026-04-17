@@ -19,7 +19,7 @@ const NotFound = () => {
                             <p className="font18 fw400 color-white t-center font-f mb-4">It looks like nothing was found at this location. Maybe try a search?</p>
                             <div className='mt-4 t-center'>
                                 <a href='javascript:;' onClick={() => handlePopUp()} className={styles.btn404}>LET'S DISCUSS</a>
-                                <a href="tel:8335006007" className={styles.btn404}>+1 833 500 6007</a>
+                                <a href="tel:8557991171" className={styles.btn404}>+1 855 799 1171</a>
                             </div>
                         </Col>
                     </Row>
@@ -31,3 +31,4 @@ const NotFound = () => {
 }
 
 export default NotFound;
+

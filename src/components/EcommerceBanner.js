@@ -278,13 +278,13 @@ const EcommerceBanner = () => {
                         <div className={styles.formsbg}>
                             <ul className='d-flex align-items-center justify-content-evenly pt-3 pt-sm-0'>
                                 <li>
-                                    <a href="mailto:info@Appsters.co" className='d-flex align-items-center'>
+                                    <a href="mailto:support@appsters.io" className='d-flex align-items-center'>
                                         <Image src={Email} alt='email' width={18} height={18} />
                                         <span className='font14 text-white font-medium ms-2'>Email</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:8335006007" className='d-flex align-items-center'>
+                                    <a href="tel:8557991171" className='d-flex align-items-center'>
                                         <Image src={Phone} alt='email' width={18} height={18} />
                                         <span className='font14 text-white font-medium ms-2'>Call Now</span>
                                     </a>
@@ -299,7 +299,7 @@ const EcommerceBanner = () => {
                             <p className={`bg-black d-flex align-items-center justify-content-center w-100 text-white font15 mb-0 ${styles.ankerTag}`}>
                                 <Image src={PhoneTwo} alt='Phone' width={18} height={18} className='' />
                                 <span className='ms-2'>Let's discuss your project:</span>
-                                <a href="tel:8335006007" className='ms-2 text-white font-medium'>+1 833 500 6007</a>
+                                <a href="tel:8557991171" className='ms-2 text-white font-medium'>+1 855 799 1171</a>
 
                             </p>
                             <Form className={styles.forms} onSubmit={handleSubmit}>
@@ -321,7 +321,7 @@ const EcommerceBanner = () => {
                                             </div>
                                             <div className='text'>
                                                 <span className='d-block text-white font15 font-medium pt-2'>USA</span>
-                                                <a href="tel:8335006007" className='d-block text-white font12 font-regular pt-2'>+1 833 500 6007</a>
+                                                <a href="tel:8557991171" className='d-block text-white font12 font-regular pt-2'>+1 855 799 1171</a>
                                             </div>
                                         </div>
                                     </Col>
@@ -343,7 +343,7 @@ const EcommerceBanner = () => {
                                             </div>
                                             <div className='text'>
                                                 <span className='d-block text-white font15 font-medium pt-2'>MALAYSIA</span>
-                                                <a href="tel:8335006007" className='d-block text-white font12 font-regular pt-2'>+1 833 500 6007</a>
+                                                <a href="tel:8557991171" className='d-block text-white font12 font-regular pt-2'>+1 855 799 1171</a>
                                             </div>
                                         </div>
                                     </Col>
@@ -359,3 +359,4 @@ const EcommerceBanner = () => {
 }
 
 export default EcommerceBanner
+

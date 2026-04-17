@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import styles from './ContactForm.module.css';
 import { Container } from 'react-bootstrap';
-import { FaPhoneAlt, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
+import { FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 import { EMAIL_ADDRESS, PHONE_NUMBER } from "@/src/app/app-constants"
 import { useRouter } from 'next/navigation';
 
@@ -30,13 +30,7 @@ const ContactForm = () => {
                                 <a href={`tel:${PHONE_NUMBER}`} className={styles.value}>{PHONE_NUMBER}</a>
                             </div>
                         </div>
-                        <div className={styles.contactItem}>
-                            <div className={styles.iconCircle}><FaWhatsapp /></div>
-                            <div className={styles.info}>
-                                <span className={styles.label}>WhatsApp</span>
-                                <a href={`https://wa.me/${PHONE_NUMBER.replace(/\D/g, '')}`} className={styles.value}>{PHONE_NUMBER}</a>
-                            </div>
-                        </div>
+
                         <div className={styles.contactItem}>
                             <div className={styles.iconCircle}><FaEnvelope /></div>
                             <div className={styles.info}>
@@ -59,50 +53,8 @@ const FormContent = () => {
     const [selectedBudget, setSelectedBudget] = useState("");
     const [customQuote, setCustomQuote] = useState("");
     const [isSubmitting, setIsSubmitting] = useState(false);
-    const [ipData, setIpData] = useState({
-        ip: "Loading...",
-        city: "",
-        region: "",
-        country: ""
-    });
 
-    useEffect(() => {
-        const fetchIpData = async () => {
-            try {
-                // Try First Provider
-                const response = await fetch("https://ipapi.co/json/");
-                if (!response.ok) throw new Error("Primary IP API failed");
-                const data = await response.json();
-                setIpData({
-                    ip: data.ip || "Unknown",
-                    city: data.city || "",
-                    region: data.region || "",
-                    country: data.country_name || ""
-                });
-            } catch (error) {
-                console.error("Primary IP API failed, trying fallback...", error);
-                try {
-                    // Try Second Provider (Fallback)
-                    const response = await fetch("https://ipwho.is/");
-                    const data = await response.json();
-                    if (data.success) {
-                        setIpData({
-                            ip: data.ip || "Unknown",
-                            city: data.city || "",
-                            region: data.region || "",
-                            country: data.country || ""
-                        });
-                    } else {
-                        throw new Error("Fallback IP API failed");
-                    }
-                } catch (fallbackError) {
-                    console.error("All IP APIs failed:", fallbackError);
-                    setIpData({ ip: "Unknown", city: "", region: "", country: "" });
-                }
-            }
-        };
-        fetchIpData();
-    }, []);
+
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -126,10 +78,6 @@ const FormContent = () => {
             budget: selectedBudget,
             customQuote: selectedBudget.toLowerCase().includes("custom quote") ? customQuote : "",
             message: formData.get("message"),
-            IP: ipData.ip,
-            city: ipData.city,
-            region: ipData.region,
-            country: ipData.country,
             pageUrl: window.location.href
         };
 

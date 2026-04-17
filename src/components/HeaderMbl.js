@@ -518,8 +518,8 @@ const HeaderMbl = () => {
                                             <BsFillEnvelopeFill size={20} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf text-lowercase' href="mailto:info@Appsters.co" onClick={handleMenu}>
-                                                info@Appsters.co
+                                            <a className='font15 font-medium white fontf text-lowercase' href="mailto:support@appsters.io" onClick={handleMenu}>
+                                                support@appsters.io
                                             </a>
                                         </div>
                                     </div>
@@ -528,8 +528,8 @@ const HeaderMbl = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:3123795987" onClick={handleMenu}>
-                                                +1 312 379 5987
+                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                +1 855 799 1171
                                             </a>
                                         </div>
                                     </div>
@@ -538,8 +538,8 @@ const HeaderMbl = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
-                                                +1 833 500 6007
+                                            <a className='font15 font-medium white fontf' href="tel:8557991171" onClick={handleMenu}>
+                                                +1 855 799 1171
                                             </a>
                                         </div>
                                     </div>
@@ -559,3 +559,5 @@ const HeaderMbl = () => {
 }
 
 export default HeaderMbl
+
+

@@ -102,13 +102,13 @@ const GlobalPresence = () => {
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>+1 833 500 6007</span>
+                                                    <span className='manrope ms-3'>+1 855 799 1171</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@Appsters.co</span>
+                                                    <span className='manrope ms-3'>support@appsters.io</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -144,13 +144,13 @@ const GlobalPresence = () => {
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>+1 833 500 6007</span>
+                                                    <span className='manrope ms-3'>+1 855 799 1171</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@Appsters.co</span>
+                                                    <span className='manrope ms-3'>support@appsters.io</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -186,13 +186,13 @@ const GlobalPresence = () => {
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>+1 833 500 6007</span>
+                                                    <span className='manrope ms-3'>+1 855 799 1171</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@Appsters.co</span>
+                                                    <span className='manrope ms-3'>support@appsters.io</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -228,13 +228,13 @@ const GlobalPresence = () => {
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>+1 833 500 6007</span>
+                                                    <span className='manrope ms-3'>+1 855 799 1171</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@Appsters.co</span>
+                                                    <span className='manrope ms-3'>support@appsters.io</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -270,13 +270,13 @@ const GlobalPresence = () => {
                                             <div className={`mb-3 ${styles.phone}`}>
                                                 <a href="tel:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Phone} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>+1 833 500 6007</span>
+                                                    <span className='manrope ms-3'>+1 855 799 1171</span>
                                                 </a>
                                             </div>
                                             <div className={`mb-3 ${styles.email}`}>
                                                 <a href="mailto:;" className='text-black d-flex align-items-center'>
                                                     <Image src={Email} alt='Appsters' width={18} height={18} className='img-fluid' />
-                                                    <span className='manrope ms-3'>info@Appsters.co</span>
+                                                    <span className='manrope ms-3'>support@appsters.io</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -295,3 +295,4 @@ const GlobalPresence = () => {
 }
 
 export default GlobalPresence
+

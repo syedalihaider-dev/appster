@@ -19,7 +19,7 @@ const NextGen = (props) => {
                             <h2 className="text-white mb-2">{props.nextTtitle1}</h2>
                             <h4 className="fw300 text-white mb-2">{props.nextsub}</h4>
                             <p className='text-white fw300'>{props.nextPara}</p>
-                            <CTA number="1 312 379 5987" discuss="Hire Blockchain Developer" />
+                            <CTA number="1 855 799 1171" discuss="Hire Blockchain Developer" />
                         </Col>
                         <Col lg={4}>
 
@@ -45,3 +45,4 @@ const NextGen = (props) => {
     )
 }
 export default NextGen
+

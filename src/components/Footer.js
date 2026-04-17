@@ -173,7 +173,7 @@ const Footerlp = () => {
                 </ul>
                 <ul className={`${styles.contacts} ${styles.myLinks} p-0`}>
                   <li className="mb-2">
-                    <a href="mailto:info@appsters.io">
+                    <a href="mailto:support@appsters.io">
                       <Image alt="Appsters" className='img-fluid'
                         src={mail}
 
@@ -183,23 +183,23 @@ const Footerlp = () => {
                     </a>
                   </li>
                   <li className="fw-bold">
-                    <a href="tel:3123795987">
+                    <a href="tel:8557991171">
                       <Image alt="Appsters" className='img-fluid'
                         src={call}
 
                         loading="lazy"
                       />
-                      <span className="number">+1 312 379 5987</span>
+                      <span className="number">+1 855 799 1171</span>
                     </a>
                   </li>
                   <li className="fw-bold">
-                    <a href="tel:8335006007">
+                    <a href="tel:8557991171">
                       <Image alt="Appsters" className='img-fluid'
                         src={call}
 
                         loading="lazy"
                       />
-                      <span className="number">+1 833 500 6007</span>
+                      <span className="number">+1 855 799 1171</span>
                     </a>
                   </li>
                 </ul>
@@ -287,3 +287,5 @@ const Footerlp = () => {
 }
 
 export default Footerlp
+
+

@@ -22,7 +22,7 @@ const LeftContent = (props) => {
                                     :
                                     ''
                                 }
-                                <CTA number="1 312 379 5987"
+                                <CTA number="1 855 799 1171"
                                     discuss="Hire Blockchain Developer" />
                             </div>
                         </Col>
@@ -43,3 +43,4 @@ const LeftContent = (props) => {
 }
 
 export default LeftContent
+

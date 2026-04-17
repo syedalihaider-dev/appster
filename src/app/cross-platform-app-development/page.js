@@ -302,7 +302,7 @@ export default function gamedevelopmentcompany() {
                   title: "Build An MVP",
                   text: "Start your app development journey with no-obligation consultation via email and phone.",
                   buttonText: "Call Now!",
-                  link: "tel:+8335006007",
+                  link: "tel:+8557991171",
                 },
               ]}
             />
@@ -554,7 +554,7 @@ export default function gamedevelopmentcompany() {
                   title: "Build An MVP",
                   text: "Start your app development journey with no-obligation consultation via email and phone.",
                   buttonText: "Call Now!",
-                  link: "tel:+8335006007",
+                  link: "tel:+8557991171",
                 },
               ]}
             />
@@ -788,3 +788,4 @@ export default function gamedevelopmentcompany() {
     </>
   );
 }
+

@@ -454,7 +454,7 @@ export default function dubaidevelopmentcompany() {
   const global = {
     address: "26 Broadway Suite 934, New York, NY 10004",
     number: "(833) 500 6007",
-    href: "tel:+8335006007",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/1Q2vCzWWkYDE4Ctq6",
   };
@@ -876,7 +876,7 @@ export default function dubaidevelopmentcompany() {
               "https://www.Appsters.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnewyork.4988cafe.webp&w=1920&q=75",
             "@id": "",
             url: "https://www.Appsters.co/app-development-company-new-york",
-            telephone: "+18335006007",
+            telephone: "+18557991171",
             priceRange: "$10000",
             address: {
               "@type": "PostalAddress",
@@ -941,3 +941,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

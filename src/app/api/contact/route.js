@@ -1,23 +1,21 @@
 import { NextResponse } from "next/server";
-const nodemailer = require("nodemailer");
+import nodemailer from "nodemailer";
 
 export async function POST(req) {
     try {
         const body = await req.json();
+        console.log("Incoming Lead Data:", body);
         const { 
             name, 
             email, 
             phone, 
-            service, 
-            budget, 
-            customQuote,
             message, 
+            price,
+            checkboxesdata,
             pageUrl 
         } = body;
 
-
-
-        const brandname = 'Appsters - Mobile App Studio LP';
+        const brandname = 'Appsters - Main Brand';
 
         const transporter = nodemailer.createTransport({
             host: "maltaserver.stagingtestserver.com",
@@ -35,10 +33,10 @@ export async function POST(req) {
         const mailOptions = {
             from: '"Appsters" <no-reply@appsters.io>',
             to: 'zain@iceanimations.com, ppc@iceanimations.com, hassan.ali@iceanimations.com, aleehaiderbalti@gmail.com',
-            subject: `Appsters LP Lead: ${name}`,
+            subject: `Appsters Lead: ${name}`,
             html: `
                 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-                    <h2 style="color: #1128E6;">New Lead from Appsters Mobile App Studio Landing Page</h2>
+                    <h2 style="color: #1128E6;">New Lead from Appsters Main Brand</h2>
                     <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
                         <tr>
                             <th style="text-align: left; padding: 10px; border-bottom: 1px solid #ddd;">Field</th>
@@ -57,16 +55,16 @@ export async function POST(req) {
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;">${phone}</td>
                         </tr>
                         <tr>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Service Interest</b></td>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${service || 'N/A'}</td>
-                        </tr>
-                        <tr>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Budget Range</b></td>
-                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${budget || 'N/A'} ${customQuote ? `(Custom: $${customQuote})` : ''}</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Project Budget</b></td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${price || 'N/A'}</td>
                         </tr>
                         <tr>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>Message</b></td>
                             <td style="padding: 10px; border-bottom: 1px solid #ddd;">${message || 'N/A'}</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><b>NDA</b></td>
+                            <td style="padding: 10px; border-bottom: 1px solid #ddd;">${checkboxesdata || 'No'}</td>
                         </tr>
 
                         <tr>
@@ -85,14 +83,14 @@ export async function POST(req) {
         await transporter.sendMail(mailOptions);
         
         return NextResponse.json({ 
-            message: "Lead submitted successfully", 
+            message: "Email sent successfully", 
             status: 200 
         });
 
     } catch (error) {
         console.error("Email Error:", error);
         return NextResponse.json({ 
-            message: "Failed to submit lead", 
+            message: "Failed to send email", 
             error: error.message, 
             status: 500 
         });

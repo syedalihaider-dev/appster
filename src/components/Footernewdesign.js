@@ -115,7 +115,7 @@ const Footernewdesign = () => {
                 <p className={styles.more}>To learn more about our service offerings and industry expertise or to have a Consulting professional contact you directly, please fill out the form below or submit an email & contact number.</p>
                 <ul className="contacts my-links">
                   <li className="mb-1 color-s">
-                    <a href="mailto:info@Appsters.co">
+                    <a href="mailto:support@appsters.io">
                       <Image alt="Appsters" className='img-fluid'
                         src={mail}
 
@@ -125,13 +125,13 @@ const Footernewdesign = () => {
                     </a>
                   </li>
                   <li className="font-bold color-s">
-                    <a href="tel:3123795987">
+                    <a href="tel:8557991171">
                       <Image alt="Appsters" className='img-fluid'
                         src={call}
 
                         loading="lazy"
                       />
-                      <span className={styles.number}>+1 312 379 5987</span>
+                      <span className={styles.number}>+1 855 799 1171</span>
                     </a>
                   </li>
 
@@ -212,3 +212,5 @@ const Footernewdesign = () => {
 }
 
 export default Footernewdesign
+
+

@@ -381,8 +381,8 @@ export default function dubaidevelopmentcompany() {
   // Global Conten
   const global = {
     address: "2800 Post Oak Blvd STE 4100, Houston, TX 77056",
-    number: "(833) 500-6007",
-    href: "tel:+8335006007",
+    number: "855 799 1171",
+    href: "tel:+8557991171",
     image: MapImage,
     link: "https://maps.app.goo.gl/L5Df9XfyFv3z7VzYA",
   };
@@ -634,3 +634,4 @@ export default function dubaidevelopmentcompany() {
     </>
   );
 }
+

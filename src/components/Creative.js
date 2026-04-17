@@ -23,7 +23,7 @@ const Creative = () => {
                         </div>
                         <div className={styles.btncall}>
                             <h4>START <br></br> A PROJECT?</h4>
-                            <a href="tel:8335006007" className={styles.call}>Call Now: (833) 500-6007</a>
+                            <a href="tel:8557991171" className={styles.call}>Call Now: 855 799 1171</a>
                             <div className="pt-3">
                                 <a href='javascript:window.replaceChat();' className={styles.chat}>Start Live Chat</a>
                             </div>
@@ -36,3 +36,4 @@ const Creative = () => {
 }
 
 export default Creative
+

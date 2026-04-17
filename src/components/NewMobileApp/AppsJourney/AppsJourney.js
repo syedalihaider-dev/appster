@@ -25,7 +25,7 @@ const Card = ({ content, isActive }) => {
 const CardContainer = ({ content, isActive }) => {
     return (
         <div className={styles.cardsMain}>
-            <a href="tel:1 833 500 6007">
+            <a href="tel:1 855 799 1171">
                 <Card content={content} isActive={isActive} />
             </a>
         </div>
@@ -101,3 +101,4 @@ const AppsJourney = ({ content, onAnchorClick }) => {
 }
 
 export default AppsJourney
+

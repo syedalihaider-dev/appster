@@ -13,7 +13,7 @@ import slide5 from "media/homeslideimg/5.webp";
 
 const itemData = [
     {
-        linkHref: "tel:8335006007",
+        linkHref: "tel:8557991171",
         linkText: "Connect Now",
     },
 ];
@@ -185,3 +185,4 @@ const NewIndex2Banner = () => {
 };
 
 export default NewIndex2Banner;
+

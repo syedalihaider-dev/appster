@@ -105,7 +105,7 @@ const Feature = () => {
                             <a href="#" onClick={handleChatOpen}>
                                 Chat Now
                             </a>
-                            <a href="tel:+18335006007" className={styles.btnColor}>Call Us +1 833 500 6007</a>
+                            <a href="tel:+18557991171" className={styles.btnColor}>Call Us +1 855 799 1171</a>
                         </div>
                     </Col>
                 </Row>
@@ -116,3 +116,4 @@ const Feature = () => {
 }
 
 export default Feature
+
