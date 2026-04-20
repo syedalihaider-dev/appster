@@ -67,7 +67,7 @@ const EngagementModels = () => {
                                     <div key={i} className={styles.cell}>{val}</div>
                                 ))}
                                 <div className={styles.ctaWrapper}>
-                                    <a href="#contact" className={styles.letsTalk}>
+                                    <a href="#" className={`${styles.letsTalk} chat`}>
                                         • LET'S TALK! &rarr;
                                     </a>
                                 </div>

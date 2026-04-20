@@ -34,7 +34,7 @@ export async function POST(req) {
 
         const mailOptions = {
             from: '"Appsters" <no-reply@appsters.io>',
-            to: 'zain@iceanimations.com, ppc@iceanimations.com, hassan.ali@iceanimations.com, aleehaiderbalti@gmail.com',
+            to: 'zain@iceanimations.com, ppc@iceanimations.com, ppc.cd@letusproceed.com, hassan.ali@iceanimations.com, aleehaiderbalti@gmail.com',
             subject: `Appsters LP Lead: ${name}`,
             html: `
                 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">

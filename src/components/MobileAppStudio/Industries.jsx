@@ -83,7 +83,7 @@ const Industries = () => {
                         while setting industry standards and redefining what’s possible for businesses
                         everywhere.
                     </p>
-                    <button className={styles.ctaBtn}>Get Started</button>
+                    <a href="#contact" className={styles.ctaBtn}>Get Started</a>
                 </div>
             </div>
 
@@ -105,7 +105,7 @@ const Industries = () => {
                     onMouseLeave={(swiper) => {
                         swiper.autoplay.start();
                     }}
-                    allowTouchMove={true} 
+                    allowTouchMove={true}
                     breakpoints={{
                         320: { slidesPerView: 1.2 },
                         640: { slidesPerView: 2.5 },

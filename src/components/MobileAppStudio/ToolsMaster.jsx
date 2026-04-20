@@ -68,8 +68,8 @@ const ToolsMaster = () => {
                             <p className={styles.desc}>{currentTab.desc}</p>
 
                             <div className={styles.btnGroup}>
-                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn}`}>CALL NOW</a>
-                                <a href="#contact" className={`${styles.ctaBtn} ${styles.chatBtn}`}>CHAT WITH US</a>
+                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn} popupBtn`}>CALL NOW</a>
+                                <a href="#" className={`${styles.ctaBtn} ${styles.chatBtn} chat`}>CHAT WITH US</a>
                             </div>
                         </div>
                         <div className="col-lg-5">

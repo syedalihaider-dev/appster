@@ -23,14 +23,14 @@ const Testimonials = () => {
     }, [isModalOpen]);
 
     const testimonials = [
-        { id: 1, name: "Sophia ", role: "Entrepreneur", img: "/mobile-app-studio/testi-01.png", video: "https://vimeo.com/1181610679?share=copy&fl=sv&fe=ci" },
-        { id: 2, name: "Daniel", role: "Game Developer", img: "/mobile-app-studio/testi-02.png", video: "https://vimeo.com/manage/videos/1181613556" },
-        { id: 3, name: "Mateo", role: "Founder Fintech Company", img: "/mobile-app-studio/testi-03.png", video: "https://vimeo.com/manage/videos/1181615689" },
-        { id: 4, name: "Jason", role: "Fitness App", img: "/mobile-app-studio/testi-04.png", video: "https://vimeo.com/manage/videos/1181618109" },
-        { id: 5, name: "Sophia ", role: "Entrepreneur", img: "/mobile-app-studio/testi-01.png", video: "https://vimeo.com/1181610679?share=copy&fl=sv&fe=ci" },
-        { id: 6, name: "Daniel", role: "Game Developer", img: "/mobile-app-studio/testi-02.png", video: "https://vimeo.com/manage/videos/1181613556" },
-        { id: 7, name: "Mateo", role: "Founder Fintech Company", img: "/mobile-app-studio/testi-03.png", video: "https://vimeo.com/manage/videos/1181615689" },
-        { id: 8, name: "Jason", role: "Fitness App", img: "/mobile-app-studio/testi-04.png", video: "https://vimeo.com/manage/videos/1181618109" },
+        { id: 1, name: "Sophia ", role: "Entrepreneur", img: "/mobile-app-studio/testi-01.png", video: "https://vimeo.com/manage/videos/1184929104" },
+        { id: 2, name: "Daniel", role: "Game Developer", img: "/mobile-app-studio/testi-02.png", video: "https://vimeo.com/manage/videos/1184930327" },
+        { id: 3, name: "Mateo", role: "Founder Fintech Company", img: "/mobile-app-studio/testi-03.png", video: "https://vimeo.com/manage/videos/1184931603" },
+        { id: 4, name: "Jason", role: "Fitness App", img: "/mobile-app-studio/testi-04.png", video: "https://vimeo.com/manage/videos/1184931598" },
+        { id: 5, name: "Sophia ", role: "Entrepreneur", img: "/mobile-app-studio/testi-01.png", video: "https://vimeo.com/manage/videos/1184929104" },
+        { id: 6, name: "Daniel", role: "Game Developer", img: "/mobile-app-studio/testi-02.png", video: "https://vimeo.com/manage/videos/1184930327" },
+        { id: 7, name: "Mateo", role: "Founder Fintech Company", img: "/mobile-app-studio/testi-03.png", video: "https://vimeo.com/manage/videos/1184931603" },
+        { id: 8, name: "Jason", role: "Fitness App", img: "/mobile-app-studio/testi-04.png", video: "https://vimeo.com/manage/videos/1184931598" },
     ];
 
     const openModal = (videoUrl) => {
