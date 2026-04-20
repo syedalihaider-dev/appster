@@ -56,6 +56,7 @@ const ToolsMaster = () => {
                             <div className={styles.tabsRow}>
                                 {tabs.map(tab => (
                                     <button
+                                        type="button"
                                         key={tab.id}
                                         className={`${styles.tab} ${activeTab === tab.id ? styles.activeTab : ''}`}
                                         onClick={() => setActiveTab(tab.id)}
@@ -68,7 +69,7 @@ const ToolsMaster = () => {
                             <p className={styles.desc}>{currentTab.desc}</p>
 
                             <div className={styles.btnGroup}>
-                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn} popupBtn`}>CALL NOW</a>
+                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn}`}>CALL NOW</a>
                                 <a href="#" className={`${styles.ctaBtn} ${styles.chatBtn} chat`}>CHAT WITH US</a>
                             </div>
                         </div>
@@ -78,7 +79,8 @@ const ToolsMaster = () => {
                                     <Image
                                         src={currentTab.img}
                                         alt={currentTab.label}
-                                        fill
+                                        width={601}
+                                        height={528}
                                         className={styles.assetImg}
                                     />
                                 </div>

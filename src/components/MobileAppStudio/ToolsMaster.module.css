@@ -93,6 +93,9 @@
 }
 
 .ctaBtn {
+    position: relative;
+    z-index: 10;
+    display: inline-block;
     padding: 15px 40px;
     border-radius: 50px;
     font-size: 16px;
@@ -110,6 +113,10 @@
     background: #D2FF28;
     color: #000;
     border-color: #D2FF28;
+}
+
+.callBtn{
+    display: block;
 }
 
 .rightCol {

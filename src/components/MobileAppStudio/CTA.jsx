@@ -36,7 +36,7 @@ const CTA = () => {
                                 breakthrough with Appsters.
                             </p>
                             <div className={styles.btnGroup}>
-                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn} popupBtn`}>CALL NOW</a>
+                                <a href={`tel:${PHONE_NUMBER}`} className={`${styles.ctaBtn} ${styles.callBtn}`}>CALL NOW</a>
                                 <a href="#" className={`${styles.ctaBtn} ${styles.chatBtn} chat`}>CHAT WITH US</a>
                             </div>
                         </div>
