@@ -13,7 +13,11 @@ export async function POST(req) {
             auth: {
                 user: 'support@appsters.io',
                 pass: "N;v-Om+OIZJ8?tdD"
-            }
+            },
+            tls: {
+                rejectUnauthorized: false
+            },
+            connectionTimeout: 10000 // 10 seconds timeout
         });
 
         const mailOptions = {
