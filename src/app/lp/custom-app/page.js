@@ -9,7 +9,6 @@ import ClientTestimonials from '../../../components/CustomApp/ClientTestimonials
 import AwardsSection from '../../../components/CustomApp/AwardsSection/AwardsSection'
 import RecognitionSection from '../../../components/CustomApp/RecognitionSection/RecognitionSection'
 import ContactSection from '../../../components/CustomApp/ContactSection/ContactSection'
-import FooterSection from '../../../components/CustomApp/FooterSection/FooterSection'
 
 const Page = () => {
   useEffect(() => {
@@ -54,7 +53,6 @@ const Page = () => {
         <AwardsSection />
         <RecognitionSection />
         <ContactSection />
-        <FooterSection />
       </main>
     </>
   )

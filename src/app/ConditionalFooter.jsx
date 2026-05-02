@@ -16,6 +16,7 @@ const excludeFooterPaths = [
   "/lp/mobile-app-studio",
   "/lp/mobile-app-studio/thank-you",
   "/lp/custom-app",
+  "/lp/custom-app/thank-you",
 ]
 
 const locationsFooterPaths = [

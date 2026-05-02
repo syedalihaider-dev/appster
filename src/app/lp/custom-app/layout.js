@@ -32,12 +32,14 @@ export const metadata = {
 }
 
 import Header from "../../../components/CustomApp/Header/Header";
+import FooterSection from "../../../components/CustomApp/FooterSection/FooterSection";
 
 export default function RootLayout({ children }) {
   return (
     <div className={`${poppins.variable}`}>
        <Header />
        {children}
+       <FooterSection />
     </div>
   );
 }

@@ -1,12 +1,12 @@
 .thankYouPage {
-    min-height: 100vh;
+    min-height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background: #1128E6;
     text-align: center;
     color: #fff;
-    font-family: var(--font-montserrat);
+    font-family: var(--font-poppins);
 }
 
 .content {
