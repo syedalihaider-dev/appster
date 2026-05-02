@@ -15,6 +15,7 @@ const lpHeaderFooterPaths = [
 const excludeFooterPaths = [
   "/lp/mobile-app-studio",
   "/lp/mobile-app-studio/thank-you",
+  "/lp/custom-app",
 ]
 
 const locationsFooterPaths = [
