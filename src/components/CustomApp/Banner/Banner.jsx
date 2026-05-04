@@ -23,7 +23,7 @@ const Banner = () => {
               <a href="#contactSection" className={`${styles.quoteBtn} text-decoration-none`}>
                 Request a Quote
               </a>
-              <button className={styles.chatBtn}>
+              <button className={`${styles.chatBtn} chat`}>
                 Live Chat
               </button>
             </div>
