@@ -25,10 +25,11 @@ const Header = () => {
               Request a Quote
             </a>
             <div className={styles.flags}>
-              <Image src="/custom-app/flag-us.webp" alt="US Flag" width={64} height={64} />
-              <Image src="/custom-app/flag-uk.webp" alt="UK Flag" width={64} height={64} />
-              <Image src="/custom-app/flag-uae.webp" alt="UAE Flag" width={64} height={64} />
-              <Image src="/custom-app/flag-aus.webp" alt="Aus Flag" width={64} height={35} />
+              <Image src="/custom-app/flag-us.webp" alt="American Flag" width={64} height={64} />
+              <Image src="/custom-app/flag-uk.webp" alt="United Kingdom Flag" width={64} height={64} />
+              <Image src="/custom-app/flag-uae.webp" alt="United Arab Emirates Flag" width={64} height={64} />
+              <Image src="/custom-app/flag-aus.webp" alt="Australia Flag" width={64} height={35} />
+              <Image src="/custom-app/flag-cn.webp" alt="Canada Flag" width={64} height={35} />
             </div>
           </div>
         </div>
