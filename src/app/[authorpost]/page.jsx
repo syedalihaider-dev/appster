@@ -24,10 +24,10 @@ export async function generateMetadata({ params }) {
       title: blog.tit,
       description: blog.desc,
       url: blog.slug,
-      siteName: "Inifniti Digital",
+      siteName: "Appsters",
       locale: "en_US",
       type: "website",
-      images: "https://www.infinitidigital.us/infinitidigital.png",
+      images: blog.img,
     },
     alternates: { canonical: blog.slug },
   };
@@ -39,7 +39,7 @@ const Page = async ({ params }) => {
   return (
     <>
       <Banner slug={authorpost} data={AuthorData} />
-      <AuthorListing slug={authorpost}  />
+      <AuthorListing slug={authorpost} />
     </>
   );
 };
