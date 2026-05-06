@@ -1,3 +1,4 @@
+"use client"
 import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -30,7 +31,7 @@ const Header = () => {
         <div className={styles.headerInner}>
           {/* Logo Column */}
           <div className={styles.logoCol}>
-            <Link href="/lp/mobile-app-studio" className={styles.logo}>
+            <Link href="/lp/mvp-development" className={styles.logo}>
               <Image
                 src="/mvp-development/logo.webp"
                 alt="Logo"
@@ -75,7 +76,7 @@ const Header = () => {
         <div className={styles.menuOverlay} onClick={toggleMenu}></div>
         <div className={styles.sidebar}>
           <div className={styles.sidebarHeader}>
-            <Link href="/lp/mobile-app-studio" className={styles.logo}>
+            <Link href="/lp/mvp-development" className={styles.logo}>
               <Image
                 src="/mvp-development/logo.webp"
                 alt="Logo"

@@ -6,23 +6,77 @@ const Services = () => {
     const [activeService, setActiveService] = useState(2); // Item 2 is open by default
 
     const services = [
-        { id: 1, label: "01.", title: "iOS App Development", desc: "Fidelity meets performance in our iOS app development solutions. Built using Swift and Objective-C, our iOS apps are designed for fluidity, responsiveness,and longevity. We follow Apple’s Human Interface Guidelines rigorously, ensuring that every visual element feels intentional and every interaction feels premium, from prototype to post-launch.", img: "/mvp-development/services/ios.webp" },
+        {
+            id: 1,
+            label: "01.",
+            title: "Strategy & Planning",
+            desc: "We define your app’s core features and user flow",
+            img: "/mvp-development/services/ios.webp"
+        },
 
-        { id: 2, label: "02.", title: "Android App Development", desc: "We engineer Android apps built for reach, reliability, and results. Every interface, API, and database call is optimized for speed and security across diverse Android ecosystems. From Kotlin and Java to Jetpack integrations, our Android app development process ensures your product runs brilliantly on any device, screen size, or OS version.", img: "/mvp-development/services/android.webp" },
+        {
+            id: 2,
+            label: "02.",
+            title: "MVP Development",
+            desc: "We build a fast, scalable version of your product",
+            img: "/mvp-development/services/android.webp"
+        },
 
-        { id: 3, label: "03.", title: "Cross-Platform Apps", desc: "One app, every platform without compromise. Our cross-platform mobile apps deliver native-level performance, unified UI, and consistent experiences across iOS, Android, and the web. We architect using Flutter, React Native, and Kotlin Multiplatform to help you cut costs, code smarter, and scale seamlessly.", img: "/mvp-development/services/cross-platform.webp" },
+        {
+            id: 3,
+            label: "03.",
+            title: "Launch & Feedback",
+            desc: "You launch, test, and validate with real users",
+            img: "/mvp-development/services/cross-platform.webp"
+        },
 
-        { id: 4, label: "04.", title: "React Native Apps", desc: "With apps built on React Native, we balance performance and flexibility through a modular architecture and real-time data synchronization. Our developers use React hooks, TypeScript, and reusable components to build scalable products that perform like native apps, only faster to launch and simpler to maintain.", img: "/mvp-development/services/react-native.webp" },
+        {
+            id: 4,
+            label: "04.",
+            title: "Web App Development",
+            desc: "Turn your idea into a functional web app that works on any device. We build responsive, scalable web applications using modern technologies that deliver seamless performance and support your business goals.",
+            img: "/mvp-development/services/react-native.webp"
+        },
 
-        { id: 5, label: "05.", title: "eCommerce App Development", desc: "We build mobile apps designed for performance and growth, including Native iOS and Android app development solutions optimized for speed, usability, and security. Our approach delivers a consistent user experience, even at scale, with an architecture built to support future feature expansion.", img: "/mvp-development/services/ecommerce.webp" },
+        {
+            id: 5,
+            label: "05.",
+            title: "Clone App Development",
+            desc: "Build a market-ready app faster with a proven clone app model. We recreate high-demand apps—like Uber, Airbnb, or DoorDash—with your brand, custom features, and scalable architecture. Get your product in users’ hands quickly and stay ahead of the competition.",
+            img: "/mvp-development/services/ecommerce.webp"
+        },
 
-        { id: 6, label: "06.", title: "Custom Mobile App Development", desc: "We build custom mobile apps designed for performance and growth, including Native iOS and Android app development solutions optimized for speed, usability, and security. Our custom app development approach delivers a consistent user experience, even at scale, with an architecture built to support future feature expansion and changes.", img: "/mvp-development/services/custom-mobile.webp" },
+        {
+            id: 6,
+            label: "06.",
+            title: "Progressive Web Apps (PWA) Development",
+            desc: "Combine the best of the web and mobile with Progressive Web Apps. We build PWAs that are fast, reliable, and installable on any device—without the app store. Ideal for MVPs, PWAs deliver offline support, instant loading, and a seamless user experience right from the browser.",
+            img: "/mvp-development/services/custom-mobile.webp"
+        },
 
-        { id: 7, label: "07.", title: "AI App Development", desc: "AI ecosystems are shaping the present and defining the future. At Appsters, we create AI App solutions that help businesses grow, simplify decision-making, and automate key operations. Our developers and data specialists design models built for real-world performance and modularity.", img: "/mvp-development/services/ai-app.webp" },
+        {
+            id: 7,
+            label: "07.",
+            title: "AI Mobile App Development",
+            desc: "Add intelligence to your app with AI-powered features. We develop AI mobile apps that automate tasks, personalize experiences, and provide deeper insights—from chatbots and recommendation systems to predictive analytics and computer vision. Let’s build an app that thinks with your users.",
+            img: "/mvp-development/services/ai-app.webp"
+        },
 
-        { id: 8, label: "08.", title: "Flutter App Development", desc: "We build lightning-fast, scalable apps built on Flutter, combining beautiful interfaces with native performance. Our Flutter engineers leverage a single codebase to deliver visually rich, cross-platform experiences that feel custom-built. From startup MVPs to enterprise apps, Flutter helps you ship fasterwithout compromising quality or control.", img: "/mvp-development/services/flutter.webp" },
+        {
+            id: 8,
+            label: "08.",
+            title: "Enterprise App Development",
+            desc: "Turn your idea into a functional web app that works on any device. We build responsive, scalable web applications using modern technologies that deliver seamless performance and support your business goals.",
+            img: "/mvp-development/services/flutter.webp"
+        },
 
-        { id: 9, label: "09.", title: "Mobile Game App Development", desc: "Mobile game developers at Appsters design interactive, scalable experiences that combine engaging gameplay with rock-solid code for smooth performance. We optimize for responsiveness, multiplayer support, and compatibility across multiple devices and platforms.", img: "/mvp-development/services/mobile-game.webp" },
+        {
+            id: 9,
+            label: "09.",
+            title: "MVP Game Development",
+            desc: "Build an app that stands out in the crowded marketplace. We combine unique visuals, smooth animations, and scalable architecture to create apps that engage users and drive growth. Whether it's a startup MVP or a full-featured product, we deliver quality you can rely on.",
+            img: "/mvp-development/services/mobile-game.webp"
+        },
     ]
 
     return (
@@ -32,17 +86,14 @@ const Services = () => {
                 <div className='row align-items-center mb-5'>
                     <div className='col-lg-6'>
                         <h2 className={styles.title}>
-                            Our Mobile App <br /> Development <span className={styles.highlight}>Services
+                            From Idea to <br />MVP in <span className={styles.highlight}>Weeks
                                 <Image src="/mvp-development/spring-vector.webp" alt="spring" width={300} height={20} className={styles.spring} />
                             </span>
                         </h2>
                     </div>
                     <div className='col-lg-6'>
                         <p className={styles.topDesc}>
-                            Appsters has engineered platforms that handle millions of users daily, across
-                            fintech, e-commerce, and mobility. Our expert mobile app developers and
-                            designers cover every stage of the product lifecycle with technical depth and
-                            business focus.
+                            We help founders and businesses validate ideas quickly with a clear, structured MVP development approach. Our focus is on speed, core functionality, and code quality—so you can test the market and iterate with confidence.
                         </p>
                     </div>
                 </div>

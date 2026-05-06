@@ -21,20 +21,15 @@ const LeadingPartner = () => {
                     <div className='col-lg-7'>
                         <div className={styles.contentBox}>
                             <h2 className={styles.title}>
-                                Leading Mobile <span className={styles.highlight}>App
+                                Built for <span className={styles.highlight}>Founders
                                     <Image src="/mvp-development/dark-highlight-bling.webp" alt="bling" width={50} height={50} className={styles.bling} />
                                     <Image src="/mvp-development/dark-spring-vector.webp" alt="spring" width={136} height={11} className={styles.spring} />
-                                </span> <br /> Development Partner
+                                </span> <br /> Who Want to Launch Fast
                             </h2>
                             <p className={styles.desc}>
-                                We deliver AI-native applications, digital ecosystems, and mobile applications that
-                                provide businesses the power to move faster, work smarter, and lead. As a leading
-                                mobile app development agency, we focus on outcomes that matter: measurable
-                                growth, faster response to market shifts, AI integration into your current ecosystem, and
-                                long-term enterprise reliability.
+                                You need a reliable team to build your MVP end-to-end, We help you move from idea → product → real users, without unnecessary delays.
                             </p>
                             <a href="#contact" className={styles.discoverBtn}>get Started</a>
-
                             <div className={styles.statsRow}>
                                 <div className={styles.statItem}>
                                     <h4>4.8k</h4>

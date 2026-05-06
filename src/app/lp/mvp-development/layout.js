@@ -47,10 +47,15 @@ export const metadata = {
   other: {},
 }
 
+import Header from "@/src/components/mvp-development/Header";
+import Footer from "@/src/components/mvp-development/Footer";
+
 export default function RootLayout({ children }) {
   return (
     <div className={`${montserrat.variable} ${dmSans.variable}`}>
+       <Header />
        {children}
+       <Footer />
 
 
        {/* Zendesk Chat Snippet */}

@@ -110,6 +110,8 @@ const excludeHeaderPaths = [
   "/lp/mobile-app-studio/thank-you",
   "/lp/custom-app",
   "/lp/custom-app/thank-you",
+  "/lp/mvp-development",
+  "/lp/mvp-development/thank-you",
 ]
 
 const ConditionalHeader = () => {

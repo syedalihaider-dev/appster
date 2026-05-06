@@ -100,19 +100,17 @@ const Banner = () => {
                     <div className="col-lg-7">
                         <div className={styles.content}>
                             <h1 className={styles.title}>
-                                Apps &
-                                <span className={styles.highlightBling}> Digital
+                                Launch a
+                                <span className={styles.highlightBling}> Scalable
                                     <Image src="/mvp-development/highlight-bling.webp" alt="spring vector" width={57} height={55} className={styles.highlightBlingAfter} />
-                                </span> Ecosystems That Scale With Your <span className={styles.specialist}>Growth.
+                                </span> MVP Without <span className={styles.specialist}>Wasting Time.
                                     <Image src="/mvp-development/spring-vector.webp" alt="underline" width={423} height={22} className={styles.springVector} />
                                 </span>
                             </h1>
                             <p className={styles.desc}>
-                                Engineered for results. Obsessed over by users. Architected for the AI era.
-                                Appsters builds the mobile apps and digital ecosystems that dominate today’s
-                                market and define tomorrow’s.
+                                Turn your idea into a fully functional MVP with a team focused on speed, scalability, and real user validation.
                             </p>
-                            <a href="#contact" className={styles.ctaBtn}>Get Started</a>
+                            <a href="#contact" className={styles.ctaBtn}>Book Free MVP Consultation</a>
 
                             <div className={styles.awards}>
                                 <Image src="/mvp-development/clutch-awards.webp" alt="clutch" width={100} height={109} />
